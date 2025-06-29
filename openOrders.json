@@ -67,7 +67,7 @@
     "mmp": "disabled"
   },
   {
-    "limit_price": 50.59,
+    "limit_price": "50.59",
     "product_symbol": "C-ETH-2800-250725",
     "stop_trigger_method": null,
     "reduce_only": true,
@@ -75,7 +75,7 @@
     "state": "open",
     "id": 642948223,
     "client_order_id": null,
-    "updated_at": "2025-06-29T07:54:39.343242Z",
+    "updated_at": "2025-06-29T07:56:06.289054Z",
     "side": "sell",
     "user_id": 21672861,
     "average_fill_price": null,
@@ -90,7 +90,7 @@
       "ip": "2409:40e5:e:62ac:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-06-29T07:54:39.342Z"
+      "user_updated_at": "2025-06-29T07:56:06.287Z"
     },
     "unfilled_size": 40,
     "bracket_stop_loss_price": null,
@@ -134,7 +134,7 @@
     "mmp": "disabled"
   },
   {
-    "limit_price": 70.49,
+    "limit_price": "70.49",
     "product_symbol": "C-ETH-2700-250725",
     "stop_trigger_method": null,
     "reduce_only": true,
@@ -142,7 +142,7 @@
     "state": "open",
     "id": 642794210,
     "client_order_id": null,
-    "updated_at": "2025-06-29T07:55:42.354809Z",
+    "updated_at": "2025-06-29T07:56:08.267370Z",
     "side": "sell",
     "user_id": 21672861,
     "average_fill_price": null,
@@ -155,7 +155,7 @@
     "bracket_stop_loss_limit_price": null,
     "meta_data": {
       "otc": false,
-      "user_updated_at": "2025-06-29T07:55:42.353Z"
+      "user_updated_at": "2025-06-29T07:56:08.266Z"
     },
     "unfilled_size": 9,
     "bracket_stop_loss_price": null,
