@@ -1,6 +1,5 @@
 {
-  "restrictedSymbolForFunc2":{"BT":true},
-  "restrictedOrderforFunc2":{"123":true},
+  "allowedOrderforFunc2":{"123":true},
   "minUpdateOrderLimitForFunc2":{"BT":25},
   "updatedropThreshold":41,
   "dropThreshold":40,
