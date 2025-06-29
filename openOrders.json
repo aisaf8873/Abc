@@ -240,7 +240,7 @@
     "id": 642794210,
     "meta_data": {
       "otc": false,
-      "user_updated_at": "2025-06-29T08:34:09.477Z"
+      "user_updated_at": "2025-06-29T08:34:36.367Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -260,9 +260,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 9,
     "reduce_only": true,
-    "limit_price": 70.99,
+    "limit_price": "70.99",
     "stop_price": null,
-    "updated_at": "2025-06-29T08:34:09.477727Z"
+    "updated_at": "2025-06-29T08:34:36.367782Z"
   },
   {
     "product_symbol": "P-ETH-2100-250725",
