@@ -133,7 +133,7 @@
     "trail_amount": null
   },
   {
-    "limit_price": "50.19",
+    "limit_price": "50.29",
     "product_symbol": "C-ETH-2800-250725",
     "mmp": "disabled",
     "bracket_trail_amount": null,
@@ -180,7 +180,7 @@
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 80,
-    "updated_at": "2025-06-29T17:02:45.056548Z",
+    "updated_at": "2025-06-29T17:03:24.390346Z",
     "commission": "0",
     "created_at": "2025-06-28T19:02:35.154345Z",
     "bracket_take_profit_limit_price": null,
@@ -188,75 +188,10 @@
       "ip": "2409:40e5:e:62ac:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-06-29T17:02:45.056Z"
+      "user_updated_at": "2025-06-29T17:03:24.389Z"
     },
     "bracket_stop_loss_limit_price": null,
     "size": 80,
-    "bracket_stop_loss_price": null,
-    "client_order_id": null,
-    "paid_commission": "0",
-    "side": "sell",
-    "order_type": "limit_order",
-    "trail_amount": null
-  },
-  {
-    "limit_price": "69.89",
-    "product_symbol": "C-ETH-2700-250725",
-    "mmp": "disabled",
-    "bracket_trail_amount": null,
-    "bracket_order": null,
-    "average_fill_price": null,
-    "stop_trigger_method": null,
-    "reduce_only": true,
-    "state": "open",
-    "id": 642794210,
-    "cancellation_reason": null,
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 78175,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "C-ETH-2700-250725",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "close_on_trigger": "false",
-    "time_in_force": "gtc",
-    "bracket_take_profit_price": null,
-    "product_id": 78175,
-    "stop_price": null,
-    "user_id": 21672861,
-    "quote_size": null,
-    "stop_order_type": null,
-    "unfilled_size": 9,
-    "updated_at": "2025-06-29T17:03:06.868166Z",
-    "commission": "0",
-    "created_at": "2025-06-28T17:33:42.751266Z",
-    "bracket_take_profit_limit_price": null,
-    "meta_data": {
-      "otc": false,
-      "user_updated_at": "2025-06-29T17:03:06.863Z"
-    },
-    "bracket_stop_loss_limit_price": null,
-    "size": 9,
     "bracket_stop_loss_price": null,
     "client_order_id": null,
     "paid_commission": "0",
