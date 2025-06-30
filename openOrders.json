@@ -1,5 +1,82 @@
 [
   {
+    "limit_price": "6.5",
+    "product_symbol": "P-ETH-1800-250725",
+    "mmp": "disabled",
+    "bracket_trail_amount": null,
+    "bracket_order": null,
+    "average_fill_price": "6.5",
+    "stop_trigger_method": null,
+    "reduce_only": true,
+    "state": "open",
+    "id": 647723585,
+    "cancellation_reason": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 81510,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-1800-250725",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "close_on_trigger": "false",
+    "time_in_force": "gtc",
+    "bracket_take_profit_price": null,
+    "product_id": 81510,
+    "stop_price": null,
+    "user_id": 21672861,
+    "quote_size": null,
+    "stop_order_type": null,
+    "unfilled_size": 4,
+    "updated_at": "2025-06-30T17:50:22.760501Z",
+    "commission": "0",
+    "created_at": "2025-06-30T17:50:22.129029Z",
+    "bracket_take_profit_limit_price": null,
+    "meta_data": {
+      "avg_exit_price": "6.5",
+      "cashflow": "1.17",
+      "entry_price": "7.996860068259385665529010239",
+      "exit_price_with_size": [
+        {
+          "price": "6.50000000",
+          "size": "18"
+        }
+      ],
+      "ip": "2409:40e4:1310:3f28:8000::",
+      "otc": false,
+      "pnl": "-0.26943482",
+      "roe": "-15.31480752218913101170642526",
+      "source": "mobile_app_android"
+    },
+    "bracket_stop_loss_limit_price": null,
+    "size": 22,
+    "bracket_stop_loss_price": null,
+    "client_order_id": null,
+    "paid_commission": "0.13806",
+    "side": "sell",
+    "order_type": "limit_order",
+    "trail_amount": null
+  },
+  {
     "limit_price": "81.01",
     "product_symbol": "C-ETH-2500-250725",
     "mmp": "disabled",
