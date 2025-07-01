@@ -67,7 +67,7 @@
     }
   },
   {
-    "limit_price": 63.19,
+    "limit_price": "63.19",
     "close_on_trigger": "false",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
@@ -86,7 +86,7 @@
     "quote_size": null,
     "client_order_id": null,
     "stop_order_type": null,
-    "updated_at": "2025-07-01T11:05:49.023655Z",
+    "updated_at": "2025-07-01T11:06:14.555342Z",
     "unfilled_size": 26,
     "bracket_order": null,
     "product": {
@@ -139,7 +139,7 @@
       "otc": false,
       "pnl": "0.079",
       "roe": "0.3472222222222222222222222222",
-      "user_updated_at": "2025-07-01T11:05:49.023Z"
+      "user_updated_at": "2025-07-01T11:06:14.554Z"
     }
   },
   {
