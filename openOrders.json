@@ -108,7 +108,8 @@
     "meta_data": {
       "ip": "2409:40e5:11b8:81d0:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-07-02T18:28:36.870Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -128,9 +129,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 1,
     "reduce_only": false,
-    "limit_price": "15",
+    "limit_price": "16",
     "stop_price": null,
-    "updated_at": "2025-07-02T18:19:06.495793Z"
+    "updated_at": "2025-07-02T18:28:36.870841Z"
   },
   {
     "product_symbol": "C-ETH-2900-250725",
