@@ -1,71 +1,5 @@
 [
   {
-    "product_symbol": "C-ETH-2900-250725",
-    "trail_amount": null,
-    "mmp": "disabled",
-    "user_id": 21672861,
-    "commission": "0",
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 78173,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "C-ETH-2900-250725",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "bracket_stop_loss_price": null,
-    "stop_order_type": null,
-    "unfilled_size": 5,
-    "quote_size": null,
-    "state": "open",
-    "id": 655298430,
-    "meta_data": {
-      "ip": "2409:40e5:11b8:81d0:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "bracket_take_profit_price": null,
-    "time_in_force": "gtc",
-    "close_on_trigger": "false",
-    "bracket_order": null,
-    "paid_commission": "0",
-    "average_fill_price": null,
-    "client_order_id": null,
-    "created_at": "2025-07-02T16:41:15.245826Z",
-    "bracket_trail_amount": null,
-    "product_id": 78173,
-    "order_type": "limit_order",
-    "stop_trigger_method": null,
-    "side": "sell",
-    "bracket_stop_loss_limit_price": null,
-    "cancellation_reason": null,
-    "bracket_take_profit_limit_price": null,
-    "size": 5,
-    "reduce_only": false,
-    "limit_price": "39.2",
-    "stop_price": null,
-    "updated_at": "2025-07-02T16:41:15.245826Z"
-  },
-  {
     "product_symbol": "C-ETH-2800-250725",
     "trail_amount": null,
     "mmp": "disabled",
@@ -186,7 +120,7 @@
       "pnl": "1.01944968",
       "roe": "1.791511027752823888572819915",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-02T16:41:01.506Z"
+      "user_updated_at": "2025-07-02T16:41:26.150Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -206,9 +140,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 293,
     "reduce_only": true,
-    "limit_price": 63.29,
+    "limit_price": 62.59,
     "stop_price": null,
-    "updated_at": "2025-07-02T16:41:01.506931Z"
+    "updated_at": "2025-07-02T16:41:26.151612Z"
   },
   {
     "product_symbol": "P-ETH-1800-110725",
