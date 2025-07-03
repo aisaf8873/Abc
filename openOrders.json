@@ -41,7 +41,8 @@
     "meta_data": {
       "ip": "2409:40e4:131c:9162:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-07-03T15:23:50.396Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -61,9 +62,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 50,
     "reduce_only": false,
-    "limit_price": 49.01,
+    "limit_price": "49.01",
     "stop_price": null,
-    "updated_at": "2025-07-03T15:12:02.412876Z"
+    "updated_at": "2025-07-03T15:23:50.397068Z"
   },
   {
     "product_symbol": "C-ETH-3000-250725",
@@ -347,7 +348,7 @@
     "bracket_take_profit_limit_price": null,
     "size": 138,
     "reduce_only": true,
-    "limit_price": "87.05",
+    "limit_price": 87.07,
     "stop_price": null,
     "updated_at": "2025-07-03T15:19:18.055057Z"
   },
