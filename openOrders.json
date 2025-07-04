@@ -1,6 +1,6 @@
 [
   {
-    "limit_price": "31.61",
+    "limit_price": 31.31,
     "product_symbol": "C-ETH-2800-250725",
     "mmp": "disabled",
     "bracket_trail_amount": null,
@@ -47,7 +47,7 @@
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 50,
-    "updated_at": "2025-07-04T13:43:42.211584Z",
+    "updated_at": "2025-07-04T13:44:04.614656Z",
     "commission": "0",
     "created_at": "2025-07-04T10:30:21.025946Z",
     "bracket_take_profit_limit_price": null,
@@ -55,7 +55,7 @@
       "ip": "2409:40e4:1b:131f:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T13:43:42.207Z"
+      "user_updated_at": "2025-07-04T13:44:04.614Z"
     },
     "bracket_stop_loss_limit_price": null,
     "size": 50,
@@ -267,7 +267,7 @@
     "trail_amount": null
   },
   {
-    "limit_price": "81.59",
+    "limit_price": "81.69",
     "product_symbol": "C-ETH-2700-250725",
     "mmp": "disabled",
     "bracket_trail_amount": null,
@@ -314,7 +314,7 @@
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 54,
-    "updated_at": "2025-07-04T13:43:33.990275Z",
+    "updated_at": "2025-07-04T13:43:58.916626Z",
     "commission": "0",
     "created_at": "2025-07-03T10:56:43.564771Z",
     "bracket_take_profit_limit_price": null,
@@ -322,7 +322,7 @@
       "ip": "2409:40e4:131c:9162:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T13:43:33.989Z"
+      "user_updated_at": "2025-07-04T13:43:58.916Z"
     },
     "bracket_stop_loss_limit_price": null,
     "size": 54,
