@@ -397,7 +397,7 @@
     "bracket_take_profit_limit_price": null,
     "size": 54,
     "reduce_only": true,
-    "limit_price": "99.99",
+    "limit_price": 100.08,
     "stop_price": null,
     "updated_at": "2025-07-04T04:50:56.028389Z"
   },
@@ -463,7 +463,7 @@
       "pnl": "57.47672336",
       "roe": "125.4862976938006196952792741",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T05:03:11.655Z"
+      "user_updated_at": "2025-07-04T05:03:36.989Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -483,9 +483,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 138,
     "reduce_only": true,
-    "limit_price": 72.74,
+    "limit_price": 73.32,
     "stop_price": null,
-    "updated_at": "2025-07-04T05:03:11.656332Z"
+    "updated_at": "2025-07-04T05:03:36.989646Z"
   },
   {
     "product_symbol": "C-ETH-2800-250725",
