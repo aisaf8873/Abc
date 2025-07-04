@@ -267,7 +267,7 @@
     }
   },
   {
-    "limit_price": 85.59,
+    "limit_price": "85.59",
     "close_on_trigger": "false",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
@@ -286,7 +286,7 @@
     "quote_size": null,
     "client_order_id": null,
     "stop_order_type": null,
-    "updated_at": "2025-07-04T12:53:38.175857Z",
+    "updated_at": "2025-07-04T12:54:04.268945Z",
     "unfilled_size": 54,
     "bracket_order": null,
     "product": {
@@ -330,11 +330,11 @@
       "ip": "2409:40e4:131c:9162:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T12:53:38.175Z"
+      "user_updated_at": "2025-07-04T12:54:04.268Z"
     }
   },
   {
-    "limit_price": "60.19",
+    "limit_price": 59.29,
     "close_on_trigger": "false",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
