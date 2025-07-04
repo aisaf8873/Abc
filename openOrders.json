@@ -108,7 +108,7 @@
       "ip": "2409:40e4:1b:131f:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T11:57:08.596Z"
+      "user_updated_at": "2025-07-04T11:57:29.082Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -130,7 +130,7 @@
     "reduce_only": false,
     "limit_price": 28.81,
     "stop_price": null,
-    "updated_at": "2025-07-04T11:57:08.596692Z"
+    "updated_at": "2025-07-04T11:57:29.082975Z"
   },
   {
     "product_symbol": "C-ETH-3300-290825",
@@ -375,7 +375,7 @@
       "ip": "2409:40e4:131c:9162:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T11:56:51.767Z"
+      "user_updated_at": "2025-07-04T11:57:17.240Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -395,9 +395,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 54,
     "reduce_only": true,
-    "limit_price": 86.99,
+    "limit_price": "86.99",
     "stop_price": null,
-    "updated_at": "2025-07-04T11:56:51.772353Z"
+    "updated_at": "2025-07-04T11:57:17.241391Z"
   },
   {
     "product_symbol": "C-ETH-2800-250725",
@@ -434,7 +434,7 @@
     },
     "bracket_stop_loss_price": null,
     "stop_order_type": null,
-    "unfilled_size": 51,
+    "unfilled_size": 81,
     "quote_size": null,
     "state": "open",
     "id": 657538709,
@@ -461,7 +461,7 @@
       "pnl": "57.47672336",
       "roe": "125.4862976938006196952792741",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T11:57:13.306Z"
+      "user_updated_at": "2025-07-04T11:57:22.037Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -479,11 +479,11 @@
     "bracket_stop_loss_limit_price": null,
     "cancellation_reason": null,
     "bracket_take_profit_limit_price": null,
-    "size": 138,
+    "size": 168,
     "reduce_only": true,
-    "limit_price": "60.29",
+    "limit_price": 60.19,
     "stop_price": null,
-    "updated_at": "2025-07-04T11:57:13.307091Z"
+    "updated_at": "2025-07-04T11:57:22.038363Z"
   },
   {
     "product_symbol": "C-ETH-2800-250725",
