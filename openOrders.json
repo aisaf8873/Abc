@@ -108,7 +108,7 @@
       "ip": "2409:40e4:1b:131f:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T12:31:32.352Z"
+      "user_updated_at": "2025-07-04T12:31:52.500Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -128,9 +128,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 50,
     "reduce_only": false,
-    "limit_price": 36.91,
+    "limit_price": "36.91",
     "stop_price": null,
-    "updated_at": "2025-07-04T12:31:32.354916Z"
+    "updated_at": "2025-07-04T12:31:52.501125Z"
   },
   {
     "product_symbol": "C-ETH-3300-290825",
@@ -375,7 +375,7 @@
       "ip": "2409:40e4:131c:9162:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T12:31:19.400Z"
+      "user_updated_at": "2025-07-04T12:31:44.275Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -395,9 +395,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 54,
     "reduce_only": true,
-    "limit_price": 88.09,
+    "limit_price": 88.19,
     "stop_price": null,
-    "updated_at": "2025-07-04T12:31:19.400508Z"
+    "updated_at": "2025-07-04T12:31:44.275738Z"
   },
   {
     "product_symbol": "C-ETH-2800-250725",
@@ -461,7 +461,7 @@
       "pnl": "57.47672336",
       "roe": "125.4862976938006196952792741",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-04T12:30:58.530Z"
+      "user_updated_at": "2025-07-04T12:31:53.119Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -481,9 +481,9 @@
     "bracket_take_profit_limit_price": null,
     "size": 168,
     "reduce_only": true,
-    "limit_price": "64.14",
+    "limit_price": "64.17",
     "stop_price": null,
-    "updated_at": "2025-07-04T12:30:58.531474Z"
+    "updated_at": "2025-07-04T12:31:53.119570Z"
   },
   {
     "product_symbol": "C-ETH-2800-250725",
