@@ -66,7 +66,7 @@
     "mmp": "disabled"
   },
   {
-    "limit_price": 19.51,
+    "limit_price": "19.51",
     "product_symbol": "C-ETH-2800-250725",
     "stop_trigger_method": null,
     "reduce_only": false,
@@ -74,7 +74,7 @@
     "state": "open",
     "id": 663854705,
     "client_order_id": null,
-    "updated_at": "2025-07-05T02:19:26.771234Z",
+    "updated_at": "2025-07-05T02:19:52.935682Z",
     "side": "buy",
     "user_id": 21672861,
     "average_fill_price": null,
@@ -89,7 +89,7 @@
       "ip": "2409:40e4:1b:131f:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-05T02:19:26.769Z"
+      "user_updated_at": "2025-07-05T02:19:52.935Z"
     },
     "unfilled_size": 50,
     "bracket_stop_loss_price": null,
