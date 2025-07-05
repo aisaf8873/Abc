@@ -66,7 +66,7 @@
     "trail_amount": null
   },
   {
-    "limit_price": "19.61",
+    "limit_price": 19.61,
     "product_symbol": "C-ETH-2800-250725",
     "mmp": "disabled",
     "bracket_trail_amount": null,
@@ -113,7 +113,7 @@
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 50,
-    "updated_at": "2025-07-05T01:47:05.661389Z",
+    "updated_at": "2025-07-05T01:47:41.882868Z",
     "commission": "0",
     "created_at": "2025-07-04T10:30:21.025946Z",
     "bracket_take_profit_limit_price": null,
@@ -121,7 +121,7 @@
       "ip": "2409:40e4:1b:131f:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-05T01:47:05.645Z"
+      "user_updated_at": "2025-07-05T01:47:41.882Z"
     },
     "bracket_stop_loss_limit_price": null,
     "size": 50,
