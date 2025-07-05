@@ -130,7 +130,7 @@
     "bracket_take_profit_limit_price": null,
     "size": 50,
     "reduce_only": false,
-    "limit_price": "19.31",
+    "limit_price": 19.21,
     "stop_price": null,
     "updated_at": "2025-07-05T04:08:14.534707Z"
   },
@@ -346,7 +346,7 @@
     "bracket_take_profit_limit_price": null,
     "size": 54,
     "reduce_only": true,
-    "limit_price": "72.99",
+    "limit_price": 72.89,
     "stop_price": null,
     "updated_at": "2025-07-05T04:08:10.907078Z"
   },
@@ -416,7 +416,7 @@
       "pnl": "57.64850884",
       "roe": "88.00541554490122855163307914",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-05T04:08:04.896Z"
+      "user_updated_at": "2025-07-05T04:08:30.805Z"
     },
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
@@ -436,8 +436,8 @@
     "bracket_take_profit_limit_price": null,
     "size": 168,
     "reduce_only": true,
-    "limit_price": "48.99",
+    "limit_price": "49.07",
     "stop_price": null,
-    "updated_at": "2025-07-05T04:08:04.896860Z"
+    "updated_at": "2025-07-05T04:08:30.805934Z"
   }
 ]
