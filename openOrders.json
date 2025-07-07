@@ -66,7 +66,7 @@
     "mmp": "disabled"
   },
   {
-    "limit_price": "58.19",
+    "limit_price": "58.09",
     "time_in_force": "gtc",
     "product_symbol": "C-ETH-2800-250725",
     "close_on_trigger": "false",
@@ -114,7 +114,7 @@
     "user_id": 21672861,
     "stop_trigger_method": null,
     "client_order_id": null,
-    "updated_at": "2025-07-07T09:48:27.739103Z",
+    "updated_at": "2025-07-07T09:48:54.025267Z",
     "unfilled_size": 118,
     "bracket_take_profit_price": null,
     "commission": "0",
@@ -137,7 +137,7 @@
       "pnl": "0.38363189",
       "roe": "1.370265384609334816156444904",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-07T09:48:27.738Z"
+      "user_updated_at": "2025-07-07T09:48:54.023Z"
     },
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
