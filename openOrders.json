@@ -66,7 +66,7 @@
     "mmp": "disabled"
   },
   {
-    "limit_price": "40.79",
+    "limit_price": "40.89",
     "time_in_force": "gtc",
     "product_symbol": "P-ETH-2000-290825",
     "close_on_trigger": "false",
@@ -114,7 +114,7 @@
     "user_id": 21672861,
     "stop_trigger_method": null,
     "client_order_id": null,
-    "updated_at": "2025-07-08T10:12:47.109763Z",
+    "updated_at": "2025-07-08T10:13:12.613684Z",
     "unfilled_size": 90,
     "bracket_take_profit_price": null,
     "commission": "0",
@@ -126,7 +126,7 @@
       "ip": "2409:40e5:a:ad9e:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-08T10:12:47.109Z"
+      "user_updated_at": "2025-07-08T10:13:12.613Z"
     },
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
