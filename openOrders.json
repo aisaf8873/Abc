@@ -5,7 +5,7 @@
     "product_symbol": "P-ETH-2400-080725",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "paid_commission": "0.0204258",
+    "paid_commission": "0.0240366",
     "state": "open",
     "id": 679028515,
     "average_fill_price": "0.01",
@@ -48,8 +48,8 @@
     "user_id": 21672861,
     "stop_trigger_method": null,
     "client_order_id": null,
-    "updated_at": "2025-07-08T11:58:47.734820Z",
-    "unfilled_size": 1469,
+    "updated_at": "2025-07-08T11:59:07.691229Z",
+    "unfilled_size": 1163,
     "bracket_take_profit_price": null,
     "commission": "0",
     "stop_price": null,
@@ -57,7 +57,7 @@
     "cancellation_reason": null,
     "trail_amount": null,
     "meta_data": {
-      "cashflow": "0.1731",
+      "cashflow": "0.2037",
       "ip": "2409:40e4:3c:27c1:8000::",
       "otc": false,
       "pnl": "-0",
@@ -134,7 +134,7 @@
     "mmp": "disabled"
   },
   {
-    "limit_price": 40.08,
+    "limit_price": 40.07,
     "time_in_force": "gtc",
     "product_symbol": "P-ETH-2000-290825",
     "close_on_trigger": "false",
@@ -182,7 +182,7 @@
     "user_id": 21672861,
     "stop_trigger_method": null,
     "client_order_id": null,
-    "updated_at": "2025-07-08T11:57:20.276791Z",
+    "updated_at": "2025-07-08T11:58:49.177801Z",
     "unfilled_size": 120,
     "bracket_take_profit_price": null,
     "commission": "0",
@@ -194,7 +194,7 @@
       "ip": "2409:40e5:a:ad9e:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-07-08T11:57:20.275Z"
+      "user_updated_at": "2025-07-08T11:58:49.177Z"
     },
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
