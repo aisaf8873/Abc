@@ -2,9 +2,9 @@
   {
     "stop_order_type": null,
     "close_on_trigger": "false",
-    "unfilled_size": 2617,
+    "unfilled_size": 2438,
     "meta_data": {
-      "cashflow": "0.0883",
+      "cashflow": "0.1062",
       "ip": "2409:40e4:c:286f:8000::",
       "otc": false,
       "pnl": "-0",
@@ -31,11 +31,11 @@
     "mmp": "disabled",
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
-    "updated_at": "2025-07-09T11:56:15.978266Z",
+    "updated_at": "2025-07-09T11:56:35.996652Z",
     "bracket_take_profit_limit_price": null,
     "size": 3500,
     "bracket_order": null,
-    "paid_commission": "0.0104194",
+    "paid_commission": "0.0125316",
     "side": "sell",
     "trail_amount": null,
     "product": {
