@@ -1,19 +1,30 @@
 [
   {
-    "limit_price": "0.1",
+    "meta_data": {
+      "ip": "2409:40e4:101e:b6c7:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "stop_order_type": null,
     "time_in_force": "gtc",
     "product_symbol": "C-ETH-3000-120725",
-    "close_on_trigger": "false",
-    "reduce_only": true,
-    "paid_commission": "0",
-    "state": "open",
-    "id": 699291747,
-    "average_fill_price": null,
-    "created_at": "2025-07-12T03:32:57.642838Z",
-    "bracket_stop_loss_price": null,
     "bracket_order": null,
-    "bracket_trail_amount": null,
+    "order_type": "limit_order",
+    "state": "open",
+    "reduce_only": true,
+    "id": 699291747,
+    "close_on_trigger": "false",
+    "bracket_stop_loss_price": null,
+    "quote_size": null,
+    "unfilled_size": 10,
+    "created_at": "2025-07-12T03:32:57.642838Z",
+    "updated_at": "2025-07-12T03:32:57.642838Z",
     "product_id": 83963,
+    "bracket_stop_loss_limit_price": null,
+    "paid_commission": "0",
+    "limit_price": "0.1",
+    "stop_price": null,
+    "user_id": 21672861,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -41,28 +52,17 @@
         "symbol": "ETH"
       }
     },
-    "bracket_take_profit_limit_price": null,
-    "side": "buy",
-    "quote_size": null,
-    "stop_order_type": null,
-    "user_id": 21672861,
-    "stop_trigger_method": null,
+    "bracket_trail_amount": null,
+    "mmp": "disabled",
     "client_order_id": null,
-    "updated_at": "2025-07-12T03:32:57.642838Z",
-    "unfilled_size": 10,
     "bracket_take_profit_price": null,
-    "commission": "0",
-    "stop_price": null,
-    "size": 10,
+    "side": "buy",
     "cancellation_reason": null,
     "trail_amount": null,
-    "meta_data": {
-      "ip": "2409:40e4:101e:b6c7:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "order_type": "limit_order",
-    "bracket_stop_loss_limit_price": null,
-    "mmp": "disabled"
+    "size": 10,
+    "stop_trigger_method": null,
+    "average_fill_price": null,
+    "commission": "0",
+    "bracket_take_profit_limit_price": null
   }
 ]
