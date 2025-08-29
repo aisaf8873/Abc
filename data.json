@@ -1,6 +1,6 @@
 {
-  "ProgramStartStop" : true,
-  "allowedOrderforFunc2":{"abc":true},
+  "ProgramStartStop" : false,
+  "allowedOrderforFunc2":{"true":true},
   "minUpdateOrderLimitForFunc2":{"660521685":10},
   "updatedropThreshold":41,
   "dropThreshold":35,
