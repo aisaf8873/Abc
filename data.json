@@ -1,11 +1,11 @@
 {
   "ProgramStartStop" : true,
-  "allowedOrderforFunc2":{"934769621":true},
-  "minUpdateOrderLimitForFunc2":{"934769621":10},
+  "allowedOrderforFunc2":{"934769621":true,"935505138":true},
+  "minUpdateOrderLimitForFunc2":{"934769621":10,"935505138":5},
   "updatedropThreshold":20,
   "dropThreshold":35,
   "minPriceForFunc1":5.0,
   "minTargetPriceToSellForFunc3":{"934511305":40},
   "updateSellOrderIdList":[934511305],
-  "symbols":["C-ETH-5900-311025"]
+  "symbols":["C-ETH-5900-311025","P-ETH-3500-311025"]
 }
