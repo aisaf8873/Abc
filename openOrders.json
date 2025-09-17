@@ -10,7 +10,8 @@
     "meta_data": {
       "ip": "2409:40e5:b6:40e8:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-09-17T18:41:03.167Z"
     },
     "cancellation_reason": null,
     "reduce_only": false,
@@ -51,13 +52,13 @@
     "bracket_take_profit_price": null,
     "created_at": "2025-09-17T18:33:56.070159Z",
     "bracket_order": null,
-    "limit_price": "360",
+    "limit_price": "362",
     "stop_price": null,
     "close_on_trigger": "false",
     "commission": "0",
     "product_id": 92703,
     "product_symbol": "P-ETH-5000-311025",
-    "updated_at": "2025-09-17T18:33:56.070159Z",
+    "updated_at": "2025-09-17T18:41:03.167774Z",
     "side": "buy",
     "size": 10,
     "time_in_force": "gtc",
