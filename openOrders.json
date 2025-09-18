@@ -19,7 +19,7 @@
     "bracket_order": null,
     "order_type": "limit_order",
     "created_at": "2025-09-18T06:03:36.100690Z",
-    "updated_at": "2025-09-18T07:12:58.320561Z",
+    "updated_at": "2025-09-18T07:16:42.602209Z",
     "trail_amount": null,
     "close_on_trigger": "false",
     "side": "sell",
@@ -27,7 +27,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "size": 42,
-    "paid_commission": "0.03240829",
+    "paid_commission": "0.07294103",
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "call_options",
@@ -58,9 +58,13 @@
     },
     "meta_data": {
       "avg_exit_price": "387.5",
-      "cashflow": "15.5",
+      "cashflow": "34.875",
       "entry_price": "295.1198412698412698412698412",
       "exit_price_with_size": [
+        {
+          "price": "387.50000000",
+          "size": "5"
+        },
         {
           "price": "387.50000000",
           "size": "1"
@@ -80,13 +84,13 @@
       ],
       "ip": "2409:40e5:1126:7c9d:8000::",
       "otc": false,
-      "pnl": "3.69520632",
-      "roe": "2.981199179241147663983692394",
+      "pnl": "8.31421425",
+      "roe": "6.707698177495824940634824165",
       "source": "mobile_app_android",
       "user_updated_at": "2025-09-18T06:44:03.708Z"
     },
     "quote_size": null,
-    "unfilled_size": 38,
+    "unfilled_size": 33,
     "average_fill_price": "387.5"
   },
   {
