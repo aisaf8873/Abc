@@ -145,7 +145,7 @@
     "stop_price": null,
     "created_at": "2025-09-17T23:53:19.340867Z",
     "user_id": 21672861,
-    "limit_price": "415",
+    "limit_price": 414.39,
     "side": "sell",
     "close_on_trigger": "false",
     "cancellation_reason": null,
@@ -189,11 +189,12 @@
     "meta_data": {
       "ip": "2409:40e5:9:d71f:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-09-18T00:04:04.412Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2025-09-17T23:53:19.340867Z",
+    "updated_at": "2025-09-18T00:04:04.412488Z",
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
   },
