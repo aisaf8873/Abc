@@ -3,10 +3,10 @@
   "allowedOrderforFunc2":{"934769621":true,"935505138":true},
   "minUpdateOrderLimitForFunc2":{"934769621":10,"935505138":5},
   "updatedropThreshold":20,
-  "dropThreshold":45,
+  "dropThreshold":35,
   "minPriceForFunc1":5.0,
   "PriceChangeDiffForFunc3":1.5,
-  "minTargetPriceToSellForFunc3":{"936644904":580,"937087677":387},
-  "updateSellOrderIdList":[936644904,937087677],
+  "minTargetPriceToSellForFunc3":{"939131998":610},
+  "updateSellOrderIdList":[939131998],
   "symbols":["P-ETH-5000-311025","P-ETH-3500-311025","C-ETH-4500-311025"]
 }
