@@ -1,11 +1,11 @@
 {
   "ProgramStartStop" : true,
-  "allowedOrderforFunc2":{"934769621":true,"935505138":true},
-  "minUpdateOrderLimitForFunc2":{"934769621":10,"935505138":5},
-  "updatedropThreshold":20,
+  "allowedOrderforFunc2":{"944176806":true},
+  "minUpdateOrderLimitForFunc2":{"944176806":10},
+  "updatedropThreshold":55,
   "dropThreshold":35,
   "minPriceForFunc1":5.0,
-  "PriceChangeDiffForFunc3":1.5,
+  "PriceChangeDiffForFunc3":0.5,
   "minTargetPriceToSellForFunc3":{"943662400":1700},
   "updateSellOrderIdList":[943662400],
   "symbols":["C-BTC-116500-311025","P-BTC-110000-260925"]
