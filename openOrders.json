@@ -5,7 +5,7 @@
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
-    "limit_price": "190",
+    "limit_price": "180",
     "mmp": "disabled",
     "state": "open",
     "stop_price": null,
@@ -19,7 +19,7 @@
     "bracket_order": null,
     "order_type": "limit_order",
     "created_at": "2025-09-22T02:23:38.631400Z",
-    "updated_at": "2025-09-22T02:23:38.631400Z",
+    "updated_at": "2025-09-22T02:24:24.355760Z",
     "trail_amount": null,
     "close_on_trigger": "false",
     "side": "sell",
@@ -59,7 +59,8 @@
     "meta_data": {
       "ip": "2409:40e4:54:5d8e:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-09-22T02:24:24.355Z"
     },
     "quote_size": null,
     "unfilled_size": 200,
