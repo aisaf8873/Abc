@@ -6,7 +6,7 @@
     "quote_size": null,
     "user_id": 21672861,
     "state": "open",
-    "average_fill_price": null,
+    "average_fill_price": "600",
     "id": 943977831,
     "commission": "0",
     "mmp": "disabled",
@@ -14,13 +14,24 @@
     "product_symbol": "C-BTC-116500-260925",
     "stop_trigger_method": null,
     "client_order_id": null,
-    "unfilled_size": 20,
+    "unfilled_size": 18,
     "reduce_only": false,
     "bracket_take_profit_price": null,
     "created_at": "2025-09-22T00:42:46.250404Z",
     "meta_data": {
+      "avg_exit_price": "600",
+      "cashflow": "-1.2",
+      "entry_price": "1820.579159676387546401836930",
+      "exit_price_with_size": [
+        {
+          "price": "600.00000000",
+          "size": "-2"
+        }
+      ],
       "ip": "2409:40e4:54:5d8e:8000::",
       "otc": false,
+      "pnl": "2.44115831",
+      "roe": "0",
       "source": "mobile_app_android"
     },
     "bracket_stop_loss_price": null,
@@ -28,7 +39,7 @@
     "bracket_trail_amount": null,
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-09-22T00:42:46.250404Z",
+    "updated_at": "2025-09-22T00:45:02.215576Z",
     "bracket_stop_loss_limit_price": null,
     "stop_order_type": null,
     "size": 20,
@@ -63,7 +74,7 @@
     },
     "trail_amount": null,
     "stop_price": null,
-    "paid_commission": "0"
+    "paid_commission": "0.04064664"
   },
   {
     "limit_price": "32",
