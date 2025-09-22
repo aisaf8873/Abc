@@ -1,5 +1,82 @@
 [
   {
+    "product_id": 94624,
+    "user_id": 21672861,
+    "reduce_only": true,
+    "bracket_stop_loss_limit_price": null,
+    "time_in_force": "gtc",
+    "limit_price": "1457",
+    "mmp": "disabled",
+    "state": "open",
+    "stop_price": null,
+    "id": 944028778,
+    "bracket_take_profit_price": null,
+    "commission": "0",
+    "stop_order_type": null,
+    "product_symbol": "C-BTC-116500-031025",
+    "bracket_trail_amount": null,
+    "cancellation_reason": null,
+    "bracket_order": null,
+    "order_type": "limit_order",
+    "created_at": "2025-09-22T00:58:43.717582Z",
+    "updated_at": "2025-09-22T00:58:45.134238Z",
+    "trail_amount": null,
+    "close_on_trigger": "false",
+    "side": "sell",
+    "stop_trigger_method": null,
+    "client_order_id": null,
+    "bracket_stop_loss_price": null,
+    "size": 5,
+    "paid_commission": "0.04054777",
+    "bracket_take_profit_limit_price": null,
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 94624,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-116500-031025",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "meta_data": {
+      "avg_exit_price": "1457",
+      "cashflow": "2.914",
+      "entry_price": "1460.30000000",
+      "exit_price_with_size": [
+        {
+          "price": "1457.00000000",
+          "size": "2"
+        }
+      ],
+      "ip": "2409:40e4:54:5d8e:8000::",
+      "otc": false,
+      "pnl": "-0.0066",
+      "roe": "-0.09039238512634390193795795385",
+      "source": "mobile_app_android"
+    },
+    "quote_size": null,
+    "unfilled_size": 3,
+    "average_fill_price": "1457"
+  },
+  {
     "product_id": 94411,
     "user_id": 21672861,
     "reduce_only": false,
@@ -550,72 +627,6 @@
     "order_type": "limit_order",
     "created_at": "2025-09-21T18:50:12.902224Z",
     "updated_at": "2025-09-21T18:50:12.902224Z",
-    "trail_amount": null,
-    "close_on_trigger": "false",
-    "side": "sell",
-    "stop_trigger_method": null,
-    "client_order_id": null,
-    "bracket_stop_loss_price": null,
-    "size": 1,
-    "paid_commission": "0",
-    "bracket_take_profit_limit_price": null,
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 94411,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "C-BTC-116500-260925",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "meta_data": {
-      "ip": "2409:40e4:53:d856:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "quote_size": null,
-    "unfilled_size": 1,
-    "average_fill_price": null
-  },
-  {
-    "product_id": 94411,
-    "user_id": 21672861,
-    "reduce_only": false,
-    "bracket_stop_loss_limit_price": null,
-    "time_in_force": "gtc",
-    "limit_price": "1750",
-    "mmp": "disabled",
-    "state": "open",
-    "stop_price": null,
-    "id": 943661860,
-    "bracket_take_profit_price": null,
-    "commission": "0",
-    "stop_order_type": null,
-    "product_symbol": "C-BTC-116500-260925",
-    "bracket_trail_amount": null,
-    "cancellation_reason": null,
-    "bracket_order": null,
-    "order_type": "limit_order",
-    "created_at": "2025-09-21T18:50:06.214174Z",
-    "updated_at": "2025-09-21T18:50:06.214174Z",
     "trail_amount": null,
     "close_on_trigger": "false",
     "side": "sell",
