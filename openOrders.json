@@ -1,6 +1,6 @@
 [
   {
-    "average_fill_price": null,
+    "average_fill_price": "1560",
     "stop_order_type": null,
     "commission": "0",
     "product_id": 94411,
@@ -22,8 +22,8 @@
     "quote_size": null,
     "trail_amount": null,
     "bracket_take_profit_price": null,
-    "unfilled_size": 8,
-    "paid_commission": "0",
+    "unfilled_size": 7,
+    "paid_commission": "0.02027605",
     "reduce_only": false,
     "product": {
       "contract_type": "call_options",
@@ -55,14 +55,16 @@
     "stop_trigger_method": null,
     "size": 8,
     "meta_data": {
+      "cashflow": "1.56",
       "ip": "2409:40e4:54:5d8e:8000::",
       "otc": false,
+      "pnl": "0",
       "source": "mobile_app_android",
       "user_updated_at": "2025-09-22T01:20:48.479Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2025-09-22T01:20:48.480002Z",
+    "updated_at": "2025-09-22T01:21:10.030704Z",
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
   },
