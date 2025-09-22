@@ -79,7 +79,7 @@
     "stop_price": null,
     "created_at": "2025-09-22T00:15:50.082570Z",
     "user_id": 21672861,
-    "limit_price": "1589",
+    "limit_price": "1579",
     "side": "sell",
     "close_on_trigger": "false",
     "cancellation_reason": null,
@@ -88,7 +88,7 @@
     "quote_size": null,
     "trail_amount": null,
     "bracket_take_profit_price": null,
-    "unfilled_size": 10,
+    "unfilled_size": 20,
     "paid_commission": "0.18285315",
     "reduce_only": false,
     "product": {
@@ -119,18 +119,18 @@
       }
     },
     "stop_trigger_method": null,
-    "size": 19,
+    "size": 29,
     "meta_data": {
       "cashflow": "14.301",
       "ip": "2409:40e4:54:5d8e:8000::",
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-09-22T00:34:30.730Z"
+      "user_updated_at": "2025-09-22T00:39:54.787Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2025-09-22T00:37:05.566720Z",
+    "updated_at": "2025-09-22T00:39:54.787961Z",
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
   },
