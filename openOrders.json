@@ -139,7 +139,7 @@
     "quote_size": null,
     "user_id": 21672861,
     "state": "open",
-    "average_fill_price": "2449",
+    "average_fill_price": "2489.145833333333333333",
     "id": 961301919,
     "commission": "0",
     "mmp": "disabled",
@@ -147,15 +147,19 @@
     "product_symbol": "C-BTC-126000-281125",
     "stop_trigger_method": null,
     "client_order_id": null,
-    "unfilled_size": 101,
+    "unfilled_size": 54,
     "reduce_only": false,
     "bracket_take_profit_price": null,
     "created_at": "2025-09-29T15:27:39.108366Z",
     "meta_data": {
-      "avg_exit_price": "2449",
-      "cashflow": "120.001",
-      "entry_price": "1373.031974359050261092266505",
+      "avg_exit_price": "2489.145833333333333333333333",
+      "cashflow": "238.958",
+      "entry_price": "1376.063383532989177231377852",
       "exit_price_with_size": [
+        {
+          "price": "2531.00000000",
+          "size": "47"
+        },
         {
           "price": "2449.00000000",
           "size": "49"
@@ -163,8 +167,8 @@
       ],
       "ip": "2409:40e4:5a:f31d:8000::",
       "otc": false,
-      "pnl": "52.72243325",
-      "roe": "38.39854732779368731320740842",
+      "pnl": "107.00445422",
+      "roe": "51.84085534648858430908302658",
       "source": "mobile_app_android",
       "user_updated_at": "2025-09-29T22:09:09.442Z"
     },
@@ -173,7 +177,7 @@
     "bracket_trail_amount": null,
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-09-29T22:09:09.442905Z",
+    "updated_at": "2025-09-29T23:04:53.849428Z",
     "bracket_stop_loss_limit_price": null,
     "stop_order_type": null,
     "size": 150,
@@ -208,7 +212,7 @@
     },
     "trail_amount": null,
     "stop_price": null,
-    "paid_commission": "0.98664482"
+    "paid_commission": "1.93786757"
   },
   {
     "limit_price": "1756",
