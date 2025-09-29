@@ -133,7 +133,7 @@
     "paid_commission": "0"
   },
   {
-    "limit_price": "1511",
+    "limit_price": 1518,
     "product_id": 96832,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -155,14 +155,14 @@
       "ip": "2409:40e4:5a:f31d:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-09-29T15:50:51.764Z"
+      "user_updated_at": "2025-09-29T15:51:14.880Z"
     },
     "bracket_stop_loss_price": null,
     "side": "buy",
     "bracket_trail_amount": null,
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-09-29T15:50:51.765366Z",
+    "updated_at": "2025-09-29T15:51:14.884248Z",
     "bracket_stop_loss_limit_price": null,
     "stop_order_type": null,
     "size": 100,
