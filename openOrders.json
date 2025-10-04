@@ -3,14 +3,16 @@
     "order_type": "limit_order",
     "stop_price": null,
     "meta_data": {
+      "cashflow": "1.3495",
       "ip": "2409:40e5:1040:6051:8000::",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android"
     },
     "created_at": "2025-10-04T17:19:48.916245Z",
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "average_fill_price": null,
+    "average_fill_price": "26.99",
     "stop_trigger_method": null,
     "product_symbol": "P-ETH-4440-051025",
     "limit_price": "26.99",
@@ -24,9 +26,9 @@
     "mmp": "disabled",
     "bracket_take_profit_price": null,
     "reduce_only": false,
-    "updated_at": "2025-10-04T17:19:48.916245Z",
+    "updated_at": "2025-10-04T17:20:35.866214Z",
     "side": "sell",
-    "unfilled_size": 50,
+    "unfilled_size": 45,
     "quote_size": null,
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
@@ -60,7 +62,7 @@
         "symbol": "ETH"
       }
     },
-    "paid_commission": "0",
+    "paid_commission": "0.03952933",
     "stop_order_type": null,
     "trail_amount": null,
     "client_order_id": null
