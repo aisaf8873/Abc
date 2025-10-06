@@ -1,6 +1,6 @@
 [
   {
-    "limit_price": "52.59",
+    "limit_price": "52.49",
     "product_id": 97985,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -22,14 +22,14 @@
       "ip": "2409:40e4:4d:fdf7:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-10-06T10:49:33.747Z"
+      "user_updated_at": "2025-10-06T10:49:37.398Z"
     },
     "bracket_stop_loss_price": null,
     "side": "sell",
     "bracket_trail_amount": null,
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-10-06T10:49:33.748167Z",
+    "updated_at": "2025-10-06T10:49:37.399369Z",
     "bracket_stop_loss_limit_price": null,
     "stop_order_type": null,
     "size": 100,
@@ -67,7 +67,7 @@
     "paid_commission": "0"
   },
   {
-    "limit_price": 29.11,
+    "limit_price": "29.11",
     "product_id": 97985,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -89,14 +89,14 @@
       "ip": "2409:40e4:4d:fdf7:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-10-06T10:49:27.281Z"
+      "user_updated_at": "2025-10-06T10:49:41.778Z"
     },
     "bracket_stop_loss_price": null,
     "side": "buy",
     "bracket_trail_amount": null,
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-10-06T10:49:27.281797Z",
+    "updated_at": "2025-10-06T10:49:41.779133Z",
     "bracket_stop_loss_limit_price": null,
     "stop_order_type": null,
     "size": 300,
