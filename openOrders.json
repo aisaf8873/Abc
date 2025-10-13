@@ -16,7 +16,7 @@
     "close_on_trigger": "false",
     "order_type": "limit_order",
     "bracket_trail_amount": null,
-    "limit_price": 8.01,
+    "limit_price": 7.91,
     "commission": "0",
     "paid_commission": "0",
     "side": "buy",
@@ -25,7 +25,7 @@
       "ip": "2409:40e4:131e:583:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-10-13T05:57:05.024Z"
+      "user_updated_at": "2025-10-13T05:57:25.843Z"
     },
     "stop_trigger_method": null,
     "bracket_stop_loss_price": null,
@@ -62,7 +62,7 @@
     "size": 501,
     "quote_size": null,
     "trail_amount": null,
-    "updated_at": "2025-10-13T05:57:05.025250Z",
+    "updated_at": "2025-10-13T05:57:25.843416Z",
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null
   }
