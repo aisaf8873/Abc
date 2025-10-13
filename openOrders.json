@@ -33,7 +33,7 @@
       }
     },
     "state": "open",
-    "limit_price": 8.31,
+    "limit_price": "8.31",
     "bracket_stop_loss_limit_price": null,
     "id": 989162490,
     "product_symbol": "C-ETH-4200-131025",
@@ -49,7 +49,7 @@
     "paid_commission": "0",
     "stop_trigger_method": null,
     "bracket_order": null,
-    "updated_at": "2025-10-13T05:52:41.018679Z",
+    "updated_at": "2025-10-13T05:53:11.372457Z",
     "cancellation_reason": null,
     "close_on_trigger": "false",
     "size": 501,
@@ -61,7 +61,7 @@
       "ip": "2409:40e4:131e:583:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-10-13T05:52:41.018Z"
+      "user_updated_at": "2025-10-13T05:53:11.372Z"
     },
     "reduce_only": true,
     "bracket_trail_amount": null
