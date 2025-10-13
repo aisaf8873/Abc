@@ -38,13 +38,13 @@
     "product_symbol": "C-ETH-4200-131025",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
-    "limit_price": "13.91",
+    "limit_price": "13.31",
     "stop_order_type": null,
     "bracket_take_profit_price": null,
     "stop_trigger_method": null,
     "created_at": "2025-10-13T07:47:33.402917Z",
     "unfilled_size": 515,
-    "updated_at": "2025-10-13T07:47:33.402917Z",
+    "updated_at": "2025-10-13T07:48:01.109945Z",
     "stop_price": null,
     "close_on_trigger": "false",
     "average_fill_price": null,
@@ -58,7 +58,8 @@
     "meta_data": {
       "ip": "2409:40e4:131e:583:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-10-13T07:48:01.109Z"
     },
     "bracket_trail_amount": null,
     "order_type": "limit_order",
