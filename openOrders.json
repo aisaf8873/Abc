@@ -48,12 +48,12 @@
     "reduce_only": true,
     "time_in_force": "gtc",
     "bracket_take_profit_limit_price": null,
-    "limit_price": 9.81,
+    "limit_price": 9.61,
     "mmp": "disabled",
     "bracket_take_profit_price": null,
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "updated_at": "2025-10-13T05:28:52.603694Z",
+    "updated_at": "2025-10-13T05:29:03.301690Z",
     "size": 501,
     "unfilled_size": 501,
     "client_order_id": null,
@@ -62,7 +62,7 @@
       "ip": "2409:40e4:131e:583:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-10-13T05:28:52.603Z"
+      "user_updated_at": "2025-10-13T05:29:03.301Z"
     },
     "stop_order_type": null
   }
