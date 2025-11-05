@@ -1,7 +1,7 @@
 [
   {
     "average_fill_price": "928.49",
-    "limit_price": 920.19,
+    "limit_price": "919.79",
     "bracket_order": null,
     "product_symbol": "P-ETH-4200-261225",
     "quote_size": null,
@@ -16,7 +16,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-05T15:16:30.494Z"
+      "user_updated_at": "2025-11-05T15:17:20.598Z"
     },
     "bracket_take_profit_price": null,
     "mmp": "disabled",
@@ -66,6 +66,6 @@
     "close_on_trigger": "false",
     "paid_commission": "0.00593343",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-05T15:16:30.494761Z"
+    "updated_at": "2025-11-05T15:17:20.599116Z"
   }
 ]
