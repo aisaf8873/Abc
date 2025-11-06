@@ -1,10 +1,12 @@
 [
   {
-    "cancellation_reason": null,
+    "updated_at": "2025-11-06T07:51:56.202222Z",
     "unfilled_size": 46,
+    "product_id": 103932,
     "bracket_take_profit_price": null,
-    "user_id": 21672861,
-    "commission": "0",
+    "average_fill_price": "897.515",
+    "created_at": "2025-11-05T15:02:13.450751Z",
+    "stop_order_type": null,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -32,18 +34,26 @@
         "symbol": "ETH"
       }
     },
-    "product_symbol": "P-ETH-4200-261225",
-    "stop_price": null,
-    "stop_order_type": null,
     "state": "open",
-    "average_fill_price": "897.515",
-    "stop_trigger_method": null,
-    "trail_amount": null,
     "id": 1022768585,
+    "trail_amount": null,
+    "reduce_only": false,
+    "quote_size": null,
     "client_order_id": null,
+    "stop_trigger_method": null,
+    "close_on_trigger": "false",
+    "time_in_force": "gtc",
+    "side": "sell",
+    "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
+    "product_symbol": "P-ETH-4200-261225",
+    "limit_price": "904.59",
+    "order_type": "limit_order",
+    "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "paid_commission": "0.02399946",
+    "bracket_trail_amount": null,
+    "cancellation_reason": null,
     "meta_data": {
       "cashflow": "35.9006",
       "ip": "2409:40e4:1018:41e4:8000::",
@@ -52,20 +62,10 @@
       "source": "mobile_app_android",
       "user_updated_at": "2025-11-06T07:51:56.201Z"
     },
-    "bracket_order": null,
-    "close_on_trigger": "false",
-    "limit_price": "904.59",
-    "quote_size": null,
-    "updated_at": "2025-11-06T07:51:56.202222Z",
-    "reduce_only": false,
-    "size": 50,
-    "bracket_stop_loss_price": null,
-    "time_in_force": "gtc",
-    "bracket_trail_amount": null,
-    "side": "sell",
-    "created_at": "2025-11-05T15:02:13.450751Z",
-    "order_type": "limit_order",
     "mmp": "disabled",
-    "product_id": 103932
+    "size": 50,
+    "user_id": 21672861,
+    "bracket_order": null,
+    "stop_price": null
   }
 ]
