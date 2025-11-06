@@ -5,7 +5,7 @@
     "stop_order_type": null,
     "product_id": 103932,
     "time_in_force": "gtc",
-    "limit_price": "935.69",
+    "limit_price": 935.59,
     "state": "open",
     "cancellation_reason": null,
     "client_order_id": null,
@@ -47,7 +47,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-06T14:42:52.395Z"
+      "user_updated_at": "2025-11-06T14:43:12.355Z"
     },
     "user_id": 21672861,
     "bracket_order": null,
@@ -60,7 +60,7 @@
     "mmp": "disabled",
     "bracket_trail_amount": null,
     "reduce_only": false,
-    "updated_at": "2025-11-06T14:42:52.396070Z",
+    "updated_at": "2025-11-06T14:43:12.355920Z",
     "order_type": "limit_order",
     "unfilled_size": 76,
     "size": 80,
