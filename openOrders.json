@@ -7,7 +7,7 @@
     "product_symbol": "P-ETH-4000-261225",
     "mmp": "disabled",
     "client_order_id": null,
-    "updated_at": "2025-11-06T16:15:08.496006Z",
+    "updated_at": "2025-11-06T16:15:20.217054Z",
     "state": "open",
     "stop_price": null,
     "id": 1024283705,
@@ -22,7 +22,7 @@
     "quote_size": null,
     "bracket_order": null,
     "cancellation_reason": null,
-    "limit_price": 802.49,
+    "limit_price": "800.59",
     "reduce_only": false,
     "close_on_trigger": "false",
     "product_id": 103798,
@@ -62,7 +62,7 @@
       "ip": "2409:40e4:4b:1704:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-06T16:15:08.495Z"
+      "user_updated_at": "2025-11-06T16:15:20.216Z"
     },
     "unfilled_size": 100
   },
@@ -74,7 +74,7 @@
     "product_symbol": "C-ETH-3000-261225",
     "mmp": "disabled",
     "client_order_id": null,
-    "updated_at": "2025-11-06T16:15:03.332040Z",
+    "updated_at": "2025-11-06T16:15:23.366884Z",
     "state": "open",
     "stop_price": null,
     "id": 1024279207,
@@ -89,7 +89,7 @@
     "quote_size": null,
     "bracket_order": null,
     "cancellation_reason": null,
-    "limit_price": 492.61,
+    "limit_price": 494.71,
     "reduce_only": false,
     "close_on_trigger": "false",
     "product_id": 103977,
@@ -129,7 +129,7 @@
       "ip": "2409:40e4:4b:1704:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-06T16:15:03.331Z"
+      "user_updated_at": "2025-11-06T16:15:23.366Z"
     },
     "unfilled_size": 100
   },
@@ -141,7 +141,7 @@
     "product_symbol": "P-ETH-4200-261225",
     "mmp": "disabled",
     "client_order_id": null,
-    "updated_at": "2025-11-06T16:15:07.407096Z",
+    "updated_at": "2025-11-06T16:15:26.026443Z",
     "state": "open",
     "stop_price": null,
     "id": 1022768585,
@@ -156,7 +156,7 @@
     "quote_size": null,
     "bracket_order": null,
     "cancellation_reason": null,
-    "limit_price": "971.69",
+    "limit_price": "969.79",
     "reduce_only": false,
     "close_on_trigger": "false",
     "product_id": 103932,
@@ -198,7 +198,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-06T16:15:07.406Z"
+      "user_updated_at": "2025-11-06T16:15:26.025Z"
     },
     "unfilled_size": 76
   }
