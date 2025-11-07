@@ -46,7 +46,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T10:53:17.041Z"
+      "user_updated_at": "2025-11-07T10:53:50.169Z"
     },
     "side": "sell",
     "trail_amount": null,
@@ -58,7 +58,7 @@
     "paid_commission": "0.29295536",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": 813.19,
+    "limit_price": "811.39",
     "product_symbol": "P-ETH-4000-261225",
     "unfilled_size": 340,
     "size": 390,
@@ -66,7 +66,7 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-07T10:53:17.041551Z"
+    "updated_at": "2025-11-07T10:53:50.170337Z"
   },
   {
     "quote_size": null,
@@ -113,7 +113,7 @@
       "ip": "2409:40e4:4b:1704:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T10:53:17.329Z"
+      "user_updated_at": "2025-11-07T10:54:01.491Z"
     },
     "side": "buy",
     "trail_amount": null,
@@ -125,7 +125,7 @@
     "paid_commission": "0",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": 475.21,
+    "limit_price": "476.71",
     "product_symbol": "C-ETH-3000-261225",
     "unfilled_size": 350,
     "size": 350,
@@ -133,7 +133,7 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-07T10:53:17.329714Z"
+    "updated_at": "2025-11-07T10:54:01.491937Z"
   },
   {
     "quote_size": null,
@@ -182,7 +182,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T10:53:17.440Z"
+      "user_updated_at": "2025-11-07T10:53:52.534Z"
     },
     "side": "sell",
     "trail_amount": null,
@@ -194,7 +194,7 @@
     "paid_commission": "0.02399946",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": 985.09,
+    "limit_price": "983.49",
     "product_symbol": "P-ETH-4200-261225",
     "unfilled_size": 76,
     "size": 80,
@@ -202,6 +202,6 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-07T10:53:17.441187Z"
+    "updated_at": "2025-11-07T10:53:52.534985Z"
   }
 ]
