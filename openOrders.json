@@ -22,7 +22,7 @@
     "paid_commission": "0.29864538",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": 799.89,
+    "limit_price": 799.99,
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -37,7 +37,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T15:24:15.747Z"
+      "user_updated_at": "2025-11-07T15:24:34.049Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -66,7 +66,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-07T15:24:15.747526Z"
+    "updated_at": "2025-11-07T15:24:34.050170Z"
   },
   {
     "quote_size": null,
@@ -91,7 +91,7 @@
     "paid_commission": "0",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": 489.11,
+    "limit_price": "487.51",
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -104,7 +104,7 @@
       "ip": "2409:40e4:4b:1704:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T15:23:50.072Z"
+      "user_updated_at": "2025-11-07T15:24:54.473Z"
     },
     "product": {
       "contract_type": "call_options",
@@ -133,7 +133,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-07T15:23:50.075104Z"
+    "updated_at": "2025-11-07T15:24:54.473904Z"
   },
   {
     "quote_size": null,
@@ -158,7 +158,7 @@
     "paid_commission": "0.02399946",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": 971.29,
+    "limit_price": "971.29",
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -173,7 +173,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T15:24:14.968Z"
+      "user_updated_at": "2025-11-07T15:24:34.168Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -202,6 +202,6 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-07T15:24:14.968497Z"
+    "updated_at": "2025-11-07T15:24:34.169279Z"
   }
 ]
