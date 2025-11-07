@@ -12,7 +12,7 @@
       "ip": "2409:40e4:6d:d581:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T21:40:22.982Z"
+      "user_updated_at": "2025-11-07T21:41:12.884Z"
     },
     "quote_size": null,
     "trail_amount": null,
@@ -50,7 +50,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-07T21:40:22.982862Z",
+    "updated_at": "2025-11-07T21:41:12.884969Z",
     "bracket_order": null,
     "side": "sell",
     "order_type": "limit_order",
@@ -64,7 +64,7 @@
     "bracket_take_profit_price": null,
     "reduce_only": false,
     "bracket_stop_loss_price": null,
-    "limit_price": 1548.99
+    "limit_price": 1548.89
   },
   {
     "user_id": 21672861,
@@ -81,7 +81,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T21:40:21.576Z"
+      "user_updated_at": "2025-11-07T21:41:02.003Z"
     },
     "quote_size": null,
     "trail_amount": null,
@@ -119,7 +119,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-07T21:40:21.576605Z",
+    "updated_at": "2025-11-07T21:41:02.004361Z",
     "bracket_order": null,
     "side": "sell",
     "order_type": "limit_order",
@@ -133,7 +133,7 @@
     "bracket_take_profit_price": null,
     "reduce_only": false,
     "bracket_stop_loss_price": null,
-    "limit_price": 674.19
+    "limit_price": 674.39
   },
   {
     "user_id": 21672861,
@@ -150,7 +150,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T21:39:04.187Z"
+      "user_updated_at": "2025-11-07T21:41:00.551Z"
     },
     "quote_size": null,
     "trail_amount": null,
@@ -188,7 +188,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-07T21:39:04.188355Z",
+    "updated_at": "2025-11-07T21:41:00.551656Z",
     "bracket_order": null,
     "side": "buy",
     "order_type": "limit_order",
@@ -202,6 +202,6 @@
     "bracket_take_profit_price": null,
     "reduce_only": false,
     "bracket_stop_loss_price": null,
-    "limit_price": 613.11
+    "limit_price": "613.11"
   }
 ]
