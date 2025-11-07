@@ -38,7 +38,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T08:28:45.137Z"
+      "user_updated_at": "2025-11-07T08:29:10.234Z"
     },
     "created_at": "2025-11-06T14:55:29.739358Z",
     "mmp": "disabled",
@@ -62,10 +62,10 @@
     "unfilled_size": 340,
     "product_id": 103798,
     "size": 390,
-    "limit_price": 755.09,
+    "limit_price": "755.09",
     "order_type": "limit_order",
     "quote_size": null,
-    "updated_at": "2025-11-07T08:28:45.137723Z",
+    "updated_at": "2025-11-07T08:29:10.235131Z",
     "bracket_order": null
   },
   {
@@ -105,7 +105,7 @@
       "ip": "2409:40e4:4b:1704:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T08:29:01.659Z"
+      "user_updated_at": "2025-11-07T08:29:21.765Z"
     },
     "created_at": "2025-11-06T14:53:55.961621Z",
     "mmp": "disabled",
@@ -129,10 +129,10 @@
     "unfilled_size": 350,
     "product_id": 103977,
     "size": 350,
-    "limit_price": 528.41,
+    "limit_price": 528.01,
     "order_type": "limit_order",
     "quote_size": null,
-    "updated_at": "2025-11-07T08:29:01.660330Z",
+    "updated_at": "2025-11-07T08:29:21.767940Z",
     "bracket_order": null
   },
   {
@@ -174,7 +174,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T08:28:56.331Z"
+      "user_updated_at": "2025-11-07T08:29:22.962Z"
     },
     "created_at": "2025-11-05T15:02:13.450751Z",
     "mmp": "disabled",
@@ -198,10 +198,10 @@
     "unfilled_size": 76,
     "product_id": 103932,
     "size": 80,
-    "limit_price": "921.09",
+    "limit_price": 922.69,
     "order_type": "limit_order",
     "quote_size": null,
-    "updated_at": "2025-11-07T08:28:56.331626Z",
+    "updated_at": "2025-11-07T08:29:22.962598Z",
     "bracket_order": null
   }
 ]
