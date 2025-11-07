@@ -16,9 +16,9 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T03:12:09.286Z"
+      "user_updated_at": "2025-11-07T03:12:34.467Z"
     },
-    "limit_price": "752.79",
+    "limit_price": "753.59",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -64,7 +64,7 @@
     "paid_commission": "0.29295536",
     "size": 190,
     "time_in_force": "gtc",
-    "updated_at": "2025-11-07T03:12:09.287222Z",
+    "updated_at": "2025-11-07T03:12:34.467892Z",
     "commission": "0",
     "created_at": "2025-11-06T14:55:29.739358Z"
   },
@@ -83,9 +83,9 @@
       "ip": "2409:40e4:4b:1704:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T03:12:21.356Z"
+      "user_updated_at": "2025-11-07T03:12:41.274Z"
     },
-    "limit_price": 533.81,
+    "limit_price": 533.91,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -131,7 +131,7 @@
     "paid_commission": "0",
     "size": 150,
     "time_in_force": "gtc",
-    "updated_at": "2025-11-07T03:12:21.356732Z",
+    "updated_at": "2025-11-07T03:12:41.274798Z",
     "commission": "0",
     "created_at": "2025-11-06T14:53:55.961621Z"
   },
@@ -152,9 +152,9 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-07T03:12:08.017Z"
+      "user_updated_at": "2025-11-07T03:12:36.131Z"
     },
-    "limit_price": 920.29,
+    "limit_price": 921.89,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -200,7 +200,7 @@
     "paid_commission": "0.02399946",
     "size": 80,
     "time_in_force": "gtc",
-    "updated_at": "2025-11-07T03:12:08.017799Z",
+    "updated_at": "2025-11-07T03:12:36.131938Z",
     "commission": "0",
     "created_at": "2025-11-05T15:02:13.450751Z"
   }
