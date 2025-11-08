@@ -111,7 +111,7 @@
       "ip": "2409:40e5:11f6:33db:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-08T17:50:43.587Z"
+      "user_updated_at": "2025-11-08T17:51:07.396Z"
     },
     "side": "sell",
     "trail_amount": null,
@@ -123,7 +123,7 @@
     "paid_commission": "0",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": "1147.49",
+    "limit_price": "1149.09",
     "product_symbol": "P-ETH-4500-261225",
     "unfilled_size": 110,
     "size": 110,
@@ -131,7 +131,7 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-08T17:50:43.587467Z"
+    "updated_at": "2025-11-08T17:51:07.397005Z"
   },
   {
     "quote_size": null,
@@ -190,7 +190,7 @@
     "paid_commission": "0",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": "1617.99",
+    "limit_price": 1618.69,
     "product_symbol": "P-ETH-5000-281125",
     "unfilled_size": 310,
     "size": 310,
@@ -247,7 +247,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-08T17:50:43.848Z"
+      "user_updated_at": "2025-11-08T17:51:08.744Z"
     },
     "side": "sell",
     "trail_amount": null,
@@ -259,7 +259,7 @@
     "paid_commission": "0.36570795",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": "716.19",
+    "limit_price": "717.59",
     "product_symbol": "P-ETH-4000-261225",
     "unfilled_size": 308,
     "size": 370,
@@ -267,7 +267,7 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-08T17:50:43.849127Z"
+    "updated_at": "2025-11-08T17:51:08.745201Z"
   },
   {
     "quote_size": null,
@@ -316,7 +316,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-08T17:49:12.971Z"
+      "user_updated_at": "2025-11-08T17:51:12.275Z"
     },
     "side": "buy",
     "trail_amount": null,
@@ -328,7 +328,7 @@
     "paid_commission": "0.79750182",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": "555.11",
+    "limit_price": "553.61",
     "product_symbol": "C-ETH-3000-261225",
     "unfilled_size": 270,
     "size": 405,
@@ -336,6 +336,6 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-08T17:49:12.971707Z"
+    "updated_at": "2025-11-08T17:51:12.276106Z"
   }
 ]
