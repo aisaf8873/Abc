@@ -26,7 +26,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "limit_price": "1160.29",
+    "limit_price": 1159.89,
     "product_symbol": "P-ETH-4500-261225",
     "unfilled_size": 110,
     "size": 110,
@@ -82,7 +82,7 @@
       "ip": "2409:40e4:6d:d581:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-08T20:13:38.099Z"
+      "user_updated_at": "2025-11-08T20:13:59.172Z"
     },
     "time_in_force": "gtc",
     "close_on_trigger": "false",
@@ -93,7 +93,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "limit_price": 1631.49,
+    "limit_price": 1631.29,
     "product_symbol": "P-ETH-5000-281125",
     "unfilled_size": 310,
     "size": 310,
@@ -130,7 +130,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-08T20:13:38.100347Z",
+    "updated_at": "2025-11-08T20:13:59.173211Z",
     "commission": "0"
   },
   {
@@ -151,7 +151,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-08T20:13:37.654Z"
+      "user_updated_at": "2025-11-08T20:13:59.457Z"
     },
     "time_in_force": "gtc",
     "close_on_trigger": "false",
@@ -162,7 +162,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "limit_price": 726.39,
+    "limit_price": "726.39",
     "product_symbol": "P-ETH-4000-261225",
     "unfilled_size": 308,
     "size": 370,
@@ -199,7 +199,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-08T20:13:37.655264Z",
+    "updated_at": "2025-11-08T20:13:59.458257Z",
     "commission": "0"
   },
   {
@@ -220,7 +220,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-08T20:13:37.106Z"
+      "user_updated_at": "2025-11-08T20:14:11.200Z"
     },
     "time_in_force": "gtc",
     "close_on_trigger": "false",
@@ -231,7 +231,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "limit_price": "545.11",
+    "limit_price": "543.61",
     "product_symbol": "C-ETH-3000-261225",
     "unfilled_size": 270,
     "size": 405,
@@ -268,7 +268,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-08T20:13:37.106526Z",
+    "updated_at": "2025-11-08T20:14:11.200444Z",
     "commission": "0"
   }
 ]
