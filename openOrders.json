@@ -1,71 +1,5 @@
 [
   {
-    "product_id": 105495,
-    "limit_price": "331.25",
-    "bracket_order": null,
-    "stop_order_type": null,
-    "user_id": 21672861,
-    "mmp": "disabled",
-    "state": "open",
-    "bracket_stop_loss_price": null,
-    "id": 1027953410,
-    "time_in_force": "gtc",
-    "updated_at": "2025-11-08T16:30:27.684841Z",
-    "stop_price": null,
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 105495,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "C-ETH-3000-101125",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "trail_amount": null,
-    "side": "buy",
-    "average_fill_price": null,
-    "unfilled_size": 1,
-    "cancellation_reason": null,
-    "commission": "0",
-    "order_type": "limit_order",
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "created_at": "2025-11-08T16:30:27.684841Z",
-    "quote_size": null,
-    "bracket_take_profit_price": null,
-    "bracket_stop_loss_limit_price": null,
-    "bracket_trail_amount": null,
-    "product_symbol": "C-ETH-3000-101125",
-    "paid_commission": "0",
-    "size": 1,
-    "stop_trigger_method": null,
-    "close_on_trigger": "false",
-    "client_order_id": null,
-    "bracket_take_profit_limit_price": null,
-    "reduce_only": false
-  },
-  {
     "product_id": 105494,
     "limit_price": "420",
     "bracket_order": null,
@@ -134,7 +68,7 @@
   },
   {
     "product_id": 103961,
-    "limit_price": "1166.29",
+    "limit_price": 1165.79,
     "bracket_order": null,
     "stop_order_type": null,
     "user_id": 21672861,
@@ -201,7 +135,7 @@
   },
   {
     "product_id": 96845,
-    "limit_price": "1636.49",
+    "limit_price": 1636.79,
     "bracket_order": null,
     "stop_order_type": null,
     "user_id": 21672861,
@@ -268,7 +202,7 @@
   },
   {
     "product_id": 103798,
-    "limit_price": "732.39",
+    "limit_price": 731.79,
     "bracket_order": null,
     "stop_order_type": null,
     "user_id": 21672861,
