@@ -213,7 +213,7 @@
       "ip": "2409:40e5:11f6:33db:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T13:43:09.825Z"
+      "user_updated_at": "2025-11-09T13:43:35.141Z"
     },
     "time_in_force": "gtc",
     "close_on_trigger": "false",
@@ -224,7 +224,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "limit_price": 1104.39,
+    "limit_price": "1104.39",
     "product_symbol": "P-ETH-4500-261225",
     "unfilled_size": 210,
     "size": 210,
@@ -261,7 +261,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-09T13:43:09.825394Z",
+    "updated_at": "2025-11-09T13:43:35.155655Z",
     "commission": "0"
   },
   {
@@ -280,7 +280,7 @@
       "ip": "2409:40e4:6d:d581:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T13:43:16.809Z"
+      "user_updated_at": "2025-11-09T13:43:43.059Z"
     },
     "time_in_force": "gtc",
     "close_on_trigger": "false",
@@ -291,7 +291,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "limit_price": "1562.29",
+    "limit_price": "1561.49",
     "product_symbol": "P-ETH-5000-281125",
     "unfilled_size": 210,
     "size": 210,
@@ -328,7 +328,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-09T13:43:16.809494Z",
+    "updated_at": "2025-11-09T13:43:43.059550Z",
     "commission": "0"
   },
   {
@@ -349,7 +349,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T13:43:13.925Z"
+      "user_updated_at": "2025-11-09T13:43:40.628Z"
     },
     "time_in_force": "gtc",
     "close_on_trigger": "false",
@@ -360,7 +360,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "limit_price": "681.39",
+    "limit_price": "680.89",
     "product_symbol": "P-ETH-4000-261225",
     "unfilled_size": 306,
     "size": 370,
@@ -397,7 +397,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-09T13:43:13.926015Z",
+    "updated_at": "2025-11-09T13:43:40.629080Z",
     "commission": "0"
   },
   {
@@ -418,7 +418,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T13:41:54.277Z"
+      "user_updated_at": "2025-11-09T13:43:41.274Z"
     },
     "time_in_force": "gtc",
     "close_on_trigger": "false",
@@ -429,7 +429,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
-    "limit_price": "599.11",
+    "limit_price": "600.61",
     "product_symbol": "C-ETH-3000-261225",
     "unfilled_size": 270,
     "size": 505,
@@ -466,7 +466,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-09T13:41:54.278384Z",
+    "updated_at": "2025-11-09T13:43:41.275253Z",
     "commission": "0"
   }
 ]
