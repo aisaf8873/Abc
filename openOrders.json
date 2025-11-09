@@ -44,7 +44,7 @@
       "ip": "2409:40e5:11f6:33db:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T01:07:45.886Z"
+      "user_updated_at": "2025-11-09T01:08:10.656Z"
     },
     "side": "sell",
     "trail_amount": null,
@@ -56,7 +56,7 @@
     "paid_commission": "0",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": "1147.59",
+    "limit_price": "1147.09",
     "product_symbol": "P-ETH-4500-261225",
     "unfilled_size": 110,
     "size": 110,
@@ -64,7 +64,7 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-09T01:07:45.887209Z"
+    "updated_at": "2025-11-09T01:08:10.656640Z"
   },
   {
     "quote_size": null,
@@ -111,7 +111,7 @@
       "ip": "2409:40e4:6d:d581:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T01:07:45.299Z"
+      "user_updated_at": "2025-11-09T01:08:11.305Z"
     },
     "side": "sell",
     "trail_amount": null,
@@ -123,7 +123,7 @@
     "paid_commission": "0",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": "1617.29",
+    "limit_price": 1615.39,
     "product_symbol": "P-ETH-5000-281125",
     "unfilled_size": 310,
     "size": 310,
@@ -131,7 +131,7 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-09T01:07:45.300059Z"
+    "updated_at": "2025-11-09T01:08:11.306132Z"
   },
   {
     "quote_size": null,
@@ -180,7 +180,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T01:07:45.134Z"
+      "user_updated_at": "2025-11-09T01:08:10.185Z"
     },
     "side": "sell",
     "trail_amount": null,
@@ -192,7 +192,7 @@
     "paid_commission": "0.36570795",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": "715.79",
+    "limit_price": "715.09",
     "product_symbol": "P-ETH-4000-261225",
     "unfilled_size": 308,
     "size": 370,
@@ -200,7 +200,7 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-09T01:07:45.135316Z"
+    "updated_at": "2025-11-09T01:08:10.186507Z"
   },
   {
     "quote_size": null,
@@ -249,7 +249,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T01:07:24.967Z"
+      "user_updated_at": "2025-11-09T01:08:14.112Z"
     },
     "side": "buy",
     "trail_amount": null,
@@ -261,7 +261,7 @@
     "paid_commission": "0.79750182",
     "bracket_stop_loss_price": null,
     "cancellation_reason": null,
-    "limit_price": "553.31",
+    "limit_price": "555.01",
     "product_symbol": "C-ETH-3000-261225",
     "unfilled_size": 270,
     "size": 405,
@@ -269,6 +269,6 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "stop_price": null,
-    "updated_at": "2025-11-09T01:07:24.967862Z"
+    "updated_at": "2025-11-09T01:08:14.112610Z"
   }
 ]
