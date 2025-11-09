@@ -265,7 +265,7 @@
   },
   {
     "trail_amount": null,
-    "limit_price": "1060.99",
+    "limit_price": 1060.19,
     "reduce_only": false,
     "cancellation_reason": null,
     "time_in_force": "gtc",
@@ -279,7 +279,7 @@
       "ip": "2409:40e5:11f6:33db:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T14:58:44.143Z"
+      "user_updated_at": "2025-11-09T14:59:26.300Z"
     },
     "bracket_stop_loss_price": null,
     "client_order_id": null,
@@ -294,7 +294,7 @@
     "average_fill_price": null,
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-11-09T14:58:44.144239Z",
+    "updated_at": "2025-11-09T14:59:26.300762Z",
     "product_symbol": "P-ETH-4500-261225",
     "commission": "0",
     "size": 210,
@@ -332,7 +332,7 @@
   },
   {
     "trail_amount": null,
-    "limit_price": 1508.09,
+    "limit_price": 1508.19,
     "reduce_only": false,
     "cancellation_reason": null,
     "time_in_force": "gtc",
@@ -348,7 +348,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T14:58:42.621Z"
+      "user_updated_at": "2025-11-09T14:59:26.101Z"
     },
     "bracket_stop_loss_price": null,
     "client_order_id": null,
@@ -363,7 +363,7 @@
     "average_fill_price": "1495.59",
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-11-09T14:58:42.622202Z",
+    "updated_at": "2025-11-09T14:59:26.101978Z",
     "product_symbol": "P-ETH-5000-281125",
     "commission": "0",
     "size": 210,
@@ -417,7 +417,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T14:58:24.213Z"
+      "user_updated_at": "2025-11-09T14:59:24.449Z"
     },
     "bracket_stop_loss_price": null,
     "client_order_id": null,
@@ -432,7 +432,7 @@
     "average_fill_price": "769.54",
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-11-09T14:58:24.214405Z",
+    "updated_at": "2025-11-09T14:59:24.450004Z",
     "product_symbol": "P-ETH-4000-261225",
     "commission": "0",
     "size": 370,
@@ -470,7 +470,7 @@
   },
   {
     "trail_amount": null,
-    "limit_price": "644.71",
+    "limit_price": "643.21",
     "reduce_only": false,
     "cancellation_reason": null,
     "time_in_force": "gtc",
@@ -486,7 +486,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T14:58:17.136Z"
+      "user_updated_at": "2025-11-09T14:59:26.592Z"
     },
     "bracket_stop_loss_price": null,
     "client_order_id": null,
@@ -501,7 +501,7 @@
     "average_fill_price": "539.452553191489361702",
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-11-09T14:58:17.137287Z",
+    "updated_at": "2025-11-09T14:59:26.592792Z",
     "product_symbol": "C-ETH-3000-261225",
     "commission": "0",
     "size": 505,
