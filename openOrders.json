@@ -286,7 +286,7 @@
     "paid_commission": "0.04364006",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": "1497.69",
+    "limit_price": 1498.59,
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -355,7 +355,7 @@
     "paid_commission": "0.39013226",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": 638.79,
+    "limit_price": 638.99,
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -370,7 +370,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-09T17:36:16.966Z"
+      "user_updated_at": "2025-11-09T17:36:46.105Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -399,7 +399,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-09T17:36:16.967034Z"
+    "updated_at": "2025-11-09T17:36:46.105776Z"
   },
   {
     "quote_size": null,
