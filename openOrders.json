@@ -4,7 +4,7 @@
     "average_fill_price": null,
     "mmp": "disabled",
     "trail_amount": null,
-    "updated_at": "2025-11-10T12:10:38.373309Z",
+    "updated_at": "2025-11-10T12:10:56.191328Z",
     "unfilled_size": 600,
     "state": "open",
     "id": 1030085717,
@@ -15,7 +15,7 @@
     "bracket_order": null,
     "commission": "0",
     "reduce_only": false,
-    "limit_price": 958.11,
+    "limit_price": "958.11",
     "close_on_trigger": "false",
     "stop_price": null,
     "product": {
@@ -49,7 +49,7 @@
       "ip": "2409:40e5:101f:6a6c:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T12:10:38.372Z"
+      "user_updated_at": "2025-11-10T12:10:56.190Z"
     },
     "side": "buy",
     "order_type": "limit_order",
@@ -335,7 +335,7 @@
     "average_fill_price": "1495.59",
     "mmp": "disabled",
     "trail_amount": null,
-    "updated_at": "2025-11-10T12:10:36.086696Z",
+    "updated_at": "2025-11-10T12:11:00.148406Z",
     "unfilled_size": 203,
     "state": "open",
     "id": 1026305590,
@@ -346,7 +346,7 @@
     "bracket_order": null,
     "commission": "0",
     "reduce_only": false,
-    "limit_price": 1421.39,
+    "limit_price": 1421.09,
     "close_on_trigger": "false",
     "stop_price": null,
     "product": {
@@ -382,7 +382,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T12:10:36.086Z"
+      "user_updated_at": "2025-11-10T12:11:00.148Z"
     },
     "side": "sell",
     "order_type": "limit_order",
@@ -404,7 +404,7 @@
     "average_fill_price": "539.452553191489361702",
     "mmp": "disabled",
     "trail_amount": null,
-    "updated_at": "2025-11-10T12:10:35.760309Z",
+    "updated_at": "2025-11-10T12:11:10.916212Z",
     "unfilled_size": 63,
     "state": "open",
     "id": 1024279207,
@@ -415,7 +415,7 @@
     "bracket_order": null,
     "commission": "0",
     "reduce_only": false,
-    "limit_price": 707.11,
+    "limit_price": "708.61",
     "close_on_trigger": "false",
     "stop_price": null,
     "product": {
@@ -451,7 +451,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T12:10:35.759Z"
+      "user_updated_at": "2025-11-10T12:11:10.915Z"
     },
     "side": "buy",
     "order_type": "limit_order",
