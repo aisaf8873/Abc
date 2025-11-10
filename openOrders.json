@@ -286,7 +286,7 @@
     "paid_commission": "0.83033656",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": "974.98",
+    "limit_price": "975.69",
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -301,7 +301,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T07:51:31.580Z"
+      "user_updated_at": "2025-11-10T07:51:57.602Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -330,7 +330,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-10T07:51:31.581013Z"
+    "updated_at": "2025-11-10T07:51:57.602842Z"
   },
   {
     "quote_size": null,
@@ -355,7 +355,7 @@
     "paid_commission": "0.04364006",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": "1409.29",
+    "limit_price": "1408.79",
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -370,7 +370,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T07:51:23.953Z"
+      "user_updated_at": "2025-11-10T07:51:49.319Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -399,7 +399,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-10T07:51:23.954094Z"
+    "updated_at": "2025-11-10T07:51:49.320299Z"
   },
   {
     "quote_size": null,
@@ -424,7 +424,7 @@
     "paid_commission": "1.40220993",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": "719.31",
+    "limit_price": "720.81",
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -439,7 +439,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T07:51:28.865Z"
+      "user_updated_at": "2025-11-10T07:51:46.234Z"
     },
     "product": {
       "contract_type": "call_options",
@@ -468,6 +468,6 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-10T07:51:28.865830Z"
+    "updated_at": "2025-11-10T07:51:46.234432Z"
   }
 ]
