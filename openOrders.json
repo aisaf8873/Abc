@@ -1,7 +1,7 @@
 [
   {
     "trail_amount": null,
-    "limit_price": 960.09,
+    "limit_price": 959.99,
     "reduce_only": false,
     "cancellation_reason": null,
     "time_in_force": "gtc",
@@ -15,7 +15,7 @@
       "ip": "2409:40e4:2013:2f5a:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T04:07:37.530Z"
+      "user_updated_at": "2025-11-10T04:08:02.922Z"
     },
     "bracket_stop_loss_price": null,
     "client_order_id": null,
@@ -30,7 +30,7 @@
     "average_fill_price": null,
     "close_on_trigger": "false",
     "order_type": "limit_order",
-    "updated_at": "2025-11-10T04:07:37.531188Z",
+    "updated_at": "2025-11-10T04:08:02.922728Z",
     "product_symbol": "P-ETH-4500-261225",
     "commission": "0",
     "size": 210,
@@ -266,7 +266,7 @@
   },
   {
     "trail_amount": null,
-    "limit_price": "1390.49",
+    "limit_price": 1390.79,
     "reduce_only": false,
     "cancellation_reason": null,
     "time_in_force": "gtc",
