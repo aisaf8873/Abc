@@ -22,7 +22,7 @@
     "paid_commission": "0",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": "958.09",
+    "limit_price": "956.89",
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -35,7 +35,7 @@
       "ip": "2409:40e4:2013:2f5a:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T02:27:52.822Z"
+      "user_updated_at": "2025-11-10T02:28:18.286Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-10T02:27:52.822805Z"
+    "updated_at": "2025-11-10T02:28:18.286497Z"
   },
   {
     "quote_size": null,
@@ -287,7 +287,7 @@
     "paid_commission": "0.04364006",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": "1387.29",
+    "limit_price": "1385.99",
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -302,7 +302,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T02:27:51.902Z"
+      "user_updated_at": "2025-11-10T02:28:17.150Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -331,7 +331,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-10T02:27:51.902984Z"
+    "updated_at": "2025-11-10T02:28:17.150783Z"
   },
   {
     "quote_size": null,
@@ -356,7 +356,7 @@
     "paid_commission": "1.40220993",
     "close_on_trigger": "false",
     "reduce_only": false,
-    "limit_price": "740.31",
+    "limit_price": "741.91",
     "commission": "0",
     "user_id": 21672861,
     "bracket_take_profit_price": null,
@@ -371,7 +371,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-10T02:27:52.097Z"
+      "user_updated_at": "2025-11-10T02:28:23.341Z"
     },
     "product": {
       "contract_type": "call_options",
@@ -400,6 +400,6 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-10T02:27:52.097906Z"
+    "updated_at": "2025-11-10T02:28:23.342084Z"
   }
 ]
