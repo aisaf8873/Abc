@@ -35,11 +35,11 @@
       "pnl": "0.3204258",
       "roe": "-3.292995737060258985440895512",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-11T16:48:40.793Z"
+      "user_updated_at": "2025-11-11T16:49:25.204Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "limit_price": "1050.01",
+    "limit_price": 1049.61,
     "bracket_trail_amount": null,
     "bracket_order": null,
     "user_id": 21672861,
@@ -77,7 +77,7 @@
       }
     },
     "created_at": "2025-11-10T10:22:20.515998Z",
-    "updated_at": "2025-11-11T16:48:40.794032Z",
+    "updated_at": "2025-11-11T16:49:25.205113Z",
     "order_type": "limit_order",
     "side": "buy",
     "bracket_take_profit_price": null,
@@ -368,11 +368,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-11T16:49:05.943Z"
+      "user_updated_at": "2025-11-11T16:49:24.725Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "limit_price": "1523.29",
+    "limit_price": 1523.09,
     "bracket_trail_amount": null,
     "bracket_order": null,
     "user_id": 21672861,
@@ -410,7 +410,7 @@
       }
     },
     "created_at": "2025-11-07T16:03:31.484848Z",
-    "updated_at": "2025-11-11T16:49:05.944428Z",
+    "updated_at": "2025-11-11T16:49:24.726002Z",
     "order_type": "limit_order",
     "side": "sell",
     "bracket_take_profit_price": null,
@@ -437,11 +437,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-11T16:48:52.401Z"
+      "user_updated_at": "2025-11-11T16:49:25.030Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "limit_price": "638.31",
+    "limit_price": "640.01",
     "bracket_trail_amount": null,
     "bracket_order": null,
     "user_id": 21672861,
@@ -479,7 +479,7 @@
       }
     },
     "created_at": "2025-11-06T14:53:55.961621Z",
-    "updated_at": "2025-11-11T16:48:52.401905Z",
+    "updated_at": "2025-11-11T16:49:25.031043Z",
     "order_type": "limit_order",
     "side": "buy",
     "bracket_take_profit_price": null,
