@@ -47,7 +47,7 @@
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "limit_price": "1098.61",
+    "limit_price": 1100.31,
     "bracket_trail_amount": null,
     "bracket_order": null,
     "user_id": 21672861,
@@ -376,11 +376,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-11T22:29:27.997Z"
+      "user_updated_at": "2025-11-11T22:29:52.809Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "limit_price": 1584.79,
+    "limit_price": 1583.28,
     "bracket_trail_amount": null,
     "bracket_order": null,
     "user_id": 21672861,
@@ -418,7 +418,7 @@
       }
     },
     "created_at": "2025-11-07T16:03:31.484848Z",
-    "updated_at": "2025-11-11T22:29:27.998297Z",
+    "updated_at": "2025-11-11T22:29:52.809497Z",
     "order_type": "limit_order",
     "side": "sell",
     "bracket_take_profit_price": null,
@@ -445,11 +445,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-11T22:29:38.208Z"
+      "user_updated_at": "2025-11-11T22:29:56.300Z"
     },
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "limit_price": 591.51,
+    "limit_price": "591.51",
     "bracket_trail_amount": null,
     "bracket_order": null,
     "user_id": 21672861,
@@ -487,7 +487,7 @@
       }
     },
     "created_at": "2025-11-06T14:53:55.961621Z",
-    "updated_at": "2025-11-11T22:29:38.208752Z",
+    "updated_at": "2025-11-11T22:29:56.300860Z",
     "order_type": "limit_order",
     "side": "buy",
     "bracket_take_profit_price": null,
