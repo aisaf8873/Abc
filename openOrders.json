@@ -368,7 +368,7 @@
     "average_fill_price": "1584.08032258064516129",
     "mmp": "disabled",
     "trail_amount": null,
-    "updated_at": "2025-11-12T22:51:41.012164Z",
+    "updated_at": "2025-11-12T22:52:06.237560Z",
     "unfilled_size": 179,
     "state": "open",
     "id": 1026305590,
@@ -379,7 +379,7 @@
     "bracket_order": null,
     "commission": "0",
     "reduce_only": false,
-    "limit_price": "1599.49",
+    "limit_price": 1599.69,
     "close_on_trigger": "false",
     "stop_price": null,
     "product": {
@@ -415,7 +415,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-12T22:51:41.011Z"
+      "user_updated_at": "2025-11-12T22:52:06.237Z"
     },
     "side": "sell",
     "order_type": "limit_order",
