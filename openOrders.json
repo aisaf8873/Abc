@@ -366,7 +366,7 @@
   {
     "reduce_only": false,
     "unfilled_size": 179,
-    "updated_at": "2025-11-12T06:55:17.895224Z",
+    "updated_at": "2025-11-12T06:55:29.042848Z",
     "product_id": 96845,
     "stop_price": null,
     "close_on_trigger": "false",
@@ -378,7 +378,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-12T06:55:17.894Z"
+      "user_updated_at": "2025-11-12T06:55:29.042Z"
     },
     "state": "open",
     "bracket_order": null,
@@ -418,7 +418,7 @@
     },
     "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "limit_price": 1575.69,
+    "limit_price": "1575.69",
     "stop_order_type": null,
     "cancellation_reason": null,
     "stop_trigger_method": null,
