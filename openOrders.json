@@ -6,7 +6,7 @@
     "created_at": "2025-11-13T12:21:43.106391Z",
     "state": "open",
     "stop_price": null,
-    "updated_at": "2025-11-13T13:33:20.651570Z",
+    "updated_at": "2025-11-13T13:33:28.980185Z",
     "trail_amount": null,
     "id": 1034706655,
     "bracket_take_profit_limit_price": null,
@@ -59,12 +59,12 @@
       "ip": "2409:40e5:1d:1015:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-13T13:33:20.650Z"
+      "user_updated_at": "2025-11-13T13:33:28.979Z"
     },
     "paid_commission": "0",
     "quote_size": null,
     "side": "buy",
-    "limit_price": 2204.31
+    "limit_price": 2202.51
   },
   {
     "average_fill_price": null,
@@ -73,7 +73,7 @@
     "created_at": "2025-11-13T10:41:02.738449Z",
     "state": "open",
     "stop_price": null,
-    "updated_at": "2025-11-13T13:33:23.547746Z",
+    "updated_at": "2025-11-13T13:33:43.351673Z",
     "trail_amount": null,
     "id": 1034593775,
     "bracket_take_profit_limit_price": null,
@@ -126,12 +126,12 @@
       "ip": "2409:40e5:1d:1015:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-13T13:33:23.547Z"
+      "user_updated_at": "2025-11-13T13:33:43.351Z"
     },
     "paid_commission": "0",
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2259.54
+    "limit_price": 2260.92
   },
   {
     "average_fill_price": "1052.499928057553956835",
@@ -140,7 +140,7 @@
     "created_at": "2025-11-10T10:22:20.515998Z",
     "state": "open",
     "stop_price": null,
-    "updated_at": "2025-11-13T13:33:21.349011Z",
+    "updated_at": "2025-11-13T13:33:32.881233Z",
     "trail_amount": null,
     "id": 1030085717,
     "bracket_take_profit_limit_price": null,
@@ -234,12 +234,12 @@
       "pnl": "-110.46086544",
       "roe": "8.167077207033862967505753952",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-13T13:33:21.348Z"
+      "user_updated_at": "2025-11-13T13:33:32.880Z"
     },
     "paid_commission": "0.85686163",
     "quote_size": null,
     "side": "buy",
-    "limit_price": 1077.61
+    "limit_price": 1074.61
   },
   {
     "average_fill_price": null,
@@ -512,7 +512,7 @@
     "created_at": "2025-11-06T14:53:55.961621Z",
     "state": "open",
     "stop_price": null,
-    "updated_at": "2025-11-13T13:33:21.096948Z",
+    "updated_at": "2025-11-13T13:33:29.671950Z",
     "trail_amount": null,
     "id": 1024279207,
     "bracket_take_profit_limit_price": null,
@@ -567,11 +567,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-13T13:33:21.096Z"
+      "user_updated_at": "2025-11-13T13:33:29.670Z"
     },
     "paid_commission": "1.46996809",
     "quote_size": null,
     "side": "buy",
-    "limit_price": 598.71
+    "limit_price": 600.41
   }
 ]
