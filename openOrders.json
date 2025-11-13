@@ -73,7 +73,7 @@
     "created_at": "2025-11-13T18:04:01.709373Z",
     "state": "open",
     "stop_price": null,
-    "updated_at": "2025-11-13T23:58:34.381999Z",
+    "updated_at": "2025-11-13T23:58:59.271245Z",
     "trail_amount": null,
     "id": 1035417152,
     "bracket_take_profit_limit_price": null,
@@ -126,12 +126,12 @@
       "ip": "2409:40e5:1d:1015:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-13T23:58:34.381Z"
+      "user_updated_at": "2025-11-13T23:58:59.270Z"
     },
     "paid_commission": "0",
     "quote_size": null,
     "side": "sell",
-    "limit_price": 1786.79
+    "limit_price": 1786.09
   },
   {
     "average_fill_price": "2547.84",
@@ -140,7 +140,7 @@
     "created_at": "2025-11-13T10:41:02.738449Z",
     "state": "open",
     "stop_price": null,
-    "updated_at": "2025-11-13T23:58:34.759965Z",
+    "updated_at": "2025-11-13T23:58:59.918918Z",
     "trail_amount": null,
     "id": 1034593775,
     "bracket_take_profit_limit_price": null,
@@ -195,12 +195,12 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-13T23:58:34.759Z"
+      "user_updated_at": "2025-11-13T23:58:59.918Z"
     },
     "paid_commission": "0.10126575",
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2491.09
+    "limit_price": 2490.79
   },
   {
     "average_fill_price": "1052.499928057553956835",
@@ -209,7 +209,7 @@
     "created_at": "2025-11-10T10:22:20.515998Z",
     "state": "open",
     "stop_price": null,
-    "updated_at": "2025-11-13T23:58:35.714817Z",
+    "updated_at": "2025-11-13T23:58:58.990111Z",
     "trail_amount": null,
     "id": 1030085717,
     "bracket_take_profit_limit_price": null,
@@ -303,12 +303,12 @@
       "pnl": "-110.46086544",
       "roe": "8.167077207033862967505753952",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-13T23:58:35.714Z"
+      "user_updated_at": "2025-11-13T23:58:58.989Z"
     },
     "paid_commission": "0.85686163",
     "quote_size": null,
     "side": "buy",
-    "limit_price": 1267.71
+    "limit_price": "1267.71"
   },
   {
     "average_fill_price": null,
