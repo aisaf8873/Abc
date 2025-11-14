@@ -84,7 +84,7 @@
     "bracket_order": null,
     "commission": "0",
     "reduce_only": false,
-    "limit_price": "1845.79",
+    "limit_price": 1845.79,
     "close_on_trigger": "false",
     "stop_price": null,
     "product": {
@@ -140,7 +140,7 @@
     "average_fill_price": "2547.84",
     "mmp": "disabled",
     "trail_amount": null,
-    "updated_at": "2025-11-14T06:15:40.813483Z",
+    "updated_at": "2025-11-14T06:15:44.082745Z",
     "unfilled_size": 382,
     "state": "open",
     "id": 1034593775,
@@ -151,7 +151,7 @@
     "bracket_order": null,
     "commission": "0",
     "reduce_only": false,
-    "limit_price": 2552.39,
+    "limit_price": 2548.17,
     "close_on_trigger": "false",
     "stop_price": null,
     "product": {
@@ -187,7 +187,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-14T06:15:40.812Z"
+      "user_updated_at": "2025-11-14T06:15:44.070Z"
     },
     "side": "sell",
     "order_type": "limit_order",
