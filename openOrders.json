@@ -1,10 +1,75 @@
 [
   {
     "bracket_stop_loss_price": null,
+    "average_fill_price": null,
+    "user_id": 21672861,
+    "quote_size": null,
+    "limit_price": "9.1",
+    "state": "open",
+    "cancellation_reason": null,
+    "id": 1039201763,
+    "product_symbol": "C-ETH-3240-161125",
+    "stop_price": null,
+    "unfilled_size": 1,
+    "client_order_id": null,
+    "bracket_take_profit_limit_price": null,
+    "side": "buy",
+    "bracket_trail_amount": null,
+    "stop_order_type": null,
+    "time_in_force": "gtc",
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "paid_commission": "0",
+    "trail_amount": null,
+    "mmp": "disabled",
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 106548,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "C-ETH-3240-161125",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "bracket_stop_loss_limit_price": null,
+    "bracket_take_profit_price": null,
+    "size": 1,
+    "commission": "0",
+    "stop_trigger_method": null,
+    "created_at": "2025-11-16T09:52:43.135533Z",
+    "bracket_order": null,
+    "reduce_only": false,
+    "product_id": 106548,
+    "order_type": "limit_order",
+    "updated_at": "2025-11-16T09:52:43.135533Z"
+  },
+  {
+    "bracket_stop_loss_price": null,
     "average_fill_price": "1796.3",
     "user_id": 21672861,
     "quote_size": null,
-    "limit_price": "1727.41",
+    "limit_price": 1727.81,
     "state": "open",
     "cancellation_reason": null,
     "id": 1035429567,
@@ -38,7 +103,7 @@
       "pnl": "0.1518",
       "roe": "-0.8446049329824346655242058878",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-16T09:52:24.716Z"
+      "user_updated_at": "2025-11-16T09:52:50.884Z"
     },
     "paid_commission": "0.05611802",
     "trail_amount": null,
@@ -80,14 +145,14 @@
     "reduce_only": false,
     "product_id": 103980,
     "order_type": "limit_order",
-    "updated_at": "2025-11-16T09:52:24.716924Z"
+    "updated_at": "2025-11-16T09:52:50.884348Z"
   },
   {
     "bracket_stop_loss_price": null,
     "average_fill_price": "1799.161428571428571429",
     "user_id": 21672861,
     "quote_size": null,
-    "limit_price": "1777.39",
+    "limit_price": "1777.09",
     "state": "open",
     "cancellation_reason": null,
     "id": 1035417152,
@@ -121,7 +186,7 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-16T09:52:24.474Z"
+      "user_updated_at": "2025-11-16T09:52:49.573Z"
     },
     "paid_commission": "0.11973031",
     "trail_amount": null,
@@ -163,14 +228,14 @@
     "reduce_only": false,
     "product_id": 103980,
     "order_type": "limit_order",
-    "updated_at": "2025-11-16T09:52:24.474539Z"
+    "updated_at": "2025-11-16T09:52:49.573615Z"
   },
   {
     "bracket_stop_loss_price": null,
     "average_fill_price": "2498.004772727272727273",
     "user_id": 21672861,
     "quote_size": null,
-    "limit_price": "2484.19",
+    "limit_price": 2482.68,
     "state": "open",
     "cancellation_reason": null,
     "id": 1034593775,
@@ -189,7 +254,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-16T09:52:25.512Z"
+      "user_updated_at": "2025-11-16T09:52:50.712Z"
     },
     "paid_commission": "0.50268813",
     "trail_amount": null,
@@ -231,7 +296,7 @@
     "reduce_only": false,
     "product_id": 98702,
     "order_type": "limit_order",
-    "updated_at": "2025-11-16T09:52:25.513442Z"
+    "updated_at": "2025-11-16T09:52:50.713459Z"
   },
   {
     "bracket_stop_loss_price": null,
