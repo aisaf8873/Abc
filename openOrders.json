@@ -107,9 +107,9 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103980,
-    "limit_price": 1918.49,
+    "limit_price": "1918.39",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-16T23:49:17.033211Z",
+    "updated_at": "2025-11-16T23:50:07.171582Z",
     "size": 300,
     "created_at": "2025-11-13T18:04:01.709373Z",
     "meta_data": {
@@ -133,7 +133,7 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-16T23:49:17.032Z"
+      "user_updated_at": "2025-11-16T23:50:07.171Z"
     },
     "order_type": "limit_order",
     "product": {
@@ -190,9 +190,9 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 98702,
-    "limit_price": "2630.79",
+    "limit_price": "2628.89",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-16T23:49:26.746573Z",
+    "updated_at": "2025-11-16T23:50:04.865601Z",
     "size": 400,
     "created_at": "2025-11-13T10:41:02.738449Z",
     "meta_data": {
@@ -201,7 +201,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-16T23:49:26.746Z"
+      "user_updated_at": "2025-11-16T23:50:04.862Z"
     },
     "order_type": "limit_order",
     "product": {
@@ -258,9 +258,9 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 103961,
-    "limit_price": "1389.31",
+    "limit_price": "1387.51",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-16T23:48:27.738364Z",
+    "updated_at": "2025-11-16T23:50:05.268661Z",
     "size": 600,
     "created_at": "2025-11-10T10:22:20.515998Z",
     "meta_data": {
@@ -332,7 +332,7 @@
       "pnl": "-133.11525848",
       "roe": "9.370181585214548118105866311",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-16T23:48:27.738Z"
+      "user_updated_at": "2025-11-16T23:50:05.268Z"
     },
     "order_type": "limit_order",
     "product": {
