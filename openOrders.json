@@ -153,7 +153,7 @@
     "side": "buy",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "2529.71",
+    "limit_price": 2531.81,
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -244,7 +244,7 @@
     "side": "buy",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "1838.71",
+    "limit_price": 1840.71,
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -294,7 +294,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0.39771757",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-18T16:11:16.735637Z",
+    "updated_at": "2025-11-18T16:11:42.320042Z",
     "state": "open",
     "reduce_only": false,
     "id": 1035417152,
@@ -320,14 +320,14 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-18T16:11:16.735Z"
+      "user_updated_at": "2025-11-18T16:11:42.319Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": 1892.89,
+    "limit_price": 1891.08,
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -377,7 +377,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0.50794953",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-18T16:11:17.039128Z",
+    "updated_at": "2025-11-18T16:11:39.330056Z",
     "state": "open",
     "reduce_only": false,
     "id": 1034593775,
@@ -388,14 +388,14 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-18T16:11:17.038Z"
+      "user_updated_at": "2025-11-18T16:11:39.329Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": 2602.89,
+    "limit_price": "2602.89",
     "bracket_order": null,
     "trail_amount": null,
     "product": {
