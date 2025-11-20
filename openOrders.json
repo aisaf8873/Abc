@@ -208,7 +208,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-20T18:25:26.426386Z",
+    "updated_at": "2025-11-20T18:25:42.896273Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
     "paid_commission": "0.00517777",
@@ -227,7 +227,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-20T18:25:26.425Z"
+      "user_updated_at": "2025-11-20T18:25:42.895Z"
     },
     "size": 300,
     "product": {
@@ -259,7 +259,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2909.99,
+    "limit_price": "2908.99",
     "bracket_order": null
   },
   {
@@ -441,7 +441,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-20T18:25:25.674260Z",
+    "updated_at": "2025-11-20T18:25:43.863516Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
     "paid_commission": "0.39771757",
@@ -475,7 +475,7 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-20T18:25:25.673Z"
+      "user_updated_at": "2025-11-20T18:25:43.863Z"
     },
     "size": 380,
     "product": {
@@ -507,7 +507,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2187.38,
+    "limit_price": "2188.09",
     "bracket_order": null
   },
   {
@@ -524,7 +524,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-20T18:25:19.882375Z",
+    "updated_at": "2025-11-20T18:25:38.413924Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
     "paid_commission": "1.90085503",
@@ -638,7 +638,7 @@
       "pnl": "-786.45950792",
       "roe": "24.79315673247828934456893383",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-20T18:25:19.882Z"
+      "user_updated_at": "2025-11-20T18:25:38.413Z"
     },
     "size": 600,
     "product": {
@@ -670,7 +670,7 @@
     },
     "quote_size": null,
     "side": "buy",
-    "limit_price": "1643.11",
+    "limit_price": "1640.71",
     "bracket_order": null
   }
 ]
