@@ -90,9 +90,9 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "product_id": 98702,
-    "limit_price": 2913.39,
+    "limit_price": "2913.39",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-23T20:03:37.451160Z",
+    "updated_at": "2025-11-23T20:04:02.184081Z",
     "size": 590,
     "created_at": "2025-11-18T18:31:32.379754Z",
     "meta_data": {
@@ -101,7 +101,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T20:03:37.450Z"
+      "user_updated_at": "2025-11-23T20:04:02.183Z"
     },
     "order_type": "limit_order",
     "product": {
