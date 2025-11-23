@@ -4,7 +4,7 @@
     "average_fill_price": "2898.626596858638743456",
     "user_id": 21672861,
     "quote_size": null,
-    "limit_price": "2921.29",
+    "limit_price": 2919.79,
     "state": "open",
     "cancellation_reason": null,
     "id": 1043516790,
@@ -72,7 +72,7 @@
     "average_fill_price": null,
     "user_id": 21672861,
     "quote_size": null,
-    "limit_price": "2839.41",
+    "limit_price": "2837.61",
     "state": "open",
     "cancellation_reason": null,
     "id": 1042659956,
@@ -89,7 +89,7 @@
       "ip": "2409:40e5:100c:eace:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T09:50:46.792Z"
+      "user_updated_at": "2025-11-23T09:54:01.773Z"
     },
     "paid_commission": "0",
     "trail_amount": null,
@@ -131,7 +131,7 @@
     "reduce_only": false,
     "product_id": 98702,
     "order_type": "limit_order",
-    "updated_at": "2025-11-23T09:50:46.792494Z"
+    "updated_at": "2025-11-23T09:54:01.773750Z"
   },
   {
     "bracket_stop_loss_price": null,
@@ -237,7 +237,7 @@
     "average_fill_price": "2068.443571428571428572",
     "user_id": 21672861,
     "quote_size": null,
-    "limit_price": "2199.99",
+    "limit_price": "2199.09",
     "state": "open",
     "cancellation_reason": null,
     "id": 1035417152,
@@ -271,7 +271,7 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T09:53:35.479Z"
+      "user_updated_at": "2025-11-23T09:54:00.299Z"
     },
     "paid_commission": "0.73043368",
     "trail_amount": null,
@@ -313,14 +313,14 @@
     "reduce_only": false,
     "product_id": 103980,
     "order_type": "limit_order",
-    "updated_at": "2025-11-23T09:53:35.479625Z"
+    "updated_at": "2025-11-23T09:54:00.300122Z"
   },
   {
     "bracket_stop_loss_price": null,
     "average_fill_price": "1378.312088607594936709",
     "user_id": 21672861,
     "quote_size": null,
-    "limit_price": "1654.41",
+    "limit_price": "1652.51",
     "state": "open",
     "cancellation_reason": null,
     "id": 1030085717,
@@ -466,7 +466,7 @@
       "pnl": "-1921.02964635",
       "roe": "41.65132227538951147072671209",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-23T09:50:52.611Z"
+      "user_updated_at": "2025-11-23T09:53:58.596Z"
     },
     "paid_commission": "2.61487056",
     "trail_amount": null,
@@ -508,6 +508,6 @@
     "reduce_only": false,
     "product_id": 103961,
     "order_type": "limit_order",
-    "updated_at": "2025-11-23T09:50:52.611752Z"
+    "updated_at": "2025-11-23T09:53:58.597225Z"
   }
 ]
