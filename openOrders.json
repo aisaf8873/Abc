@@ -15,7 +15,7 @@
     "paid_commission": "0.95920984",
     "side": "sell",
     "cancellation_reason": null,
-    "updated_at": "2025-11-24T14:54:01.172203Z",
+    "updated_at": "2025-11-24T14:54:02.248228Z",
     "bracket_order": null,
     "product_id": 98702,
     "bracket_take_profit_price": null,
@@ -25,7 +25,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T14:54:01.171Z"
+      "user_updated_at": "2025-11-24T14:54:02.247Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": "2924.19",
+    "limit_price": 2928.69,
     "average_fill_price": "2898.626596858638743456"
   },
   {
@@ -130,7 +130,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": "2838.21",
+    "limit_price": 2842.11,
     "average_fill_price": null
   },
   {
@@ -149,7 +149,7 @@
     "paid_commission": "0.20546535",
     "side": "buy",
     "cancellation_reason": null,
-    "updated_at": "2025-11-24T14:53:47.290302Z",
+    "updated_at": "2025-11-24T14:54:02.581123Z",
     "bracket_order": null,
     "product_id": 103980,
     "bracket_take_profit_price": null,
@@ -206,7 +206,7 @@
       "pnl": "-13.03469421",
       "roe": "2.371875514674284246647818544",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T14:53:47.289Z"
+      "user_updated_at": "2025-11-24T14:54:02.580Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
@@ -245,7 +245,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": "2139.01",
+    "limit_price": 2139.81,
     "average_fill_price": "1906.304736842105263158"
   },
   {
@@ -264,7 +264,7 @@
     "paid_commission": "0.77015751",
     "side": "sell",
     "cancellation_reason": null,
-    "updated_at": "2025-11-24T14:53:44.878727Z",
+    "updated_at": "2025-11-24T14:54:02.987524Z",
     "bracket_order": null,
     "product_id": 103980,
     "bracket_take_profit_price": null,
@@ -289,7 +289,7 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-24T14:53:44.878Z"
+      "user_updated_at": "2025-11-24T14:54:02.987Z"
     },
     "mmp": "disabled",
     "trail_amount": null,
@@ -328,7 +328,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": 2201.99,
+    "limit_price": 2204.89,
     "average_fill_price": "2075.965000000000000001"
   },
   {
@@ -523,7 +523,7 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": "1652.71",
+    "limit_price": 1654.71,
     "average_fill_price": "1378.312088607594936709"
   }
 ]
