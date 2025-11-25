@@ -25,7 +25,7 @@
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "2812.49",
+    "limit_price": 2810.29,
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -75,7 +75,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-25T03:26:32.788975Z",
+    "updated_at": "2025-11-25T03:27:04.755167Z",
     "state": "open",
     "reduce_only": false,
     "id": 1042659956,
@@ -84,14 +84,14 @@
       "ip": "2409:40e5:100c:eace:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T03:26:32.788Z"
+      "user_updated_at": "2025-11-25T03:27:04.754Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
     "side": "buy",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "2732.91",
+    "limit_price": "2730.81",
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -141,7 +141,7 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0.20546535",
     "time_in_force": "gtc",
-    "updated_at": "2025-11-25T03:26:30.834634Z",
+    "updated_at": "2025-11-25T03:27:03.886454Z",
     "state": "open",
     "reduce_only": false,
     "id": 1035429567,
@@ -199,14 +199,14 @@
       "pnl": "-13.03469421",
       "roe": "2.371875514674284246647818544",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T03:26:30.834Z"
+      "user_updated_at": "2025-11-25T03:27:03.886Z"
     },
     "commission": "0",
     "bracket_trail_amount": null,
     "side": "buy",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "2032.01",
+    "limit_price": "2030.01",
     "bracket_order": null,
     "trail_amount": null,
     "product": {
@@ -289,7 +289,7 @@
     "side": "sell",
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "2090.79",
+    "limit_price": 2088.49,
     "bracket_order": null,
     "trail_amount": null,
     "product": {
