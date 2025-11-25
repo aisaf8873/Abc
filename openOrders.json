@@ -64,7 +64,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2840.49,
+    "limit_price": 2840.19,
     "bracket_order": null
   },
   {
@@ -81,7 +81,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T15:57:46.288390Z",
+    "updated_at": "2025-11-25T15:58:08.519641Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
     "paid_commission": "0",
@@ -98,7 +98,7 @@
       "ip": "2409:40e5:100c:eace:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T15:57:46.288Z"
+      "user_updated_at": "2025-11-25T15:58:08.516Z"
     },
     "size": 500,
     "product": {
@@ -147,7 +147,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T15:57:10.756025Z",
+    "updated_at": "2025-11-25T15:58:10.511062Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
     "paid_commission": "0.20546535",
@@ -213,7 +213,7 @@
       "pnl": "-13.03469421",
       "roe": "2.371875514674284246647818544",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T15:57:10.751Z"
+      "user_updated_at": "2025-11-25T15:58:10.510Z"
     },
     "size": 140,
     "product": {
@@ -262,7 +262,7 @@
     "bracket_take_profit_price": null,
     "mmp": "disabled",
     "reduce_only": false,
-    "updated_at": "2025-11-25T15:58:01.451639Z",
+    "updated_at": "2025-11-25T15:58:10.719169Z",
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
     "paid_commission": "0.77015751",
@@ -296,7 +296,7 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T15:58:01.451Z"
+      "user_updated_at": "2025-11-25T15:58:10.718Z"
     },
     "size": 380,
     "product": {
@@ -328,7 +328,7 @@
     },
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2117.99,
+    "limit_price": "2117.99",
     "bracket_order": null
   },
   {
@@ -539,7 +539,7 @@
     },
     "quote_size": null,
     "side": "buy",
-    "limit_price": 1573.41,
+    "limit_price": "1576.21",
     "bracket_order": null
   }
 ]
