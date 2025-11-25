@@ -5,9 +5,9 @@
     "time_in_force": "gtc",
     "order_type": "limit_order",
     "stop_trigger_method": null,
-    "updated_at": "2025-11-25T16:14:23.313049Z",
+    "updated_at": "2025-11-25T16:13:59.286864Z",
     "created_at": "2025-11-18T18:31:32.379754Z",
-    "limit_price": "2842.19",
+    "limit_price": 2842.89,
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -53,7 +53,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T16:14:23.312Z"
+      "user_updated_at": "2025-11-25T16:13:59.286Z"
     },
     "bracket_stop_loss_price": null,
     "product_id": 98702,
@@ -73,7 +73,7 @@
     "time_in_force": "gtc",
     "order_type": "limit_order",
     "stop_trigger_method": null,
-    "updated_at": "2025-11-25T16:14:20.292069Z",
+    "updated_at": "2025-11-25T16:14:07.937747Z",
     "created_at": "2025-11-18T10:43:40.916721Z",
     "limit_price": 2763.11,
     "bracket_take_profit_limit_price": null,
@@ -119,7 +119,7 @@
       "ip": "2409:40e5:100c:eace:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T16:14:20.291Z"
+      "user_updated_at": "2025-11-25T16:14:07.937Z"
     },
     "bracket_stop_loss_price": null,
     "product_id": 98702,
@@ -254,9 +254,9 @@
     "time_in_force": "gtc",
     "order_type": "limit_order",
     "stop_trigger_method": null,
-    "updated_at": "2025-11-25T16:14:23.487670Z",
+    "updated_at": "2025-11-25T16:14:04.708227Z",
     "created_at": "2025-11-13T18:04:01.709373Z",
-    "limit_price": "2119.39",
+    "limit_price": 2121.19,
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -317,7 +317,7 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-25T16:14:23.487Z"
+      "user_updated_at": "2025-11-25T16:14:04.707Z"
     },
     "bracket_stop_loss_price": null,
     "product_id": 103980,
