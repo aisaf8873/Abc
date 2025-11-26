@@ -2,7 +2,7 @@
   {
     "product_symbol": "P-ETH-5700-281125",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-26T10:40:42.423358Z",
+    "updated_at": "2025-11-26T10:41:06.933250Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -44,7 +44,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T10:40:42.421Z"
+      "user_updated_at": "2025-11-26T10:41:06.932Z"
     },
     "cancellation_reason": null,
     "commission": "0",
@@ -64,13 +64,13 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2826.29,
+    "limit_price": "2826.29",
     "trail_amount": null
   },
   {
     "product_symbol": "P-ETH-5700-281125",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-26T10:40:22.863988Z",
+    "updated_at": "2025-11-26T10:41:19.920831Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -110,7 +110,7 @@
       "ip": "2409:40e5:100c:eace:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T10:40:22.863Z"
+      "user_updated_at": "2025-11-26T10:41:19.920Z"
     },
     "cancellation_reason": null,
     "commission": "0",
@@ -130,7 +130,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "2745.31",
+    "limit_price": 2744.31,
     "trail_amount": null
   },
   {
@@ -251,7 +251,7 @@
   {
     "product_symbol": "P-ETH-5000-261225",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-26T10:40:36.862276Z",
+    "updated_at": "2025-11-26T10:41:02.480988Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -308,7 +308,7 @@
       "pnl": "-0.05280001",
       "roe": "-0.01468399111544544212339370702",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T10:40:36.861Z"
+      "user_updated_at": "2025-11-26T10:41:02.480Z"
     },
     "cancellation_reason": null,
     "commission": "0",
@@ -328,7 +328,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "sell",
-    "limit_price": 2102.79,
+    "limit_price": 2101.19,
     "trail_amount": null
   },
   {
