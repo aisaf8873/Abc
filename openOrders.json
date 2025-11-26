@@ -10,7 +10,7 @@
     "id": 1043516790,
     "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "limit_price": 2827.79,
+    "limit_price": "2827.79",
     "commission": "0",
     "product": {
       "contract_type": "put_options",
@@ -48,7 +48,7 @@
     "stop_price": null,
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-11-26T10:48:21.659593Z",
+    "updated_at": "2025-11-26T10:48:47.414791Z",
     "trail_amount": null,
     "time_in_force": "gtc",
     "unfilled_size": 399,
@@ -59,7 +59,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-26T10:48:21.659Z"
+      "user_updated_at": "2025-11-26T10:48:47.414Z"
     },
     "size": 590,
     "paid_commission": "0.95920984",
@@ -259,7 +259,7 @@
     "id": 1035417152,
     "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "limit_price": "2104.29",
+    "limit_price": 2104.49,
     "commission": "0",
     "product": {
       "contract_type": "put_options",
