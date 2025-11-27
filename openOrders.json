@@ -62,13 +62,13 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "2668.31",
+    "limit_price": 2667.01,
     "trail_amount": null
   },
   {
     "product_symbol": "P-ETH-5000-261225",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-27T16:50:09.907871Z",
+    "updated_at": "2025-11-27T16:51:04.463549Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -165,7 +165,7 @@
       "pnl": "3.43156889",
       "roe": "-0.4490409938194397978104877489",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-27T16:50:09.907Z"
+      "user_updated_at": "2025-11-27T16:51:04.463Z"
     },
     "cancellation_reason": null,
     "commission": "0",
@@ -185,7 +185,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "1958.71",
+    "limit_price": "1957.51",
     "trail_amount": null
   }
 ]
