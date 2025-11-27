@@ -1,17 +1,40 @@
 [
   {
     "product_symbol": "P-ETH-5700-281125",
-    "order_type": "limit_order",
-    "bracket_trail_amount": null,
+    "client_order_id": null,
+    "bracket_stop_loss_price": null,
+    "stop_trigger_method": null,
+    "meta_data": {
+      "ip": "2409:40e5:100c:eace:8000::",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-11-27T18:22:42.534Z"
+    },
+    "stop_price": null,
+    "side": "buy",
+    "limit_price": "2665.21",
+    "state": "open",
+    "bracket_order": null,
+    "user_id": 21672861,
+    "reduce_only": false,
     "bracket_take_profit_limit_price": null,
     "cancellation_reason": null,
-    "state": "open",
-    "user_id": 21672861,
     "id": 1042659956,
-    "mmp": "disabled",
-    "bracket_take_profit_price": null,
-    "limit_price": "2663.71",
+    "average_fill_price": null,
+    "paid_commission": "0",
+    "bracket_trail_amount": null,
+    "time_in_force": "gtc",
     "commission": "0",
+    "quote_size": null,
+    "product_id": 98702,
+    "created_at": "2025-11-18T10:43:40.916721Z",
+    "order_type": "limit_order",
+    "bracket_take_profit_price": null,
+    "unfilled_size": 500,
+    "stop_order_type": null,
+    "size": 500,
+    "mmp": "disabled",
+    "trail_amount": null,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -39,86 +62,14 @@
         "symbol": "ETH"
       }
     },
-    "side": "buy",
-    "stop_order_type": null,
-    "average_fill_price": null,
-    "client_order_id": null,
-    "created_at": "2025-11-18T10:43:40.916721Z",
-    "product_id": 98702,
-    "stop_price": null,
-    "reduce_only": false,
-    "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-11-27T18:22:38.321268Z",
-    "trail_amount": null,
-    "time_in_force": "gtc",
-    "unfilled_size": 500,
-    "quote_size": null,
-    "meta_data": {
-      "ip": "2409:40e5:100c:eace:8000::",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2025-11-27T18:22:38.320Z"
-    },
-    "size": 500,
-    "paid_commission": "0",
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "bracket_stop_loss_price": null
+    "updated_at": "2025-11-27T18:22:42.534417Z",
+    "bracket_stop_loss_limit_price": null
   },
   {
     "product_symbol": "P-ETH-5000-261225",
-    "order_type": "limit_order",
-    "bracket_trail_amount": null,
-    "bracket_take_profit_limit_price": null,
-    "cancellation_reason": null,
-    "state": "open",
-    "user_id": 21672861,
-    "id": 1035429567,
-    "mmp": "disabled",
-    "bracket_take_profit_price": null,
-    "limit_price": "1955.11",
-    "commission": "0",
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 103980,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "P-ETH-5000-261225",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "side": "buy",
-    "stop_order_type": null,
-    "average_fill_price": "1922.035",
     "client_order_id": null,
-    "created_at": "2025-11-13T18:08:00.838793Z",
-    "product_id": 103980,
-    "stop_price": null,
-    "reduce_only": false,
-    "bracket_stop_loss_limit_price": null,
-    "updated_at": "2025-11-27T18:22:41.631873Z",
-    "trail_amount": null,
-    "time_in_force": "gtc",
-    "unfilled_size": 100,
-    "quote_size": null,
+    "bracket_stop_loss_price": null,
+    "stop_trigger_method": null,
     "meta_data": {
       "avg_exit_price": "1950.686923076923076923076923",
       "cashflow": "-922.5768",
@@ -182,10 +133,59 @@
       "source": "mobile_app_android",
       "user_updated_at": "2025-11-27T18:22:41.631Z"
     },
-    "size": 148,
-    "paid_commission": "0.25848818",
+    "stop_price": null,
+    "side": "buy",
+    "limit_price": "1955.11",
+    "state": "open",
     "bracket_order": null,
-    "stop_trigger_method": null,
-    "bracket_stop_loss_price": null
+    "user_id": 21672861,
+    "reduce_only": false,
+    "bracket_take_profit_limit_price": null,
+    "cancellation_reason": null,
+    "id": 1035429567,
+    "average_fill_price": "1922.035",
+    "paid_commission": "0.25848818",
+    "bracket_trail_amount": null,
+    "time_in_force": "gtc",
+    "commission": "0",
+    "quote_size": null,
+    "product_id": 103980,
+    "created_at": "2025-11-13T18:08:00.838793Z",
+    "order_type": "limit_order",
+    "bracket_take_profit_price": null,
+    "unfilled_size": 100,
+    "stop_order_type": null,
+    "size": 148,
+    "mmp": "disabled",
+    "trail_amount": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 103980,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-5000-261225",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "updated_at": "2025-11-27T18:22:41.631873Z",
+    "bracket_stop_loss_limit_price": null
   }
 ]
