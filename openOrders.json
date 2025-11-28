@@ -1,16 +1,19 @@
 [
   {
-    "product_symbol": "C-ETH-2300-300126",
-    "updated_at": "2025-11-28T10:24:41.643230Z",
     "bracket_take_profit_limit_price": null,
-    "average_fill_price": null,
-    "bracket_stop_loss_limit_price": null,
+    "product_symbol": "C-ETH-2300-300126",
+    "paid_commission": "0",
+    "user_id": 21672861,
+    "side": "buy",
+    "meta_data": {
+      "ip": "2409:40e5:1126:8366:8000::",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-11-28T10:24:41.642Z"
+    },
     "time_in_force": "gtc",
-    "order_type": "limit_order",
-    "stop_trigger_method": null,
-    "state": "open",
     "unfilled_size": 200,
-    "id": 1059421881,
+    "updated_at": "2025-11-28T10:24:41.643230Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -38,45 +41,62 @@
         "symbol": "ETH"
       }
     },
-    "trail_amount": null,
-    "mmp": "disabled",
-    "bracket_stop_loss_price": null,
-    "side": "buy",
+    "state": "open",
+    "cancellation_reason": null,
     "bracket_order": null,
+    "quote_size": null,
+    "id": 1059421881,
+    "bracket_take_profit_price": null,
     "stop_price": null,
-    "user_id": 21672861,
+    "commission": "0",
     "stop_order_type": null,
+    "mmp": "disabled",
+    "average_fill_price": null,
+    "bracket_stop_loss_limit_price": null,
+    "trail_amount": null,
+    "reduce_only": false,
+    "bracket_trail_amount": null,
+    "stop_trigger_method": null,
+    "product_id": 107746,
     "limit_price": "846.31",
     "client_order_id": null,
-    "reduce_only": false,
-    "cancellation_reason": null,
-    "product_id": 107746,
-    "commission": "0",
-    "size": 200,
     "created_at": "2025-11-28T04:10:32.258366Z",
-    "paid_commission": "0",
-    "meta_data": {
-      "ip": "2409:40e5:1126:8366:8000::",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2025-11-28T10:24:41.642Z"
-    },
-    "quote_size": null,
-    "bracket_trail_amount": null,
-    "bracket_take_profit_price": null
+    "size": 200,
+    "order_type": "limit_order",
+    "bracket_stop_loss_price": null
   },
   {
-    "product_symbol": "P-ETH-5700-281125",
-    "updated_at": "2025-11-28T10:23:11.860797Z",
     "bracket_take_profit_limit_price": null,
-    "average_fill_price": "2672.91",
-    "bracket_stop_loss_limit_price": null,
+    "product_symbol": "P-ETH-5700-281125",
+    "paid_commission": "0.01600663",
+    "user_id": 21672861,
+    "side": "buy",
+    "meta_data": {
+      "avg_exit_price": "2672.91",
+      "cashflow": "-80.1873",
+      "entry_price": "2678.638037225042301185",
+      "exit_price_with_size": [
+        {
+          "price": "2672.91000000",
+          "size": "-3"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-80.35914111675126903555000000",
+          "pnl": "0.17184111"
+        }
+      ],
+      "ip": "2409:40e5:100c:eace:8000::",
+      "otc": false,
+      "pnl": "0.17184111",
+      "roe": "-0.2138413970233174285075148572",
+      "source": "mobile_app_android",
+      "user_updated_at": "2025-11-28T10:23:11.860Z"
+    },
     "time_in_force": "gtc",
-    "order_type": "limit_order",
-    "stop_trigger_method": null,
-    "state": "open",
     "unfilled_size": 497,
-    "id": 1042659956,
+    "updated_at": "2025-11-28T10:23:11.860797Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -104,48 +124,28 @@
         "symbol": "ETH"
       }
     },
-    "trail_amount": null,
-    "mmp": "disabled",
-    "bracket_stop_loss_price": null,
-    "side": "buy",
+    "state": "open",
+    "cancellation_reason": null,
     "bracket_order": null,
+    "quote_size": null,
+    "id": 1042659956,
+    "bracket_take_profit_price": null,
     "stop_price": null,
-    "user_id": 21672861,
+    "commission": "0",
     "stop_order_type": null,
+    "mmp": "disabled",
+    "average_fill_price": "2672.91",
+    "bracket_stop_loss_limit_price": null,
+    "trail_amount": null,
+    "reduce_only": false,
+    "bracket_trail_amount": null,
+    "stop_trigger_method": null,
+    "product_id": 98702,
     "limit_price": "2632.41",
     "client_order_id": null,
-    "reduce_only": false,
-    "cancellation_reason": null,
-    "product_id": 98702,
-    "commission": "0",
-    "size": 500,
     "created_at": "2025-11-18T10:43:40.916721Z",
-    "paid_commission": "0.01600663",
-    "meta_data": {
-      "avg_exit_price": "2672.91",
-      "cashflow": "-80.1873",
-      "entry_price": "2678.638037225042301185",
-      "exit_price_with_size": [
-        {
-          "price": "2672.91000000",
-          "size": "-3"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-80.35914111675126903555000000",
-          "pnl": "0.17184111"
-        }
-      ],
-      "ip": "2409:40e5:100c:eace:8000::",
-      "otc": false,
-      "pnl": "0.17184111",
-      "roe": "-0.2138413970233174285075148572",
-      "source": "mobile_app_android",
-      "user_updated_at": "2025-11-28T10:23:11.860Z"
-    },
-    "quote_size": null,
-    "bracket_trail_amount": null,
-    "bracket_take_profit_price": null
+    "size": 500,
+    "order_type": "limit_order",
+    "bracket_stop_loss_price": null
   }
 ]
