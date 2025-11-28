@@ -9,11 +9,11 @@
       "ip": "2409:40e4:1148:c07f:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-28T18:36:00.933Z"
+      "user_updated_at": "2025-11-28T18:36:22.151Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 100,
-    "updated_at": "2025-11-28T18:36:00.933632Z",
+    "updated_at": "2025-11-28T18:36:22.152267Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -58,7 +58,7 @@
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 107736,
-    "limit_price": "673.21",
+    "limit_price": "672.01",
     "client_order_id": null,
     "created_at": "2025-11-28T15:35:44.455911Z",
     "size": 100,
@@ -75,11 +75,11 @@
       "ip": "2409:40e5:1126:8366:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-28T18:35:42.471Z"
+      "user_updated_at": "2025-11-28T18:36:13.067Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 200,
-    "updated_at": "2025-11-28T18:35:42.471769Z",
+    "updated_at": "2025-11-28T18:36:13.068329Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -124,7 +124,7 @@
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 107737,
-    "limit_price": 747.51,
+    "limit_price": "747.51",
     "client_order_id": null,
     "created_at": "2025-11-28T12:30:35.155577Z",
     "size": 200,
@@ -141,11 +141,11 @@
       "ip": "2409:40e5:1126:8366:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-28T18:36:00.630Z"
+      "user_updated_at": "2025-11-28T18:36:22.570Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 200,
-    "updated_at": "2025-11-28T18:36:00.631179Z",
+    "updated_at": "2025-11-28T18:36:22.570683Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -190,7 +190,7 @@
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 107746,
-    "limit_price": "826.71",
+    "limit_price": "825.41",
     "client_order_id": null,
     "created_at": "2025-11-28T04:10:32.258366Z",
     "size": 200,
