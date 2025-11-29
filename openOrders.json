@@ -4,6 +4,73 @@
     "side": "sell",
     "bracket_stop_loss_price": null,
     "commission": "0",
+    "unfilled_size": 64,
+    "product_id": 109484,
+    "state": "open",
+    "paid_commission": "0.210276",
+    "quote_size": null,
+    "id": 1061128645,
+    "bracket_take_profit_price": null,
+    "bracket_order": null,
+    "mmp": "disabled",
+    "stop_price": null,
+    "bracket_take_profit_limit_price": null,
+    "stop_order_type": null,
+    "average_fill_price": "99",
+    "user_id": 21672861,
+    "reduce_only": false,
+    "bracket_stop_loss_limit_price": null,
+    "time_in_force": "gtc",
+    "stop_trigger_method": null,
+    "trail_amount": null,
+    "limit_price": "99",
+    "updated_at": "2025-11-29T07:29:50.553117Z",
+    "size": 100,
+    "meta_data": {
+      "cashflow": "3.564",
+      "ip": "2409:40e4:114c:742a:8000::",
+      "otc": false,
+      "pnl": "-0",
+      "source": "mobile_app_android"
+    },
+    "bracket_trail_amount": null,
+    "product_symbol": "C-BTC-91000-291125",
+    "cancellation_reason": null,
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 109484,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-91000-291125",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "order_type": "limit_order",
+    "created_at": "2025-11-29T07:29:33.857872Z"
+  },
+  {
+    "client_order_id": null,
+    "side": "sell",
+    "bracket_stop_loss_price": null,
+    "commission": "0",
     "unfilled_size": 200,
     "product_id": 109484,
     "state": "open",
@@ -154,7 +221,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "652.31",
+    "limit_price": 653.51,
     "updated_at": "2025-11-29T07:26:51.078020Z",
     "size": 103,
     "meta_data": {
@@ -222,7 +289,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "726.01",
+    "limit_price": 727.21,
     "updated_at": "2025-11-29T07:28:11.545234Z",
     "size": 200,
     "meta_data": {
@@ -288,7 +355,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "804.01",
+    "limit_price": 805.21,
     "updated_at": "2025-11-29T07:28:11.172888Z",
     "size": 200,
     "meta_data": {
