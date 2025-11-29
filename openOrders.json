@@ -2,7 +2,7 @@
   {
     "product_symbol": "C-BTC-91400-291125",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-29T07:38:00.709815Z",
+    "updated_at": "2025-11-29T07:38:18.854389Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
@@ -39,8 +39,10 @@
     "mmp": "disabled",
     "user_id": 21672861,
     "meta_data": {
+      "cashflow": "1",
       "ip": "2409:40e4:114c:742a:8000::",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android"
     },
     "cancellation_reason": null,
@@ -49,13 +51,13 @@
     "order_type": "limit_order",
     "bracket_take_profit_price": null,
     "created_at": "2025-11-29T07:38:00.709815Z",
-    "average_fill_price": null,
+    "average_fill_price": "50",
     "stop_trigger_method": null,
     "bracket_trail_amount": null,
     "product_id": 109495,
-    "unfilled_size": 100,
+    "unfilled_size": 80,
     "time_in_force": "gtc",
-    "paid_commission": "0",
+    "paid_commission": "0.059",
     "stop_order_type": null,
     "size": 100,
     "client_order_id": null,
@@ -456,7 +458,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "645.31",
+    "limit_price": 646.91,
     "trail_amount": null
   },
   {
@@ -522,7 +524,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "719.11",
+    "limit_price": 720.31,
     "trail_amount": null
   },
   {
@@ -588,7 +590,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "796.71",
+    "limit_price": 798.11,
     "trail_amount": null
   }
 ]
