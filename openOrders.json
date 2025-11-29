@@ -10,11 +10,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-29T09:35:15.258Z"
+      "user_updated_at": "2025-11-29T09:36:22.688Z"
     },
     "stop_price": null,
     "side": "buy",
-    "limit_price": 646.91,
+    "limit_price": "646.91",
     "state": "open",
     "bracket_order": null,
     "user_id": 21672861,
@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-29T09:35:15.258416Z",
+    "updated_at": "2025-11-29T09:36:22.689224Z",
     "bracket_stop_loss_limit_price": null
   },
   {
@@ -76,11 +76,11 @@
       "ip": "2409:40e5:1126:8366:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-29T09:35:14.497Z"
+      "user_updated_at": "2025-11-29T09:36:28.777Z"
     },
     "stop_price": null,
     "side": "buy",
-    "limit_price": "719.21",
+    "limit_price": "720.41",
     "state": "open",
     "bracket_order": null,
     "user_id": 21672861,
@@ -130,7 +130,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-29T09:35:14.497812Z",
+    "updated_at": "2025-11-29T09:36:28.777935Z",
     "bracket_stop_loss_limit_price": null
   },
   {
@@ -142,11 +142,11 @@
       "ip": "2409:40e5:1126:8366:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-29T09:35:14.664Z"
+      "user_updated_at": "2025-11-29T09:36:26.179Z"
     },
     "stop_price": null,
     "side": "buy",
-    "limit_price": "796.81",
+    "limit_price": "798.01",
     "state": "open",
     "bracket_order": null,
     "user_id": 21672861,
@@ -196,7 +196,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2025-11-29T09:35:14.665338Z",
+    "updated_at": "2025-11-29T09:36:26.180271Z",
     "bracket_stop_loss_limit_price": null
   }
 ]
