@@ -70,7 +70,7 @@
   {
     "product_symbol": "C-ETH-2400-300126",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-29T16:40:03.213969Z",
+    "updated_at": "2025-11-29T16:41:11.473761Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -110,7 +110,7 @@
       "ip": "2409:40e5:1126:8366:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-29T16:40:03.213Z"
+      "user_updated_at": "2025-11-29T16:41:11.473Z"
     },
     "cancellation_reason": null,
     "commission": "0",
@@ -130,7 +130,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": 720.61,
+    "limit_price": "720.61",
     "trail_amount": null
   },
   {
