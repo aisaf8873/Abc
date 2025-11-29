@@ -1,6 +1,71 @@
 [
   {
     "client_order_id": null,
+    "side": "sell",
+    "bracket_stop_loss_price": null,
+    "commission": "0",
+    "unfilled_size": 100,
+    "product_id": 109641,
+    "state": "open",
+    "paid_commission": "0",
+    "quote_size": null,
+    "id": 1061669715,
+    "bracket_take_profit_price": null,
+    "bracket_order": null,
+    "mmp": "disabled",
+    "stop_price": null,
+    "bracket_take_profit_limit_price": null,
+    "stop_order_type": null,
+    "average_fill_price": null,
+    "user_id": 21672861,
+    "reduce_only": false,
+    "bracket_stop_loss_limit_price": null,
+    "time_in_force": "gtc",
+    "stop_trigger_method": null,
+    "trail_amount": null,
+    "limit_price": "26",
+    "updated_at": "2025-11-29T17:17:19.677353Z",
+    "size": 100,
+    "meta_data": {
+      "ip": "2409:40e4:114c:742a:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "bracket_trail_amount": null,
+    "product_symbol": "P-BTC-88000-301125",
+    "cancellation_reason": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 109641,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "P-BTC-88000-301125",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "order_type": "limit_order",
+    "created_at": "2025-11-29T17:17:19.677353Z"
+  },
+  {
+    "client_order_id": null,
     "side": "buy",
     "bracket_stop_loss_price": null,
     "commission": "0",
@@ -105,7 +170,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "trail_amount": null,
-    "limit_price": "643.41",
+    "limit_price": 644.61,
     "updated_at": "2025-11-29T17:17:04.066179Z",
     "size": 200,
     "meta_data": {
