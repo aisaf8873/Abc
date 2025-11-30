@@ -62,13 +62,13 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "575.81",
+    "limit_price": 577.21,
     "trail_amount": null
   },
   {
     "product_symbol": "C-ETH-2500-300126",
     "bracket_stop_loss_price": null,
-    "updated_at": "2025-11-30T23:45:51.258542Z",
+    "updated_at": "2025-11-30T23:48:59.141682Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -110,7 +110,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-11-30T23:45:51.258Z"
+      "user_updated_at": "2025-11-30T23:48:59.141Z"
     },
     "cancellation_reason": null,
     "commission": "0",
@@ -130,7 +130,7 @@
     "client_order_id": null,
     "quote_size": null,
     "side": "buy",
-    "limit_price": "645.31",
+    "limit_price": 646.91,
     "trail_amount": null
   }
 ]
