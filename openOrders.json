@@ -11,11 +11,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-01T03:15:37.059Z"
+      "user_updated_at": "2025-12-01T03:16:01.109Z"
     },
     "time_in_force": "gtc",
     "unfilled_size": 201,
-    "updated_at": "2025-12-01T03:15:37.060376Z",
+    "updated_at": "2025-12-01T03:16:01.109463Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -60,7 +60,7 @@
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 107736,
-    "limit_price": 516.71,
+    "limit_price": "516.71",
     "client_order_id": null,
     "created_at": "2025-11-29T18:12:48.653287Z",
     "size": 301,
