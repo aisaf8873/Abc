@@ -1,21 +1,42 @@
 [
   {
-    "product_symbol": "C-ETH-2500-300126",
-    "updated_at": "2025-12-07T14:24:49.621181Z",
-    "bracket_take_profit_limit_price": null,
-    "average_fill_price": null,
-    "bracket_stop_loss_limit_price": null,
-    "time_in_force": "gtc",
-    "order_type": "limit_order",
-    "stop_trigger_method": null,
-    "state": "open",
+    "bracket_stop_loss_price": null,
+    "product_symbol": "ETHUSD",
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "trail_amount": null,
+    "client_order_id": null,
     "unfilled_size": 100,
-    "id": 1068643341,
+    "state": "open",
+    "bracket_take_profit_price": null,
+    "paid_commission": "0",
+    "quote_size": null,
+    "id": 1073183961,
+    "stop_price": null,
+    "cancellation_reason": null,
+    "stop_order_type": null,
+    "side": "sell",
+    "bracket_take_profit_limit_price": null,
+    "bracket_trail_amount": null,
+    "reduce_only": false,
+    "stop_trigger_method": null,
+    "time_in_force": "ioc",
+    "product_id": 3136,
+    "limit_price": "2813.15",
+    "bracket_stop_loss_limit_price": null,
+    "mmp": "disabled",
+    "size": 100,
+    "commission": "0",
+    "user_id": 21672861,
+    "bracket_order": null,
     "product": {
-      "contract_type": "call_options",
+      "contract_type": "perpetual_futures",
       "contract_unit_currency": "ETH",
       "contract_value": "0.01",
-      "id": 107736,
+      "id": 3136,
       "notional_type": "vanilla",
       "quoting_asset": {
         "minimum_precision": 2,
@@ -30,7 +51,72 @@
       "spot_index": {
         "symbol": ".DEETHUSD"
       },
-      "symbol": "C-ETH-2500-300126",
+      "symbol": "ETHUSD",
+      "tick_size": "0.05",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "order_type": "market_order",
+    "created_at": "2025-12-07T14:25:09.835302Z",
+    "updated_at": "2025-12-07T14:25:09.835302Z",
+    "average_fill_price": null
+  },
+  {
+    "bracket_stop_loss_price": null,
+    "product_symbol": "P-ETH-2500-300126",
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "trail_amount": null,
+    "client_order_id": null,
+    "unfilled_size": 100,
+    "state": "open",
+    "bracket_take_profit_price": null,
+    "paid_commission": "0",
+    "quote_size": null,
+    "id": 1073183829,
+    "stop_price": null,
+    "cancellation_reason": null,
+    "stop_order_type": null,
+    "side": "sell",
+    "bracket_take_profit_limit_price": null,
+    "bracket_trail_amount": null,
+    "reduce_only": false,
+    "stop_trigger_method": null,
+    "time_in_force": "ioc",
+    "product_id": 107733,
+    "limit_price": "19.29",
+    "bracket_stop_loss_limit_price": null,
+    "mmp": "disabled",
+    "size": 100,
+    "commission": "0",
+    "user_id": 21672861,
+    "bracket_order": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 107733,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-2500-300126",
       "tick_size": "0.01",
       "underlying_asset": {
         "minimum_precision": 4,
@@ -38,31 +124,9 @@
         "symbol": "ETH"
       }
     },
-    "trail_amount": null,
-    "mmp": "disabled",
-    "bracket_stop_loss_price": null,
-    "side": "buy",
-    "bracket_order": null,
-    "stop_price": null,
-    "user_id": 21672861,
-    "stop_order_type": null,
-    "limit_price": 605.81,
-    "client_order_id": null,
-    "reduce_only": false,
-    "cancellation_reason": null,
-    "product_id": 107736,
-    "commission": "0",
-    "size": 100,
-    "created_at": "2025-12-04T07:06:07.638151Z",
-    "paid_commission": "0",
-    "meta_data": {
-      "ip": "2409:40e4:11f7:70c9:8000::",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2025-12-07T14:24:49.620Z"
-    },
-    "quote_size": null,
-    "bracket_trail_amount": null,
-    "bracket_take_profit_price": null
+    "order_type": "market_order",
+    "created_at": "2025-12-07T14:25:08.663295Z",
+    "updated_at": "2025-12-07T14:25:08.663295Z",
+    "average_fill_price": null
   }
 ]
