@@ -1,17 +1,37 @@
 [
   {
+    "bracket_stop_loss_price": null,
     "product_symbol": "C-BTC-82000-121225",
-    "order_type": "limit_order",
-    "bracket_trail_amount": null,
-    "bracket_take_profit_limit_price": null,
-    "cancellation_reason": null,
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "trail_amount": null,
+    "client_order_id": null,
+    "unfilled_size": 1,
     "state": "open",
-    "user_id": 21672861,
-    "id": 1074058419,
-    "mmp": "disabled",
     "bracket_take_profit_price": null,
+    "paid_commission": "0",
+    "quote_size": null,
+    "id": 1074058419,
+    "stop_price": null,
+    "cancellation_reason": null,
+    "stop_order_type": null,
+    "side": "buy",
+    "bracket_take_profit_limit_price": null,
+    "bracket_trail_amount": null,
+    "reduce_only": false,
+    "stop_trigger_method": null,
+    "time_in_force": "gtc",
+    "product_id": 108482,
     "limit_price": "7628.1",
+    "bracket_stop_loss_limit_price": null,
+    "mmp": "disabled",
+    "size": 1,
     "commission": "0",
+    "user_id": 21672861,
+    "bracket_order": null,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
@@ -39,29 +59,9 @@
         "symbol": "BTC"
       }
     },
-    "side": "buy",
-    "stop_order_type": null,
-    "average_fill_price": null,
-    "client_order_id": null,
+    "order_type": "limit_order",
     "created_at": "2025-12-08T03:38:26.096700Z",
-    "product_id": 108482,
-    "stop_price": null,
-    "reduce_only": false,
-    "bracket_stop_loss_limit_price": null,
     "updated_at": "2025-12-08T03:38:26.096700Z",
-    "trail_amount": null,
-    "time_in_force": "gtc",
-    "unfilled_size": 1,
-    "quote_size": null,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "size": 1,
-    "paid_commission": "0",
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "bracket_stop_loss_price": null
+    "average_fill_price": null
   }
 ]
