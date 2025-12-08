@@ -1,39 +1,16 @@
 [
   {
-    "client_order_id": null,
-    "side": "buy",
-    "bracket_stop_loss_price": null,
-    "commission": "0",
-    "unfilled_size": 1,
-    "product_id": 108482,
-    "state": "open",
-    "paid_commission": "0",
-    "quote_size": null,
-    "id": 1074058419,
-    "bracket_take_profit_price": null,
-    "bracket_order": null,
-    "mmp": "disabled",
-    "stop_price": null,
+    "product_symbol": "C-BTC-82000-121225",
+    "updated_at": "2025-12-08T03:38:26.096700Z",
     "bracket_take_profit_limit_price": null,
-    "stop_order_type": null,
     "average_fill_price": null,
-    "user_id": 21672861,
-    "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
+    "order_type": "limit_order",
     "stop_trigger_method": null,
-    "trail_amount": null,
-    "limit_price": "7628.1",
-    "updated_at": "2025-12-08T03:38:26.096700Z",
-    "size": 1,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "bracket_trail_amount": null,
-    "product_symbol": "C-BTC-82000-121225",
-    "cancellation_reason": null,
+    "state": "open",
+    "unfilled_size": 1,
+    "id": 1074058419,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
@@ -61,7 +38,30 @@
         "symbol": "BTC"
       }
     },
-    "order_type": "limit_order",
-    "created_at": "2025-12-08T03:38:26.096700Z"
+    "trail_amount": null,
+    "mmp": "disabled",
+    "bracket_stop_loss_price": null,
+    "side": "buy",
+    "bracket_order": null,
+    "stop_price": null,
+    "user_id": 21672861,
+    "stop_order_type": null,
+    "limit_price": "7628.1",
+    "client_order_id": null,
+    "reduce_only": false,
+    "cancellation_reason": null,
+    "product_id": 108482,
+    "commission": "0",
+    "size": 1,
+    "created_at": "2025-12-08T03:38:26.096700Z",
+    "paid_commission": "0",
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "quote_size": null,
+    "bracket_trail_amount": null,
+    "bracket_take_profit_price": null
   }
 ]
