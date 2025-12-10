@@ -139,7 +139,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2025-12-10T14:28:39.868Z"
+      "user_updated_at": "2025-12-10T14:29:30.465Z"
     },
     "trail_amount": null,
     "client_order_id": null,
@@ -159,7 +159,7 @@
     "stop_trigger_method": null,
     "time_in_force": "gtc",
     "product_id": 107736,
-    "limit_price": 911.61,
+    "limit_price": "911.61",
     "bracket_stop_loss_limit_price": null,
     "mmp": "disabled",
     "size": 100,
@@ -195,7 +195,7 @@
     },
     "order_type": "limit_order",
     "created_at": "2025-12-09T17:29:14.959648Z",
-    "updated_at": "2025-12-10T14:28:39.869121Z",
+    "updated_at": "2025-12-10T14:29:30.465484Z",
     "average_fill_price": "963.41"
   }
 ]
