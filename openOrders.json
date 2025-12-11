@@ -1,39 +1,17 @@
 [
   {
     "product_symbol": "C-ETH-2850-121225",
-    "stop_trigger_method": null,
-    "trail_amount": null,
-    "bracket_take_profit_price": null,
-    "state": "open",
-    "id": 1079864907,
-    "stop_order_type": null,
-    "reduce_only": true,
-    "cancellation_reason": null,
     "order_type": "limit_order",
-    "user_id": 21672861,
     "bracket_trail_amount": null,
-    "commission": "0",
-    "bracket_stop_loss_limit_price": null,
-    "meta_data": {
-      "ip": "2409:40e5:bb:6f71:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
     "bracket_take_profit_limit_price": null,
-    "stop_price": null,
-    "bracket_stop_loss_price": null,
-    "product_id": 108734,
-    "bracket_order": null,
-    "quote_size": null,
+    "cancellation_reason": null,
+    "state": "open",
+    "user_id": 21672861,
+    "id": 1079864907,
     "mmp": "disabled",
-    "side": "sell",
-    "paid_commission": "0",
-    "average_fill_price": null,
-    "updated_at": "2025-12-11T16:21:26.846883Z",
-    "size": 3,
-    "client_order_id": null,
-    "created_at": "2025-12-11T16:21:26.846883Z",
+    "bracket_take_profit_price": null,
     "limit_price": "370",
+    "commission": "0",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -61,7 +39,29 @@
         "symbol": "ETH"
       }
     },
+    "side": "sell",
+    "stop_order_type": null,
+    "average_fill_price": null,
+    "client_order_id": null,
+    "created_at": "2025-12-11T16:21:26.846883Z",
+    "product_id": 108734,
+    "stop_price": null,
+    "reduce_only": true,
+    "bracket_stop_loss_limit_price": null,
+    "updated_at": "2025-12-11T16:21:26.846883Z",
+    "trail_amount": null,
     "time_in_force": "gtc",
-    "unfilled_size": 3
+    "unfilled_size": 3,
+    "quote_size": null,
+    "meta_data": {
+      "ip": "2409:40e5:bb:6f71:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "size": 3,
+    "paid_commission": "0",
+    "bracket_order": null,
+    "stop_trigger_method": null,
+    "bracket_stop_loss_price": null
   }
 ]
