@@ -1,44 +1,46 @@
 [
   {
-    "paid_commission": "0",
+    "paid_commission": "0.9290848",
     "order_type": "limit_order",
     "bracket_trail_amount": null,
     "state": "open",
     "bracket_stop_loss_limit_price": null,
-    "id": 1104720354,
-    "limit_price": "88",
+    "id": 1104720992,
+    "limit_price": "76",
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
     "bracket_order": null,
     "commission": "0",
-    "product_id": 114617,
+    "product_id": 114552,
     "side": "buy",
     "meta_data": {
+      "cashflow": "-22.496",
       "ip": "2409:40e4:1d:6110:8000::",
       "otc": false,
+      "pnl": "0",
       "source": "mobile_app_android"
     },
     "bracket_take_profit_limit_price": null,
-    "average_fill_price": null,
+    "average_fill_price": "76",
     "bracket_take_profit_price": null,
     "user_id": 21672861,
     "stop_price": null,
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "created_at": "2025-12-31T11:35:49.142506Z",
+    "created_at": "2025-12-31T11:36:24.543920Z",
     "bracket_stop_loss_price": null,
     "time_in_force": "gtc",
     "reduce_only": false,
-    "size": 200,
+    "size": 1000,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2025-12-31T11:35:49.142506Z",
+    "updated_at": "2025-12-31T11:36:27.697648Z",
     "product": {
-      "contract_type": "put_options",
+      "contract_type": "call_options",
       "contract_unit_currency": "BTC",
       "contract_value": "0.001",
-      "id": 114617,
+      "id": 114552,
       "notional_type": "vanilla",
       "quoting_asset": {
         "minimum_precision": 2,
@@ -53,7 +55,7 @@
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
-      "symbol": "P-BTC-89000-311225",
+      "symbol": "C-BTC-88800-311225",
       "tick_size": "0.1",
       "underlying_asset": {
         "minimum_precision": 4,
@@ -61,9 +63,9 @@
         "symbol": "BTC"
       }
     },
-    "unfilled_size": 200,
+    "unfilled_size": 704,
     "cancellation_reason": null,
-    "product_symbol": "P-BTC-89000-311225"
+    "product_symbol": "C-BTC-88800-311225"
   },
   {
     "paid_commission": "0",
