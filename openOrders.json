@@ -41,13 +41,14 @@
     "limit_price": "164.01",
     "quote_size": null,
     "stop_order_type": null,
-    "unfilled_size": 100,
+    "unfilled_size": 200,
     "meta_data": {
       "cashflow": "-164.01",
       "ip": "2409:40e4:200c:5899:8000::",
       "otc": false,
       "pnl": "0",
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-01T13:58:06.462Z"
     },
     "trail_amount": null,
     "bracket_order": null,
@@ -60,8 +61,8 @@
     "average_fill_price": "164.01",
     "bracket_take_profit_price": null,
     "reduce_only": false,
-    "size": 200,
-    "updated_at": "2026-01-01T13:57:56.324587Z",
+    "size": 300,
+    "updated_at": "2026-01-01T13:58:06.462955Z",
     "mmp": "disabled",
     "paid_commission": "0.35199282",
     "commission": "0",
