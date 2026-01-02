@@ -1,6 +1,6 @@
 [
   {
-    "paid_commission": "2.5568004",
+    "paid_commission": "2.5677036",
     "order_type": "limit_order",
     "bracket_trail_amount": null,
     "state": "open",
@@ -15,7 +15,7 @@
     "product_id": 114901,
     "side": "buy",
     "meta_data": {
-      "cashflow": "-61.908",
+      "cashflow": "-62.172",
       "ip": "2409:40e4:123e:31d6:8000::",
       "otc": false,
       "pnl": "0",
@@ -36,7 +36,7 @@
     "size": 1000,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-02T11:40:36.967175Z",
+    "updated_at": "2026-01-02T11:40:57.022438Z",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
@@ -64,7 +64,7 @@
         "symbol": "BTC"
       }
     },
-    "unfilled_size": 62,
+    "unfilled_size": 58,
     "cancellation_reason": null,
     "product_symbol": "C-BTC-89400-020126"
   },
@@ -75,7 +75,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1103873232,
-    "limit_price": "850.11",
+    "limit_price": 848.11,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
