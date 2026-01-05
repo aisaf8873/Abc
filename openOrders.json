@@ -31,74 +31,6 @@
     "product_symbol": "P-BTC-93000-050126",
     "bracket_trail_amount": null,
     "state": "open",
-    "updated_at": "2026-01-05T11:48:23.215983Z",
-    "id": 1111094525,
-    "mmp": "disabled",
-    "stop_order_type": null,
-    "paid_commission": "0.1273692",
-    "created_at": "2026-01-05T11:48:23.123954Z",
-    "commission": "0",
-    "order_type": "limit_order",
-    "meta_data": {
-      "cashflow": "3.084",
-      "ip": "2409:40e4:1347:3fc9:8000::",
-      "otc": false,
-      "pnl": "0",
-      "source": "mobile_app_android"
-    },
-    "reduce_only": false,
-    "bracket_stop_loss_limit_price": null,
-    "bracket_order": null,
-    "side": "sell",
-    "unfilled_size": 243,
-    "user_id": 21672861,
-    "stop_price": null,
-    "average_fill_price": "12",
-    "margin_mode": "portfolio",
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
-    "cancellation_reason": null,
-    "size": 500,
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
-    "bracket_take_profit_price": null,
-    "client_order_id": null,
-    "limit_price": "12",
-    "time_in_force": "gtc",
-    "product_id": 115561
-  },
-  {
-    "trail_amount": null,
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 115561,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "P-BTC-93000-050126",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "product_symbol": "P-BTC-93000-050126",
-    "bracket_trail_amount": null,
-    "state": "open",
     "updated_at": "2026-01-05T11:42:05.807444Z",
     "id": 1111086879,
     "mmp": "disabled",
@@ -198,7 +130,7 @@
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
-    "limit_price": "966.41",
+    "limit_price": 965.41,
     "time_in_force": "gtc",
     "product_id": 114850
   }
