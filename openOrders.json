@@ -1,39 +1,33 @@
 [
   {
-    "quote_size": null,
-    "stop_order_type": null,
-    "trail_amount": null,
     "product_symbol": "P-BTC-89800-080126",
-    "commission": "0",
-    "updated_at": "2026-01-08T10:13:49.566667Z",
+    "margin_mode": "portfolio",
     "side": "buy",
-    "order_type": "limit_order",
-    "meta_data": {
-      "ip": "2409:40e4:9:aadf:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
     "state": "open",
-    "created_at": "2026-01-08T10:13:49.566667Z",
+    "mmp": "disabled",
+    "unfilled_size": 2000,
     "bracket_stop_loss_limit_price": null,
     "id": 1115786079,
-    "margin_mode": "portfolio",
-    "client_order_id": null,
-    "unfilled_size": 2000,
-    "bracket_take_profit_limit_price": null,
-    "time_in_force": "gtc",
     "bracket_order": null,
     "stop_trigger_method": null,
-    "stop_price": null,
-    "limit_price": "26.1",
     "average_fill_price": null,
+    "quote_size": null,
+    "stop_order_type": null,
+    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
-    "reduce_only": false,
+    "client_order_id": null,
+    "trail_amount": null,
+    "stop_price": null,
     "paid_commission": "0",
-    "mmp": "disabled",
-    "size": 2000,
-    "bracket_take_profit_price": null,
+    "created_at": "2026-01-08T10:13:49.566667Z",
+    "updated_at": "2026-01-08T10:13:49.566667Z",
     "bracket_trail_amount": null,
+    "order_type": "limit_order",
+    "size": 2000,
+    "reduce_only": false,
+    "cancellation_reason": null,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "BTC",
@@ -61,8 +55,14 @@
         "symbol": "BTC"
       }
     },
+    "bracket_take_profit_price": null,
+    "limit_price": "26.1",
     "user_id": 21672861,
-    "cancellation_reason": null,
-    "product_id": 116024
+    "product_id": 116024,
+    "meta_data": {
+      "ip": "2409:40e4:9:aadf:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    }
   }
 ]
