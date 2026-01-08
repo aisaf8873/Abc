@@ -1,33 +1,39 @@
 [
   {
-    "product_symbol": "C-BTC-90000-080126",
-    "margin_mode": "portfolio",
-    "side": "buy",
-    "state": "open",
-    "mmp": "disabled",
-    "unfilled_size": 2000,
-    "bracket_stop_loss_limit_price": null,
-    "id": 1115787008,
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "average_fill_price": null,
-    "quote_size": null,
-    "stop_order_type": null,
-    "commission": "0",
-    "bracket_take_profit_limit_price": null,
-    "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
-    "client_order_id": null,
-    "trail_amount": null,
-    "stop_price": null,
-    "paid_commission": "0",
-    "created_at": "2026-01-08T10:14:43.017392Z",
-    "updated_at": "2026-01-08T10:14:43.017392Z",
-    "bracket_trail_amount": null,
-    "order_type": "limit_order",
-    "size": 2000,
+    "product_symbol": "C-BTC-90000-080126",
     "reduce_only": false,
+    "user_id": 21672861,
+    "created_at": "2026-01-08T10:14:43.017392Z",
+    "time_in_force": "gtc",
+    "mmp": "disabled",
+    "state": "open",
+    "bracket_order": null,
+    "bracket_stop_loss_limit_price": null,
     "cancellation_reason": null,
+    "id": 1115787008,
+    "average_fill_price": null,
+    "side": "buy",
+    "stop_order_type": null,
+    "stop_trigger_method": null,
+    "limit_price": "22",
+    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0",
+    "bracket_trail_amount": null,
+    "updated_at": "2026-01-08T10:14:43.017392Z",
+    "unfilled_size": 2000,
+    "margin_mode": "portfolio",
+    "order_type": "limit_order",
+    "stop_price": null,
+    "commission": "0",
+    "trail_amount": null,
+    "meta_data": {
+      "ip": "2409:40e4:9:aadf:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "client_order_id": null,
+    "bracket_take_profit_price": null,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
@@ -55,80 +61,8 @@
         "symbol": "BTC"
       }
     },
-    "bracket_take_profit_price": null,
-    "limit_price": "22",
-    "user_id": 21672861,
-    "product_id": 115736,
-    "meta_data": {
-      "ip": "2409:40e4:9:aadf:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    }
-  },
-  {
-    "product_symbol": "P-BTC-89800-080126",
-    "margin_mode": "portfolio",
-    "side": "buy",
-    "state": "open",
-    "mmp": "disabled",
-    "unfilled_size": 2000,
-    "bracket_stop_loss_limit_price": null,
-    "id": 1115786079,
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "average_fill_price": null,
-    "quote_size": null,
-    "stop_order_type": null,
-    "commission": "0",
-    "bracket_take_profit_limit_price": null,
-    "time_in_force": "gtc",
-    "bracket_stop_loss_price": null,
-    "client_order_id": null,
-    "trail_amount": null,
-    "stop_price": null,
-    "paid_commission": "0",
-    "created_at": "2026-01-08T10:13:49.566667Z",
-    "updated_at": "2026-01-08T10:13:49.566667Z",
-    "bracket_trail_amount": null,
-    "order_type": "limit_order",
     "size": 2000,
-    "reduce_only": false,
-    "cancellation_reason": null,
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 116024,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "P-BTC-89800-080126",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "bracket_take_profit_price": null,
-    "limit_price": "26.1",
-    "user_id": 21672861,
-    "product_id": 116024,
-    "meta_data": {
-      "ip": "2409:40e4:9:aadf:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    }
+    "quote_size": null,
+    "product_id": 115736
   }
 ]
