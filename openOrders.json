@@ -138,7 +138,7 @@
     "side": "buy",
     "state": "open",
     "mmp": "disabled",
-    "unfilled_size": 180,
+    "unfilled_size": 200,
     "bracket_stop_loss_limit_price": null,
     "id": 1118221853,
     "bracket_order": null,
@@ -155,10 +155,10 @@
     "stop_price": null,
     "paid_commission": "0.07249519",
     "created_at": "2026-01-09T20:16:06.635282Z",
-    "updated_at": "2026-01-09T21:01:04.164681Z",
+    "updated_at": "2026-01-09T21:01:37.829440Z",
     "bracket_trail_amount": null,
     "order_type": "limit_order",
-    "size": 200,
+    "size": 220,
     "reduce_only": false,
     "cancellation_reason": null,
     "product": {
@@ -198,7 +198,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-09T20:52:59.531Z"
+      "user_updated_at": "2026-01-09T21:01:37.829Z"
     }
   },
   {
