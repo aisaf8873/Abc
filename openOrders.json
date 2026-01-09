@@ -1,27 +1,27 @@
 [
   {
     "bracket_stop_loss_price": null,
-    "product_symbol": "P-ETH-3100-300126",
+    "product_symbol": "P-ETH-2900-300126",
     "reduce_only": false,
     "user_id": 21672861,
-    "created_at": "2026-01-09T20:52:19.110406Z",
+    "created_at": "2026-01-09T20:55:08.241983Z",
     "time_in_force": "gtc",
     "mmp": "disabled",
     "state": "open",
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "cancellation_reason": null,
-    "id": 1118235981,
+    "id": 1118237040,
     "average_fill_price": null,
     "side": "buy",
     "stop_order_type": null,
     "stop_trigger_method": null,
-    "limit_price": "110",
+    "limit_price": "15",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0",
     "bracket_trail_amount": null,
-    "updated_at": "2026-01-09T20:52:19.110406Z",
-    "unfilled_size": 1,
+    "updated_at": "2026-01-09T20:55:08.241983Z",
+    "unfilled_size": 1000,
     "margin_mode": "portfolio",
     "order_type": "limit_order",
     "stop_price": null,
@@ -38,7 +38,7 @@
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
       "contract_value": "0.01",
-      "id": 107714,
+      "id": 107716,
       "notional_type": "vanilla",
       "quoting_asset": {
         "minimum_precision": 2,
@@ -53,7 +53,7 @@
       "spot_index": {
         "symbol": ".DEETHUSD"
       },
-      "symbol": "P-ETH-3100-300126",
+      "symbol": "P-ETH-2900-300126",
       "tick_size": "0.01",
       "underlying_asset": {
         "minimum_precision": 4,
@@ -61,9 +61,9 @@
         "symbol": "ETH"
       }
     },
-    "size": 1,
+    "size": 1000,
     "quote_size": null,
-    "product_id": 107714
+    "product_id": 107716
   },
   {
     "bracket_stop_loss_price": null,
