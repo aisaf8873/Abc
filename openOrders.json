@@ -16,11 +16,11 @@
     "side": "buy",
     "stop_order_type": null,
     "stop_trigger_method": null,
-    "limit_price": "130",
+    "limit_price": "126",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0",
     "bracket_trail_amount": null,
-    "updated_at": "2026-01-09T21:35:11.373856Z",
+    "updated_at": "2026-01-09T21:35:42.444347Z",
     "unfilled_size": 50,
     "margin_mode": "portfolio",
     "order_type": "limit_order",
@@ -30,7 +30,8 @@
     "meta_data": {
       "ip": "2409:40e4:2c:217b:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-09T21:35:42.444Z"
     },
     "client_order_id": null,
     "bracket_take_profit_price": null,
