@@ -5,72 +5,6 @@
     "trail_amount": null,
     "product_symbol": "P-ETH-3100-300126",
     "commission": "0",
-    "updated_at": "2026-01-10T04:14:53.158805Z",
-    "side": "buy",
-    "order_type": "limit_order",
-    "meta_data": {
-      "ip": "2409:40e4:2043:6f10:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "state": "open",
-    "created_at": "2026-01-10T04:14:53.158805Z",
-    "bracket_stop_loss_limit_price": null,
-    "id": 1118387458,
-    "margin_mode": "portfolio",
-    "client_order_id": null,
-    "unfilled_size": 20,
-    "bracket_take_profit_limit_price": null,
-    "time_in_force": "gtc",
-    "bracket_order": null,
-    "stop_trigger_method": null,
-    "stop_price": null,
-    "limit_price": "114",
-    "average_fill_price": null,
-    "bracket_stop_loss_price": null,
-    "reduce_only": false,
-    "paid_commission": "0",
-    "mmp": "disabled",
-    "size": 20,
-    "bracket_take_profit_price": null,
-    "bracket_trail_amount": null,
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 107714,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "P-ETH-3100-300126",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "user_id": 21672861,
-    "cancellation_reason": null,
-    "product_id": 107714
-  },
-  {
-    "quote_size": null,
-    "stop_order_type": null,
-    "trail_amount": null,
-    "product_symbol": "P-ETH-3100-300126",
-    "commission": "0",
     "updated_at": "2026-01-10T04:16:27.697823Z",
     "side": "buy",
     "order_type": "limit_order",
@@ -92,7 +26,7 @@
     "bracket_order": null,
     "stop_trigger_method": null,
     "stop_price": null,
-    "limit_price": "115.11",
+    "limit_price": 115.61,
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "reduce_only": false,
