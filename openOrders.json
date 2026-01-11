@@ -17,7 +17,8 @@
     "meta_data": {
       "ip": "2409:40e4:1305:bd7:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-11T20:43:57.641Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": null,
@@ -30,10 +31,10 @@
     "bracket_stop_loss_price": null,
     "time_in_force": "gtc",
     "reduce_only": false,
-    "size": 100,
+    "size": 200,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-11T20:42:35.879979Z",
+    "updated_at": "2026-01-11T20:43:57.642248Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -61,7 +62,7 @@
         "symbol": "ETH"
       }
     },
-    "unfilled_size": 100,
+    "unfilled_size": 200,
     "cancellation_reason": null,
     "product_symbol": "P-ETH-3100-300126"
   },
@@ -139,7 +140,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1118248969,
-    "limit_price": "133.99",
+    "limit_price": 133.89,
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
