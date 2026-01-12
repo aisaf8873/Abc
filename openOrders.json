@@ -5,12 +5,29 @@
     "product_symbol": "P-ETH-3100-300126",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-01-12T15:12:36.574498Z",
+    "updated_at": "2026-01-12T15:12:52.201141Z",
     "meta_data": {
+      "avg_exit_price": "135.39",
+      "cashflow": "338.475",
+      "entry_price": "117.2229729692817048195471915",
+      "exit_price_with_size": [
+        {
+          "price": "135.39000000",
+          "size": "250"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "293.0574324232042620488679788",
+          "pnl": "45.41756757"
+        }
+      ],
       "ip": "2409:40e4:1305:bd7:8000::",
       "otc": false,
+      "pnl": "45.41756757",
+      "roe": "15.49783849345014630793219725",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-12T15:12:36.574Z"
+      "user_updated_at": "2026-01-12T15:12:52.200Z"
     },
     "trail_amount": null,
     "state": "open",
@@ -20,11 +37,11 @@
     "client_order_id": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "average_fill_price": null,
+    "average_fill_price": "135.39",
     "reduce_only": false,
     "bracket_take_profit_price": null,
-    "paid_commission": "0",
-    "unfilled_size": 400,
+    "paid_commission": "0.91326395",
+    "unfilled_size": 150,
     "stop_price": null,
     "product": {
       "contract_type": "put_options",
