@@ -6,7 +6,7 @@
     "state": "open",
     "bracket_stop_loss_limit_price": null,
     "id": 1122087592,
-    "limit_price": "84",
+    "limit_price": "87",
     "mmp": "disabled",
     "quote_size": null,
     "stop_order_type": null,
@@ -17,7 +17,8 @@
     "meta_data": {
       "ip": "2409:40e4:11fb:9dc9:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-13T11:38:27.541Z"
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": null,
@@ -33,7 +34,7 @@
     "size": 500,
     "client_order_id": null,
     "stop_trigger_method": null,
-    "updated_at": "2026-01-13T11:37:38.022682Z",
+    "updated_at": "2026-01-13T11:38:27.542087Z",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "BTC",
