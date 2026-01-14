@@ -12,26 +12,30 @@
     "bracket_stop_loss_limit_price": null,
     "cancellation_reason": null,
     "id": 1123249120,
-    "average_fill_price": "49.437532894736842105",
+    "average_fill_price": "49.441559934318555008",
     "side": "sell",
     "stop_order_type": null,
     "stop_trigger_method": null,
     "limit_price": "51.89",
     "bracket_take_profit_limit_price": null,
-    "paid_commission": "2.3971884",
+    "paid_commission": "2.40111837",
     "bracket_trail_amount": null,
-    "updated_at": "2026-01-14T05:57:11.649898Z",
-    "unfilled_size": 192,
+    "updated_at": "2026-01-14T05:57:31.093549Z",
+    "unfilled_size": 191,
     "margin_mode": "portfolio",
     "order_type": "limit_order",
     "stop_price": null,
     "commission": "0",
     "trail_amount": null,
     "meta_data": {
-      "avg_exit_price": "49.43753289473684210526315789",
-      "cashflow": "300.5802",
+      "avg_exit_price": "49.44155993431855500821018062",
+      "cashflow": "301.0991",
       "entry_price": "116.597856314711813900",
       "exit_price_with_size": [
+        {
+          "price": "51.89000000",
+          "size": "1"
+        },
         {
           "price": "50.69000000",
           "size": "50"
@@ -75,6 +79,10 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "1.165978563147118139000000000",
+          "pnl": "-0.64707857"
+        },
+        {
           "margin": "58.29892815735590695000000000",
           "pnl": "-32.95392816"
         },
@@ -117,8 +125,8 @@
       ],
       "ip": "2409:40e4:130d:3efa:8000::",
       "otc": false,
-      "pnl": "-408.33476644",
-      "roe": "-57.59996414201448694758594633",
+      "pnl": "-408.98184501",
+      "roe": "-57.59651035770292301646304063",
       "source": "mobile_app_android",
       "user_updated_at": "2026-01-14T05:57:11.649Z"
     },
