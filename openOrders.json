@@ -38,15 +38,32 @@
     "id": 1125666836,
     "cancellation_reason": null,
     "stop_price": null,
-    "limit_price": 37.79,
+    "limit_price": 37.59,
     "quote_size": null,
     "stop_order_type": null,
-    "unfilled_size": 1200,
+    "unfilled_size": 1175,
     "meta_data": {
+      "avg_exit_price": "37.79",
+      "cashflow": "9.4475",
+      "entry_price": "116.597856314711813900",
+      "exit_price_with_size": [
+        {
+          "price": "37.79000000",
+          "size": "25"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "29.14946407867795347500000000",
+          "pnl": "-19.70196408"
+        }
+      ],
       "ip": "2409:40e4:b:311b:8000::",
       "otc": false,
+      "pnl": "-19.70196408",
+      "roe": "-67.58945559624012150612585313",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-15T13:56:03.102Z"
+      "user_updated_at": "2026-01-15T13:56:11.570Z"
     },
     "trail_amount": null,
     "bracket_order": null,
@@ -56,13 +73,13 @@
     "client_order_id": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
-    "average_fill_price": null,
+    "average_fill_price": "37.79",
     "bracket_take_profit_price": null,
     "reduce_only": true,
     "size": 1200,
-    "updated_at": "2026-01-15T13:56:03.103338Z",
+    "updated_at": "2026-01-15T13:56:25.909257Z",
     "mmp": "disabled",
-    "paid_commission": "0",
+    "paid_commission": "0.09957607",
     "commission": "0",
     "product_id": 107714
   },
@@ -105,7 +122,7 @@
     "id": 1124164748,
     "cancellation_reason": null,
     "stop_price": null,
-    "limit_price": 1127.31,
+    "limit_price": 1128.11,
     "quote_size": null,
     "stop_order_type": null,
     "unfilled_size": 200,
@@ -113,7 +130,7 @@
       "ip": "2409:40e4:1140:38cf:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-15T13:55:10.474Z"
+      "user_updated_at": "2026-01-15T13:56:19.951Z"
     },
     "trail_amount": null,
     "bracket_order": null,
@@ -127,7 +144,7 @@
     "bracket_take_profit_price": null,
     "reduce_only": false,
     "size": 200,
-    "updated_at": "2026-01-15T13:55:10.474685Z",
+    "updated_at": "2026-01-15T13:56:19.952005Z",
     "mmp": "disabled",
     "paid_commission": "0",
     "commission": "0",
