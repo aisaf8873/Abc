@@ -31,7 +31,7 @@
     "product_symbol": "C-BTC-95600-160126",
     "bracket_trail_amount": null,
     "state": "open",
-    "updated_at": "2026-01-16T11:45:36.354757Z",
+    "updated_at": "2026-01-16T11:45:51.953130Z",
     "id": 1126991471,
     "mmp": "disabled",
     "stop_order_type": null,
@@ -44,13 +44,14 @@
       "ip": "2409:40e4:11f7:28f:8000::",
       "otc": false,
       "pnl": "-0",
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-16T11:45:51.952Z"
     },
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
     "bracket_order": null,
     "side": "sell",
-    "unfilled_size": 180,
+    "unfilled_size": 1180,
     "user_id": 21672861,
     "stop_price": null,
     "average_fill_price": "0.8",
@@ -58,7 +59,7 @@
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "cancellation_reason": null,
-    "size": 302,
+    "size": 1302,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
@@ -132,7 +133,7 @@
     "stop_trigger_method": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
-    "limit_price": "1053.91",
+    "limit_price": 1054.71,
     "time_in_force": "gtc",
     "product_id": 114850
   }
