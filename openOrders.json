@@ -444,12 +444,12 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-19T01:55:22.306Z"
+      "user_updated_at": "2026-01-19T01:55:48.585Z"
     },
     "order_type": "limit_order",
     "quote_size": null,
     "average_fill_price": "1083.939090909090909091",
-    "limit_price": "954.11",
+    "limit_price": 954.51,
     "trail_amount": null,
     "product_symbol": "C-ETH-2300-270326",
     "bracket_stop_loss_price": null,
@@ -463,7 +463,7 @@
     "stop_order_type": null,
     "size": 200,
     "user_id": 21672861,
-    "updated_at": "2026-01-19T01:55:22.306443Z",
+    "updated_at": "2026-01-19T01:55:48.585388Z",
     "mmp": "disabled",
     "bracket_take_profit_price": null,
     "unfilled_size": 189,
