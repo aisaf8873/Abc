@@ -71,9 +71,9 @@
     "time_in_force": "gtc",
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
-    "limit_price": 28.11,
+    "limit_price": "28.11",
     "margin_mode": "portfolio",
-    "updated_at": "2026-01-19T18:03:56.792884Z",
+    "updated_at": "2026-01-19T18:09:33.508346Z",
     "bracket_order": null,
     "stop_order_type": null,
     "state": "open",
@@ -88,7 +88,7 @@
       "ip": "2409:40e4:1349:9732:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-19T18:03:56.792Z"
+      "user_updated_at": "2026-01-19T18:09:33.507Z"
     },
     "side": "buy",
     "mmp": "disabled",
