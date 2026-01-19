@@ -67,7 +67,7 @@
     "cancellation_reason": null
   },
   {
-    "updated_at": "2026-01-19T01:39:28.661618Z",
+    "updated_at": "2026-01-19T01:56:47.157735Z",
     "stop_price": null,
     "average_fill_price": null,
     "quote_size": null,
@@ -81,7 +81,7 @@
     "product_symbol": "P-ETH-3100-300126",
     "id": 1129793297,
     "client_order_id": null,
-    "limit_price": "23",
+    "limit_price": "24.1",
     "created_at": "2026-01-19T01:39:28.661618Z",
     "trail_amount": null,
     "product_id": 107714,
@@ -91,7 +91,8 @@
     "meta_data": {
       "ip": "2409:40e4:1349:9732:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-19T01:56:47.157Z"
     },
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
@@ -133,7 +134,7 @@
     "cancellation_reason": null
   },
   {
-    "updated_at": "2026-01-19T01:44:13.657224Z",
+    "updated_at": "2026-01-19T01:56:33.635982Z",
     "stop_price": null,
     "average_fill_price": null,
     "quote_size": null,
@@ -147,7 +148,7 @@
     "product_symbol": "P-ETH-2900-300126",
     "id": 1129791027,
     "client_order_id": null,
-    "limit_price": "2.99",
+    "limit_price": "3.09",
     "created_at": "2026-01-19T01:36:21.869505Z",
     "trail_amount": null,
     "product_id": 107716,
@@ -158,7 +159,7 @@
       "ip": "2409:40e4:1349:9732:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-19T01:44:13.656Z"
+      "user_updated_at": "2026-01-19T01:56:33.635Z"
     },
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
@@ -401,7 +402,7 @@
     "cancellation_reason": null
   },
   {
-    "updated_at": "2026-01-19T01:56:25.642572Z",
+    "updated_at": "2026-01-19T01:56:43.297906Z",
     "stop_price": null,
     "average_fill_price": "1083.939090909090909091",
     "quote_size": null,
@@ -415,7 +416,7 @@
     "product_symbol": "C-ETH-2300-270326",
     "id": 1128804975,
     "client_order_id": null,
-    "limit_price": 957.01,
+    "limit_price": 958.91,
     "created_at": "2026-01-18T04:20:56.565041Z",
     "trail_amount": null,
     "product_id": 114850,
@@ -428,7 +429,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-19T01:56:25.642Z"
+      "user_updated_at": "2026-01-19T01:56:43.297Z"
     },
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
