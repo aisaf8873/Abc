@@ -108,12 +108,13 @@
     "meta_data": {
       "ip": "45.121.2.153",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-20T14:19:29.916Z"
     },
     "order_type": "limit_order",
     "quote_size": null,
     "average_fill_price": null,
-    "limit_price": "30",
+    "limit_price": "33",
     "trail_amount": null,
     "product_symbol": "P-ETH-3000-300126",
     "bracket_stop_loss_price": null,
@@ -127,7 +128,7 @@
     "stop_order_type": null,
     "size": 100,
     "user_id": 21672861,
-    "updated_at": "2026-01-20T13:44:37.050979Z",
+    "updated_at": "2026-01-20T14:19:29.916352Z",
     "mmp": "disabled",
     "bracket_take_profit_price": null,
     "unfilled_size": 100,
