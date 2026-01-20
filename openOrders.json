@@ -222,11 +222,11 @@
     "bracket_take_profit_price": null
   },
   {
-    "updated_at": "2026-01-20T13:45:47.567876Z",
+    "updated_at": "2026-01-20T13:47:15.885583Z",
     "reduce_only": false,
     "stop_order_type": null,
     "trail_amount": null,
-    "unfilled_size": 53,
+    "unfilled_size": 52,
     "mmp": "disabled",
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
@@ -238,10 +238,10 @@
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "bracket_trail_amount": null,
-    "average_fill_price": "323.617021276595744681",
+    "average_fill_price": "323.3125",
     "order_type": "limit_order",
     "meta_data": {
-      "cashflow": "152.1",
+      "cashflow": "155.19",
       "ip": "2409:40e4:17:7a3d:8000::",
       "otc": false,
       "pnl": "0",
@@ -254,7 +254,7 @@
     "side": "sell",
     "product_id": 107722,
     "cancellation_reason": null,
-    "paid_commission": "0.17264619",
+    "paid_commission": "0.17628635",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
