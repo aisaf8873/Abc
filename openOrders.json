@@ -4,72 +4,6 @@
     "time_in_force": "gtc",
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
-    "limit_price": "80.9",
-    "margin_mode": "portfolio",
-    "updated_at": "2026-01-22T00:33:20.533245Z",
-    "bracket_order": null,
-    "stop_order_type": null,
-    "state": "open",
-    "created_at": "2026-01-22T00:33:20.533245Z",
-    "user_id": 21672861,
-    "product_symbol": "C-ETH-3100-300126",
-    "id": 1134234761,
-    "bracket_stop_loss_price": null,
-    "commission": "0",
-    "cancellation_reason": null,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "side": "sell",
-    "mmp": "disabled",
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 107720,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "C-ETH-3100-300126",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "product_id": 107720,
-    "quote_size": null,
-    "bracket_stop_loss_limit_price": null,
-    "stop_trigger_method": null,
-    "unfilled_size": 10,
-    "bracket_trail_amount": null,
-    "size": 10,
-    "stop_price": null,
-    "bracket_take_profit_price": null,
-    "paid_commission": "0",
-    "average_fill_price": null,
-    "order_type": "limit_order",
-    "client_order_id": null
-  },
-  {
-    "reduce_only": false,
-    "time_in_force": "gtc",
-    "bracket_take_profit_limit_price": null,
-    "trail_amount": null,
     "limit_price": "26.9",
     "margin_mode": "portfolio",
     "updated_at": "2026-01-22T00:27:40.552814Z",
@@ -669,6 +603,75 @@
     "bracket_take_profit_price": null,
     "paid_commission": "0.35227362",
     "average_fill_price": "21.91",
+    "order_type": "limit_order",
+    "client_order_id": null
+  },
+  {
+    "reduce_only": false,
+    "time_in_force": "gtc",
+    "bracket_take_profit_limit_price": null,
+    "trail_amount": null,
+    "limit_price": "66.07",
+    "margin_mode": "portfolio",
+    "updated_at": "2026-01-21T19:56:46.373595Z",
+    "bracket_order": null,
+    "stop_order_type": null,
+    "state": "open",
+    "created_at": "2026-01-19T01:39:28.661618Z",
+    "user_id": 21672861,
+    "product_symbol": "P-ETH-3100-300126",
+    "id": 1129793297,
+    "bracket_stop_loss_price": null,
+    "commission": "0",
+    "cancellation_reason": null,
+    "meta_data": {
+      "cashflow": "-11.005",
+      "ip": "2409:40e4:1349:9732:8000::",
+      "otc": false,
+      "pnl": "0",
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-01-21T19:56:46.373Z"
+    },
+    "side": "buy",
+    "mmp": "disabled",
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 107714,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-3100-300126",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "product_id": 107714,
+    "quote_size": null,
+    "bracket_stop_loss_limit_price": null,
+    "stop_trigger_method": null,
+    "unfilled_size": 950,
+    "bracket_trail_amount": null,
+    "size": 1000,
+    "stop_price": null,
+    "bracket_take_profit_price": null,
+    "paid_commission": "0.18966081",
+    "average_fill_price": "22.01",
     "order_type": "limit_order",
     "client_order_id": null
   }
