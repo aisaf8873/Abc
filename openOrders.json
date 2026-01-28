@@ -2,6 +2,74 @@
   {
     "stop_order_type": null,
     "stop_trigger_method": null,
+    "average_fill_price": "313",
+    "mmp": "disabled",
+    "state": "open",
+    "bracket_order": null,
+    "product_symbol": "C-BTC-89400-280126",
+    "id": 1142794558,
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 118341,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-89400-280126",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "time_in_force": "gtc",
+    "side": "sell",
+    "user_id": 21672861,
+    "order_type": "limit_order",
+    "client_order_id": null,
+    "bracket_take_profit_price": null,
+    "product_id": 118341,
+    "quote_size": null,
+    "commission": "0",
+    "unfilled_size": 611,
+    "stop_price": null,
+    "bracket_stop_loss_price": null,
+    "paid_commission": "4.13288608",
+    "meta_data": {
+      "cashflow": "121.757",
+      "ip": "2409:40e4:b:7f1d:8000::",
+      "otc": false,
+      "pnl": "-0",
+      "source": "mobile_app_android"
+    },
+    "size": 1000,
+    "bracket_trail_amount": null,
+    "limit_price": "313",
+    "margin_mode": "portfolio",
+    "reduce_only": false,
+    "bracket_stop_loss_limit_price": null,
+    "created_at": "2026-01-28T11:56:44.067915Z",
+    "updated_at": "2026-01-28T11:56:52.082200Z",
+    "bracket_take_profit_limit_price": null,
+    "trail_amount": null,
+    "cancellation_reason": null
+  },
+  {
+    "stop_order_type": null,
+    "stop_trigger_method": null,
     "average_fill_price": null,
     "mmp": "disabled",
     "state": "open",
