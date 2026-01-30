@@ -472,7 +472,7 @@
       "ip": "2409:40e4:131e:6db5:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-01-30T06:51:25.107Z"
+      "user_updated_at": "2026-01-30T06:52:02.077Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -504,7 +504,7 @@
     "id": 1145478638,
     "bracket_stop_loss_limit_price": null,
     "reduce_only": false,
-    "limit_price": "22",
+    "limit_price": "10",
     "product_id": 107394,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -513,7 +513,7 @@
     "average_fill_price": null,
     "user_id": 21672861,
     "commission": "0",
-    "updated_at": "2026-01-30T06:51:25.108337Z",
+    "updated_at": "2026-01-30T06:52:02.077851Z",
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
     "bracket_trail_amount": null,
