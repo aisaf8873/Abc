@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-01-30T00:21:04.078031Z",
+    "updated_at": "2026-01-30T00:21:59.152912Z",
     "stop_price": null,
     "average_fill_price": "8.69",
     "quote_size": null,
@@ -22,7 +22,7 @@
     "side": "sell",
     "commission": "0",
     "meta_data": {
-      "cashflow": "9.6459",
+      "cashflow": "10.5149",
       "ip": "2409:40e4:131e:6db5:8000::",
       "otc": false,
       "pnl": "-0",
@@ -31,7 +31,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
     "margin_mode": "portfolio",
-    "paid_commission": "0.36872137",
+    "paid_commission": "0.40192197",
     "size": 1000,
     "time_in_force": "gtc",
     "bracket_trail_amount": null,
@@ -64,7 +64,7 @@
         "symbol": "ETH"
       }
     },
-    "unfilled_size": 889,
+    "unfilled_size": 879,
     "cancellation_reason": null
   },
   {
