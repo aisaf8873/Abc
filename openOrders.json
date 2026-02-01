@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-02-01T10:12:02.408944Z",
+    "updated_at": "2026-02-01T10:12:39.054840Z",
     "stop_price": null,
     "average_fill_price": null,
     "quote_size": null,
@@ -14,7 +14,7 @@
     "product_symbol": "P-BTC-76000-010226",
     "id": 1149460117,
     "client_order_id": null,
-    "limit_price": "33",
+    "limit_price": "25",
     "created_at": "2026-02-01T10:12:02.408944Z",
     "trail_amount": null,
     "product_id": 119925,
@@ -24,7 +24,8 @@
     "meta_data": {
       "ip": "2409:40e5:11f9:da4:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-01T10:12:39.039Z"
     },
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
