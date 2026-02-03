@@ -1,10 +1,10 @@
 {
   "ProgramStartStop" : true,
-  "allowedOrderforFunc2":{"1149281613":true,"1130703983":true,"1129902613":true},
-  "minUpdateOrderLimitForFunc2":{"1149281613":1,"1130703983":1,"1129902613":1},
-  "dropThresholdForFunc2":{"1149281613":10,"1130703983":40,"1129902613":45},
-  "tickSizeForFunc2":{"1149281613":0.11,"1130703983":0.11,"1129902613":0.11},
-  "filterSizeForFunc2":{"1149281613":4000,"1130703983":500,"1129902613":400},
+  "allowedOrderforFunc2":{"1153094109":true,"1130703983":true,"1129902613":true},
+  "minUpdateOrderLimitForFunc2":{"1153094109":1,"1130703983":1,"1129902613":1},
+  "dropThresholdForFunc2":{"1153094109":20,"1130703983":40,"1129902613":45},
+  "tickSizeForFunc2":{"1153094109":0.11,"1130703983":0.11,"1129902613":0.11},
+  "filterSizeForFunc2":{"1153094109":1000,"1130703983":500,"1129902613":400},
   "dropThreshold":35,
   "minPriceForFunc1":5.0,
   "PriceChangeDiffForFunc3":{"1139562565":0.61,"1125666836":0.11},
@@ -12,5 +12,5 @@
   "filterSizeForFunc3":{"1139562565":600,"1125666836":600},
   "minTargetPriceToSellForFunc3":{"1139562565":300,"1125666836":4},
   "updateSellOrderIdList":[1139562565,1125666836],
-  "symbols":["C-ETH-2300-300126","P-ETH-3100-300126","P-BTC-78000-010226"]
+  "symbols":["C-ETH-2300-030226","P-ETH-3100-300126","P-BTC-78000-010226"]
 }
