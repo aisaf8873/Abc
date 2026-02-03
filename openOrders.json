@@ -43,9 +43,10 @@
     "meta_data": {
       "ip": "2409:40e4:134b:2e17:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-03T05:07:41.155Z"
     },
-    "unfilled_size": 100,
+    "unfilled_size": 200,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
     "created_at": "2026-02-03T05:06:48.404761Z",
@@ -53,11 +54,11 @@
     "product_id": 119911,
     "stop_order_type": null,
     "average_fill_price": null,
-    "updated_at": "2026-02-03T05:06:48.404761Z",
+    "updated_at": "2026-02-03T05:07:41.156437Z",
     "mmp": "disabled",
     "side": "sell",
     "bracket_stop_loss_price": null,
-    "size": 100,
+    "size": 200,
     "user_id": 21672861,
     "limit_price": "8.9",
     "bracket_stop_loss_limit_price": null,
