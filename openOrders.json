@@ -8,7 +8,8 @@
     "meta_data": {
       "ip": "2409:40e4:134b:2e17:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-03T07:06:39.856Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -40,7 +41,7 @@
     "id": 1153104720,
     "bracket_stop_loss_limit_price": null,
     "reduce_only": false,
-    "limit_price": "17.2",
+    "limit_price": "16.9",
     "product_id": 119911,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -49,7 +50,7 @@
     "average_fill_price": null,
     "user_id": 21672861,
     "commission": "0",
-    "updated_at": "2026-02-03T07:03:04.463718Z",
+    "updated_at": "2026-02-03T07:06:39.856720Z",
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
     "bracket_trail_amount": null,
@@ -75,7 +76,7 @@
       "ip": "2409:40e4:134b:2e17:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-03T07:05:34.800Z"
+      "user_updated_at": "2026-02-03T07:06:57.450Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -107,7 +108,7 @@
     "id": 1153094109,
     "bracket_stop_loss_limit_price": null,
     "reduce_only": true,
-    "limit_price": "6.55",
+    "limit_price": "5.73",
     "product_id": 119911,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -116,7 +117,7 @@
     "average_fill_price": null,
     "user_id": 21672861,
     "commission": "0",
-    "updated_at": "2026-02-03T07:05:34.800749Z",
+    "updated_at": "2026-02-03T07:06:57.450801Z",
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
     "bracket_trail_amount": null,
