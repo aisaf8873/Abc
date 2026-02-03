@@ -67,7 +67,7 @@
     "bracket_take_profit_price": null
   },
   {
-    "updated_at": "2026-02-03T04:54:42.178536Z",
+    "updated_at": "2026-02-03T04:57:30.625743Z",
     "reduce_only": false,
     "stop_order_type": null,
     "trail_amount": null,
@@ -88,7 +88,8 @@
     "meta_data": {
       "ip": "2409:40e4:134b:2e17:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-03T04:57:30.625Z"
     },
     "time_in_force": "gtc",
     "created_at": "2026-02-03T04:54:42.178536Z",
@@ -129,7 +130,7 @@
     "bracket_order": null,
     "quote_size": null,
     "commission": "0",
-    "limit_price": "7.5",
+    "limit_price": "8.5",
     "bracket_take_profit_price": null
   },
   {
