@@ -1,8 +1,8 @@
 {
   "ProgramStartStop" : true,
   "allowedOrderforFunc2":{"1153094109":true,"1130703983":true,"1129902613":true},
-  "minUpdateOrderLimitForFunc2":{"1153094109":1,"1130703983":1,"1129902613":1},
-  "dropThresholdForFunc2":{"1153094109":20,"1130703983":40,"1129902613":45},
+  "minUpdateOrderLimitForFunc2":{"1153094109":0.1,"1130703983":1,"1129902613":1},
+  "dropThresholdForFunc2":{"1153094109":15,"1130703983":40,"1129902613":45},
   "tickSizeForFunc2":{"1153094109":0.11,"1130703983":0.11,"1129902613":0.11},
   "filterSizeForFunc2":{"1153094109":1000,"1130703983":500,"1129902613":400},
   "dropThreshold":35,
