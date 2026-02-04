@@ -47,7 +47,7 @@
     "order_type": "limit_order",
     "bracket_take_profit_limit_price": null,
     "unfilled_size": 1000,
-    "limit_price": 2.09,
+    "limit_price": "2.09",
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "size": 1000,
@@ -57,9 +57,9 @@
       "ip": "2409:40e5:1051:be17:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-04T21:13:42.171Z"
+      "user_updated_at": "2026-02-04T21:18:07.063Z"
     },
-    "updated_at": "2026-02-04T21:13:42.171625Z",
+    "updated_at": "2026-02-04T21:18:07.063739Z",
     "cancellation_reason": null,
     "commission": "0",
     "bracket_trail_amount": null,
@@ -114,7 +114,7 @@
     "order_type": "limit_order",
     "bracket_take_profit_limit_price": null,
     "unfilled_size": 980,
-    "limit_price": 2.27,
+    "limit_price": 2.17,
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "size": 1000,
@@ -141,9 +141,9 @@
       "pnl": "-0.145",
       "roe": "-13.38087248322147651006711409",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-04T21:17:54.254Z"
+      "user_updated_at": "2026-02-04T21:18:04.435Z"
     },
-    "updated_at": "2026-02-04T21:17:54.255079Z",
+    "updated_at": "2026-02-04T21:18:04.435615Z",
     "cancellation_reason": null,
     "commission": "0",
     "bracket_trail_amount": null,
