@@ -214,7 +214,8 @@
     "meta_data": {
       "ip": "2409:40e5:0:f538:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-04T11:53:20.881Z"
     },
     "product_id": 120006,
     "product_symbol": "C-BTC-78200-040226",
@@ -249,7 +250,7 @@
         "symbol": "BTC"
       }
     },
-    "limit_price": "0.8",
+    "limit_price": "0.6",
     "bracket_trail_amount": null,
     "commission": "0",
     "bracket_order": null,
@@ -259,7 +260,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
     "mmp": "disabled",
-    "updated_at": "2026-02-04T11:50:23.401733Z",
+    "updated_at": "2026-02-04T11:53:20.886607Z",
     "paid_commission": "0",
     "bracket_stop_loss_limit_price": null
   },
