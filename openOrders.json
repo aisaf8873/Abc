@@ -1,8 +1,8 @@
 [
   {
     "mmp": "disabled",
-    "updated_at": "2026-02-04T22:54:02.857958Z",
-    "limit_price": 4.35,
+    "updated_at": "2026-02-04T22:54:06.348046Z",
+    "limit_price": "4.35",
     "state": "open",
     "user_id": 21672861,
     "paid_commission": "0.52210221",
@@ -23,7 +23,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-04T22:54:02.857Z"
+      "user_updated_at": "2026-02-04T22:54:06.347Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
@@ -71,7 +71,7 @@
   {
     "mmp": "disabled",
     "updated_at": "2026-02-04T22:51:10.570701Z",
-    "limit_price": "3.96",
+    "limit_price": 4.07,
     "state": "open",
     "user_id": 21672861,
     "paid_commission": "0.07279125",
