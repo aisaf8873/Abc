@@ -116,16 +116,17 @@
     "meta_data": {
       "ip": "2409:40e5:104b:d299:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-05T20:03:30.323Z"
     },
     "bracket_trail_amount": null,
     "bracket_order": null,
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-02-05T20:01:39.037395Z",
+    "updated_at": "2026-02-05T20:03:30.323370Z",
     "side": "buy",
     "created_at": "2026-02-05T20:01:39.037395Z",
     "size": 1000,
-    "limit_price": "170",
+    "limit_price": "181",
     "stop_order_type": null,
     "paid_commission": "0",
     "cancellation_reason": null,
