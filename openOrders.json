@@ -6,6 +6,72 @@
     "quote_size": null,
     "state": "open",
     "average_fill_price": null,
+    "created_at": "2026-02-05T11:49:38.933031Z",
+    "id": 1157817542,
+    "time_in_force": "gtc",
+    "margin_mode": "portfolio",
+    "product_id": 120567,
+    "user_id": 21672861,
+    "stop_price": null,
+    "product_symbol": "P-BTC-69200-050226",
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 120567,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "P-BTC-69200-050226",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "side": "sell",
+    "client_order_id": null,
+    "paid_commission": "0",
+    "order_type": "limit_order",
+    "bracket_take_profit_limit_price": null,
+    "unfilled_size": 1000,
+    "limit_price": "0.7",
+    "bracket_order": null,
+    "bracket_stop_loss_price": null,
+    "size": 1000,
+    "mmp": "disabled",
+    "bracket_take_profit_price": null,
+    "meta_data": {
+      "ip": "2409:40e5:1169:5213:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "updated_at": "2026-02-05T11:49:38.933031Z",
+    "cancellation_reason": null,
+    "commission": "0",
+    "bracket_trail_amount": null,
+    "trail_amount": null,
+    "bracket_stop_loss_limit_price": null
+  },
+  {
+    "stop_order_type": null,
+    "reduce_only": false,
+    "stop_trigger_method": null,
+    "quote_size": null,
+    "state": "open",
+    "average_fill_price": null,
     "created_at": "2026-02-05T11:49:14.622177Z",
     "id": 1157816779,
     "time_in_force": "gtc",
@@ -125,73 +191,6 @@
       "source": "mobile_app_android"
     },
     "updated_at": "2026-02-05T11:48:42.208225Z",
-    "cancellation_reason": null,
-    "commission": "0",
-    "bracket_trail_amount": null,
-    "trail_amount": null,
-    "bracket_stop_loss_limit_price": null
-  },
-  {
-    "stop_order_type": null,
-    "reduce_only": false,
-    "stop_trigger_method": null,
-    "quote_size": null,
-    "state": "open",
-    "average_fill_price": null,
-    "created_at": "2026-02-05T11:46:51.816758Z",
-    "id": 1157811079,
-    "time_in_force": "gtc",
-    "margin_mode": "portfolio",
-    "product_id": 120567,
-    "user_id": 21672861,
-    "stop_price": null,
-    "product_symbol": "P-BTC-69200-050226",
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 120567,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "P-BTC-69200-050226",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "side": "sell",
-    "client_order_id": null,
-    "paid_commission": "0",
-    "order_type": "limit_order",
-    "bracket_take_profit_limit_price": null,
-    "unfilled_size": 2000,
-    "limit_price": "0.9",
-    "bracket_order": null,
-    "bracket_stop_loss_price": null,
-    "size": 2000,
-    "mmp": "disabled",
-    "bracket_take_profit_price": null,
-    "meta_data": {
-      "ip": "2409:40e5:1169:5213:8000::",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-02-05T11:47:05.011Z"
-    },
-    "updated_at": "2026-02-05T11:47:05.011789Z",
     "cancellation_reason": null,
     "commission": "0",
     "bracket_trail_amount": null,
