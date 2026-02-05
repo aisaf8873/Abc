@@ -6,19 +6,19 @@
     "quote_size": null,
     "state": "open",
     "average_fill_price": null,
-    "created_at": "2026-02-05T11:48:59.054438Z",
-    "id": 1157816319,
+    "created_at": "2026-02-05T11:49:14.622177Z",
+    "id": 1157816779,
     "time_in_force": "gtc",
     "margin_mode": "portfolio",
-    "product_id": 120868,
+    "product_id": 120458,
     "user_id": 21672861,
     "stop_price": null,
-    "product_symbol": "P-BTC-69400-050226",
+    "product_symbol": "C-BTC-76200-050226",
     "product": {
-      "contract_type": "put_options",
+      "contract_type": "call_options",
       "contract_unit_currency": "BTC",
       "contract_value": "0.001",
-      "id": 120868,
+      "id": 120458,
       "notional_type": "vanilla",
       "quoting_asset": {
         "minimum_precision": 2,
@@ -33,7 +33,7 @@
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
-      "symbol": "P-BTC-69400-050226",
+      "symbol": "C-BTC-76200-050226",
       "tick_size": "0.1",
       "underlying_asset": {
         "minimum_precision": 4,
@@ -58,7 +58,7 @@
       "otc": false,
       "source": "mobile_app_android"
     },
-    "updated_at": "2026-02-05T11:48:59.054438Z",
+    "updated_at": "2026-02-05T11:49:14.622177Z",
     "cancellation_reason": null,
     "commission": "0",
     "bracket_trail_amount": null,
