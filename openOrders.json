@@ -1,8 +1,8 @@
 [
   {
     "mmp": "disabled",
-    "updated_at": "2026-02-07T16:22:02.488891Z",
-    "limit_price": "3.02",
+    "updated_at": "2026-02-07T16:22:20.332911Z",
+    "limit_price": "2.52",
     "state": "open",
     "user_id": 21672861,
     "paid_commission": "0",
@@ -20,7 +20,8 @@
     "meta_data": {
       "ip": "2409:40e4:16:f4f0:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-07T16:22:20.332Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
