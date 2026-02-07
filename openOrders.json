@@ -1,32 +1,19 @@
 [
   {
-    "bracket_trail_amount": null,
-    "quote_size": null,
-    "side": "buy",
-    "state": "open",
-    "unfilled_size": 1,
-    "id": 1163629214,
-    "order_type": "limit_order",
-    "created_at": "2026-02-07T14:15:06.553389Z",
-    "user_id": 21672861,
-    "time_in_force": "gtc",
-    "trail_amount": null,
     "stop_order_type": null,
-    "bracket_stop_loss_limit_price": null,
-    "cancellation_reason": null,
-    "bracket_take_profit_limit_price": null,
-    "product_id": 120933,
-    "paid_commission": "0",
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "product_symbol": "P-ETH-2020-080226",
+    "reduce_only": false,
+    "stop_trigger_method": null,
+    "quote_size": null,
+    "state": "open",
     "average_fill_price": null,
-    "bracket_order": null,
+    "created_at": "2026-02-07T14:15:06.553389Z",
+    "id": 1163629214,
+    "time_in_force": "gtc",
     "margin_mode": "portfolio",
+    "product_id": 120933,
+    "user_id": 21672861,
     "stop_price": null,
+    "product_symbol": "P-ETH-2020-080226",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -54,15 +41,28 @@
         "symbol": "ETH"
       }
     },
-    "bracket_stop_loss_price": null,
+    "side": "buy",
     "client_order_id": null,
-    "size": 1,
-    "commission": "0",
-    "reduce_only": false,
+    "paid_commission": "0",
+    "order_type": "limit_order",
+    "bracket_take_profit_limit_price": null,
+    "unfilled_size": 1,
     "limit_price": "14.1",
-    "updated_at": "2026-02-07T14:15:06.553389Z",
-    "stop_trigger_method": null,
+    "bracket_order": null,
+    "bracket_stop_loss_price": null,
+    "size": 1,
     "mmp": "disabled",
-    "bracket_take_profit_price": null
+    "bracket_take_profit_price": null,
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "updated_at": "2026-02-07T14:15:06.553389Z",
+    "cancellation_reason": null,
+    "commission": "0",
+    "bracket_trail_amount": null,
+    "trail_amount": null,
+    "bracket_stop_loss_limit_price": null
   }
 ]
