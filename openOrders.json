@@ -4,72 +4,6 @@
     "quote_size": null,
     "side": "sell",
     "state": "open",
-    "unfilled_size": 1,
-    "id": 1164145480,
-    "order_type": "limit_order",
-    "created_at": "2026-02-07T18:31:41.404104Z",
-    "user_id": 21672861,
-    "time_in_force": "gtc",
-    "trail_amount": null,
-    "stop_order_type": null,
-    "bracket_stop_loss_limit_price": null,
-    "cancellation_reason": null,
-    "bracket_take_profit_limit_price": null,
-    "product_id": 121204,
-    "paid_commission": "0",
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "product_symbol": "C-ETH-1860-080226",
-    "average_fill_price": null,
-    "bracket_order": null,
-    "margin_mode": "portfolio",
-    "stop_price": null,
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 121204,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "C-ETH-1860-080226",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "bracket_stop_loss_price": null,
-    "client_order_id": null,
-    "size": 1,
-    "commission": "0",
-    "reduce_only": false,
-    "limit_price": "228.8",
-    "updated_at": "2026-02-07T18:31:41.404104Z",
-    "stop_trigger_method": null,
-    "mmp": "disabled",
-    "bracket_take_profit_price": null
-  },
-  {
-    "bracket_trail_amount": null,
-    "quote_size": null,
-    "side": "sell",
-    "state": "open",
     "unfilled_size": 500,
     "id": 1163928198,
     "order_type": "limit_order",
@@ -126,7 +60,7 @@
     "size": 500,
     "commission": "0",
     "reduce_only": false,
-    "limit_price": "32.66",
+    "limit_price": 34.42,
     "updated_at": "2026-02-07T18:31:28.369591Z",
     "stop_trigger_method": null,
     "mmp": "disabled",
