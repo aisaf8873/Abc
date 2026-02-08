@@ -1,1 +1,85 @@
-[]
+[
+  {
+    "stop_order_type": null,
+    "reduce_only": true,
+    "average_fill_price": "0.89",
+    "user_id": 21672861,
+    "side": "buy",
+    "trail_amount": null,
+    "quote_size": null,
+    "state": "open",
+    "id": 1164559221,
+    "stop_price": null,
+    "margin_mode": "portfolio",
+    "time_in_force": "gtc",
+    "client_order_id": null,
+    "meta_data": {
+      "avg_exit_price": "0.89",
+      "cashflow": "-7.2357",
+      "entry_price": "9.967061597406424992631889178",
+      "exit_price_with_size": [
+        {
+          "price": "0.89000000",
+          "size": "-813"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-81.03221078691423519009725902",
+          "pnl": "73.79651078"
+        }
+      ],
+      "ip": "2409:40e4:16:f4f0:8000::",
+      "otc": false,
+      "pnl": "73.79651078",
+      "roe": "-91.07058793454180685899514324",
+      "source": "mobile_app_android"
+    },
+    "product_id": 120934,
+    "product_symbol": "P-ETH-2000-080226",
+    "stop_trigger_method": null,
+    "order_type": "limit_order",
+    "unfilled_size": 2580,
+    "bracket_take_profit_limit_price": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 120934,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-2000-080226",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "limit_price": "0.89",
+    "bracket_trail_amount": null,
+    "commission": "0",
+    "bracket_order": null,
+    "created_at": "2026-02-08T05:34:57.125525Z",
+    "size": 3393,
+    "cancellation_reason": null,
+    "bracket_stop_loss_price": null,
+    "bracket_take_profit_price": null,
+    "mmp": "disabled",
+    "updated_at": "2026-02-08T05:34:57.287968Z",
+    "paid_commission": "0.29883441",
+    "bracket_stop_loss_limit_price": null
+  }
+]
