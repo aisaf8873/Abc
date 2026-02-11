@@ -47,7 +47,7 @@
     "order_type": "limit_order",
     "bracket_take_profit_limit_price": null,
     "unfilled_size": 200,
-    "limit_price": "1.9",
+    "limit_price": "1.8",
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "size": 200,
@@ -56,9 +56,10 @@
     "meta_data": {
       "ip": "2409:40e4:2d:8870:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-11T04:26:37.490Z"
     },
-    "updated_at": "2026-02-11T04:26:03.003179Z",
+    "updated_at": "2026-02-11T04:26:37.490934Z",
     "cancellation_reason": null,
     "commission": "0",
     "bracket_trail_amount": null,
