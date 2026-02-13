@@ -10,7 +10,7 @@
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
       "contract_value": "0.001",
-      "id": 122028,
+      "id": 121946,
       "notional_type": "vanilla",
       "quoting_asset": {
         "minimum_precision": 2,
@@ -25,7 +25,7 @@
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
-      "symbol": "C-BTC-68200-130226",
+      "symbol": "C-BTC-67800-130226",
       "tick_size": "0.1",
       "underlying_asset": {
         "minimum_precision": 4,
@@ -34,7 +34,7 @@
       }
     },
     "bracket_stop_loss_limit_price": null,
-    "id": 1174736431,
+    "id": 1174737796,
     "reduce_only": false,
     "user_id": 21672861,
     "trail_amount": null,
@@ -43,10 +43,10 @@
     "mmp": "disabled",
     "quote_size": null,
     "stop_trigger_method": null,
-    "product_id": 122028,
+    "product_id": 121946,
     "order_type": "limit_order",
     "bracket_take_profit_price": null,
-    "product_symbol": "C-BTC-68200-130226",
+    "product_symbol": "C-BTC-67800-130226",
     "meta_data": {
       "ip": "2409:40e4:11fd:c141:8000::",
       "otc": false,
@@ -55,11 +55,11 @@
     "bracket_trail_amount": null,
     "bracket_order": null,
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-02-13T10:18:42.614221Z",
+    "updated_at": "2026-02-13T10:19:35.354029Z",
     "side": "buy",
-    "created_at": "2026-02-13T10:18:42.614221Z",
+    "created_at": "2026-02-13T10:19:35.354029Z",
     "size": 200,
-    "limit_price": "0.7",
+    "limit_price": "3",
     "stop_order_type": null,
     "paid_commission": "0",
     "cancellation_reason": null,
