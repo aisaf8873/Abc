@@ -16,7 +16,8 @@
     "meta_data": {
       "ip": "2409:40e4:8:f6eb:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-14T09:42:27.405Z"
     },
     "product_id": 122050,
     "product_symbol": "P-BTC-69000-140226",
@@ -51,7 +52,7 @@
         "symbol": "BTC"
       }
     },
-    "limit_price": "15",
+    "limit_price": "12.5",
     "bracket_trail_amount": null,
     "commission": "0",
     "bracket_order": null,
@@ -61,7 +62,7 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
     "mmp": "disabled",
-    "updated_at": "2026-02-14T09:40:58.815569Z",
+    "updated_at": "2026-02-14T09:42:27.406336Z",
     "paid_commission": "0",
     "bracket_stop_loss_limit_price": null
   },
