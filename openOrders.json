@@ -172,12 +172,13 @@
     "stop_order_type": null,
     "stop_trigger_method": null,
     "paid_commission": "0",
-    "limit_price": "5.2",
+    "limit_price": "6.2",
     "client_order_id": null,
     "meta_data": {
       "ip": "2409:40e4:2014:c269:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-14T08:34:08.942Z"
     },
     "average_fill_price": null,
     "product_id": 122409,
@@ -195,7 +196,7 @@
     "quote_size": null,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_limit_price": null,
-    "updated_at": "2026-02-14T08:32:49.060980Z"
+    "updated_at": "2026-02-14T08:34:08.942397Z"
   },
   {
     "mmp": "disabled",
