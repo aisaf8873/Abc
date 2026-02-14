@@ -5,7 +5,7 @@
     "bracket_stop_loss_price": null,
     "state": "open",
     "meta_data": {
-      "cashflow": "1.04",
+      "cashflow": "3.5968",
       "ip": "2409:40e4:8:f6eb:8000::",
       "otc": false,
       "pnl": "0",
@@ -42,7 +42,7 @@
       }
     },
     "time_in_force": "gtc",
-    "unfilled_size": 450,
+    "unfilled_size": 314,
     "stop_price": null,
     "commission": "0",
     "stop_trigger_method": null,
@@ -56,15 +56,15 @@
     "product_symbol": "P-ETH-2000-150226",
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "paid_commission": "0.042952",
+    "paid_commission": "0.14854784",
     "user_id": 21672861,
     "side": "sell",
     "bracket_take_profit_price": null,
     "size": 500,
-    "updated_at": "2026-02-14T14:02:23.850423Z",
+    "updated_at": "2026-02-14T14:02:41.070109Z",
     "limit_price": "1.88",
     "client_order_id": null,
-    "average_fill_price": "2.08",
+    "average_fill_price": "1.933763440860215054",
     "quote_size": null,
     "created_at": "2026-02-14T13:55:04.664134Z"
   }
