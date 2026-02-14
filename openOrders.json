@@ -8,6 +8,73 @@
     "trail_amount": null,
     "quote_size": null,
     "state": "open",
+    "id": 1177006798,
+    "stop_price": null,
+    "margin_mode": "portfolio",
+    "time_in_force": "gtc",
+    "client_order_id": null,
+    "meta_data": {
+      "ip": "2409:40e4:8:f6eb:8000::",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-14T15:00:46.660Z"
+    },
+    "product_id": 122375,
+    "product_symbol": "C-ETH-2100-150226",
+    "stop_trigger_method": null,
+    "order_type": "limit_order",
+    "unfilled_size": 100,
+    "bracket_take_profit_limit_price": null,
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 122375,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "C-ETH-2100-150226",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "limit_price": "16.5",
+    "bracket_trail_amount": null,
+    "commission": "0",
+    "bracket_order": null,
+    "created_at": "2026-02-14T15:00:36.934723Z",
+    "size": 100,
+    "cancellation_reason": null,
+    "bracket_stop_loss_price": null,
+    "bracket_take_profit_price": null,
+    "mmp": "disabled",
+    "updated_at": "2026-02-14T15:00:46.661305Z",
+    "paid_commission": "0",
+    "bracket_stop_loss_limit_price": null
+  },
+  {
+    "stop_order_type": null,
+    "reduce_only": false,
+    "average_fill_price": null,
+    "user_id": 21672861,
+    "side": "sell",
+    "trail_amount": null,
+    "quote_size": null,
+    "state": "open",
     "id": 1177006072,
     "stop_price": null,
     "margin_mode": "portfolio",
