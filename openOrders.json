@@ -14,7 +14,7 @@
     "time_in_force": "gtc",
     "client_order_id": null,
     "meta_data": {
-      "cashflow": "1.341",
+      "cashflow": "4.172",
       "ip": "2409:40e5:be:76c9:8000::",
       "otc": false,
       "pnl": "0",
@@ -25,7 +25,7 @@
     "product_symbol": "C-BTC-71000-150226",
     "stop_trigger_method": null,
     "order_type": "limit_order",
-    "unfilled_size": 191,
+    "unfilled_size": 172,
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "call_options",
@@ -64,8 +64,8 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
     "mmp": "disabled",
-    "updated_at": "2026-02-15T08:24:09.646375Z",
-    "paid_commission": "0.0553833",
+    "updated_at": "2026-02-15T08:24:32.654640Z",
+    "paid_commission": "0.1723036",
     "bracket_stop_loss_limit_price": null
   },
   {
