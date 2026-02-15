@@ -133,8 +133,8 @@
   },
   {
     "mmp": "disabled",
-    "updated_at": "2026-02-15T02:03:12.930251Z",
-    "limit_price": "5",
+    "updated_at": "2026-02-15T02:05:24.549915Z",
+    "limit_price": "4",
     "state": "open",
     "user_id": 21672861,
     "paid_commission": "0",
@@ -152,7 +152,8 @@
     "meta_data": {
       "ip": "2409:40e5:be:76c9:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-15T02:05:24.549Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
@@ -199,8 +200,8 @@
   },
   {
     "mmp": "disabled",
-    "updated_at": "2026-02-15T02:03:08.250244Z",
-    "limit_price": "8",
+    "updated_at": "2026-02-15T02:05:29.951521Z",
+    "limit_price": "3.8",
     "state": "open",
     "user_id": 21672861,
     "paid_commission": "0",
@@ -218,7 +219,8 @@
     "meta_data": {
       "ip": "2409:40e5:be:76c9:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-15T02:05:29.951Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
