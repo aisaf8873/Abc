@@ -1,8 +1,8 @@
 [
   {
     "mmp": "disabled",
-    "updated_at": "2026-02-15T06:00:38.506273Z",
-    "limit_price": "86.1",
+    "updated_at": "2026-02-15T06:07:19.829421Z",
+    "limit_price": "72.1",
     "state": "open",
     "user_id": 21672861,
     "paid_commission": "0.24180324",
@@ -37,7 +37,8 @@
       "otc": false,
       "pnl": "2.49411828",
       "roe": "-29.87355000950751093363757367",
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-15T06:07:19.829Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
@@ -79,75 +80,6 @@
     "commission": "0",
     "stop_order_type": null,
     "average_fill_price": "86.1",
-    "bracket_stop_loss_limit_price": null,
-    "time_in_force": "gtc"
-  },
-  {
-    "mmp": "disabled",
-    "updated_at": "2026-02-15T06:03:01.888258Z",
-    "limit_price": "52.1",
-    "state": "open",
-    "user_id": 21672861,
-    "paid_commission": "0.40237351",
-    "client_order_id": null,
-    "id": 1177798520,
-    "trail_amount": null,
-    "order_type": "limit_order",
-    "stop_trigger_method": null,
-    "bracket_take_profit_price": null,
-    "product_id": 122162,
-    "product_symbol": "C-BTC-70800-150226",
-    "created_at": "2026-02-15T05:56:42.865324Z",
-    "cancellation_reason": null,
-    "quote_size": null,
-    "meta_data": {
-      "cashflow": "-9.7427",
-      "ip": "2409:40e5:be:76c9:8000::",
-      "otc": false,
-      "pnl": "0",
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-02-15T05:59:18.977Z"
-    },
-    "bracket_take_profit_limit_price": null,
-    "stop_price": null,
-    "unfilled_size": 63,
-    "bracket_order": null,
-    "bracket_stop_loss_price": null,
-    "margin_mode": "portfolio",
-    "side": "buy",
-    "size": 250,
-    "reduce_only": false,
-    "bracket_trail_amount": null,
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 122162,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "C-BTC-70800-150226",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "commission": "0",
-    "stop_order_type": null,
-    "average_fill_price": "52.1",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc"
   },
