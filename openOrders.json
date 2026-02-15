@@ -71,8 +71,10 @@
     "bracket_stop_loss_price": null,
     "state": "open",
     "meta_data": {
+      "cashflow": "2.88",
       "ip": "2409:40e5:be:76c9:8000::",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android"
     },
     "cancellation_reason": null,
@@ -105,7 +107,7 @@
       }
     },
     "time_in_force": "gtc",
-    "unfilled_size": 250,
+    "unfilled_size": 218,
     "stop_price": null,
     "commission": "0",
     "stop_trigger_method": null,
@@ -119,15 +121,15 @@
     "product_symbol": "C-BTC-71000-150226",
     "reduce_only": false,
     "bracket_stop_loss_limit_price": null,
-    "paid_commission": "0",
+    "paid_commission": "0.118944",
     "user_id": 21672861,
     "side": "sell",
     "bracket_take_profit_price": null,
     "size": 250,
-    "updated_at": "2026-02-15T05:41:48.087086Z",
+    "updated_at": "2026-02-15T05:45:18.567413Z",
     "limit_price": "90",
     "client_order_id": null,
-    "average_fill_price": null,
+    "average_fill_price": "90",
     "quote_size": null,
     "created_at": "2026-02-15T05:41:48.087086Z"
   },
