@@ -5,106 +5,6 @@
     "stop_trigger_method": null,
     "quote_size": null,
     "state": "open",
-    "average_fill_price": "43",
-    "created_at": "2026-02-15T08:35:23.811098Z",
-    "id": 1178053030,
-    "time_in_force": "gtc",
-    "margin_mode": "portfolio",
-    "product_id": 122454,
-    "user_id": 21672861,
-    "stop_price": null,
-    "product_symbol": "C-BTC-71000-150226",
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 122454,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "C-BTC-71000-150226",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "side": "buy",
-    "client_order_id": null,
-    "paid_commission": "0.6304445",
-    "order_type": "limit_order",
-    "bracket_take_profit_limit_price": null,
-    "unfilled_size": 77,
-    "limit_price": "41",
-    "bracket_order": null,
-    "bracket_stop_loss_price": null,
-    "size": 432,
-    "mmp": "disabled",
-    "bracket_take_profit_price": null,
-    "meta_data": {
-      "avg_exit_price": "43",
-      "cashflow": "-15.265",
-      "entry_price": "137.5640767477203647416413374",
-      "exit_price_with_size": [
-        {
-          "price": "43.00000000",
-          "size": "-200"
-        },
-        {
-          "price": "43.00000000",
-          "size": "-44"
-        },
-        {
-          "price": "43.00000000",
-          "size": "-111"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-27.51281534954407294832826748",
-          "pnl": "18.91281534"
-        },
-        {
-          "margin": "-6.052819376899696048632218846",
-          "pnl": "4.16081937"
-        },
-        {
-          "margin": "-15.26961251899696048632218845",
-          "pnl": "10.49661251"
-        }
-      ],
-      "ip": "2409:40e5:be:76c9:8000::",
-      "otc": false,
-      "pnl": "33.57024722",
-      "roe": "-68.74183937531743819580647069",
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-02-15T08:36:37.711Z"
-    },
-    "updated_at": "2026-02-15T08:36:37.711570Z",
-    "cancellation_reason": null,
-    "commission": "0",
-    "bracket_trail_amount": null,
-    "trail_amount": null,
-    "bracket_stop_loss_limit_price": null
-  },
-  {
-    "stop_order_type": null,
-    "reduce_only": true,
-    "stop_trigger_method": null,
-    "quote_size": null,
-    "state": "open",
     "average_fill_price": "80",
     "created_at": "2026-02-15T08:34:59.158748Z",
     "id": 1178051338,
@@ -143,21 +43,38 @@
     },
     "side": "sell",
     "client_order_id": null,
-    "paid_commission": "0.303968",
+    "paid_commission": "0.386568",
     "order_type": "limit_order",
     "bracket_take_profit_limit_price": null,
-    "unfilled_size": 800,
-    "limit_price": "80",
+    "unfilled_size": 775,
+    "limit_price": "85",
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "size": 892,
     "mmp": "disabled",
     "bracket_take_profit_price": null,
     "meta_data": {
+      "avg_exit_price": "80",
+      "cashflow": "2",
+      "entry_price": "53.00000000",
+      "exit_price_with_size": [
+        {
+          "price": "80.00000000",
+          "size": "25"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "1.32500000000000000000000000",
+          "pnl": "0.67500000"
+        }
+      ],
       "otc": false,
-      "user_updated_at": "2026-02-15T08:36:18.061Z"
+      "pnl": "0.675",
+      "roe": "50.94339622641509433962264151",
+      "user_updated_at": "2026-02-15T08:37:18.443Z"
     },
-    "updated_at": "2026-02-15T08:36:18.061912Z",
+    "updated_at": "2026-02-15T08:37:18.444195Z",
     "cancellation_reason": null,
     "commission": "0",
     "bracket_trail_amount": null,
