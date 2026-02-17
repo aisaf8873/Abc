@@ -33,7 +33,7 @@
     "reduce_only": false,
     "paid_commission": "0",
     "bracket_take_profit_limit_price": null,
-    "limit_price": "0.6",
+    "limit_price": "0.3",
     "state": "open",
     "id": 1181517017,
     "unfilled_size": 1000,
@@ -53,7 +53,8 @@
     "meta_data": {
       "ip": "2409:40e4:5:a400:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-17T11:56:43.997Z"
     },
     "side": "sell",
     "mmp": "disabled",
@@ -63,7 +64,7 @@
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "size": 1000,
-    "updated_at": "2026-02-17T11:56:21.991158Z"
+    "updated_at": "2026-02-17T11:56:43.997686Z"
   },
   {
     "product": {
