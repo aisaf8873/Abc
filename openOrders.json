@@ -1,8 +1,8 @@
 [
   {
     "mmp": "disabled",
-    "updated_at": "2026-02-18T08:42:53.585123Z",
-    "limit_price": "1.5",
+    "updated_at": "2026-02-18T08:42:59.019770Z",
+    "limit_price": "1.52",
     "state": "open",
     "user_id": 21672861,
     "paid_commission": "0",
@@ -20,7 +20,8 @@
     "meta_data": {
       "ip": "2409:40e5:e:a1e6:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-18T08:42:59.019Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
@@ -200,8 +201,8 @@
   },
   {
     "mmp": "disabled",
-    "updated_at": "2026-02-18T08:33:44.321788Z",
-    "limit_price": "5.83",
+    "updated_at": "2026-02-18T08:43:14.943831Z",
+    "limit_price": "8.83",
     "state": "open",
     "user_id": 21672861,
     "paid_commission": "0",
@@ -220,7 +221,7 @@
       "ip": "2409:40e5:e:a1e6:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-18T08:33:44.320Z"
+      "user_updated_at": "2026-02-18T08:43:14.943Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_price": null,
