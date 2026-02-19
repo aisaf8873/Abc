@@ -456,21 +456,23 @@
     },
     "stop_order_type": null,
     "stop_trigger_method": null,
-    "paid_commission": "0",
+    "paid_commission": "0.002478",
     "limit_price": "0.3",
     "client_order_id": null,
     "meta_data": {
+      "cashflow": "0.06",
       "ip": "2409:40e4:65:1197:8000::",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-02-19T11:19:17.348Z"
     },
-    "average_fill_price": null,
+    "average_fill_price": "0.3",
     "product_id": 122785,
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "product_symbol": "P-BTC-65200-190226",
-    "unfilled_size": 1000,
+    "unfilled_size": 800,
     "order_type": "limit_order",
     "created_at": "2026-02-19T11:14:03.540523Z",
     "user_id": 21672861,
@@ -481,7 +483,7 @@
     "quote_size": null,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_limit_price": null,
-    "updated_at": "2026-02-19T11:19:17.349246Z"
+    "updated_at": "2026-02-19T11:30:12.134180Z"
   },
   {
     "mmp": "disabled",
