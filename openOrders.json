@@ -4,6 +4,72 @@
     "reduce_only": false,
     "average_fill_price": null,
     "user_id": 21672861,
+    "side": "buy",
+    "trail_amount": null,
+    "quote_size": null,
+    "state": "open",
+    "id": 1186233526,
+    "stop_price": null,
+    "margin_mode": "portfolio",
+    "time_in_force": "gtc",
+    "client_order_id": null,
+    "meta_data": {
+      "ip": "2409:40e4:c:b2b1:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "product_id": 122832,
+    "product_symbol": "P-BTC-67200-200226",
+    "stop_trigger_method": null,
+    "order_type": "limit_order",
+    "unfilled_size": 700,
+    "bracket_take_profit_limit_price": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 122832,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "P-BTC-67200-200226",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "limit_price": "0.6",
+    "bracket_trail_amount": null,
+    "commission": "0",
+    "bracket_order": null,
+    "created_at": "2026-02-20T10:11:16.486278Z",
+    "size": 700,
+    "cancellation_reason": null,
+    "bracket_stop_loss_price": null,
+    "bracket_take_profit_price": null,
+    "mmp": "disabled",
+    "updated_at": "2026-02-20T10:11:16.486278Z",
+    "paid_commission": "0",
+    "bracket_stop_loss_limit_price": null
+  },
+  {
+    "stop_order_type": null,
+    "reduce_only": false,
+    "average_fill_price": "2.5",
+    "user_id": 21672861,
     "side": "sell",
     "trail_amount": null,
     "quote_size": null,
@@ -14,8 +80,10 @@
     "time_in_force": "gtc",
     "client_order_id": null,
     "meta_data": {
+      "cashflow": "1.77",
       "ip": "2409:40e4:c:b2b1:8000::",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-02-20T10:10:11.303Z"
     },
@@ -23,7 +91,7 @@
     "product_symbol": "P-BTC-67000-200226",
     "stop_trigger_method": null,
     "order_type": "limit_order",
-    "unfilled_size": 3000,
+    "unfilled_size": 2292,
     "bracket_take_profit_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -62,8 +130,8 @@
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
     "mmp": "disabled",
-    "updated_at": "2026-02-20T10:10:11.303822Z",
-    "paid_commission": "0",
+    "updated_at": "2026-02-20T10:10:57.472399Z",
+    "paid_commission": "0.073101",
     "bracket_stop_loss_limit_price": null
   },
   {
