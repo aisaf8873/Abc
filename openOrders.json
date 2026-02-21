@@ -1,15 +1,37 @@
 [
   {
     "mmp": "disabled",
-    "commission": "0",
-    "reduce_only": false,
-    "trail_amount": null,
-    "bracket_order": null,
+    "updated_at": "2026-02-21T11:53:50.786085Z",
+    "limit_price": "0.2",
     "state": "open",
-    "side": "sell",
-    "bracket_trail_amount": null,
+    "user_id": 21672861,
+    "paid_commission": "0",
+    "client_order_id": null,
     "id": 1187942732,
+    "trail_amount": null,
+    "order_type": "limit_order",
+    "stop_trigger_method": null,
     "bracket_take_profit_price": null,
+    "product_id": 122900,
+    "product_symbol": "P-BTC-66600-210226",
+    "created_at": "2026-02-21T11:53:50.786085Z",
+    "cancellation_reason": null,
+    "quote_size": null,
+    "meta_data": {
+      "ip": "2409:40e4:1e:7701:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "bracket_take_profit_limit_price": null,
+    "stop_price": null,
+    "unfilled_size": 2000,
+    "bracket_order": null,
+    "bracket_stop_loss_price": null,
+    "margin_mode": "portfolio",
+    "side": "sell",
+    "size": 2000,
+    "reduce_only": false,
+    "bracket_trail_amount": null,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "BTC",
@@ -37,32 +59,10 @@
         "symbol": "BTC"
       }
     },
+    "commission": "0",
     "stop_order_type": null,
-    "stop_trigger_method": null,
-    "paid_commission": "0",
-    "limit_price": "0.2",
-    "client_order_id": null,
-    "meta_data": {
-      "ip": "2409:40e4:1e:7701:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
     "average_fill_price": null,
-    "product_id": 122900,
-    "margin_mode": "portfolio",
-    "cancellation_reason": null,
-    "product_symbol": "P-BTC-66600-210226",
-    "unfilled_size": 2000,
-    "order_type": "limit_order",
-    "created_at": "2026-02-21T11:53:50.786085Z",
-    "user_id": 21672861,
-    "stop_price": null,
-    "bracket_stop_loss_price": null,
-    "size": 2000,
-    "time_in_force": "gtc",
-    "quote_size": null,
     "bracket_stop_loss_limit_price": null,
-    "bracket_take_profit_limit_price": null,
-    "updated_at": "2026-02-21T11:53:50.786085Z"
+    "time_in_force": "gtc"
   }
 ]
