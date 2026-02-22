@@ -4,6 +4,90 @@
     "stop_order_type": null,
     "bracket_take_profit_price": null,
     "client_order_id": null,
+    "average_fill_price": "100",
+    "state": "open",
+    "product_id": 123096,
+    "updated_at": "2026-02-22T03:31:46.424808Z",
+    "id": 1188631956,
+    "side": "buy",
+    "stop_price": null,
+    "bracket_stop_loss_price": null,
+    "cancellation_reason": null,
+    "reduce_only": false,
+    "bracket_take_profit_limit_price": null,
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 123096,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-68200-220226",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "user_id": 21672861,
+    "time_in_force": "gtc",
+    "limit_price": "100",
+    "product_symbol": "C-BTC-68200-220226",
+    "margin_mode": "portfolio",
+    "size": 100,
+    "paid_commission": "0.2065",
+    "trail_amount": null,
+    "meta_data": {
+      "avg_exit_price": "100",
+      "cashflow": "-5",
+      "entry_price": "111.1131533601378518093049971",
+      "exit_price_with_size": [
+        {
+          "price": "100.00000000",
+          "size": "-50"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-5.555657668006892590465249855",
+          "pnl": "0.55565766"
+        }
+      ],
+      "ip": "2409:40e4:1236:fa65:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "pnl": "0.55565766",
+      "roe": "-10.00165404718580703858401224",
+      "source": "mobile_app_android"
+    },
+    "bracket_trail_amount": null,
+    "unfilled_size": 50,
+    "created_at": "2026-02-22T03:31:36.007467Z",
+    "quote_size": null,
+    "bracket_stop_loss_limit_price": null,
+    "mmp": "disabled",
+    "bracket_order": null,
+    "stop_trigger_method": null,
+    "commission": "0"
+  },
+  {
+    "order_type": "limit_order",
+    "stop_order_type": null,
+    "bracket_take_profit_price": null,
+    "client_order_id": null,
     "average_fill_price": null,
     "state": "open",
     "product_id": 123096,
