@@ -71,9 +71,26 @@
     "side": "sell",
     "state": "open",
     "meta_data": {
+      "avg_exit_price": "140",
+      "cashflow": "31.78",
+      "entry_price": "67.09693877551020408163265306",
+      "exit_price_with_size": [
+        {
+          "price": "140.00000000",
+          "size": "227"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "15.23100510204081632653061224",
+          "pnl": "16.54899489"
+        }
+      ],
       "ip": "2409:40e4:1236:fa65:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "16.54899489",
+      "roe": "108.6533342949414744427401545",
       "source": "mobile_app_android",
       "user_updated_at": "2026-02-22T03:13:23.134Z"
     },
@@ -88,15 +105,15 @@
     "limit_price": "140",
     "mmp": "disabled",
     "bracket_order": null,
-    "updated_at": "2026-02-22T03:13:23.134572Z",
+    "updated_at": "2026-02-22T03:30:06.058800Z",
     "cancellation_reason": null,
     "bracket_trail_amount": null,
     "commission": "0",
     "bracket_take_profit_price": null,
     "stop_price": null,
-    "unfilled_size": 500,
+    "unfilled_size": 273,
     "trail_amount": null,
-    "paid_commission": "0",
+    "paid_commission": "1.312514",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
@@ -133,7 +150,7 @@
     "time_in_force": "gtc",
     "stop_trigger_method": null,
     "user_id": 21672861,
-    "average_fill_price": null
+    "average_fill_price": "140"
   },
   {
     "side": "sell",
