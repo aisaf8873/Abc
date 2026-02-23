@@ -6,7 +6,8 @@
       "ip": "2409:40e4:3d:4fb0:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-23T12:38:26.096Z"
     },
     "product_id": 123305,
     "bracket_stop_loss_price": null,
@@ -16,10 +17,10 @@
     "reduce_only": false,
     "client_order_id": null,
     "order_type": "limit_order",
-    "limit_price": "25.5",
+    "limit_price": "25",
     "mmp": "disabled",
     "bracket_order": null,
-    "updated_at": "2026-02-23T12:38:10.329739Z",
+    "updated_at": "2026-02-23T12:38:26.096902Z",
     "cancellation_reason": null,
     "bracket_trail_amount": null,
     "commission": "0",
