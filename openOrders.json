@@ -1,7 +1,7 @@
 [
   {
     "bracket_trail_amount": null,
-    "updated_at": "2026-02-25T03:32:48.681414Z",
+    "updated_at": "2026-02-25T03:34:13.826278Z",
     "bracket_stop_loss_limit_price": null,
     "margin_mode": "portfolio",
     "average_fill_price": null,
@@ -14,7 +14,7 @@
     "id": 1193270580,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "0.35",
+    "limit_price": "0.65",
     "cancellation_reason": null,
     "bracket_order": null,
     "stop_price": null,
@@ -24,7 +24,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-25T03:32:48.681Z"
+      "user_updated_at": "2026-02-25T03:34:13.825Z"
     },
     "unfilled_size": 2000,
     "user_id": 21672861,
