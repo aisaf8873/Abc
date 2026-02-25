@@ -1,11 +1,11 @@
 [
   {
-    "average_fill_price": "0.06",
+    "average_fill_price": "0.077093023255813953",
     "commission": "0",
     "product_id": 123486,
     "time_in_force": "gtc",
     "meta_data": {
-      "cashflow": "-0.06",
+      "cashflow": "-0.5304",
       "ip": "2409:40e4:200c:18f5:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -53,10 +53,10 @@
     "bracket_take_profit_price": null,
     "trail_amount": null,
     "stop_price": null,
-    "updated_at": "2026-02-25T02:39:51.706756Z",
-    "paid_commission": "0.002478",
+    "updated_at": "2026-02-25T03:09:10.693828Z",
+    "paid_commission": "0.02190552",
     "product_symbol": "P-ETH-1820-250226",
-    "unfilled_size": 1900,
+    "unfilled_size": 1312,
     "cancellation_reason": null,
     "user_id": 21672861,
     "margin_mode": "portfolio",
