@@ -52,8 +52,8 @@
       }
     },
     "ActionReaction":{
-      "BUY:ETH-D":"SELL:BTC-D"
+      "SELL:P-ETH-2000-270226":"BUY:P-ETH-1880-270226"
     },
-    "ActionReactionAdjustment":1
+    "ActionReactionAdjustment":5
   }
 }
