@@ -5,7 +5,7 @@
     "cancellation_reason": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "limit_price": "14",
+    "limit_price": "16",
     "stop_price": null,
     "product": {
       "contract_type": "call_options",
@@ -38,7 +38,8 @@
     "meta_data": {
       "ip": "2409:40e5:101d:f026:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-02-28T20:18:36.356Z"
     },
     "state": "open",
     "paid_commission": "0",
@@ -58,7 +59,7 @@
     "bracket_stop_loss_price": null,
     "product_symbol": "C-BTC-69200-010326",
     "size": 800,
-    "updated_at": "2026-02-28T20:18:24.543397Z",
+    "updated_at": "2026-02-28T20:18:36.356642Z",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "side": "buy",
