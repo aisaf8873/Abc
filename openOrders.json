@@ -67,76 +67,6 @@
     "bracket_take_profit_price": null
   },
   {
-    "average_fill_price": "3.087169811320754717",
-    "created_at": "2026-02-28T15:21:45.732126Z",
-    "cancellation_reason": null,
-    "stop_order_type": null,
-    "order_type": "limit_order",
-    "limit_price": "3.21",
-    "stop_price": null,
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 124479,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "P-ETH-1780-010326",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "stop_trigger_method": null,
-    "meta_data": {
-      "cashflow": "-8.181",
-      "ip": "2409:40e5:101d:f026:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "pnl": "0",
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-02-28T15:26:43.611Z"
-    },
-    "state": "open",
-    "paid_commission": "0.3378753",
-    "product_id": 124479,
-    "id": 1200081680,
-    "quote_size": null,
-    "margin_mode": "portfolio",
-    "bracket_take_profit_limit_price": null,
-    "trail_amount": null,
-    "bracket_trail_amount": null,
-    "mmp": "disabled",
-    "bracket_order": null,
-    "unfilled_size": 94,
-    "reduce_only": false,
-    "client_order_id": null,
-    "time_in_force": "gtc",
-    "bracket_stop_loss_price": null,
-    "product_symbol": "P-ETH-1780-010326",
-    "size": 359,
-    "updated_at": "2026-02-28T15:26:56.276985Z",
-    "commission": "0",
-    "bracket_stop_loss_limit_price": null,
-    "side": "buy",
-    "user_id": 21672861,
-    "bracket_take_profit_price": null
-  },
-  {
     "average_fill_price": null,
     "created_at": "2026-02-28T15:21:02.147803Z",
     "cancellation_reason": null,
@@ -347,7 +277,7 @@
     "cancellation_reason": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "limit_price": 9.62,
+    "limit_price": 8.97,
     "stop_price": null,
     "product": {
       "contract_type": "put_options",
@@ -384,7 +314,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-28T15:27:05.023Z"
+      "user_updated_at": "2026-02-28T15:27:30.227Z"
     },
     "state": "open",
     "paid_commission": "0.43900071",
@@ -404,7 +334,7 @@
     "bracket_stop_loss_price": null,
     "product_symbol": "P-ETH-1800-010326",
     "size": 2000,
-    "updated_at": "2026-02-28T15:27:05.023865Z",
+    "updated_at": "2026-02-28T15:27:30.228127Z",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "side": "sell",
