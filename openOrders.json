@@ -136,13 +136,15 @@
     "bracket_stop_loss_limit_price": null
   },
   {
-    "average_fill_price": null,
+    "average_fill_price": "10",
     "mmp": "disabled",
     "bracket_trail_amount": null,
     "meta_data": {
+      "cashflow": "15",
       "ip": "2409:40e5:101d:f026:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-02-28T18:27:20.126Z"
     },
@@ -190,16 +192,16 @@
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
     "user_id": 21672861,
-    "updated_at": "2026-02-28T18:27:20.126725Z",
+    "updated_at": "2026-02-28T18:34:15.287546Z",
     "bracket_take_profit_limit_price": null,
     "side": "sell",
     "product_symbol": "P-ETH-1860-010326",
     "client_order_id": null,
     "size": 200,
-    "unfilled_size": 200,
+    "unfilled_size": 50,
     "time_in_force": "gtc",
     "bracket_order": null,
-    "paid_commission": "0",
+    "paid_commission": "0.33843285",
     "bracket_take_profit_price": null,
     "bracket_stop_loss_limit_price": null
   },
