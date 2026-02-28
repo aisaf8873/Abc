@@ -223,7 +223,7 @@
     "side": "sell",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null,
-    "limit_price": 8.87,
+    "limit_price": "8.87",
     "state": "open",
     "product_id": 124431,
     "id": 1200019283,
@@ -233,7 +233,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-28T15:35:13.034Z"
+      "user_updated_at": "2026-02-28T15:35:50.302Z"
     },
     "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
@@ -276,7 +276,7 @@
     "product_symbol": "P-ETH-1820-010326",
     "size": 3000,
     "quote_size": null,
-    "updated_at": "2026-02-28T15:35:13.040041Z",
+    "updated_at": "2026-02-28T15:35:50.302700Z",
     "client_order_id": null,
     "bracket_take_profit_price": null,
     "bracket_order": null,
