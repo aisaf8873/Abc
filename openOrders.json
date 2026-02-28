@@ -3,7 +3,7 @@
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
     "side": "buy",
-    "updated_at": "2026-02-28T10:22:12.767358Z",
+    "updated_at": "2026-02-28T10:22:48.335712Z",
     "mmp": "disabled",
     "margin_mode": "portfolio",
     "trail_amount": null,
@@ -40,13 +40,13 @@
         "symbol": "ETH"
       }
     },
-    "limit_price": 0.76,
+    "limit_price": "0.76",
     "cancellation_reason": null,
     "meta_data": {
       "ip": "2409:40e5:101d:f026:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-28T10:22:12.766Z"
+      "user_updated_at": "2026-02-28T10:22:48.335Z"
     },
     "bracket_order": null,
     "time_in_force": "gtc",
