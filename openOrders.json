@@ -67,7 +67,7 @@
     "bracket_stop_loss_limit_price": null
   },
   {
-    "updated_at": "2026-02-28T16:34:32.391530Z",
+    "updated_at": "2026-02-28T16:36:12.448676Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -107,18 +107,22 @@
     },
     "bracket_order": null,
     "stop_order_type": null,
-    "unfilled_size": 369,
+    "unfilled_size": 50,
     "stop_price": null,
-    "paid_commission": "0.018585",
+    "paid_commission": "0.413826",
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "meta_data": {
       "avg_exit_price": "3",
-      "cashflow": "0.45",
+      "cashflow": "10.02",
       "entry_price": "3.088444875790015259499184407",
       "exit_price_with_size": [
+        {
+          "price": "3.00000000",
+          "size": "319"
+        },
         {
           "price": "3.00000000",
           "size": "15"
@@ -126,14 +130,18 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "9.852139153770148677802398258",
+          "pnl": "-0.28213916"
+        },
+        {
           "margin": "0.4632667313685022889248776611",
           "pnl": "-0.01326674"
         }
       ],
       "ip": "2409:40e5:101d:f026:8000::",
       "otc": false,
-      "pnl": "-0.01326674",
-      "roe": "-2.863736828416255135424650958",
+      "pnl": "-0.2954059",
+      "roe": "-2.863735109304711605988741039",
       "source": "mobile_app_android"
     },
     "user_id": 21672861,
