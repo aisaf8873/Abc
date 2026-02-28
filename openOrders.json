@@ -104,12 +104,12 @@
     "product_id": 123828,
     "time_in_force": "gtc",
     "stop_order_type": null,
-    "updated_at": "2026-02-28T05:47:08.788367Z",
+    "updated_at": "2026-02-28T05:47:17.087488Z",
     "id": 1198835186,
     "bracket_stop_loss_price": null,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 72.27,
+    "limit_price": "72.3",
     "cancellation_reason": null,
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
@@ -120,7 +120,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-02-28T05:47:08.788Z"
+      "user_updated_at": "2026-02-28T05:47:17.087Z"
     },
     "user_id": 21672861,
     "mmp": "disabled",
