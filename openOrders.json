@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-01T08:39:10.006830Z",
+    "updated_at": "2026-03-01T08:39:30.898805Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -9,7 +9,7 @@
     "product_id": 124144,
     "reduce_only": true,
     "bracket_trail_amount": null,
-    "average_fill_price": null,
+    "average_fill_price": "115",
     "order_type": "limit_order",
     "product": {
       "contract_type": "put_options",
@@ -40,21 +40,21 @@
     },
     "bracket_order": null,
     "stop_order_type": null,
-    "unfilled_size": 288,
+    "unfilled_size": 250,
     "stop_price": null,
-    "paid_commission": "0",
+    "paid_commission": "0.1662325",
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "meta_data": {
       "otc": false,
-      "user_updated_at": "2026-03-01T08:39:10.006Z"
+      "user_updated_at": "2026-03-01T08:39:30.897Z"
     },
     "user_id": 21672861,
     "time_in_force": "gtc",
     "side": "buy",
-    "size": 288,
+    "size": 285,
     "client_order_id": null,
     "margin_mode": "portfolio",
     "created_at": "2026-03-01T08:38:56.220886Z",
