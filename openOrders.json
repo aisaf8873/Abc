@@ -2,6 +2,75 @@
   {
     "bracket_order": null,
     "client_order_id": null,
+    "average_fill_price": "190",
+    "commission": "0",
+    "side": "sell",
+    "margin_mode": "portfolio",
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 124120,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "P-BTC-66800-010326",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "state": "open",
+    "product_id": 124120,
+    "time_in_force": "gtc",
+    "stop_order_type": null,
+    "updated_at": "2026-03-01T06:23:26.823427Z",
+    "id": 1201188550,
+    "bracket_stop_loss_price": null,
+    "reduce_only": false,
+    "order_type": "limit_order",
+    "limit_price": "190",
+    "cancellation_reason": null,
+    "bracket_take_profit_price": null,
+    "bracket_take_profit_limit_price": null,
+    "created_at": "2026-03-01T06:23:26.611770Z",
+    "stop_price": null,
+    "meta_data": {
+      "cashflow": "187.34",
+      "ip": "2409:40e5:11bb:1be0:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "pnl": "-0",
+      "source": "mobile_app_android"
+    },
+    "user_id": 21672861,
+    "mmp": "disabled",
+    "unfilled_size": 100,
+    "paid_commission": "7.737142",
+    "product_symbol": "P-BTC-66800-010326",
+    "size": 1086,
+    "quote_size": null,
+    "stop_trigger_method": null,
+    "trail_amount": null,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null
+  },
+  {
+    "bracket_order": null,
+    "client_order_id": null,
     "average_fill_price": null,
     "commission": "0",
     "side": "buy",
@@ -647,74 +716,6 @@
     "paid_commission": "0",
     "product_symbol": "C-BTC-67600-010326",
     "size": 500,
-    "quote_size": null,
-    "stop_trigger_method": null,
-    "trail_amount": null,
-    "bracket_trail_amount": null,
-    "bracket_stop_loss_limit_price": null
-  },
-  {
-    "bracket_order": null,
-    "client_order_id": null,
-    "average_fill_price": null,
-    "commission": "0",
-    "side": "sell",
-    "margin_mode": "portfolio",
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 124395,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "P-ETH-1860-010326",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "state": "open",
-    "product_id": 124395,
-    "time_in_force": "gtc",
-    "stop_order_type": null,
-    "updated_at": "2026-03-01T05:40:25.278757Z",
-    "id": 1200933868,
-    "bracket_stop_loss_price": null,
-    "reduce_only": false,
-    "order_type": "limit_order",
-    "limit_price": "4.9",
-    "cancellation_reason": null,
-    "bracket_take_profit_price": null,
-    "bracket_take_profit_limit_price": null,
-    "created_at": "2026-03-01T03:20:52.177277Z",
-    "stop_price": null,
-    "meta_data": {
-      "ip": "2409:40e5:11bb:1be0:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-03-01T05:40:25.272Z"
-    },
-    "user_id": 21672861,
-    "mmp": "disabled",
-    "unfilled_size": 2000,
-    "paid_commission": "0",
-    "product_symbol": "P-ETH-1860-010326",
-    "size": 2000,
     "quote_size": null,
     "stop_trigger_method": null,
     "trail_amount": null,
