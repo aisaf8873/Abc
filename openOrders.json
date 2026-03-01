@@ -242,7 +242,7 @@
     "product_id": 124127,
     "time_in_force": "gtc",
     "stop_order_type": null,
-    "updated_at": "2026-03-01T02:25:24.271219Z",
+    "updated_at": "2026-03-01T02:25:49.413230Z",
     "id": 1200854038,
     "bracket_stop_loss_price": null,
     "reduce_only": true,
@@ -255,9 +255,13 @@
     "stop_price": null,
     "meta_data": {
       "avg_exit_price": "30",
-      "cashflow": "1.5",
+      "cashflow": "2.4",
       "entry_price": "16.92000000000000000000000000",
       "exit_price_with_size": [
+        {
+          "price": "30.00000000",
+          "size": "30"
+        },
         {
           "price": "30.00000000",
           "size": "50"
@@ -265,20 +269,24 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "0.5076000000000000000000000000",
+          "pnl": "0.39240000"
+        },
+        {
           "margin": "0.8460000000000000000000000000",
           "pnl": "0.65400000"
         }
       ],
       "ip": "2409:40e5:11bb:1be0:8000::",
       "otc": false,
-      "pnl": "0.654",
+      "pnl": "1.0464",
       "roe": "77.30496453900709219858156028",
       "source": "mobile_app_android"
     },
     "user_id": 21672861,
     "mmp": "disabled",
-    "unfilled_size": 200,
-    "paid_commission": "0.06195",
+    "unfilled_size": 170,
+    "paid_commission": "0.09912",
     "product_symbol": "C-BTC-69600-010326",
     "size": 250,
     "quote_size": null,
