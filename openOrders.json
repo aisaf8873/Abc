@@ -27,7 +27,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-01T06:28:02.864028Z",
+    "updated_at": "2026-03-01T06:28:11.307301Z",
     "bracket_take_profit_limit_price": null,
     "reduce_only": false,
     "unfilled_size": 500,
@@ -51,7 +51,8 @@
       "ip": "2409:40e5:11bb:1be0:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-01T06:28:11.306Z"
     },
     "client_order_id": null,
     "time_in_force": "gtc",
@@ -61,7 +62,7 @@
     "product_symbol": "P-BTC-67000-010326",
     "stop_trigger_method": null,
     "size": 500,
-    "limit_price": "299",
+    "limit_price": "360",
     "mmp": "disabled",
     "average_fill_price": null,
     "stop_price": null
