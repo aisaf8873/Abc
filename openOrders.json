@@ -207,7 +207,7 @@
   {
     "bracket_order": null,
     "client_order_id": null,
-    "average_fill_price": null,
+    "average_fill_price": "30",
     "commission": "0",
     "side": "sell",
     "margin_mode": "portfolio",
@@ -242,7 +242,7 @@
     "product_id": 124127,
     "time_in_force": "gtc",
     "stop_order_type": null,
-    "updated_at": "2026-03-01T02:21:48.341170Z",
+    "updated_at": "2026-03-01T02:25:24.271219Z",
     "id": 1200854038,
     "bracket_stop_loss_price": null,
     "reduce_only": true,
@@ -254,14 +254,31 @@
     "created_at": "2026-03-01T02:21:48.341170Z",
     "stop_price": null,
     "meta_data": {
+      "avg_exit_price": "30",
+      "cashflow": "1.5",
+      "entry_price": "16.92000000000000000000000000",
+      "exit_price_with_size": [
+        {
+          "price": "30.00000000",
+          "size": "50"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "0.8460000000000000000000000000",
+          "pnl": "0.65400000"
+        }
+      ],
       "ip": "2409:40e5:11bb:1be0:8000::",
       "otc": false,
+      "pnl": "0.654",
+      "roe": "77.30496453900709219858156028",
       "source": "mobile_app_android"
     },
     "user_id": 21672861,
     "mmp": "disabled",
-    "unfilled_size": 250,
-    "paid_commission": "0",
+    "unfilled_size": 200,
+    "paid_commission": "0.06195",
     "product_symbol": "C-BTC-69600-010326",
     "size": 250,
     "quote_size": null,
