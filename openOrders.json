@@ -7,7 +7,7 @@
     "id": 1201237413,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "340",
+    "limit_price": "325",
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -49,7 +49,7 @@
     "paid_commission": "0",
     "commission": "0",
     "product_symbol": "P-BTC-66800-010326",
-    "updated_at": "2026-03-01T06:51:22.349765Z",
+    "updated_at": "2026-03-01T06:52:45.005881Z",
     "size": 500,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -61,7 +61,8 @@
       "ip": "2409:40e5:11bb:1be0:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-01T06:52:45.005Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null
@@ -109,14 +110,14 @@
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "stop_price": null,
-    "unfilled_size": 160,
+    "unfilled_size": 99,
     "trail_amount": null,
     "side": "buy",
     "user_id": 21672861,
-    "paid_commission": "0.501795",
+    "paid_commission": "0.87843035",
     "commission": "0",
     "product_symbol": "P-BTC-66600-010326",
-    "updated_at": "2026-03-01T06:52:13.224419Z",
+    "updated_at": "2026-03-01T06:52:46.044373Z",
     "size": 250,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -125,10 +126,14 @@
     "created_at": "2026-03-01T06:48:28.390799Z",
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "avg_exit_price": "135",
-      "cashflow": "-12.15",
+      "avg_exit_price": "140.8576158940397350993377483",
+      "cashflow": "-21.2695",
       "entry_price": "383.6856671624264215715871746",
       "exit_price_with_size": [
+        {
+          "price": "149.50000000",
+          "size": "-61"
+        },
         {
           "price": "135.00000000",
           "size": "-20"
@@ -139,6 +144,10 @@
         }
       ],
       "fills_pnl_with_margin": [
+        {
+          "margin": "-23.40482569690801171586681765",
+          "pnl": "14.28532569"
+        },
         {
           "margin": "-7.673713343248528431431743492",
           "pnl": "4.97371334"
@@ -151,13 +160,13 @@
       "ip": "2409:40e5:11bb:1be0:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "24.8088052",
-      "roe": "-67.12556063031656828838545442",
+      "pnl": "39.09413089",
+      "roe": "-64.76437931606188225926036695",
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-01T06:52:13.223Z"
     },
     "bracket_stop_loss_limit_price": null,
-    "average_fill_price": "135"
+    "average_fill_price": "140.857615894039735099"
   },
   {
     "bracket_order": null,
