@@ -310,7 +310,7 @@
     "id": 1201086487,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "270",
+    "limit_price": "240",
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -352,7 +352,7 @@
     "paid_commission": "0",
     "commission": "0",
     "product_symbol": "P-BTC-66800-010326",
-    "updated_at": "2026-03-01T06:01:53.195433Z",
+    "updated_at": "2026-03-01T06:04:33.644067Z",
     "size": 450,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -365,7 +365,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-01T06:01:53.195Z"
+      "user_updated_at": "2026-03-01T06:04:33.643Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null
