@@ -67,7 +67,7 @@
     "bracket_stop_loss_limit_price": null
   },
   {
-    "updated_at": "2026-03-01T05:19:35.324388Z",
+    "updated_at": "2026-03-01T05:20:47.514250Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -76,7 +76,7 @@
     "product_id": 124120,
     "reduce_only": false,
     "bracket_trail_amount": null,
-    "average_fill_price": "87.058675607711651299",
+    "average_fill_price": "83.986941580756013746",
     "order_type": "limit_order",
     "product": {
       "contract_type": "put_options",
@@ -107,15 +107,15 @@
     },
     "bracket_order": null,
     "stop_order_type": null,
-    "unfilled_size": 307,
+    "unfilled_size": 45,
     "stop_price": null,
-    "paid_commission": "4.2894593",
+    "paid_commission": "5.0469013",
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "meta_data": {
-      "cashflow": "-103.861",
+      "cashflow": "-122.201",
       "ip": "2409:40e5:11bb:1be0:8000::",
       "order_source": "place_order",
       "otc": false,
