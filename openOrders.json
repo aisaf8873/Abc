@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-01T05:05:08.330650Z",
+    "updated_at": "2026-03-01T05:05:38.540383Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -51,7 +51,8 @@
       "ip": "2409:40e5:11bb:1be0:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-01T05:05:38.539Z"
     },
     "user_id": 21672861,
     "time_in_force": "gtc",
@@ -61,7 +62,7 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-01T05:05:08.330650Z",
     "product_symbol": "P-BTC-67200-010326",
-    "limit_price": "182",
+    "limit_price": "199.2",
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
