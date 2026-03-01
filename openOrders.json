@@ -578,9 +578,9 @@
     "state": "open",
     "product_id": 124104,
     "id": 1201058109,
-    "unfilled_size": 391,
+    "unfilled_size": 209,
     "meta_data": {
-      "cashflow": "13.9631",
+      "cashflow": "41.0811",
       "ip": "2409:40e5:11bb:1be0:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -624,12 +624,12 @@
       }
     },
     "commission": "0",
-    "paid_commission": "0.25904263",
+    "paid_commission": "0.69098728",
     "margin_mode": "portfolio",
     "product_symbol": "P-ETH-2000-010326",
     "size": 500,
     "quote_size": null,
-    "updated_at": "2026-03-01T05:57:18.787275Z",
+    "updated_at": "2026-03-01T05:57:52.274222Z",
     "client_order_id": null,
     "bracket_take_profit_price": null,
     "bracket_order": null,
@@ -637,7 +637,7 @@
     "trail_amount": null,
     "stop_price": null,
     "time_in_force": "gtc",
-    "average_fill_price": "12.81018348623853211"
+    "average_fill_price": "14.117216494845360825"
   },
   {
     "cancellation_reason": null,
