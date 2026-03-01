@@ -357,15 +357,15 @@
     "bracket_stop_loss_limit_price": null
   },
   {
-    "average_fill_price": "19",
+    "average_fill_price": "15.277777777777777778",
     "mmp": "disabled",
     "bracket_trail_amount": null,
     "meta_data": {
-      "cashflow": "14.63",
+      "cashflow": "22",
       "ip": "2409:40e5:11bb:1be0:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "-0",
+      "pnl": "0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-01T08:11:05.469Z"
     },
@@ -413,16 +413,16 @@
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
     "user_id": 21672861,
-    "updated_at": "2026-03-01T08:11:05.470024Z",
+    "updated_at": "2026-03-01T08:17:31.675129Z",
     "bracket_take_profit_limit_price": null,
     "side": "sell",
     "product_symbol": "C-ETH-2020-010326",
     "client_order_id": null,
     "size": 500,
-    "unfilled_size": 423,
+    "unfilled_size": 356,
     "time_in_force": "gtc",
     "bracket_order": null,
-    "paid_commission": "0.18174181",
+    "paid_commission": "0.34039231",
     "bracket_take_profit_price": null,
     "bracket_stop_loss_limit_price": null
   },
