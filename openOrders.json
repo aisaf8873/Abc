@@ -72,89 +72,6 @@
   {
     "bracket_order": null,
     "state": "open",
-    "product_id": 124076,
-    "stop_order_type": null,
-    "id": 1201053378,
-    "reduce_only": true,
-    "order_type": "limit_order",
-    "limit_price": "65",
-    "cancellation_reason": null,
-    "mmp": "disabled",
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 124076,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "C-BTC-68000-010326",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "time_in_force": "gtc",
-    "client_order_id": null,
-    "bracket_take_profit_price": null,
-    "margin_mode": "portfolio",
-    "stop_price": null,
-    "unfilled_size": 2,
-    "trail_amount": null,
-    "side": "buy",
-    "user_id": 21672861,
-    "paid_commission": "4.0240655",
-    "commission": "0",
-    "product_symbol": "C-BTC-68000-010326",
-    "updated_at": "2026-03-01T04:51:09.504207Z",
-    "size": 1501,
-    "quote_size": null,
-    "bracket_take_profit_limit_price": null,
-    "stop_trigger_method": null,
-    "bracket_trail_amount": null,
-    "created_at": "2026-03-01T04:45:31.613230Z",
-    "bracket_stop_loss_price": null,
-    "meta_data": {
-      "avg_exit_price": "65",
-      "cashflow": "-97.435",
-      "entry_price": "82.04702941559960919708576769",
-      "exit_price_with_size": [
-        {
-          "price": "65.00000000",
-          "size": "-1499"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-122.9884970939838141864315658",
-          "pnl": "25.55349709"
-        }
-      ],
-      "ip": "2409:40e5:11bb:1be0:8000::",
-      "otc": false,
-      "pnl": "25.55349709",
-      "roe": "-20.77714395556264715679597600",
-      "source": "mobile_app_android"
-    },
-    "bracket_stop_loss_limit_price": null,
-    "average_fill_price": "65"
-  },
-  {
-    "bracket_order": null,
-    "state": "open",
     "product_id": 124144,
     "stop_order_type": null,
     "id": 1201051917,
@@ -195,14 +112,14 @@
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "stop_price": null,
-    "unfilled_size": 500,
+    "unfilled_size": 475,
     "trail_amount": null,
     "side": "sell",
     "user_id": 21672861,
-    "paid_commission": "0",
+    "paid_commission": "0.19411",
     "commission": "0",
     "product_symbol": "P-BTC-67000-010326",
-    "updated_at": "2026-03-01T04:47:21.463838Z",
+    "updated_at": "2026-03-01T04:51:31.477929Z",
     "size": 500,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -211,14 +128,16 @@
     "created_at": "2026-03-01T04:44:10.106687Z",
     "bracket_stop_loss_price": null,
     "meta_data": {
+      "cashflow": "4.7",
       "ip": "2409:40e5:11bb:1be0:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-01T04:47:21.463Z"
     },
     "bracket_stop_loss_limit_price": null,
-    "average_fill_price": null
+    "average_fill_price": "188"
   },
   {
     "bracket_order": null,
@@ -690,5 +609,112 @@
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null
+  },
+  {
+    "bracket_order": null,
+    "state": "open",
+    "product_id": 124395,
+    "stop_order_type": null,
+    "id": 1200916821,
+    "reduce_only": true,
+    "order_type": "limit_order",
+    "limit_price": "0.06",
+    "cancellation_reason": null,
+    "mmp": "disabled",
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 124395,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-1860-010326",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "time_in_force": "gtc",
+    "client_order_id": null,
+    "bracket_take_profit_price": null,
+    "margin_mode": "portfolio",
+    "stop_price": null,
+    "unfilled_size": 8755,
+    "trail_amount": null,
+    "side": "buy",
+    "user_id": 21672861,
+    "paid_commission": "0.04329066",
+    "commission": "0",
+    "product_symbol": "P-ETH-1860-010326",
+    "updated_at": "2026-03-01T03:47:55.883769Z",
+    "size": 10502,
+    "quote_size": null,
+    "bracket_take_profit_limit_price": null,
+    "stop_trigger_method": null,
+    "bracket_trail_amount": null,
+    "created_at": "2026-03-01T03:05:28.313175Z",
+    "bracket_stop_loss_price": null,
+    "meta_data": {
+      "avg_exit_price": "0.06",
+      "cashflow": "-1.0482",
+      "entry_price": "7.616512732398878408198190942",
+      "exit_price_with_size": [
+        {
+          "price": "0.06000000",
+          "size": "-200"
+        },
+        {
+          "price": "0.06000000",
+          "size": "-30"
+        },
+        {
+          "price": "0.06000000",
+          "size": "-501"
+        },
+        {
+          "price": "0.06000000",
+          "size": "-1016"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-15.23302546479775681639638188",
+          "pnl": "15.11302546"
+        },
+        {
+          "margin": "-2.284953819719663522459457283",
+          "pnl": "2.26695381"
+        },
+        {
+          "margin": "-38.15872878931838082507293662",
+          "pnl": "37.85812878"
+        },
+        {
+          "margin": "-77.38376936117260462729361997",
+          "pnl": "76.77416936"
+        }
+      ],
+      "ip": "2409:40e5:11bb:1be0:8000::",
+      "otc": false,
+      "pnl": "132.01227741",
+      "roe": "-99.21223788970666744730812982",
+      "source": "mobile_app_android"
+    },
+    "bracket_stop_loss_limit_price": null,
+    "average_fill_price": "0.06"
   }
 ]
