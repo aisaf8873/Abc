@@ -228,7 +228,7 @@
         "symbol": "ETH"
       }
     },
-    "updated_at": "2026-03-01T02:33:35.940015Z",
+    "updated_at": "2026-03-01T02:33:57.006389Z",
     "bracket_take_profit_limit_price": null,
     "reduce_only": true,
     "unfilled_size": 1479,
@@ -268,7 +268,8 @@
       "otc": false,
       "pnl": "20.58082714",
       "roe": "-32.03928383487331090187855899",
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-01T02:33:57.005Z"
     },
     "client_order_id": null,
     "time_in_force": "gtc",
@@ -278,7 +279,7 @@
     "product_symbol": "C-ETH-2060-010326",
     "stop_trigger_method": null,
     "size": 1953,
-    "limit_price": "9.21",
+    "limit_price": "7.21",
     "mmp": "disabled",
     "average_fill_price": "9.21",
     "stop_price": null
