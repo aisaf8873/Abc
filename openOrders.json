@@ -1,72 +1,5 @@
 [
   {
-    "updated_at": "2026-03-01T08:08:11.305962Z",
-    "commission": "0",
-    "trail_amount": null,
-    "state": "open",
-    "id": 1201351754,
-    "mmp": "disabled",
-    "product_id": 124120,
-    "reduce_only": false,
-    "bracket_trail_amount": null,
-    "average_fill_price": null,
-    "order_type": "limit_order",
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 124120,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "P-BTC-66800-010326",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "bracket_order": null,
-    "stop_order_type": null,
-    "unfilled_size": 9,
-    "stop_price": null,
-    "paid_commission": "0",
-    "quote_size": null,
-    "cancellation_reason": null,
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
-    "meta_data": {
-      "ip": "2409:40e5:11bb:1be0:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "user_id": 21672861,
-    "time_in_force": "gtc",
-    "side": "buy",
-    "size": 9,
-    "client_order_id": null,
-    "margin_mode": "portfolio",
-    "created_at": "2026-03-01T08:08:11.305962Z",
-    "product_symbol": "P-BTC-66800-010326",
-    "limit_price": "130",
-    "bracket_take_profit_price": null,
-    "bracket_take_profit_limit_price": null,
-    "bracket_stop_loss_limit_price": null
-  },
-  {
     "updated_at": "2026-03-01T08:03:52.985474Z",
     "commission": "0",
     "trail_amount": null,
@@ -693,6 +626,74 @@
     "created_at": "2026-03-01T03:20:52.177277Z",
     "product_symbol": "P-ETH-1860-010326",
     "limit_price": "4.9",
+    "bracket_take_profit_price": null,
+    "bracket_take_profit_limit_price": null,
+    "bracket_stop_loss_limit_price": null
+  },
+  {
+    "updated_at": "2026-03-01T02:52:09.001089Z",
+    "commission": "0",
+    "trail_amount": null,
+    "state": "open",
+    "id": 1200887886,
+    "mmp": "disabled",
+    "product_id": 124109,
+    "reduce_only": false,
+    "bracket_trail_amount": null,
+    "average_fill_price": null,
+    "order_type": "limit_order",
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 124109,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "C-ETH-2100-010326",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "bracket_order": null,
+    "stop_order_type": null,
+    "unfilled_size": 2000,
+    "stop_price": null,
+    "paid_commission": "0",
+    "quote_size": null,
+    "cancellation_reason": null,
+    "bracket_stop_loss_price": null,
+    "stop_trigger_method": null,
+    "meta_data": {
+      "ip": "2409:40e5:11bb:1be0:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-01T02:52:09.000Z"
+    },
+    "user_id": 21672861,
+    "time_in_force": "gtc",
+    "side": "sell",
+    "size": 2000,
+    "client_order_id": null,
+    "margin_mode": "portfolio",
+    "created_at": "2026-03-01T02:44:54.744673Z",
+    "product_symbol": "C-ETH-2100-010326",
+    "limit_price": "9.86",
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
