@@ -8,9 +8,9 @@
 "dropThreshold":35,
 "minPriceForFunc1":5,
 "PriceChangeDiffForFunc3":{"1203923611":0.05,"1204044671":0.05,"1204045902":0.05},
-"marketPriceCorrectionForFunc3":{"1203923611":105,"1204044671":125,"1204045902":125},
+"marketPriceCorrectionForFunc3":{"1203923611":75,"1204044671":125,"1204045902":125},
 "filterSizeForFunc3":{"1203923611":500,"1204044671":500,"1204045902":500},
-"minTargetPriceToSellForFunc3":{"1203923611":8,"1204044671":8,"1204045902":8},
+"minTargetPriceToSellForFunc3":{"1203923611":10,"1204044671":8,"1204045902":8},
 "updateSellOrderIdList":[1204045902,1204044671,1203923611],
 "symbols":["C-ETH-2160-030326","C-ETH-2120-030326","C-ETH-2100-030326"]
 }
