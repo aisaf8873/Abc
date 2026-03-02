@@ -73,7 +73,7 @@
     "cancellation_reason": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "limit_price": "8.15",
+    "limit_price": "8.09",
     "stop_price": null,
     "product": {
       "contract_type": "call_options",
@@ -108,7 +108,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-02T23:29:46.263Z"
+      "user_updated_at": "2026-03-02T23:37:01.177Z"
     },
     "state": "open",
     "paid_commission": "0",
@@ -128,7 +128,7 @@
     "bracket_stop_loss_price": null,
     "product_symbol": "C-ETH-2100-030326",
     "size": 3500,
-    "updated_at": "2026-03-02T23:29:46.264274Z",
+    "updated_at": "2026-03-02T23:37:01.178032Z",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "side": "sell",
