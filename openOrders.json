@@ -130,13 +130,13 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-02T15:50:41.466794Z",
     "product_symbol": "C-ETH-2160-030326",
-    "limit_price": "14",
+    "limit_price": 14.24,
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
-    "updated_at": "2026-03-02T16:03:49.084939Z",
+    "updated_at": "2026-03-02T16:04:49.610505Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -188,7 +188,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-02T16:03:49.084Z"
+      "user_updated_at": "2026-03-02T16:04:49.609Z"
     },
     "user_id": 21672861,
     "time_in_force": "gtc",
@@ -198,13 +198,13 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-02T15:50:19.021777Z",
     "product_symbol": "C-ETH-2120-030326",
-    "limit_price": 15.2,
+    "limit_price": 15.57,
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
-    "updated_at": "2026-03-02T15:59:07.494685Z",
+    "updated_at": "2026-03-02T16:04:49.267541Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -258,7 +258,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-02T15:59:07.494Z"
+      "user_updated_at": "2026-03-02T16:04:49.267Z"
     },
     "user_id": 21672861,
     "time_in_force": "gtc",
@@ -268,7 +268,7 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-02T15:21:14.815292Z",
     "product_symbol": "C-ETH-2100-030326",
-    "limit_price": "26.54",
+    "limit_price": "26.7",
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
