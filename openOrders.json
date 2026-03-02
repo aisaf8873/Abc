@@ -10,6 +10,74 @@
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
       "contract_value": "0.01",
+      "id": 124712,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "C-ETH-2100-030326",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "state": "open",
+    "product_id": 124712,
+    "time_in_force": "gtc",
+    "stop_order_type": null,
+    "updated_at": "2026-03-02T16:36:25.222021Z",
+    "id": 1204205765,
+    "bracket_stop_loss_price": null,
+    "reduce_only": false,
+    "order_type": "limit_order",
+    "limit_price": "14.2",
+    "cancellation_reason": null,
+    "bracket_take_profit_price": null,
+    "bracket_take_profit_limit_price": null,
+    "created_at": "2026-03-02T16:36:17.248889Z",
+    "stop_price": null,
+    "meta_data": {
+      "ip": "2409:40e4:2058:46bf:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-02T16:36:25.221Z"
+    },
+    "user_id": 21672861,
+    "mmp": "disabled",
+    "unfilled_size": 500,
+    "paid_commission": "0",
+    "product_symbol": "C-ETH-2100-030326",
+    "size": 500,
+    "quote_size": null,
+    "stop_trigger_method": null,
+    "trail_amount": null,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null
+  },
+  {
+    "bracket_order": null,
+    "client_order_id": null,
+    "average_fill_price": null,
+    "commission": "0",
+    "side": "sell",
+    "margin_mode": "portfolio",
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
       "id": 124694,
       "notional_type": "vanilla",
       "quoting_asset": {
