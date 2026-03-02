@@ -1,16 +1,5 @@
 [
   {
-    "updated_at": "2026-03-02T15:48:45.140549Z",
-    "commission": "0",
-    "trail_amount": null,
-    "state": "open",
-    "id": 1204038692,
-    "mmp": "disabled",
-    "product_id": 124712,
-    "reduce_only": true,
-    "bracket_trail_amount": null,
-    "average_fill_price": "13.84",
-    "order_type": "limit_order",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -38,106 +27,26 @@
         "symbol": "ETH"
       }
     },
-    "bracket_order": null,
-    "stop_order_type": null,
-    "unfilled_size": 83,
-    "stop_price": null,
-    "paid_commission": "0.49896474",
-    "quote_size": null,
-    "cancellation_reason": null,
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
-    "meta_data": {
-      "avg_exit_price": "13.84",
-      "cashflow": "-28.5104",
-      "entry_price": "15.63312645461598138091543832",
-      "exit_price_with_size": [
-        {
-          "price": "13.84000000",
-          "size": "-1"
-        },
-        {
-          "price": "13.84",
-          "size": "-205"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-0.1563312645461598138091543832",
-          "pnl": "0.01793126"
-        },
-        {
-          "margin": "-32.04790923196276183087664856",
-          "pnl": "3.67590923"
-        }
-      ],
-      "ip": "2409:40e4:2058:46bf:8000::",
-      "otc": false,
-      "pnl": "3.69384049",
-      "roe": "-11.47004379873646831199992793",
-      "source": "mobile_app_android"
-    },
-    "user_id": 21672861,
-    "time_in_force": "gtc",
-    "side": "buy",
-    "size": 289,
-    "client_order_id": null,
-    "margin_mode": "portfolio",
-    "created_at": "2026-03-02T15:48:36.383245Z",
-    "product_symbol": "C-ETH-2100-030326",
-    "limit_price": "13.84",
-    "bracket_take_profit_price": null,
-    "bracket_take_profit_limit_price": null,
-    "bracket_stop_loss_limit_price": null
-  },
-  {
     "updated_at": "2026-03-02T15:45:26.065348Z",
-    "commission": "0",
-    "trail_amount": null,
-    "state": "open",
-    "id": 1203923611,
-    "mmp": "disabled",
-    "product_id": 124712,
+    "bracket_take_profit_limit_price": null,
     "reduce_only": false,
-    "bracket_trail_amount": null,
-    "average_fill_price": "18.169896193771626298",
-    "order_type": "limit_order",
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 124712,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "C-ETH-2100-030326",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "bracket_order": null,
-    "stop_order_type": null,
     "unfilled_size": 711,
-    "stop_price": null,
+    "margin_mode": "portfolio",
+    "bracket_stop_loss_limit_price": null,
+    "state": "open",
+    "product_id": 124712,
+    "id": 1203923611,
+    "stop_order_type": null,
+    "bracket_take_profit_price": null,
     "paid_commission": "0.70061939",
+    "order_type": "limit_order",
+    "bracket_trail_amount": null,
     "quote_size": null,
+    "bracket_order": null,
+    "commission": "0",
+    "side": "sell",
     "cancellation_reason": null,
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
+    "trail_amount": null,
     "meta_data": {
       "cashflow": "52.511",
       "ip": "2409:40e4:2058:46bf:8000::",
@@ -147,17 +56,17 @@
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-02T15:21:55.698Z"
     },
-    "user_id": 21672861,
-    "time_in_force": "gtc",
-    "side": "sell",
-    "size": 1000,
     "client_order_id": null,
-    "margin_mode": "portfolio",
+    "time_in_force": "gtc",
+    "user_id": 21672861,
+    "bracket_stop_loss_price": null,
     "created_at": "2026-03-02T15:21:14.815292Z",
     "product_symbol": "C-ETH-2100-030326",
+    "stop_trigger_method": null,
+    "size": 1000,
     "limit_price": "19.9",
-    "bracket_take_profit_price": null,
-    "bracket_take_profit_limit_price": null,
-    "bracket_stop_loss_limit_price": null
+    "mmp": "disabled",
+    "average_fill_price": "18.169896193771626298",
+    "stop_price": null
   }
 ]
