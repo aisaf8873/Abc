@@ -211,7 +211,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-03T04:09:45.073Z"
+      "user_updated_at": "2026-03-03T04:09:59.681Z"
     },
     "state": "open",
     "commission": "0",
@@ -252,12 +252,12 @@
     "order_type": "limit_order",
     "margin_mode": "portfolio",
     "reduce_only": false,
-    "limit_price": 25.97,
+    "limit_price": "25.97",
     "stop_order_type": null,
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
     "user_id": 21672861,
-    "updated_at": "2026-03-03T04:09:45.073746Z",
+    "updated_at": "2026-03-03T04:09:59.681764Z",
     "bracket_take_profit_limit_price": null,
     "side": "sell",
     "product_symbol": "P-ETH-2000-030326",
