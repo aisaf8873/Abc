@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-03T07:52:45.322329Z",
+    "updated_at": "2026-03-03T08:00:36.963602Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -40,7 +40,7 @@
     },
     "bracket_order": null,
     "stop_order_type": null,
-    "unfilled_size": 1000,
+    "unfilled_size": 200,
     "stop_price": null,
     "paid_commission": "0",
     "quote_size": null,
@@ -51,17 +51,18 @@
       "ip": "2409:40e5:1058:e97c:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-03T08:00:36.962Z"
     },
     "user_id": 21672861,
     "time_in_force": "gtc",
     "side": "buy",
-    "size": 1000,
+    "size": 200,
     "client_order_id": null,
     "margin_mode": "portfolio",
     "created_at": "2026-03-03T07:52:45.322329Z",
     "product_symbol": "C-ETH-2060-030326",
-    "limit_price": "0.46",
+    "limit_price": "0.51",
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
