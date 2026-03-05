@@ -436,7 +436,7 @@
     "id": 1209236572,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "10.26",
+    "limit_price": 10.82,
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -478,7 +478,7 @@
     "paid_commission": "0",
     "commission": "0",
     "product_symbol": "P-ETH-2080-050326",
-    "updated_at": "2026-03-05T02:54:30.364387Z",
+    "updated_at": "2026-03-05T02:55:39.004742Z",
     "size": 2500,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -491,7 +491,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T02:54:30.363Z"
+      "user_updated_at": "2026-03-05T02:55:39.004Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null
@@ -504,7 +504,7 @@
     "id": 1209235238,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 15.18,
+    "limit_price": 15.71,
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -546,7 +546,7 @@
     "paid_commission": "0.39766435",
     "commission": "0",
     "product_symbol": "P-ETH-2100-050326",
-    "updated_at": "2026-03-05T02:55:13.227932Z",
+    "updated_at": "2026-03-05T02:55:40.166215Z",
     "size": 1500,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -561,7 +561,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T02:55:13.227Z"
+      "user_updated_at": "2026-03-05T02:55:40.165Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "15.93"
@@ -574,7 +574,7 @@
     "id": 1209235017,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "19.35",
+    "limit_price": 20.19,
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -616,7 +616,7 @@
     "paid_commission": "0",
     "commission": "0",
     "product_symbol": "P-ETH-2100-050326",
-    "updated_at": "2026-03-05T02:54:39.950242Z",
+    "updated_at": "2026-03-05T02:55:38.789096Z",
     "size": 500,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -629,7 +629,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T02:54:39.949Z"
+      "user_updated_at": "2026-03-05T02:55:38.788Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null
