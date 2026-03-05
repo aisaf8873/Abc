@@ -7,7 +7,7 @@
     "id": 1210847297,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 11.45,
+    "limit_price": "10.75",
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -49,7 +49,7 @@
     "paid_commission": "0.45368103",
     "commission": "0",
     "product_symbol": "P-ETH-2100-060326",
-    "updated_at": "2026-03-05T21:17:20.942794Z",
+    "updated_at": "2026-03-05T21:17:41.406196Z",
     "size": 3800,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -64,7 +64,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T21:17:20.942Z"
+      "user_updated_at": "2026-03-05T21:17:41.405Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "22"
@@ -144,7 +144,7 @@
     "id": 1210846777,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 11.6,
+    "limit_price": "10.9",
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -186,7 +186,7 @@
     "paid_commission": "0.57347882",
     "commission": "0",
     "product_symbol": "P-ETH-2100-060326",
-    "updated_at": "2026-03-05T21:17:22.930104Z",
+    "updated_at": "2026-03-05T21:17:43.215709Z",
     "size": 2000,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -201,7 +201,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T21:17:22.929Z"
+      "user_updated_at": "2026-03-05T21:17:43.215Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "11.961336206896551724"
