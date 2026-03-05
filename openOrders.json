@@ -310,14 +310,14 @@
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "stop_price": null,
-    "unfilled_size": 573,
+    "unfilled_size": 227,
     "trail_amount": null,
     "side": "buy",
     "user_id": 21672861,
-    "paid_commission": "0",
+    "paid_commission": "0.86548011",
     "commission": "0",
     "product_symbol": "P-ETH-2100-050326",
-    "updated_at": "2026-03-05T02:45:37.172852Z",
+    "updated_at": "2026-03-05T02:49:07.031807Z",
     "size": 573,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -326,13 +326,30 @@
     "created_at": "2026-03-05T02:42:59.102761Z",
     "bracket_stop_loss_price": null,
     "meta_data": {
+      "avg_exit_price": "9.21",
+      "cashflow": "-31.8666",
+      "entry_price": "13.18718155943638216381461049",
+      "exit_price_with_size": [
+        {
+          "price": "9.21000000",
+          "size": "-346"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-45.62764819564988228679855230",
+          "pnl": "13.76104819"
+        }
+      ],
       "ip": "2409:40e4:2059:5545:8000::",
       "otc": false,
+      "pnl": "13.76104819",
+      "roe": "-30.15945097804092304542679772",
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-05T02:45:37.172Z"
     },
     "bracket_stop_loss_limit_price": null,
-    "average_fill_price": null
+    "average_fill_price": "9.21"
   },
   {
     "bracket_order": null,
