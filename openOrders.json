@@ -172,12 +172,12 @@
     "product_id": 122256,
     "time_in_force": "gtc",
     "stop_order_type": null,
-    "updated_at": "2026-03-05T19:37:03.282670Z",
+    "updated_at": "2026-03-05T19:37:59.408572Z",
     "id": 1210847297,
     "bracket_stop_loss_price": null,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "19.57",
+    "limit_price": 19.12,
     "cancellation_reason": null,
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
@@ -190,7 +190,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T19:37:03.282Z"
+      "user_updated_at": "2026-03-05T19:37:59.408Z"
     },
     "user_id": 21672861,
     "mmp": "disabled",
