@@ -435,7 +435,7 @@
     "cancellation_reason": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "limit_price": 16.91,
+    "limit_price": "16.97",
     "stop_price": null,
     "product": {
       "contract_type": "put_options",
@@ -470,7 +470,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T02:35:25.360Z"
+      "user_updated_at": "2026-03-05T02:36:02.453Z"
     },
     "state": "open",
     "paid_commission": "0",
@@ -490,7 +490,7 @@
     "bracket_stop_loss_price": null,
     "product_symbol": "P-ETH-2100-050326",
     "size": 500,
-    "updated_at": "2026-03-05T02:35:25.361382Z",
+    "updated_at": "2026-03-05T02:36:02.453753Z",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "side": "sell",
@@ -503,7 +503,7 @@
     "cancellation_reason": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "limit_price": 21.74,
+    "limit_price": "21.92",
     "stop_price": null,
     "product": {
       "contract_type": "put_options",
@@ -538,7 +538,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T02:33:46.594Z"
+      "user_updated_at": "2026-03-05T02:36:03.964Z"
     },
     "state": "open",
     "paid_commission": "0",
@@ -558,7 +558,7 @@
     "bracket_stop_loss_price": null,
     "product_symbol": "P-ETH-2100-050326",
     "size": 500,
-    "updated_at": "2026-03-05T02:33:46.594965Z",
+    "updated_at": "2026-03-05T02:36:03.965100Z",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "side": "sell",
@@ -571,7 +571,7 @@
     "cancellation_reason": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "limit_price": "21.68",
+    "limit_price": "21.92",
     "stop_price": null,
     "product": {
       "contract_type": "put_options",
@@ -608,7 +608,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T02:33:47.498Z"
+      "user_updated_at": "2026-03-05T02:36:04.883Z"
     },
     "state": "open",
     "paid_commission": "0.24026122",
@@ -628,7 +628,7 @@
     "bracket_stop_loss_price": null,
     "product_symbol": "P-ETH-2100-050326",
     "size": 500,
-    "updated_at": "2026-03-05T02:33:47.499009Z",
+    "updated_at": "2026-03-05T02:36:04.883978Z",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "side": "sell",
