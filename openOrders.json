@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-05T04:56:18.427104Z",
+    "updated_at": "2026-03-05T04:59:22.556943Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -9,7 +9,7 @@
     "product_id": 124890,
     "reduce_only": true,
     "bracket_trail_amount": null,
-    "average_fill_price": null,
+    "average_fill_price": "2.5",
     "order_type": "limit_order",
     "product": {
       "contract_type": "put_options",
@@ -40,16 +40,33 @@
     },
     "bracket_order": null,
     "stop_order_type": null,
-    "unfilled_size": 500,
+    "unfilled_size": 300,
     "stop_price": null,
-    "paid_commission": "0",
+    "paid_commission": "0.2065",
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "meta_data": {
+      "avg_exit_price": "2.5",
+      "cashflow": "5",
+      "entry_price": "3.906612689617140078590962177",
+      "exit_price_with_size": [
+        {
+          "price": "2.50000000",
+          "size": "200"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "7.813225379234280157181924354",
+          "pnl": "-2.81322538"
+        }
+      ],
       "ip": "2409:40e5:95:e632:8000::",
       "otc": false,
+      "pnl": "-2.81322538",
+      "roe": "-36.00594176480423812741245747",
       "source": "mobile_app_android"
     },
     "user_id": 21672861,
