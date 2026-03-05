@@ -349,7 +349,7 @@
     "cancellation_reason": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "limit_price": "7.24",
+    "limit_price": "6.59",
     "stop_price": null,
     "product": {
       "contract_type": "put_options",
@@ -386,7 +386,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T07:05:35.060Z"
+      "user_updated_at": "2026-03-05T07:07:32.011Z"
     },
     "state": "open",
     "paid_commission": "2.62109078",
@@ -406,7 +406,7 @@
     "bracket_stop_loss_price": null,
     "product_symbol": "P-ETH-2100-050326",
     "size": 3500,
-    "updated_at": "2026-03-05T07:05:35.061724Z",
+    "updated_at": "2026-03-05T07:07:32.011843Z",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "side": "sell",
