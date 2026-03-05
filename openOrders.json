@@ -281,7 +281,7 @@
     "id": 1209283868,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 9.42,
+    "limit_price": "9.42",
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -323,7 +323,7 @@
     "paid_commission": "4.09970413",
     "commission": "0",
     "product_symbol": "P-ETH-2100-050326",
-    "updated_at": "2026-03-05T07:23:06.017230Z",
+    "updated_at": "2026-03-05T07:23:22.075069Z",
     "size": 4500,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -338,7 +338,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-05T07:23:06.016Z"
+      "user_updated_at": "2026-03-05T07:23:22.072Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "8.345412844036697248"
