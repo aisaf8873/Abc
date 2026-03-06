@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-06T01:39:43.309446Z",
+    "updated_at": "2026-03-06T01:40:44.517586Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -40,15 +40,15 @@
     },
     "bracket_order": null,
     "stop_order_type": null,
-    "unfilled_size": 1208,
+    "unfilled_size": 1189,
     "stop_price": null,
-    "paid_commission": "0.71845929",
+    "paid_commission": "0.76524849",
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "meta_data": {
-      "cashflow": "-55.48",
+      "cashflow": "-59.09",
       "ip": "2409:40e4:27:a8af:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -69,7 +69,7 @@
     "bracket_stop_loss_limit_price": null
   },
   {
-    "updated_at": "2026-03-06T01:38:59.870684Z",
+    "updated_at": "2026-03-06T01:40:38.517081Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -123,7 +123,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-06T01:38:59.870Z"
+      "user_updated_at": "2026-03-06T01:40:38.516Z"
     },
     "user_id": 21672861,
     "time_in_force": "gtc",
@@ -133,7 +133,7 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-05T19:28:02.479390Z",
     "product_symbol": "P-ETH-2100-060326",
-    "limit_price": 11.46,
+    "limit_price": "11.46",
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
