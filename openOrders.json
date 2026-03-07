@@ -77,7 +77,7 @@
     "id": 1213102999,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 191.6,
+    "limit_price": "191.6",
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -119,7 +119,7 @@
     "paid_commission": "2.586206",
     "commission": "0",
     "product_symbol": "C-BTC-68000-070326",
-    "updated_at": "2026-03-07T07:47:07.637001Z",
+    "updated_at": "2026-03-07T07:47:09.528940Z",
     "size": 1200,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -134,7 +134,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-07T07:47:07.636Z"
+      "user_updated_at": "2026-03-07T07:47:09.528Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "183.099415204678362573"
@@ -559,7 +559,7 @@
     "id": 1212980736,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 167.61,
+    "limit_price": "167.7",
     "cancellation_reason": null,
     "mmp": "disabled",
     "product": {
@@ -601,7 +601,7 @@
     "paid_commission": "1.53244594",
     "commission": "0",
     "product_symbol": "C-BTC-68200-070326",
-    "updated_at": "2026-03-07T07:46:04.702547Z",
+    "updated_at": "2026-03-07T07:47:10.582660Z",
     "size": 700,
     "quote_size": null,
     "bracket_take_profit_limit_price": null,
@@ -616,7 +616,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-07T07:46:04.702Z"
+      "user_updated_at": "2026-03-07T07:47:10.582Z"
     },
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "154.157735849056603774"
