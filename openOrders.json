@@ -332,13 +332,13 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-07T16:40:26.097961Z",
     "product_symbol": "P-BTC-67400-080326",
-    "limit_price": "1066.3",
+    "limit_price": 1086.52,
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
-    "updated_at": "2026-03-07T19:28:37.580595Z",
+    "updated_at": "2026-03-07T19:49:44.971689Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -390,7 +390,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-07T19:28:37.580Z"
+      "user_updated_at": "2026-03-07T19:49:44.971Z"
     },
     "user_id": 21672861,
     "time_in_force": "gtc",
@@ -400,13 +400,13 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-07T16:39:58.009910Z",
     "product_symbol": "P-BTC-67200-080326",
-    "limit_price": 827.24,
+    "limit_price": 851.63,
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
-    "updated_at": "2026-03-07T19:28:37.045510Z",
+    "updated_at": "2026-03-07T19:49:44.298468Z",
     "commission": "0",
     "trail_amount": null,
     "state": "open",
@@ -458,7 +458,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-07T19:28:37.044Z"
+      "user_updated_at": "2026-03-07T19:49:44.297Z"
     },
     "user_id": 21672861,
     "time_in_force": "gtc",
@@ -468,7 +468,7 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-07T16:39:27.030785Z",
     "product_symbol": "P-BTC-67000-080326",
-    "limit_price": 633.17,
+    "limit_price": 655.7,
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
@@ -536,7 +536,7 @@
     "margin_mode": "portfolio",
     "created_at": "2026-03-07T16:38:50.406363Z",
     "product_symbol": "P-BTC-66800-080326",
-    "limit_price": "485.9",
+    "limit_price": 499.12,
     "bracket_take_profit_price": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null
