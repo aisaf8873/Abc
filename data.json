@@ -7,10 +7,10 @@
 "filterSizeForFunc2":{"1210847297":200,"1211229131":100},
 "dropThreshold":35,
 "minPriceForFunc1":5,
-"PriceChangeDiffForFunc3":{"1209184273":0.05,"1209236572":0.05},
-"marketPriceCorrectionForFunc3":{"1209184273":125,"1209236572":125},
-"filterSizeForFunc3":{"1209184273":300,"1209236572":300},
-"minTargetPriceToSellForFunc3":{"1209184273":4,"1209236572":4},
-"updateSellOrderIdList":[1209184273,1209236572],
-"symbols":["P-ETH-2100-060326","P-ETH-2060-050326"]
+"PriceChangeDiffForFunc3":{"1209184273":0.05,"1212946369":1},
+"marketPriceCorrectionForFunc3":{"1209184273":125,"1212946369":75},
+"filterSizeForFunc3":{"1209184273":300,"1212946369":200},
+"minTargetPriceToSellForFunc3":{"1209184273":4,"1212946369":150},
+"updateSellOrderIdList":[1212946369,1209184273],
+"symbols":["C-BTC-68200-070326","P-ETH-2100-060326"]
 }
