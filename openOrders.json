@@ -68,7 +68,7 @@
     "trail_amount": null
   },
   {
-    "limit_price": 162.43,
+    "limit_price": "162.5",
     "margin_mode": "portfolio",
     "average_fill_price": "290",
     "state": "open",
@@ -102,7 +102,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-07T08:56:53.972Z"
+      "user_updated_at": "2026-03-07T08:57:12.491Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -133,7 +133,7 @@
     },
     "product_symbol": "P-BTC-67600-070326",
     "size": 500,
-    "updated_at": "2026-03-07T08:56:53.973019Z",
+    "updated_at": "2026-03-07T08:57:12.491680Z",
     "bracket_stop_loss_price": null,
     "trail_amount": null
   },
@@ -276,7 +276,7 @@
     "trail_amount": null
   },
   {
-    "limit_price": 208.84,
+    "limit_price": "208.9",
     "margin_mode": "portfolio",
     "average_fill_price": "321.428571428571428571",
     "state": "open",
@@ -310,7 +310,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-07T08:56:55.136Z"
+      "user_updated_at": "2026-03-07T08:57:13.387Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -341,7 +341,7 @@
     },
     "product_symbol": "P-BTC-67600-070326",
     "size": 1000,
-    "updated_at": "2026-03-07T08:56:55.136577Z",
+    "updated_at": "2026-03-07T08:57:13.387600Z",
     "bracket_stop_loss_price": null,
     "trail_amount": null
   },
