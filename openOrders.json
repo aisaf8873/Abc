@@ -413,7 +413,7 @@
     "cancellation_reason": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "limit_price": 1064.89,
+    "limit_price": "1064.9",
     "stop_price": null,
     "product": {
       "contract_type": "put_options",
@@ -448,7 +448,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-08T17:36:43.815Z"
+      "user_updated_at": "2026-03-08T17:36:46.087Z"
     },
     "state": "open",
     "paid_commission": "0",
@@ -468,7 +468,7 @@
     "bracket_stop_loss_price": null,
     "product_symbol": "P-BTC-66000-090326",
     "size": 1000,
-    "updated_at": "2026-03-08T17:36:43.816151Z",
+    "updated_at": "2026-03-08T17:36:46.088352Z",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "side": "sell",
