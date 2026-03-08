@@ -411,7 +411,7 @@
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
     "side": "sell",
-    "updated_at": "2026-03-08T04:55:08.798609Z",
+    "updated_at": "2026-03-08T11:06:42.564040Z",
     "mmp": "disabled",
     "margin_mode": "portfolio",
     "trail_amount": null,
@@ -448,14 +448,16 @@
         "symbol": "BTC"
       }
     },
-    "limit_price": 180,
+    "limit_price": "179",
     "cancellation_reason": null,
     "meta_data": {
+      "cashflow": "26.671",
       "ip": "2409:40e4:1041:8db:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-08T04:55:08.798Z"
+      "user_updated_at": "2026-03-08T11:06:39.888Z"
     },
     "bracket_order": null,
     "time_in_force": "gtc",
@@ -463,10 +465,10 @@
     "stop_price": null,
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
-    "paid_commission": "0",
-    "unfilled_size": 1000,
+    "paid_commission": "1.1015123",
+    "unfilled_size": 851,
     "client_order_id": null,
-    "average_fill_price": null,
+    "average_fill_price": "179",
     "product_symbol": "P-BTC-67400-080326",
     "size": 1000,
     "quote_size": null,
