@@ -748,7 +748,7 @@
     "trail_amount": null
   },
   {
-    "limit_price": "1572.8",
+    "limit_price": "372.8",
     "margin_mode": "portfolio",
     "average_fill_price": null,
     "state": "open",
@@ -780,7 +780,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-09T18:08:36.564Z"
+      "user_updated_at": "2026-03-10T02:26:40.039Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -811,7 +811,7 @@
     },
     "product_symbol": "P-BTC-68400-100326",
     "size": 1000,
-    "updated_at": "2026-03-09T18:08:36.564825Z",
+    "updated_at": "2026-03-10T02:26:40.039676Z",
     "bracket_stop_loss_price": null,
     "trail_amount": null
   }
