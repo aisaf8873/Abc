@@ -339,7 +339,7 @@
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
     "side": "sell",
-    "updated_at": "2026-03-12T08:04:13.964243Z",
+    "updated_at": "2026-03-12T08:04:25.956952Z",
     "mmp": "disabled",
     "margin_mode": "portfolio",
     "trail_amount": null,
@@ -376,14 +376,14 @@
         "symbol": "BTC"
       }
     },
-    "limit_price": 358.62,
+    "limit_price": "358.7",
     "cancellation_reason": null,
     "meta_data": {
       "ip": "2409:40e5:3:c7c7:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-12T08:04:13.963Z"
+      "user_updated_at": "2026-03-12T08:04:25.956Z"
     },
     "bracket_order": null,
     "time_in_force": "gtc",
@@ -407,7 +407,7 @@
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
     "side": "sell",
-    "updated_at": "2026-03-12T08:04:13.654670Z",
+    "updated_at": "2026-03-12T08:04:27.530373Z",
     "mmp": "disabled",
     "margin_mode": "portfolio",
     "trail_amount": null,
@@ -444,14 +444,14 @@
         "symbol": "BTC"
       }
     },
-    "limit_price": "216.7",
+    "limit_price": "218",
     "cancellation_reason": null,
     "meta_data": {
       "ip": "2409:40e5:3:c7c7:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-12T08:04:13.654Z"
+      "user_updated_at": "2026-03-12T08:04:27.530Z"
     },
     "bracket_order": null,
     "time_in_force": "gtc",
@@ -475,7 +475,7 @@
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
     "side": "sell",
-    "updated_at": "2026-03-12T07:51:40.551361Z",
+    "updated_at": "2026-03-12T08:04:25.841963Z",
     "mmp": "disabled",
     "margin_mode": "portfolio",
     "trail_amount": null,
@@ -512,13 +512,14 @@
         "symbol": "BTC"
       }
     },
-    "limit_price": 152.61,
+    "limit_price": "152.7",
     "cancellation_reason": null,
     "meta_data": {
       "ip": "2409:40e5:3:c7c7:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-12T08:04:25.841Z"
     },
     "bracket_order": null,
     "time_in_force": "gtc",
