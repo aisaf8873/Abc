@@ -207,7 +207,7 @@
     "order_type": "limit_order",
     "product_id": 123152,
     "user_id": 21672861,
-    "updated_at": "2026-03-12T23:32:36.964604Z",
+    "updated_at": "2026-03-12T23:33:47.872802Z",
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "bracket_trail_amount": null,
@@ -219,7 +219,7 @@
     "id": 1222491939,
     "average_fill_price": null,
     "trail_amount": null,
-    "limit_price": 3.2,
+    "limit_price": "3.2",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "margin_mode": "portfolio",
@@ -263,7 +263,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-12T23:32:36.964Z"
+      "user_updated_at": "2026-03-12T23:33:47.872Z"
     },
     "time_in_force": "gtc",
     "paid_commission": "0",
