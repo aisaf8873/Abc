@@ -1,97 +1,16 @@
 [
   {
-    "paid_commission": "0",
-    "meta_data": {
-      "ip": "2409:40e4:43:fa7e:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "updated_at": "2026-03-12T23:06:54.117616Z",
-    "margin_mode": "portfolio",
-    "cancellation_reason": null,
-    "client_order_id": null,
-    "state": "open",
-    "product_id": 126192,
-    "commission": "0",
-    "limit_price": "1.2",
-    "id": 1222491053,
-    "unfilled_size": 100,
-    "stop_order_type": null,
-    "user_id": 21672861,
-    "created_at": "2026-03-12T23:06:54.117616Z",
-    "bracket_take_profit_price": null,
-    "quote_size": null,
-    "stop_trigger_method": null,
-    "trail_amount": null,
-    "bracket_stop_loss_limit_price": null,
-    "product": {
-      "contract_type": "put_options",
-      "contract_unit_currency": "ETH",
-      "contract_value": "0.01",
-      "id": 126192,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "symbol": "P-ETH-2020-130326",
-      "tick_size": "0.01",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 18,
-        "symbol": "ETH"
-      }
-    },
-    "time_in_force": "gtc",
-    "bracket_order": null,
-    "side": "buy",
-    "product_symbol": "P-ETH-2020-130326",
-    "size": 100,
-    "reduce_only": false,
     "bracket_stop_loss_price": null,
-    "stop_price": null,
-    "mmp": "disabled",
-    "bracket_take_profit_limit_price": null,
     "order_type": "limit_order",
-    "average_fill_price": null,
-    "bracket_trail_amount": null
-  },
-  {
-    "paid_commission": "0",
-    "meta_data": {
-      "ip": "2409:40e4:43:fa7e:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "updated_at": "2026-03-12T23:06:24.984724Z",
+    "mmp": "disabled",
+    "stop_price": null,
     "margin_mode": "portfolio",
-    "cancellation_reason": null,
-    "client_order_id": null,
-    "state": "open",
     "product_id": 126193,
-    "commission": "0",
-    "limit_price": "4.7",
-    "id": 1222490866,
-    "unfilled_size": 3500,
-    "stop_order_type": null,
-    "user_id": 21672861,
-    "created_at": "2026-03-12T23:06:24.984724Z",
-    "bracket_take_profit_price": null,
-    "quote_size": null,
     "stop_trigger_method": null,
-    "trail_amount": null,
-    "bracket_stop_loss_limit_price": null,
+    "limit_price": "4.7",
+    "bracket_take_profit_limit_price": null,
+    "state": "open",
+    "product_symbol": "P-ETH-1980-130326",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -119,18 +38,32 @@
         "symbol": "ETH"
       }
     },
-    "time_in_force": "gtc",
-    "bracket_order": null,
-    "side": "sell",
-    "product_symbol": "P-ETH-1980-130326",
-    "size": 3500,
-    "reduce_only": false,
-    "bracket_stop_loss_price": null,
-    "stop_price": null,
-    "mmp": "disabled",
-    "bracket_take_profit_limit_price": null,
-    "order_type": "limit_order",
+    "client_order_id": null,
+    "id": 1222490866,
+    "bracket_trail_amount": null,
     "average_fill_price": null,
-    "bracket_trail_amount": null
+    "commission": "0",
+    "bracket_stop_loss_limit_price": null,
+    "created_at": "2026-03-12T23:06:24.984724Z",
+    "trail_amount": null,
+    "reduce_only": false,
+    "paid_commission": "0",
+    "side": "sell",
+    "time_in_force": "gtc",
+    "unfilled_size": 3500,
+    "quote_size": null,
+    "cancellation_reason": null,
+    "bracket_order": null,
+    "updated_at": "2026-03-12T23:06:24.984724Z",
+    "user_id": 21672861,
+    "size": 3500,
+    "stop_order_type": null,
+    "bracket_take_profit_price": null,
+    "meta_data": {
+      "ip": "2409:40e4:43:fa7e:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    }
   }
 ]
