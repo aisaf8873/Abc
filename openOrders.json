@@ -74,7 +74,7 @@
     "margin_mode": "portfolio",
     "product_id": 123152,
     "stop_trigger_method": null,
-    "limit_price": 3.48,
+    "limit_price": "3.48",
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "product_symbol": "P-ETH-2000-130326",
@@ -121,7 +121,7 @@
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_order": null,
-    "updated_at": "2026-03-12T23:14:18.659254Z",
+    "updated_at": "2026-03-12T23:14:37.272067Z",
     "user_id": 21672861,
     "size": 3500,
     "stop_order_type": null,
@@ -131,7 +131,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-12T23:14:18.658Z"
+      "user_updated_at": "2026-03-12T23:14:37.271Z"
     }
   },
   {
