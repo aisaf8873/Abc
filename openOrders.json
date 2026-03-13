@@ -3,13 +3,13 @@
     "order_type": "limit_order",
     "product_id": 123206,
     "user_id": 21672861,
-    "updated_at": "2026-03-13T00:13:12.401923Z",
+    "updated_at": "2026-03-13T00:14:07.642871Z",
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "bracket_trail_amount": null,
     "stop_price": null,
     "product_symbol": "C-ETH-2100-130326",
-    "unfilled_size": 3411,
+    "unfilled_size": 3311,
     "bracket_stop_loss_limit_price": null,
     "state": "open",
     "id": 1222496825,
@@ -55,7 +55,7 @@
     "side": "sell",
     "size": 3500,
     "meta_data": {
-      "cashflow": "13.3411",
+      "cashflow": "28.3311",
       "ip": "2409:40e4:43:fa7e:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -63,7 +63,7 @@
       "source": "mobile_app_android"
     },
     "time_in_force": "gtc",
-    "paid_commission": "0.21924606",
+    "paid_commission": "0.46576222",
     "client_order_id": null,
     "bracket_order": null,
     "cancellation_reason": null
