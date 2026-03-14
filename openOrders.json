@@ -106,7 +106,7 @@
     "id": 1224963135,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "75.6",
+    "limit_price": 59,
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -545,7 +545,7 @@
     "time_in_force": "gtc"
   },
   {
-    "average_fill_price": null,
+    "average_fill_price": "82.8",
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -574,7 +574,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-14T08:50:58.117783Z",
+    "updated_at": "2026-03-14T09:34:04.691264Z",
     "state": "open",
     "product_id": 126247,
     "bracket_take_profit_price": null,
@@ -583,13 +583,13 @@
     "id": 1224684383,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "82.8",
+    "limit_price": "89",
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
     "client_order_id": null,
     "stop_price": null,
-    "unfilled_size": 1000,
+    "unfilled_size": 181,
     "cancellation_reason": null,
     "bracket_order": null,
     "bracket_trail_amount": null,
@@ -598,15 +598,17 @@
     "size": 1000,
     "quote_size": null,
     "created_at": "2026-03-14T04:19:37.368436Z",
-    "paid_commission": "0",
+    "paid_commission": "2.80068516",
     "stop_trigger_method": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
+      "cashflow": "67.8132",
       "ip": "2409:40e5:1004:f8d3:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-14T08:50:58.117Z"
+      "user_updated_at": "2026-03-14T09:34:04.690Z"
     },
     "mmp": "disabled",
     "side": "sell",
@@ -642,7 +644,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-14T08:52:18.222285Z",
+    "updated_at": "2026-03-14T09:33:57.594728Z",
     "state": "open",
     "product_id": 126245,
     "bracket_take_profit_price": null,
@@ -651,7 +653,7 @@
     "id": 1224683968,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "209.6",
+    "limit_price": "97.5",
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -674,7 +676,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-14T08:52:18.221Z"
+      "user_updated_at": "2026-03-14T09:33:57.594Z"
     },
     "mmp": "disabled",
     "side": "sell",
