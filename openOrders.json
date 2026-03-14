@@ -87,17 +87,17 @@
     "order_type": "limit_order",
     "product_id": 126247,
     "user_id": 21672861,
-    "updated_at": "2026-03-14T10:45:23.730140Z",
+    "updated_at": "2026-03-14T10:46:14.450917Z",
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "bracket_trail_amount": null,
     "stop_price": null,
     "product_symbol": "P-BTC-70000-140326",
-    "unfilled_size": 150,
+    "unfilled_size": 140,
     "bracket_stop_loss_limit_price": null,
     "state": "open",
     "id": 1225090860,
-    "average_fill_price": "2.327411376751854905",
+    "average_fill_price": "2.326477832512315271",
     "trail_amount": null,
     "limit_price": "2.1",
     "bracket_stop_loss_price": null,
@@ -139,10 +139,14 @@
     "side": "buy",
     "size": 2576,
     "meta_data": {
-      "avg_exit_price": "2.327411376751854905193734542",
-      "cashflow": "-5.6463",
+      "avg_exit_price": "2.326477832512315270935960591",
+      "cashflow": "-5.6673",
       "entry_price": "22.55133427909905632026388674",
       "exit_price_with_size": [
+        {
+          "price": "2.10000000",
+          "size": "-10"
+        },
         {
           "price": "2.10000000",
           "size": "-477"
@@ -198,6 +202,10 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "-0.2255133427909905632026388674",
+          "pnl": "0.20451334"
+        },
+        {
           "margin": "-10.75698645113024986476587397",
           "pnl": "9.75528645"
         },
@@ -252,13 +260,13 @@
       ],
       "ip": "2409:40e5:1004:f8d3:8000::",
       "otc": false,
-      "pnl": "49.06323691",
-      "roe": "-89.67949581604104247512895574",
+      "pnl": "49.26775025",
+      "roe": "-89.68363545216508273410049080",
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-14T10:41:54.986Z"
     },
     "time_in_force": "gtc",
-    "paid_commission": "0.23319219",
+    "paid_commission": "0.23405949",
     "client_order_id": null,
     "bracket_order": null,
     "cancellation_reason": null
