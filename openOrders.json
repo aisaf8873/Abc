@@ -138,7 +138,7 @@
     "paid_commission": "0"
   },
   {
-    "updated_at": "2026-03-14T11:33:35.256981Z",
+    "updated_at": "2026-03-14T11:55:00.856859Z",
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
@@ -158,7 +158,7 @@
     "product_id": 126272,
     "bracket_order": null,
     "side": "sell",
-    "unfilled_size": 19533,
+    "unfilled_size": 19483,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -191,7 +191,7 @@
     "product_symbol": "P-ETH-1980-140326",
     "average_fill_price": "0.02",
     "meta_data": {
-      "cashflow": "0.0934",
+      "cashflow": "0.1034",
       "ip": "2409:40e5:1004:f8d3:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -205,6 +205,6 @@
     "commission": "0",
     "stop_trigger_method": null,
     "bracket_stop_loss_limit_price": null,
-    "paid_commission": "0.00385742"
+    "paid_commission": "0.00427042"
   }
 ]
