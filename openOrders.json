@@ -1,6 +1,73 @@
 [
   {
     "bracket_take_profit_limit_price": null,
+    "created_at": "2026-03-14T09:35:27.664745Z",
+    "updated_at": "2026-03-14T09:35:34.141864Z",
+    "margin_mode": "portfolio",
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
+    "state": "open",
+    "product_id": 126293,
+    "stop_order_type": null,
+    "id": 1225034332,
+    "meta_data": {
+      "ip": "2409:40e5:1004:f8d3:8000::",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-14T09:35:34.141Z"
+    },
+    "reduce_only": true,
+    "order_type": "limit_order",
+    "limit_price": "8.1",
+    "average_fill_price": null,
+    "time_in_force": "gtc",
+    "client_order_id": null,
+    "bracket_stop_loss_price": null,
+    "stop_price": null,
+    "commission": "0",
+    "unfilled_size": 1307,
+    "user_id": 21672861,
+    "side": "buy",
+    "bracket_take_profit_price": null,
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 126293,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-71200-140326",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "trail_amount": null,
+    "product_symbol": "C-BTC-71200-140326",
+    "size": 1307,
+    "quote_size": null,
+    "stop_trigger_method": null,
+    "paid_commission": "0",
+    "bracket_order": null,
+    "mmp": "disabled",
+    "cancellation_reason": null
+  },
+  {
+    "bracket_take_profit_limit_price": null,
     "created_at": "2026-03-14T09:31:14.380659Z",
     "updated_at": "2026-03-14T09:32:22.752227Z",
     "margin_mode": "portfolio",
@@ -636,7 +703,7 @@
     },
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "107.9",
+    "limit_price": 118.05,
     "average_fill_price": null,
     "time_in_force": "gtc",
     "client_order_id": null,
