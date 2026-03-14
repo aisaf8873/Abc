@@ -475,7 +475,8 @@
       "ip": "2409:40e5:1004:f8d3:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-14T04:28:46.697Z"
     },
     "product": {
       "contract_type": "call_options",
@@ -511,7 +512,7 @@
     "client_order_id": null,
     "stop_trigger_method": null,
     "bracket_order": null,
-    "updated_at": "2026-03-14T04:19:53.191071Z",
+    "updated_at": "2026-03-14T04:28:46.697631Z",
     "reduce_only": false,
     "trail_amount": null,
     "state": "open",
@@ -526,7 +527,7 @@
     "commission": "0",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0",
-    "limit_price": "344",
+    "limit_price": "359.2",
     "stop_order_type": null,
     "average_fill_price": null,
     "margin_mode": "portfolio",
@@ -745,7 +746,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-14T04:27:24.593Z"
+      "user_updated_at": "2026-03-14T04:28:40.868Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -781,7 +782,7 @@
     "client_order_id": null,
     "stop_trigger_method": null,
     "bracket_order": null,
-    "updated_at": "2026-03-14T04:27:24.593871Z",
+    "updated_at": "2026-03-14T04:28:40.869036Z",
     "reduce_only": false,
     "trail_amount": null,
     "state": "open",
@@ -796,7 +797,7 @@
     "commission": "0",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0",
-    "limit_price": "140.1",
+    "limit_price": "141.8",
     "stop_order_type": null,
     "average_fill_price": null,
     "margin_mode": "portfolio",
@@ -947,7 +948,8 @@
       "ip": "2409:40e5:1004:f8d3:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-14T04:28:44.737Z"
     },
     "product": {
       "contract_type": "call_options",
@@ -983,7 +985,7 @@
     "client_order_id": null,
     "stop_trigger_method": null,
     "bracket_order": null,
-    "updated_at": "2026-03-14T04:15:23.439498Z",
+    "updated_at": "2026-03-14T04:28:44.738286Z",
     "reduce_only": false,
     "trail_amount": null,
     "state": "open",
@@ -998,7 +1000,7 @@
     "commission": "0",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0",
-    "limit_price": "9.5",
+    "limit_price": "9.66",
     "stop_order_type": null,
     "average_fill_price": null,
     "margin_mode": "portfolio",
@@ -1015,7 +1017,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-14T04:22:31.259Z"
+      "user_updated_at": "2026-03-14T04:28:43.172Z"
     },
     "product": {
       "contract_type": "put_options",
@@ -1051,7 +1053,7 @@
     "client_order_id": null,
     "stop_trigger_method": null,
     "bracket_order": null,
-    "updated_at": "2026-03-14T04:22:31.259717Z",
+    "updated_at": "2026-03-14T04:28:43.172829Z",
     "reduce_only": false,
     "trail_amount": null,
     "state": "open",
@@ -1066,7 +1068,7 @@
     "commission": "0",
     "bracket_take_profit_limit_price": null,
     "paid_commission": "0",
-    "limit_price": "7.49",
+    "limit_price": "7.69",
     "stop_order_type": null,
     "average_fill_price": null,
     "margin_mode": "portfolio",
