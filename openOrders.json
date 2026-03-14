@@ -1,6 +1,6 @@
 [
   {
-    "average_fill_price": "103.597854077253218884",
+    "average_fill_price": "103.716600790513833992",
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "call_options",
@@ -29,7 +29,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-14T06:53:40.318740Z",
+    "updated_at": "2026-03-14T06:54:12.198824Z",
     "state": "open",
     "product_id": 126292,
     "bracket_take_profit_price": null,
@@ -44,7 +44,7 @@
     "commission": "0",
     "client_order_id": null,
     "stop_price": null,
-    "unfilled_size": 534,
+    "unfilled_size": 494,
     "cancellation_reason": null,
     "bracket_order": null,
     "bracket_trail_amount": null,
@@ -53,14 +53,18 @@
     "size": 1000,
     "quote_size": null,
     "created_at": "2026-03-14T06:48:59.320038Z",
-    "paid_commission": "1.99382358",
+    "paid_commission": "2.16744878",
     "stop_trigger_method": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "avg_exit_price": "103.5978540772532188841201717",
-      "cashflow": "-48.2766",
+      "avg_exit_price": "103.7166007905138339920948617",
+      "cashflow": "-52.4806",
       "entry_price": "119.00000000",
       "exit_price_with_size": [
+        {
+          "price": "105.10000000",
+          "size": "-40"
+        },
         {
           "price": "105.10000000",
           "size": "-40"
@@ -84,6 +88,10 @@
           "pnl": "0.55600000"
         },
         {
+          "margin": "-4.76000000000000000000000000",
+          "pnl": "0.55600000"
+        },
+        {
           "margin": "-0.11900000000000000000000000",
           "pnl": "0.01390000"
         },
@@ -98,8 +106,8 @@
       ],
       "ip": "2409:40e5:1004:f8d3:8000::",
       "otc": false,
-      "pnl": "7.1774",
-      "roe": "-12.94297976701410177805027590",
+      "pnl": "7.7334",
+      "roe": "-12.84319261301358488059255323",
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-14T06:53:17.337Z"
     },
