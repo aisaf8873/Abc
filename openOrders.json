@@ -337,7 +337,7 @@
   {
     "bracket_take_profit_limit_price": null,
     "created_at": "2026-03-14T13:25:13.961300Z",
-    "updated_at": "2026-03-14T13:59:10.402492Z",
+    "updated_at": "2026-03-14T13:59:39.191613Z",
     "margin_mode": "portfolio",
     "bracket_trail_amount": null,
     "bracket_stop_loss_limit_price": null,
@@ -346,10 +346,18 @@
     "stop_order_type": null,
     "id": 1225310829,
     "meta_data": {
-      "avg_exit_price": "165.89725",
-      "cashflow": "-199.0767",
+      "avg_exit_price": "163.74997660271408516612073",
+      "cashflow": "-349.9337",
       "entry_price": "275.8431404119060500191937515",
       "exit_price_with_size": [
+        {
+          "price": "161.00000000",
+          "size": "-20"
+        },
+        {
+          "price": "161.00000000",
+          "size": "-917"
+        },
         {
           "price": "169.00000000",
           "size": "-60"
@@ -385,6 +393,14 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "-5.516862808238121000383875030",
+          "pnl": "2.29686280"
+        },
+        {
+          "margin": "-252.9481597577178478676006701",
+          "pnl": "105.31115975"
+        },
+        {
           "margin": "-16.55058842471436300115162509",
           "pnl": "6.41058842"
         },
@@ -419,21 +435,21 @@
       ],
       "ip": "2409:40e5:1004:f8d3:8000::",
       "otc": false,
-      "pnl": "131.93506845",
-      "roe": "-39.85812016598346132965054424",
+      "pnl": "239.543091",
+      "roe": "-40.63656018910492169518538556",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-14T13:58:25.485Z"
+      "user_updated_at": "2026-03-14T13:59:25.147Z"
     },
     "reduce_only": true,
     "order_type": "limit_order",
-    "limit_price": 161,
-    "average_fill_price": "165.89725",
+    "limit_price": "161",
+    "average_fill_price": "163.749976602714085166",
     "time_in_force": "gtc",
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "commission": "0",
-    "unfilled_size": 2187,
+    "unfilled_size": 1250,
     "user_id": 21672861,
     "side": "buy",
     "bracket_take_profit_price": null,
@@ -469,7 +485,7 @@
     "size": 3387,
     "quote_size": null,
     "stop_trigger_method": null,
-    "paid_commission": "8.22186771",
+    "paid_commission": "14.45226181",
     "bracket_order": null,
     "mmp": "disabled",
     "cancellation_reason": null
@@ -547,7 +563,7 @@
   {
     "bracket_take_profit_limit_price": null,
     "created_at": "2026-03-14T12:43:25.096149Z",
-    "updated_at": "2026-03-14T13:58:44.023643Z",
+    "updated_at": "2026-03-14T13:59:30.926716Z",
     "margin_mode": "portfolio",
     "bracket_trail_amount": null,
     "bracket_stop_loss_limit_price": null,
@@ -562,11 +578,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-14T13:58:44.023Z"
+      "user_updated_at": "2026-03-14T13:59:30.926Z"
     },
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 224,
+    "limit_price": 228,
     "average_fill_price": "340",
     "time_in_force": "gtc",
     "client_order_id": null,
