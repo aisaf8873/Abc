@@ -29,7 +29,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-15T09:18:01.924407Z",
+    "updated_at": "2026-03-15T09:18:18.438225Z",
     "state": "open",
     "product_id": 126386,
     "bracket_take_profit_price": null,
@@ -44,7 +44,7 @@
     "commission": "0",
     "client_order_id": null,
     "stop_price": null,
-    "unfilled_size": 963,
+    "unfilled_size": 813,
     "cancellation_reason": null,
     "bracket_order": null,
     "bracket_trail_amount": null,
@@ -53,14 +53,18 @@
     "size": 994,
     "quote_size": null,
     "created_at": "2026-03-15T09:17:23.033966Z",
-    "paid_commission": "0.0460908",
+    "paid_commission": "0.2691108",
     "stop_trigger_method": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
       "avg_exit_price": "36",
-      "cashflow": "-1.116",
+      "cashflow": "-6.516",
       "entry_price": "54.00000000",
       "exit_price_with_size": [
+        {
+          "price": "36.00000000",
+          "size": "-150"
+        },
         {
           "price": "36.00000000",
           "size": "-30"
@@ -72,6 +76,10 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "-8.10000000000000000000000000",
+          "pnl": "2.70000000"
+        },
+        {
           "margin": "-1.62000000000000000000000000",
           "pnl": "0.54000000"
         },
@@ -82,7 +90,7 @@
       ],
       "ip": "2409:40e5:a:b4f0:8000::",
       "otc": false,
-      "pnl": "0.558",
+      "pnl": "3.258",
       "roe": "-33.33333333333333333333333333",
       "source": "mobile_app_android",
       "user_updated_at": "2026-03-15T09:17:45.212Z"
