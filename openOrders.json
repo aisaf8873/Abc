@@ -206,7 +206,7 @@
     "time_in_force": "gtc"
   },
   {
-    "average_fill_price": "92.2",
+    "average_fill_price": "62.14762979683972912",
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "call_options",
@@ -235,7 +235,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-15T08:16:45.884609Z",
+    "updated_at": "2026-03-15T08:17:08.585831Z",
     "state": "open",
     "product_id": 126396,
     "bracket_take_profit_price": null,
@@ -250,7 +250,7 @@
     "commission": "0",
     "client_order_id": null,
     "stop_price": null,
-    "unfilled_size": 958,
+    "unfilled_size": 557,
     "cancellation_reason": null,
     "bracket_order": null,
     "bracket_trail_amount": null,
@@ -259,11 +259,11 @@
     "size": 1000,
     "quote_size": null,
     "created_at": "2026-03-15T03:39:49.139952Z",
-    "paid_commission": "0.15993012",
+    "paid_commission": "1.13704682",
     "stop_trigger_method": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "cashflow": "3.8724",
+      "cashflow": "27.5314",
       "ip": "2409:40e5:a:b4f0:8000::",
       "order_source": "place_order",
       "otc": false,
