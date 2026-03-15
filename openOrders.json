@@ -38,7 +38,7 @@
     "id": 1225877721,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "178",
+    "limit_price": 174,
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -502,7 +502,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-15T04:14:31.637219Z",
+    "updated_at": "2026-03-15T04:14:48.365264Z",
     "state": "open",
     "product_id": 126432,
     "bracket_take_profit_price": null,
@@ -511,7 +511,7 @@
     "id": 1225331928,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "200.1",
+    "limit_price": 202.68,
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -536,7 +536,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-15T04:14:31.636Z"
+      "user_updated_at": "2026-03-15T04:14:48.364Z"
     },
     "mmp": "disabled",
     "side": "sell",
