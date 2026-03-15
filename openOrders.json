@@ -1,5 +1,74 @@
 [
   {
+    "updated_at": "2026-03-15T09:19:09.334588Z",
+    "bracket_take_profit_price": null,
+    "margin_mode": "portfolio",
+    "time_in_force": "gtc",
+    "trail_amount": null,
+    "state": "open",
+    "bracket_stop_loss_price": null,
+    "mmp": "disabled",
+    "stop_order_type": null,
+    "id": 1226220811,
+    "reduce_only": false,
+    "order_type": "limit_order",
+    "limit_price": "50",
+    "created_at": "2026-03-15T09:19:04.734807Z",
+    "client_order_id": null,
+    "user_id": 21672861,
+    "stop_price": null,
+    "product_id": 126386,
+    "bracket_order": null,
+    "side": "sell",
+    "unfilled_size": 90,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 126386,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "P-BTC-71600-150326",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "bracket_trail_amount": null,
+    "bracket_take_profit_limit_price": null,
+    "product_symbol": "P-BTC-71600-150326",
+    "average_fill_price": "50",
+    "meta_data": {
+      "cashflow": "0.5",
+      "ip": "2409:40e5:a:b4f0:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "pnl": "0",
+      "source": "mobile_app_android"
+    },
+    "size": 100,
+    "quote_size": null,
+    "cancellation_reason": null,
+    "commission": "0",
+    "stop_trigger_method": null,
+    "bracket_stop_loss_limit_price": null,
+    "paid_commission": "0.02065"
+  },
+  {
     "updated_at": "2026-03-15T09:18:55.082370Z",
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
