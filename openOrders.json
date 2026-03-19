@@ -95,7 +95,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-19T07:09:41.849934Z",
+    "updated_at": "2026-03-19T07:10:03.940117Z",
     "state": "open",
     "product_id": 127360,
     "bracket_take_profit_price": null,
@@ -127,7 +127,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-19T07:09:41.849Z"
+      "user_updated_at": "2026-03-19T07:10:03.939Z"
     },
     "mmp": "disabled",
     "side": "sell",
@@ -163,7 +163,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-19T07:09:43.709152Z",
+    "updated_at": "2026-03-19T07:09:47.942860Z",
     "state": "open",
     "product_id": 127090,
     "bracket_take_profit_price": null,
@@ -172,7 +172,7 @@
     "id": 1232769989,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 379,
+    "limit_price": "379",
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -195,7 +195,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-19T07:09:43.708Z"
+      "user_updated_at": "2026-03-19T07:09:47.942Z"
     },
     "mmp": "disabled",
     "side": "sell",
@@ -231,7 +231,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-19T07:09:43.955975Z",
+    "updated_at": "2026-03-19T07:09:45.556393Z",
     "state": "open",
     "product_id": 127341,
     "bracket_take_profit_price": null,
@@ -240,7 +240,7 @@
     "id": 1232769707,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 144,
+    "limit_price": "144",
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -263,7 +263,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-19T07:09:43.955Z"
+      "user_updated_at": "2026-03-19T07:09:45.556Z"
     },
     "mmp": "disabled",
     "side": "sell",
