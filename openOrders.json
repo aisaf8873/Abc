@@ -97,7 +97,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-19T07:28:26.067029Z",
+    "updated_at": "2026-03-19T07:28:49.295710Z",
     "state": "open",
     "product_id": 127090,
     "bracket_take_profit_price": null,
@@ -106,7 +106,7 @@
     "id": 1232769989,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 1002.6,
+    "limit_price": "1002.6",
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -129,7 +129,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-19T07:28:26.066Z"
+      "user_updated_at": "2026-03-19T07:28:49.295Z"
     },
     "mmp": "disabled",
     "side": "sell",
