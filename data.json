@@ -9,7 +9,7 @@
 "minPriceForFunc1":5,
 "RemoveTillMarkPrice":true,
 "useBestBidAndAskAsMarketPrice":false,
-"useBestBidAsMarketPrice":false,
+"useBestBidAsMarketPrice":true,
 "SmallAskRemover":2,
 "PriceChangeDiffForFunc3":{"1232767888":1,"1232768367":1,"1232768778":1,"1232769274":1,"1232769707":1,"1232769989":1,"1232770365":1},
 "marketPriceCorrectionForFunc3":{"1232767888":125,"1232768367":125,"1232768778":125,"1232769274":125,"1232769707":75,"1232769989":100,"1232770365":125},
