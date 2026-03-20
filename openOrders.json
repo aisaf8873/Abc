@@ -70,13 +70,13 @@
     "order_type": "limit_order",
     "product_id": 127364,
     "user_id": 21672861,
-    "updated_at": "2026-03-20T11:55:36.004877Z",
+    "updated_at": "2026-03-20T11:58:11.147195Z",
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "bracket_trail_amount": null,
     "stop_price": null,
     "product_symbol": "C-BTC-70800-200326",
-    "unfilled_size": 6080,
+    "unfilled_size": 503,
     "bracket_stop_loss_limit_price": null,
     "state": "open",
     "id": 1235175788,
@@ -122,7 +122,7 @@
     "side": "sell",
     "size": 8000,
     "meta_data": {
-      "cashflow": "0.96",
+      "cashflow": "3.7485",
       "ip": "2409:40e5:94:8381:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -131,7 +131,7 @@
       "user_updated_at": "2026-03-20T11:55:36.003Z"
     },
     "time_in_force": "gtc",
-    "paid_commission": "0.039648",
+    "paid_commission": "0.15481305",
     "client_order_id": null,
     "bracket_order": null,
     "cancellation_reason": null
