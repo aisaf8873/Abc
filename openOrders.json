@@ -1,33 +1,7 @@
 [
   {
-    "bracket_take_profit_limit_price": null,
-    "created_at": "2026-03-19T17:25:32.232452Z",
-    "updated_at": "2026-03-19T17:25:32.232452Z",
-    "margin_mode": "portfolio",
-    "bracket_trail_amount": null,
-    "bracket_stop_loss_limit_price": null,
-    "state": "open",
-    "product_id": 27,
-    "stop_order_type": null,
-    "id": 1234059717,
-    "meta_data": {
-      "ip": "2409:40e4:4b:c6be:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "reduce_only": true,
-    "order_type": "limit_order",
-    "limit_price": "74000",
     "average_fill_price": null,
-    "time_in_force": "gtc",
-    "client_order_id": null,
-    "bracket_stop_loss_price": null,
-    "stop_price": null,
-    "commission": "0",
-    "unfilled_size": 5,
-    "user_id": 21672861,
-    "side": "sell",
-    "bracket_take_profit_price": null,
+    "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "perpetual_futures",
       "contract_unit_currency": "BTC",
@@ -55,14 +29,40 @@
         "symbol": "BTC"
       }
     },
+    "updated_at": "2026-03-19T17:25:32.232452Z",
+    "state": "open",
+    "product_id": 27,
+    "bracket_take_profit_price": null,
+    "stop_order_type": null,
+    "bracket_take_profit_limit_price": null,
+    "id": 1234059717,
+    "reduce_only": true,
+    "order_type": "limit_order",
+    "limit_price": "74000",
     "trail_amount": null,
+    "margin_mode": "portfolio",
+    "commission": "0",
+    "client_order_id": null,
+    "stop_price": null,
+    "unfilled_size": 5,
+    "cancellation_reason": null,
+    "bracket_order": null,
+    "bracket_trail_amount": null,
+    "user_id": 21672861,
     "product_symbol": "BTCUSD",
     "size": 5,
     "quote_size": null,
-    "stop_trigger_method": null,
+    "created_at": "2026-03-19T17:25:32.232452Z",
     "paid_commission": "0",
-    "bracket_order": null,
+    "stop_trigger_method": null,
+    "bracket_stop_loss_price": null,
+    "meta_data": {
+      "ip": "2409:40e4:4b:c6be:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
     "mmp": "disabled",
-    "cancellation_reason": null
+    "side": "sell",
+    "time_in_force": "gtc"
   }
 ]
