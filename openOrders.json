@@ -1,26 +1,97 @@
 [
   {
-    "updated_at": "2026-03-21T08:27:20.514985Z",
-    "bracket_take_profit_price": null,
+    "paid_commission": "0",
+    "meta_data": {
+      "ip": "2409:40e5:1046:eee7:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "updated_at": "2026-03-21T08:28:28.094553Z",
     "margin_mode": "portfolio",
-    "time_in_force": "gtc",
-    "trail_amount": null,
-    "state": "open",
-    "bracket_stop_loss_price": null,
-    "mmp": "disabled",
-    "stop_order_type": null,
-    "id": 1236374303,
-    "reduce_only": false,
-    "order_type": "limit_order",
-    "limit_price": "70",
-    "created_at": "2026-03-21T08:27:20.514985Z",
+    "cancellation_reason": null,
     "client_order_id": null,
+    "state": "open",
+    "product_id": 127378,
+    "commission": "0",
+    "limit_price": "290",
+    "id": 1236375542,
+    "unfilled_size": 2000,
+    "stop_order_type": null,
     "user_id": 21672861,
-    "stop_price": null,
-    "product_id": 127397,
+    "created_at": "2026-03-21T08:28:28.094553Z",
+    "bracket_take_profit_price": null,
+    "quote_size": null,
+    "stop_trigger_method": null,
+    "trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 127378,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "P-BTC-70600-210326",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "time_in_force": "gtc",
     "bracket_order": null,
     "side": "sell",
+    "product_symbol": "P-BTC-70600-210326",
+    "size": 2000,
+    "reduce_only": false,
+    "bracket_stop_loss_price": null,
+    "stop_price": null,
+    "mmp": "disabled",
+    "bracket_take_profit_limit_price": null,
+    "order_type": "limit_order",
+    "average_fill_price": null,
+    "bracket_trail_amount": null
+  },
+  {
+    "paid_commission": "0",
+    "meta_data": {
+      "ip": "2409:40e5:1046:eee7:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "updated_at": "2026-03-21T08:27:20.514985Z",
+    "margin_mode": "portfolio",
+    "cancellation_reason": null,
+    "client_order_id": null,
+    "state": "open",
+    "product_id": 127397,
+    "commission": "0",
+    "limit_price": "70",
+    "id": 1236374303,
     "unfilled_size": 1000,
+    "stop_order_type": null,
+    "user_id": 21672861,
+    "created_at": "2026-03-21T08:27:20.514985Z",
+    "bracket_take_profit_price": null,
+    "quote_size": null,
+    "stop_trigger_method": null,
+    "trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "BTC",
@@ -48,22 +119,18 @@
         "symbol": "BTC"
       }
     },
-    "bracket_trail_amount": null,
-    "bracket_take_profit_limit_price": null,
+    "time_in_force": "gtc",
+    "bracket_order": null,
+    "side": "sell",
     "product_symbol": "P-BTC-70200-210326",
-    "average_fill_price": null,
-    "meta_data": {
-      "ip": "2409:40e5:1046:eee7:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
     "size": 1000,
-    "quote_size": null,
-    "cancellation_reason": null,
-    "commission": "0",
-    "stop_trigger_method": null,
-    "bracket_stop_loss_limit_price": null,
-    "paid_commission": "0"
+    "reduce_only": false,
+    "bracket_stop_loss_price": null,
+    "stop_price": null,
+    "mmp": "disabled",
+    "bracket_take_profit_limit_price": null,
+    "order_type": "limit_order",
+    "average_fill_price": null,
+    "bracket_trail_amount": null
   }
 ]
