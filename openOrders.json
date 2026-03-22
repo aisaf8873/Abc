@@ -172,7 +172,7 @@
     "id": 1237317877,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "159",
+    "limit_price": 164,
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
@@ -308,7 +308,7 @@
     "id": 1237317230,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 78,
+    "limit_price": 99,
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
@@ -316,7 +316,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T04:57:28.745Z"
+      "user_updated_at": "2026-03-22T04:57:46.756Z"
     },
     "side": "sell",
     "user_id": 21672861,
@@ -325,7 +325,7 @@
     "commission": "0",
     "unfilled_size": 1000,
     "client_order_id": null,
-    "updated_at": "2026-03-22T04:57:28.745613Z",
+    "updated_at": "2026-03-22T04:57:46.759819Z",
     "bracket_take_profit_price": null,
     "trail_amount": null,
     "product_symbol": "P-BTC-68400-220326",
@@ -444,7 +444,7 @@
     "id": 1237316748,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "219",
+    "limit_price": 224,
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
