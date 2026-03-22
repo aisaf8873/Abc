@@ -446,7 +446,7 @@
     "id": 1237316984,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 249,
+    "limit_price": "248",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
@@ -454,7 +454,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T08:11:24.257Z"
+      "user_updated_at": "2026-03-22T08:11:50.363Z"
     },
     "side": "sell",
     "user_id": 21672861,
@@ -463,7 +463,7 @@
     "commission": "0",
     "unfilled_size": 1000,
     "client_order_id": null,
-    "updated_at": "2026-03-22T08:11:24.258286Z",
+    "updated_at": "2026-03-22T08:11:50.363691Z",
     "bracket_take_profit_price": null,
     "trail_amount": null,
     "product_symbol": "P-BTC-68800-220326",
