@@ -136,7 +136,7 @@
   {
     "bracket_take_profit_limit_price": null,
     "created_at": "2026-03-22T08:03:12.699153Z",
-    "updated_at": "2026-03-22T08:05:40.945947Z",
+    "updated_at": "2026-03-22T08:13:48.101594Z",
     "margin_mode": "portfolio",
     "bracket_trail_amount": null,
     "bracket_stop_loss_limit_price": null,
@@ -151,11 +151,11 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T08:05:40.945Z"
+      "user_updated_at": "2026-03-22T08:13:48.101Z"
     },
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "80",
+    "limit_price": 63,
     "average_fill_price": "88",
     "time_in_force": "gtc",
     "client_order_id": null,
@@ -429,7 +429,7 @@
     },
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "249",
+    "limit_price": 215,
     "average_fill_price": null,
     "time_in_force": "gtc",
     "client_order_id": null,
