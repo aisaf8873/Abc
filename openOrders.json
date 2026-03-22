@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-22T08:31:50.482007Z",
+    "updated_at": "2026-03-22T08:32:37.279423Z",
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
@@ -12,7 +12,7 @@
     "id": 1237551899,
     "reduce_only": true,
     "order_type": "limit_order",
-    "limit_price": "51.4",
+    "limit_price": "39.4",
     "created_at": "2026-03-22T08:28:30.618248Z",
     "client_order_id": null,
     "user_id": 21672861,
@@ -54,7 +54,7 @@
     "average_fill_price": null,
     "meta_data": {
       "otc": false,
-      "user_updated_at": "2026-03-22T08:31:50.481Z"
+      "user_updated_at": "2026-03-22T08:32:37.279Z"
     },
     "size": 554,
     "quote_size": null,
@@ -201,7 +201,7 @@
     "paid_commission": "0.315532"
   },
   {
-    "updated_at": "2026-03-22T08:32:26.800718Z",
+    "updated_at": "2026-03-22T08:32:50.331584Z",
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
@@ -258,7 +258,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T08:32:26.796Z"
+      "user_updated_at": "2026-03-22T08:32:50.331Z"
     },
     "size": 1000,
     "quote_size": null,
@@ -545,7 +545,7 @@
     "paid_commission": "0"
   },
   {
-    "updated_at": "2026-03-22T08:32:29.125296Z",
+    "updated_at": "2026-03-22T08:32:51.493193Z",
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
@@ -557,7 +557,7 @@
     "id": 1237316984,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 394,
+    "limit_price": 410,
     "created_at": "2026-03-22T04:39:46.389554Z",
     "client_order_id": null,
     "user_id": 21672861,
@@ -602,7 +602,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T08:32:29.124Z"
+      "user_updated_at": "2026-03-22T08:32:51.492Z"
     },
     "size": 1000,
     "quote_size": null,
@@ -625,7 +625,7 @@
     "id": 1237316748,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": "599",
+    "limit_price": 599,
     "created_at": "2026-03-22T04:39:27.275507Z",
     "client_order_id": null,
     "user_id": 21672861,
