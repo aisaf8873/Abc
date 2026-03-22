@@ -7,7 +7,7 @@
     "margin_mode": "portfolio",
     "product_id": 127555,
     "stop_trigger_method": null,
-    "limit_price": "35",
+    "limit_price": "35.1",
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "product_symbol": "P-BTC-68200-220326",
@@ -54,7 +54,7 @@
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_order": null,
-    "updated_at": "2026-03-22T08:02:42.107927Z",
+    "updated_at": "2026-03-22T08:02:59.771218Z",
     "user_id": 21672861,
     "size": 990,
     "stop_order_type": null,
@@ -62,7 +62,8 @@
     "meta_data": {
       "ip": "2409:40e5:96:a333:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-22T08:02:59.770Z"
     }
   },
   {
@@ -347,7 +348,7 @@
     "margin_mode": "portfolio",
     "product_id": 127502,
     "stop_trigger_method": null,
-    "limit_price": 298,
+    "limit_price": "298",
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "product_symbol": "P-BTC-68400-220326",
@@ -394,7 +395,7 @@
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_order": null,
-    "updated_at": "2026-03-22T08:01:57.121233Z",
+    "updated_at": "2026-03-22T08:02:59.344274Z",
     "user_id": 21672861,
     "size": 1000,
     "stop_order_type": null,
@@ -404,7 +405,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T08:01:57.120Z"
+      "user_updated_at": "2026-03-22T08:02:59.343Z"
     }
   },
   {
@@ -415,7 +416,7 @@
     "margin_mode": "portfolio",
     "product_id": 127516,
     "stop_trigger_method": null,
-    "limit_price": 493,
+    "limit_price": 494,
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "product_symbol": "P-BTC-68800-220326",
@@ -462,7 +463,7 @@
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_order": null,
-    "updated_at": "2026-03-22T08:02:46.811799Z",
+    "updated_at": "2026-03-22T08:02:49.628216Z",
     "user_id": 21672861,
     "size": 1000,
     "stop_order_type": null,
@@ -472,7 +473,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T08:02:46.811Z"
+      "user_updated_at": "2026-03-22T08:02:49.626Z"
     }
   },
   {
@@ -483,7 +484,7 @@
     "margin_mode": "portfolio",
     "product_id": 127489,
     "stop_trigger_method": null,
-    "limit_price": 649,
+    "limit_price": "549",
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "product_symbol": "P-BTC-69000-220326",
@@ -530,7 +531,7 @@
     "quote_size": null,
     "cancellation_reason": null,
     "bracket_order": null,
-    "updated_at": "2026-03-22T08:02:45.742448Z",
+    "updated_at": "2026-03-22T08:03:03.736288Z",
     "user_id": 21672861,
     "size": 1000,
     "stop_order_type": null,
@@ -540,7 +541,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T08:02:45.742Z"
+      "user_updated_at": "2026-03-22T08:03:03.735Z"
     }
   },
   {
