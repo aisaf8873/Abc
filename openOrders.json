@@ -1,26 +1,35 @@
 [
   {
+    "bracket_take_profit_limit_price": null,
+    "created_at": "2026-03-22T04:39:46.389554Z",
     "updated_at": "2026-03-22T11:40:47.093045Z",
-    "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
-    "time_in_force": "gtc",
-    "trail_amount": null,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
     "state": "open",
-    "bracket_stop_loss_price": null,
-    "mmp": "disabled",
+    "product_id": 127516,
     "stop_order_type": null,
     "id": 1237316984,
+    "meta_data": {
+      "ip": "2409:40e5:96:a333:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-22T11:40:47.092Z"
+    },
     "reduce_only": false,
     "order_type": "limit_order",
     "limit_price": "886",
-    "created_at": "2026-03-22T04:39:46.389554Z",
+    "average_fill_price": null,
+    "time_in_force": "gtc",
     "client_order_id": null,
-    "user_id": 21672861,
+    "bracket_stop_loss_price": null,
     "stop_price": null,
-    "product_id": 127516,
-    "bracket_order": null,
-    "side": "sell",
+    "commission": "0",
     "unfilled_size": 1000,
+    "user_id": 21672861,
+    "side": "sell",
+    "bracket_take_profit_price": null,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "BTC",
@@ -48,23 +57,14 @@
         "symbol": "BTC"
       }
     },
-    "bracket_trail_amount": null,
-    "bracket_take_profit_limit_price": null,
+    "trail_amount": null,
     "product_symbol": "P-BTC-68800-220326",
-    "average_fill_price": null,
-    "meta_data": {
-      "ip": "2409:40e5:96:a333:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-03-22T11:40:47.092Z"
-    },
     "size": 1000,
     "quote_size": null,
-    "cancellation_reason": null,
-    "commission": "0",
     "stop_trigger_method": null,
-    "bracket_stop_loss_limit_price": null,
-    "paid_commission": "0"
+    "paid_commission": "0",
+    "bracket_order": null,
+    "mmp": "disabled",
+    "cancellation_reason": null
   }
 ]
