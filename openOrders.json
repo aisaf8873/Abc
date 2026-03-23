@@ -5,6 +5,73 @@
     "mmp": "disabled",
     "stop_price": null,
     "margin_mode": "portfolio",
+    "product_id": 127622,
+    "stop_trigger_method": null,
+    "limit_price": "0.06",
+    "bracket_take_profit_limit_price": null,
+    "state": "open",
+    "product_symbol": "P-ETH-2060-230326",
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 127622,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-2060-230326",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "client_order_id": null,
+    "id": 1239411963,
+    "bracket_trail_amount": null,
+    "average_fill_price": null,
+    "commission": "0",
+    "bracket_stop_loss_limit_price": null,
+    "created_at": "2026-03-23T11:44:44.853391Z",
+    "trail_amount": null,
+    "reduce_only": false,
+    "paid_commission": "0",
+    "side": "sell",
+    "time_in_force": "gtc",
+    "unfilled_size": 10000,
+    "quote_size": null,
+    "cancellation_reason": null,
+    "bracket_order": null,
+    "updated_at": "2026-03-23T11:44:44.853391Z",
+    "user_id": 21672861,
+    "size": 10000,
+    "stop_order_type": null,
+    "bracket_take_profit_price": null,
+    "meta_data": {
+      "ip": "2409:40e4:66:eed5:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    }
+  },
+  {
+    "bracket_stop_loss_price": null,
+    "order_type": "limit_order",
+    "mmp": "disabled",
+    "stop_price": null,
+    "margin_mode": "portfolio",
     "product_id": 127620,
     "stop_trigger_method": null,
     "limit_price": "0.06",
