@@ -1,177 +1,12 @@
 [
   {
-    "order_type": "limit_order",
-    "product_id": 127731,
     "user_id": 21672861,
-    "updated_at": "2026-03-24T07:14:20.029636Z",
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
-    "bracket_trail_amount": null,
-    "stop_price": null,
-    "product_symbol": "C-BTC-71000-240326",
-    "unfilled_size": 372,
-    "bracket_stop_loss_limit_price": null,
-    "state": "open",
-    "id": 1240846158,
-    "average_fill_price": "169.1",
-    "trail_amount": null,
-    "limit_price": "169.1",
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
-    "margin_mode": "portfolio",
-    "commission": "0",
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 127731,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "C-BTC-71000-240326",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "reduce_only": true,
-    "created_at": "2026-03-24T07:14:01.664834Z",
-    "stop_order_type": null,
-    "mmp": "disabled",
-    "bracket_take_profit_price": null,
-    "side": "buy",
-    "size": 476,
-    "meta_data": {
-      "avg_exit_price": "169.1",
-      "cashflow": "-17.5864",
-      "entry_price": "210.5044276431502833691616181",
-      "exit_price_with_size": [
-        {
-          "price": "169.10000000",
-          "size": "-104"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-21.89246047488762947039280828",
-          "pnl": "4.30606047"
-        }
-      ],
-      "ip": "2409:40e5:9f:31b0:8000::",
-      "otc": false,
-      "pnl": "4.30606047",
-      "roe": "-19.66914808383182578691408885",
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T07:14:07.231Z"
-    },
-    "time_in_force": "gtc",
-    "paid_commission": "0.72631832",
-    "client_order_id": null,
-    "bracket_order": null,
-    "cancellation_reason": null
-  },
-  {
-    "order_type": "limit_order",
-    "product_id": 127731,
-    "user_id": 21672861,
-    "updated_at": "2026-03-24T07:13:42.830254Z",
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
-    "bracket_trail_amount": null,
-    "stop_price": null,
-    "product_symbol": "C-BTC-71000-240326",
-    "unfilled_size": 1000,
-    "bracket_stop_loss_limit_price": null,
-    "state": "open",
-    "id": 1240844065,
-    "average_fill_price": null,
-    "trail_amount": null,
-    "limit_price": "300",
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
-    "margin_mode": "portfolio",
-    "commission": "0",
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 127731,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "C-BTC-71000-240326",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "reduce_only": false,
-    "created_at": "2026-03-24T07:13:04.548462Z",
-    "stop_order_type": null,
-    "mmp": "disabled",
-    "bracket_take_profit_price": null,
-    "side": "sell",
-    "size": 1000,
     "meta_data": {
       "ip": "2409:40e5:9f:31b0:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T07:13:42.829Z"
+      "source": "mobile_app_android"
     },
-    "time_in_force": "gtc",
-    "paid_commission": "0",
-    "client_order_id": null,
-    "bracket_order": null,
-    "cancellation_reason": null
-  },
-  {
-    "order_type": "limit_order",
-    "product_id": 127779,
-    "user_id": 21672861,
-    "updated_at": "2026-03-24T07:13:00.223615Z",
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
-    "bracket_trail_amount": null,
-    "stop_price": null,
-    "product_symbol": "C-BTC-71800-240326",
-    "unfilled_size": 59,
-    "bracket_stop_loss_limit_price": null,
-    "state": "open",
-    "id": 1240839512,
-    "average_fill_price": "18",
-    "trail_amount": null,
-    "limit_price": "18",
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
-    "margin_mode": "portfolio",
-    "commission": "0",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
@@ -199,13 +34,192 @@
         "symbol": "BTC"
       }
     },
-    "reduce_only": true,
-    "created_at": "2026-03-24T07:11:00.453746Z",
-    "stop_order_type": null,
-    "mmp": "disabled",
     "bracket_take_profit_price": null,
+    "created_at": "2026-03-24T07:14:53.538123Z",
+    "side": "sell",
+    "stop_price": null,
+    "client_order_id": null,
+    "stop_trigger_method": null,
+    "bracket_order": null,
+    "updated_at": "2026-03-24T07:14:53.538123Z",
+    "reduce_only": false,
+    "trail_amount": null,
+    "state": "open",
+    "product_id": 127779,
+    "id": 1240847630,
+    "cancellation_reason": null,
+    "unfilled_size": 1000,
+    "mmp": "disabled",
+    "quote_size": null,
+    "order_type": "limit_order",
+    "time_in_force": "gtc",
+    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0",
+    "limit_price": "89",
+    "stop_order_type": null,
+    "average_fill_price": null,
+    "margin_mode": "portfolio",
+    "product_symbol": "C-BTC-71800-240326",
+    "size": 1000,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
+    "bracket_stop_loss_price": null
+  },
+  {
+    "user_id": 21672861,
+    "meta_data": {
+      "avg_exit_price": "169.1",
+      "cashflow": "-17.5864",
+      "entry_price": "210.5044276431502833691616181",
+      "exit_price_with_size": [
+        {
+          "price": "169.10000000",
+          "size": "-104"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-21.89246047488762947039280828",
+          "pnl": "4.30606047"
+        }
+      ],
+      "ip": "2409:40e5:9f:31b0:8000::",
+      "otc": false,
+      "pnl": "4.30606047",
+      "roe": "-19.66914808383182578691408885",
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-24T07:14:07.231Z"
+    },
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 127731,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-71000-240326",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "bracket_take_profit_price": null,
+    "created_at": "2026-03-24T07:14:01.664834Z",
     "side": "buy",
-    "size": 200,
+    "stop_price": null,
+    "client_order_id": null,
+    "stop_trigger_method": null,
+    "bracket_order": null,
+    "updated_at": "2026-03-24T07:14:20.029636Z",
+    "reduce_only": true,
+    "trail_amount": null,
+    "state": "open",
+    "product_id": 127731,
+    "id": 1240846158,
+    "cancellation_reason": null,
+    "unfilled_size": 372,
+    "mmp": "disabled",
+    "quote_size": null,
+    "order_type": "limit_order",
+    "time_in_force": "gtc",
+    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0.72631832",
+    "limit_price": "169.1",
+    "stop_order_type": null,
+    "average_fill_price": "169.1",
+    "margin_mode": "portfolio",
+    "product_symbol": "C-BTC-71000-240326",
+    "size": 476,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
+    "bracket_stop_loss_price": null
+  },
+  {
+    "user_id": 21672861,
+    "meta_data": {
+      "ip": "2409:40e5:9f:31b0:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-03-24T07:13:42.829Z"
+    },
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 127731,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-71000-240326",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "bracket_take_profit_price": null,
+    "created_at": "2026-03-24T07:13:04.548462Z",
+    "side": "sell",
+    "stop_price": null,
+    "client_order_id": null,
+    "stop_trigger_method": null,
+    "bracket_order": null,
+    "updated_at": "2026-03-24T07:13:42.830254Z",
+    "reduce_only": false,
+    "trail_amount": null,
+    "state": "open",
+    "product_id": 127731,
+    "id": 1240844065,
+    "cancellation_reason": null,
+    "unfilled_size": 1000,
+    "mmp": "disabled",
+    "quote_size": null,
+    "order_type": "limit_order",
+    "time_in_force": "gtc",
+    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0",
+    "limit_price": "300",
+    "stop_order_type": null,
+    "average_fill_price": null,
+    "margin_mode": "portfolio",
+    "product_symbol": "C-BTC-71000-240326",
+    "size": 1000,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
+    "bracket_stop_loss_price": null
+  },
+  {
+    "user_id": 21672861,
     "meta_data": {
       "avg_exit_price": "18",
       "cashflow": "-2.538",
@@ -236,38 +250,11 @@
       "roe": "-45.45454545454545454545454545",
       "source": "mobile_app_android"
     },
-    "time_in_force": "gtc",
-    "paid_commission": "0.1048194",
-    "client_order_id": null,
-    "bracket_order": null,
-    "cancellation_reason": null
-  },
-  {
-    "order_type": "limit_order",
-    "product_id": 128120,
-    "user_id": 21672861,
-    "updated_at": "2026-03-24T07:09:31.146653Z",
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
-    "bracket_trail_amount": null,
-    "stop_price": null,
-    "product_symbol": "C-BTC-72200-240326",
-    "unfilled_size": 1000,
-    "bracket_stop_loss_limit_price": null,
-    "state": "open",
-    "id": 1240835601,
-    "average_fill_price": null,
-    "trail_amount": null,
-    "limit_price": "200",
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
-    "margin_mode": "portfolio",
-    "commission": "0",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
       "contract_value": "0.001",
-      "id": 128120,
+      "id": 127779,
       "notional_type": "vanilla",
       "quoting_asset": {
         "minimum_precision": 2,
@@ -282,7 +269,7 @@
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
-      "symbol": "C-BTC-72200-240326",
+      "symbol": "C-BTC-71800-240326",
       "tick_size": "0.1",
       "underlying_asset": {
         "minimum_precision": 4,
@@ -290,46 +277,46 @@
         "symbol": "BTC"
       }
     },
-    "reduce_only": false,
-    "created_at": "2026-03-24T07:09:31.146653Z",
-    "stop_order_type": null,
-    "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "side": "sell",
-    "size": 1000,
+    "created_at": "2026-03-24T07:11:00.453746Z",
+    "side": "buy",
+    "stop_price": null,
+    "client_order_id": null,
+    "stop_trigger_method": null,
+    "bracket_order": null,
+    "updated_at": "2026-03-24T07:13:00.223615Z",
+    "reduce_only": true,
+    "trail_amount": null,
+    "state": "open",
+    "product_id": 127779,
+    "id": 1240839512,
+    "cancellation_reason": null,
+    "unfilled_size": 59,
+    "mmp": "disabled",
+    "quote_size": null,
+    "order_type": "limit_order",
+    "time_in_force": "gtc",
+    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0.1048194",
+    "limit_price": "18",
+    "stop_order_type": null,
+    "average_fill_price": "18",
+    "margin_mode": "portfolio",
+    "product_symbol": "C-BTC-71800-240326",
+    "size": 200,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
+    "bracket_stop_loss_price": null
+  },
+  {
+    "user_id": 21672861,
     "meta_data": {
       "ip": "2409:40e5:9f:31b0:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android"
     },
-    "time_in_force": "gtc",
-    "paid_commission": "0",
-    "client_order_id": null,
-    "bracket_order": null,
-    "cancellation_reason": null
-  },
-  {
-    "order_type": "limit_order",
-    "product_id": 128120,
-    "user_id": 21672861,
-    "updated_at": "2026-03-24T07:12:04.754573Z",
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
-    "bracket_trail_amount": null,
-    "stop_price": null,
-    "product_symbol": "C-BTC-72200-240326",
-    "unfilled_size": 972,
-    "bracket_stop_loss_limit_price": null,
-    "state": "open",
-    "id": 1240835028,
-    "average_fill_price": "6",
-    "trail_amount": null,
-    "limit_price": "6",
-    "bracket_stop_loss_price": null,
-    "stop_trigger_method": null,
-    "margin_mode": "portfolio",
-    "commission": "0",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "BTC",
@@ -357,13 +344,40 @@
         "symbol": "BTC"
       }
     },
-    "reduce_only": true,
-    "created_at": "2026-03-24T07:09:16.646394Z",
-    "stop_order_type": null,
-    "mmp": "disabled",
     "bracket_take_profit_price": null,
-    "side": "buy",
-    "size": 976,
+    "created_at": "2026-03-24T07:09:31.146653Z",
+    "side": "sell",
+    "stop_price": null,
+    "client_order_id": null,
+    "stop_trigger_method": null,
+    "bracket_order": null,
+    "updated_at": "2026-03-24T07:09:31.146653Z",
+    "reduce_only": false,
+    "trail_amount": null,
+    "state": "open",
+    "product_id": 128120,
+    "id": 1240835601,
+    "cancellation_reason": null,
+    "unfilled_size": 1000,
+    "mmp": "disabled",
+    "quote_size": null,
+    "order_type": "limit_order",
+    "time_in_force": "gtc",
+    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0",
+    "limit_price": "200",
+    "stop_order_type": null,
+    "average_fill_price": null,
+    "margin_mode": "portfolio",
+    "product_symbol": "C-BTC-72200-240326",
+    "size": 1000,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
+    "bracket_stop_loss_price": null
+  },
+  {
+    "user_id": 21672861,
     "meta_data": {
       "avg_exit_price": "6",
       "cashflow": "-0.024",
@@ -386,10 +400,63 @@
       "roe": "-71.42857142857142857142857143",
       "source": "mobile_app_android"
     },
-    "time_in_force": "gtc",
-    "paid_commission": "0.0009912",
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 128120,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-72200-240326",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "bracket_take_profit_price": null,
+    "created_at": "2026-03-24T07:09:16.646394Z",
+    "side": "buy",
+    "stop_price": null,
     "client_order_id": null,
+    "stop_trigger_method": null,
     "bracket_order": null,
-    "cancellation_reason": null
+    "updated_at": "2026-03-24T07:12:04.754573Z",
+    "reduce_only": true,
+    "trail_amount": null,
+    "state": "open",
+    "product_id": 128120,
+    "id": 1240835028,
+    "cancellation_reason": null,
+    "unfilled_size": 972,
+    "mmp": "disabled",
+    "quote_size": null,
+    "order_type": "limit_order",
+    "time_in_force": "gtc",
+    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0.0009912",
+    "limit_price": "6",
+    "stop_order_type": null,
+    "average_fill_price": "6",
+    "margin_mode": "portfolio",
+    "product_symbol": "C-BTC-72200-240326",
+    "size": 976,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_limit_price": null,
+    "bracket_stop_loss_price": null
   }
 ]
