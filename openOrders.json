@@ -5,6 +5,72 @@
     "mmp": "disabled",
     "stop_price": null,
     "margin_mode": "portfolio",
+    "product_id": 127731,
+    "stop_trigger_method": null,
+    "limit_price": "190.1",
+    "bracket_take_profit_limit_price": null,
+    "state": "open",
+    "product_symbol": "C-BTC-71000-240326",
+    "product": {
+      "contract_type": "call_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 127731,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "C-BTC-71000-240326",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "client_order_id": null,
+    "id": 1240852338,
+    "bracket_trail_amount": null,
+    "average_fill_price": null,
+    "commission": "0",
+    "bracket_stop_loss_limit_price": null,
+    "created_at": "2026-03-24T07:17:06.335685Z",
+    "trail_amount": null,
+    "reduce_only": true,
+    "paid_commission": "0",
+    "side": "buy",
+    "time_in_force": "gtc",
+    "unfilled_size": 372,
+    "quote_size": null,
+    "cancellation_reason": null,
+    "bracket_order": null,
+    "updated_at": "2026-03-24T07:17:06.335685Z",
+    "user_id": 21672861,
+    "size": 372,
+    "stop_order_type": null,
+    "bracket_take_profit_price": null,
+    "meta_data": {
+      "ip": "2409:40e5:9f:31b0:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    }
+  },
+  {
+    "bracket_stop_loss_price": null,
+    "order_type": "limit_order",
+    "mmp": "disabled",
+    "stop_price": null,
+    "margin_mode": "portfolio",
     "product_id": 127721,
     "stop_trigger_method": null,
     "limit_price": "900",
@@ -131,90 +197,6 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android"
-    }
-  },
-  {
-    "bracket_stop_loss_price": null,
-    "order_type": "limit_order",
-    "mmp": "disabled",
-    "stop_price": null,
-    "margin_mode": "portfolio",
-    "product_id": 127731,
-    "stop_trigger_method": null,
-    "limit_price": "169.1",
-    "bracket_take_profit_limit_price": null,
-    "state": "open",
-    "product_symbol": "C-BTC-71000-240326",
-    "product": {
-      "contract_type": "call_options",
-      "contract_unit_currency": "BTC",
-      "contract_value": "0.001",
-      "id": 127731,
-      "notional_type": "vanilla",
-      "quoting_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "settling_asset": {
-        "minimum_precision": 2,
-        "precision": 8,
-        "symbol": "USD"
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "symbol": "C-BTC-71000-240326",
-      "tick_size": "0.1",
-      "underlying_asset": {
-        "minimum_precision": 4,
-        "precision": 8,
-        "symbol": "BTC"
-      }
-    },
-    "client_order_id": null,
-    "id": 1240846158,
-    "bracket_trail_amount": null,
-    "average_fill_price": "169.1",
-    "commission": "0",
-    "bracket_stop_loss_limit_price": null,
-    "created_at": "2026-03-24T07:14:01.664834Z",
-    "trail_amount": null,
-    "reduce_only": true,
-    "paid_commission": "0.72631832",
-    "side": "buy",
-    "time_in_force": "gtc",
-    "unfilled_size": 372,
-    "quote_size": null,
-    "cancellation_reason": null,
-    "bracket_order": null,
-    "updated_at": "2026-03-24T07:14:20.029636Z",
-    "user_id": 21672861,
-    "size": 476,
-    "stop_order_type": null,
-    "bracket_take_profit_price": null,
-    "meta_data": {
-      "avg_exit_price": "169.1",
-      "cashflow": "-17.5864",
-      "entry_price": "210.5044276431502833691616181",
-      "exit_price_with_size": [
-        {
-          "price": "169.10000000",
-          "size": "-104"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-21.89246047488762947039280828",
-          "pnl": "4.30606047"
-        }
-      ],
-      "ip": "2409:40e5:9f:31b0:8000::",
-      "otc": false,
-      "pnl": "4.30606047",
-      "roe": "-19.66914808383182578691408885",
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T07:14:07.231Z"
     }
   },
   {
