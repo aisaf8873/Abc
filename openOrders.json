@@ -1,6 +1,6 @@
 [
   {
-    "updated_at": "2026-03-24T08:25:01.750608Z",
+    "updated_at": "2026-03-24T08:25:21.613851Z",
     "average_fill_price": "725.13521505376344086",
     "time_in_force": "gtc",
     "product": {
@@ -39,7 +39,7 @@
     "reduce_only": false,
     "bracket_stop_loss_price": null,
     "order_type": "limit_order",
-    "limit_price": 379,
+    "limit_price": "379",
     "user_id": 21672861,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
@@ -53,16 +53,16 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T08:25:01.750Z"
+      "user_updated_at": "2026-03-24T08:25:21.613Z"
     },
     "trail_amount": null,
-    "unfilled_size": 1128,
+    "unfilled_size": 1328,
     "mmp": "disabled",
     "bracket_stop_loss_limit_price": null,
     "client_order_id": null,
     "margin_mode": "portfolio",
     "product_symbol": "P-BTC-71000-240326",
-    "size": 1500,
+    "size": 1700,
     "quote_size": null,
     "stop_trigger_method": null,
     "created_at": "2026-03-24T08:02:14.595066Z",
@@ -206,7 +206,7 @@
     "bracket_order": null
   },
   {
-    "updated_at": "2026-03-24T08:25:03.439595Z",
+    "updated_at": "2026-03-24T08:25:07.357258Z",
     "average_fill_price": "98.666666666666666667",
     "time_in_force": "gtc",
     "product": {
@@ -245,7 +245,7 @@
     "reduce_only": false,
     "bracket_stop_loss_price": null,
     "order_type": "limit_order",
-    "limit_price": 68,
+    "limit_price": 108,
     "user_id": 21672861,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
@@ -259,7 +259,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T08:25:03.439Z"
+      "user_updated_at": "2026-03-24T08:25:07.356Z"
     },
     "trail_amount": null,
     "unfilled_size": 862,
@@ -344,7 +344,7 @@
     "bracket_order": null
   },
   {
-    "updated_at": "2026-03-24T08:24:56.000496Z",
+    "updated_at": "2026-03-24T08:25:15.838569Z",
     "average_fill_price": "267",
     "time_in_force": "gtc",
     "product": {
@@ -383,7 +383,7 @@
     "reduce_only": false,
     "bracket_stop_loss_price": null,
     "order_type": "limit_order",
-    "limit_price": 309,
+    "limit_price": 334,
     "user_id": 21672861,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
@@ -397,7 +397,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T08:24:56.000Z"
+      "user_updated_at": "2026-03-24T08:25:15.837Z"
     },
     "trail_amount": null,
     "unfilled_size": 1478,
