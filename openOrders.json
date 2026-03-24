@@ -373,7 +373,7 @@
         "symbol": "BTC"
       }
     },
-    "updated_at": "2026-03-24T11:01:54.626279Z",
+    "updated_at": "2026-03-24T11:02:14.384604Z",
     "state": "open",
     "product_id": 127731,
     "bracket_take_profit_price": null,
@@ -382,7 +382,7 @@
     "id": 1240867104,
     "reduce_only": false,
     "order_type": "limit_order",
-    "limit_price": 324,
+    "limit_price": "324",
     "trail_amount": null,
     "margin_mode": "portfolio",
     "commission": "0",
@@ -407,7 +407,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-24T11:01:54.625Z"
+      "user_updated_at": "2026-03-24T11:02:14.384Z"
     },
     "mmp": "disabled",
     "side": "sell",
