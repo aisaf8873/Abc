@@ -1,38 +1,35 @@
 [
   {
     "average_fill_price": null,
-    "mmp": "disabled",
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "state": "open",
+    "time_in_force": "gtc",
     "product_symbol": "C-ETH-2140-270326",
+    "bracket_trail_amount": null,
+    "state": "open",
+    "bracket_stop_loss_limit_price": null,
     "stop_order_type": null,
     "id": 1245456549,
     "reduce_only": false,
     "order_type": "limit_order",
-    "margin_mode": "portfolio",
-    "limit_price": "7",
-    "commission": "0",
-    "bracket_order": null,
-    "product_id": 128158,
-    "side": "sell",
-    "bracket_take_profit_price": null,
-    "stop_price": null,
-    "bracket_stop_loss_price": null,
-    "created_at": "2026-03-26T20:16:27.618750Z",
-    "unfilled_size": 1,
-    "bracket_trail_amount": null,
-    "trail_amount": null,
-    "cancellation_reason": null,
-    "updated_at": "2026-03-26T20:16:27.618750Z",
-    "user_id": 21672861,
     "client_order_id": null,
+    "limit_price": "7",
+    "margin_mode": "portfolio",
+    "trail_amount": null,
+    "user_id": 21672861,
+    "created_at": "2026-03-26T20:16:27.618750Z",
+    "stop_price": null,
+    "product_id": 128158,
+    "cancellation_reason": null,
+    "side": "sell",
+    "updated_at": "2026-03-26T20:16:27.618750Z",
+    "unfilled_size": 1,
+    "mmp": "disabled",
+    "bracket_stop_loss_price": null,
     "size": 1,
     "quote_size": null,
     "stop_trigger_method": null,
+    "commission": "0",
+    "bracket_order": null,
+    "paid_commission": "0",
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -60,9 +57,12 @@
         "symbol": "ETH"
       }
     },
-    "bracket_stop_loss_limit_price": null,
-    "time_in_force": "gtc",
-    "bracket_take_profit_limit_price": null,
-    "paid_commission": "0"
+    "bracket_take_profit_price": null,
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "bracket_take_profit_limit_price": null
   }
 ]
