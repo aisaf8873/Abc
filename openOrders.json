@@ -72,7 +72,7 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-03-26T09:44:17.556370Z",
+    "updated_at": "2026-03-26T09:46:31.687233Z",
     "state": "open",
     "product_id": 128176,
     "id": 1244392663,
@@ -88,7 +88,7 @@
     "bracket_order": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "limit_price": 169,
+    "limit_price": "199",
     "user_id": 21672861,
     "mmp": "disabled",
     "created_at": "2026-03-26T09:17:31.753506Z",
@@ -130,7 +130,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-26T09:44:17.555Z"
+      "user_updated_at": "2026-03-26T09:46:31.686Z"
     },
     "bracket_take_profit_price": null
   },
@@ -140,7 +140,7 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-03-26T09:46:17.435878Z",
+    "updated_at": "2026-03-26T09:46:33.491296Z",
     "state": "open",
     "product_id": 128105,
     "id": 1244392239,
@@ -156,7 +156,7 @@
     "bracket_order": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "limit_price": "299",
+    "limit_price": 298,
     "user_id": 21672861,
     "mmp": "disabled",
     "created_at": "2026-03-26T09:17:16.111095Z",
@@ -198,7 +198,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-26T09:46:17.435Z"
+      "user_updated_at": "2026-03-26T09:46:33.491Z"
     },
     "bracket_take_profit_price": null
   },
@@ -276,7 +276,7 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-03-26T09:46:17.556541Z",
+    "updated_at": "2026-03-26T09:46:39.285510Z",
     "state": "open",
     "product_id": 128046,
     "id": 1244391528,
@@ -292,7 +292,7 @@
     "bracket_order": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "limit_price": "797",
+    "limit_price": "959",
     "user_id": 21672861,
     "mmp": "disabled",
     "created_at": "2026-03-26T09:16:44.291098Z",
@@ -334,7 +334,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-26T09:46:17.556Z"
+      "user_updated_at": "2026-03-26T09:46:39.285Z"
     },
     "bracket_take_profit_price": null
   },
