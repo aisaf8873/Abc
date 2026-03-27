@@ -5,36 +5,36 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-03-27T10:51:38.965705Z",
+    "updated_at": "2026-03-27T10:52:10.782398Z",
     "state": "open",
-    "product_id": 128356,
-    "id": 1246234636,
-    "average_fill_price": "1",
+    "product_id": 128183,
+    "id": 1246243200,
+    "average_fill_price": "9.6",
     "stop_price": null,
     "cancellation_reason": null,
-    "reduce_only": false,
+    "reduce_only": true,
     "commission": "0",
     "bracket_stop_loss_price": null,
-    "side": "buy",
-    "paid_commission": "0.0826",
+    "side": "sell",
+    "paid_commission": "2.3742072",
     "bracket_trail_amount": null,
     "bracket_order": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "limit_price": "1",
+    "limit_price": "9.6",
     "user_id": 21672861,
     "mmp": "disabled",
-    "created_at": "2026-03-27T10:48:24.488237Z",
-    "product_symbol": "P-ETH-1980-270326",
-    "size": 500,
+    "created_at": "2026-03-27T10:52:09.835003Z",
+    "product_symbol": "P-ETH-2020-270326",
+    "size": 2000,
     "client_order_id": null,
-    "unfilled_size": 300,
+    "unfilled_size": 1000,
     "quote_size": null,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
       "contract_value": "0.01",
-      "id": 128356,
+      "id": 128183,
       "notional_type": "vanilla",
       "quoting_asset": {
         "minimum_precision": 2,
@@ -49,7 +49,7 @@
       "spot_index": {
         "symbol": ".DEETHUSD"
       },
-      "symbol": "P-ETH-1980-270326",
+      "symbol": "P-ETH-2020-270326",
       "tick_size": "0.01",
       "underlying_asset": {
         "minimum_precision": 4,
@@ -59,11 +59,25 @@
     },
     "stop_trigger_method": null,
     "meta_data": {
-      "cashflow": "-2",
+      "avg_exit_price": "9.6",
+      "cashflow": "96",
+      "entry_price": "10.94000000000000000000000000",
+      "exit_price_with_size": [
+        {
+          "price": "9.60000000",
+          "size": "1000"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "109.4000000000000000000000000",
+          "pnl": "-13.40000000"
+        }
+      ],
       "ip": "2409:40e4:2040:8f5b:8000::",
-      "order_source": "place_order",
       "otc": false,
-      "pnl": "0",
+      "pnl": "-13.4",
+      "roe": "-12.24862888482632541133455210",
       "source": "mobile_app_android"
     },
     "bracket_take_profit_price": null
