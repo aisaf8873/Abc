@@ -5,30 +5,30 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-03-27T10:50:13.010212Z",
+    "updated_at": "2026-03-27T10:50:24.638075Z",
     "state": "open",
     "product_id": 119745,
     "id": 1246236118,
-    "average_fill_price": "4",
+    "average_fill_price": "4.177777777777777778",
     "stop_price": null,
     "cancellation_reason": null,
     "reduce_only": false,
     "commission": "0",
     "bracket_stop_loss_price": null,
     "side": "buy",
-    "paid_commission": "0.029736",
+    "paid_commission": "0.2795184",
     "bracket_trail_amount": null,
     "bracket_order": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "limit_price": "3.54",
+    "limit_price": "4.2",
     "user_id": 21672861,
     "mmp": "disabled",
     "created_at": "2026-03-27T10:49:04.803382Z",
     "product_symbol": "P-ETH-2000-270326",
     "size": 200,
     "client_order_id": null,
-    "unfilled_size": 182,
+    "unfilled_size": 38,
     "quote_size": null,
     "product": {
       "contract_type": "put_options",
@@ -59,16 +59,24 @@
     },
     "stop_trigger_method": null,
     "meta_data": {
-      "avg_exit_price": "4",
-      "cashflow": "-0.72",
+      "avg_exit_price": "4.177777777777777777777777778",
+      "cashflow": "-6.768",
       "entry_price": "8.253764800969892907658112750",
       "exit_price_with_size": [
+        {
+          "price": "4.20000000",
+          "size": "-144"
+        },
         {
           "price": "4.00000000",
           "size": "-18"
         }
       ],
       "fills_pnl_with_margin": [
+        {
+          "margin": "-11.88542131339664578702768236",
+          "pnl": "5.83742131"
+        },
         {
           "margin": "-1.485677664174580723378460295",
           "pnl": "0.76567766"
@@ -77,10 +85,10 @@
       "ip": "2409:40e4:2040:8f5b:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "0.76567766",
-      "roe": "-51.53726669407785260989106417",
+      "pnl": "6.60309897",
+      "roe": "-49.38336767288974284676044682",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-03-27T10:50:13.009Z"
+      "user_updated_at": "2026-03-27T10:50:18.113Z"
     },
     "bracket_take_profit_price": null
   },
