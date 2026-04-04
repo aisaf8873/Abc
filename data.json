@@ -11,10 +11,10 @@
 "useBestBidAndAskAsMarketPrice":false,
 "useBestBidAsMarketPrice":true,
 "SmallAskRemover":2,
-"PriceChangeDiffForFunc3":{"1258156247":1,"1258156571":1},
-"marketPriceCorrectionForFunc3":{"1258156247":125,"1258156571":125},
-"filterSizeForFunc3":{"1258156247":50,"1258156571":50},
-"minTargetPriceToSellForFunc3":{"1258156247":150,"1258156571":50},
-"updateSellOrderIdList":[1258156571,1258156247],
+"PriceChangeDiffForFunc3":{"1258156247":1,"1258156571":1,"1258171485":1},
+"marketPriceCorrectionForFunc3":{"1258156247":125,"1258156571":125,"1258171485":50},
+"filterSizeForFunc3":{"1258156247":50,"1258156571":50,"1258171485":50},
+"minTargetPriceToSellForFunc3":{"1258156247":150,"1258156571":50,"1258171485":100},
+"updateSellOrderIdList":[1258156571,1258156247,1258171485],
 "symbols":["C-BTC-67200-040426","C-BTC-67000-040426"]
 }
