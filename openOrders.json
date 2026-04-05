@@ -72,7 +72,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": "77",
+    "limit_price": "77.3",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "BTC",
@@ -105,22 +105,30 @@
     "state": "open",
     "product_id": 129393,
     "id": 1259366080,
-    "paid_commission": "0.5267402",
+    "paid_commission": "0.94495639",
     "stop_order_type": null,
     "stop_price": null,
     "quote_size": null,
     "user_id": 21672861,
     "bracket_trail_amount": null,
     "created_at": "2026-04-05T09:53:45.923371Z",
-    "unfilled_size": 711,
+    "unfilled_size": 580,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-04-05T09:56:18.376211Z",
+    "updated_at": "2026-04-05T09:57:45.026449Z",
     "meta_data": {
-      "avg_exit_price": "72.05649717514124293785310734",
-      "cashflow": "-12.754",
-      "entry_price": "123.3564356435643564356435644",
+      "avg_exit_price": "74.28668831168831168831168831",
+      "cashflow": "-22.8803",
+      "entry_price": "123.1092280537245925149618026",
       "exit_price_with_size": [
+        {
+          "price": "77.30000000",
+          "size": "-70"
+        },
+        {
+          "price": "77.30000000",
+          "size": "-61"
+        },
         {
           "price": "72.00000000",
           "size": "-172"
@@ -136,6 +144,14 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "-8.617645963760721476047326182",
+          "pnl": "3.20664596"
+        },
+        {
+          "margin": "-7.509662911277200143412669959",
+          "pnl": "2.79436291"
+        },
+        {
           "margin": "-21.21730693069306930693069308",
           "pnl": "8.83330693"
         },
@@ -150,10 +166,10 @@
       ],
       "ip": "2409:40e4:2f:7d7f:8000::",
       "otc": false,
-      "pnl": "9.0800891",
-      "roe": "-41.58675479754385344381548880",
+      "pnl": "15.08109797",
+      "roe": "-39.72745676114649015522012104",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-05T09:56:18.375Z"
+      "user_updated_at": "2026-04-05T09:57:37.834Z"
     },
     "mmp": "disabled",
     "margin_mode": "portfolio",
@@ -166,7 +182,7 @@
     "stop_trigger_method": null,
     "trail_amount": null,
     "side": "buy",
-    "average_fill_price": "72.056497175141242938"
+    "average_fill_price": "74.286688311688311688"
   },
   {
     "client_order_id": null,
