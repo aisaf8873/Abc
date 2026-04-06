@@ -4,7 +4,8 @@
       "ip": "2409:40e4:122d:3674:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-04-06T08:49:56.290Z"
     },
     "mmp": "disabled",
     "quote_size": null,
@@ -14,7 +15,7 @@
     "state": "open",
     "product_id": 129723,
     "client_order_id": null,
-    "updated_at": "2026-04-06T08:45:02.515833Z",
+    "updated_at": "2026-04-06T08:49:56.290887Z",
     "id": 1260603046,
     "product": {
       "contract_type": "call_options",
@@ -50,7 +51,7 @@
     "bracket_stop_loss_limit_price": null,
     "unfilled_size": 500,
     "created_at": "2026-04-06T08:45:02.515833Z",
-    "limit_price": 443,
+    "limit_price": "443",
     "bracket_stop_loss_price": null,
     "stop_order_type": null,
     "stop_price": null,
@@ -138,7 +139,8 @@
       "ip": "2409:40e4:122d:3674:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-04-06T08:49:57.361Z"
     },
     "mmp": "disabled",
     "quote_size": null,
@@ -148,7 +150,7 @@
     "state": "open",
     "product_id": 129734,
     "client_order_id": null,
-    "updated_at": "2026-04-06T08:44:19.196605Z",
+    "updated_at": "2026-04-06T08:49:57.362255Z",
     "id": 1260602317,
     "product": {
       "contract_type": "call_options",
@@ -184,7 +186,7 @@
     "bracket_stop_loss_limit_price": null,
     "unfilled_size": 1000,
     "created_at": "2026-04-06T08:44:19.196605Z",
-    "limit_price": "199",
+    "limit_price": 199,
     "bracket_stop_loss_price": null,
     "stop_order_type": null,
     "stop_price": null,
