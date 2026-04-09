@@ -11,10 +11,10 @@
 "useBestBidAndAskAsMarketPrice":false,
 "useBestBidAsMarketPrice":true,
 "SmallAskRemover":2,
-"PriceChangeDiffForFunc3":{"1247357727":0.05,"1266581723":0.05},
-"marketPriceCorrectionForFunc3":{"1247357727":125,"1266581723":125},
-"filterSizeForFunc3":{"1247357727":50,"1266581723":5},
-"minTargetPriceToSellForFunc3":{"1247357727":8,"1266581723":6},
-"updateSellOrderIdList":[1266581723,1265330561],
-"symbols":["P-ETH-2120-100426","P-ETH-2160-090426"]
+"PriceChangeDiffForFunc3":{"1266581723":0.05,"1266693366":0.05,"1266693691":0.05},
+"marketPriceCorrectionForFunc3":{"1266581723":125,"1266693366":125,"1266693691":125},
+"filterSizeForFunc3":{"1266581723":5,"1266693366":50,"1266693691":50},
+"minTargetPriceToSellForFunc3":{"1266581723":6,"1266693366":4,"1266693691":4},
+"updateSellOrderIdList":[1266581723,1266693366,1266693691],
+"symbols":["P-ETH-2120-100426","P-ETH-2160-100426","C-ETH-2280-100426"]
 }
