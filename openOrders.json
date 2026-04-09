@@ -3,7 +3,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": "8.66",
+    "limit_price": 8.45,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -46,13 +46,13 @@
     "unfilled_size": 5000,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-04-09T04:34:27.061182Z",
+    "updated_at": "2026-04-09T04:35:53.944221Z",
     "meta_data": {
       "ip": "2409:40e4:3e:71c:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-09T04:34:27.060Z"
+      "user_updated_at": "2026-04-09T04:35:53.943Z"
     },
     "mmp": "disabled",
     "margin_mode": "portfolio",
