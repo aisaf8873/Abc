@@ -1,27 +1,35 @@
 [
   {
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "mmp": "disabled",
-    "created_at": "2026-04-10T20:16:11.945025Z",
-    "margin_mode": "portfolio",
-    "bracket_stop_loss_price": null,
-    "updated_at": "2026-04-10T20:16:11.945025Z",
+    "time_in_force": "gtc",
+    "order_type": "limit_order",
+    "stop_order_type": null,
+    "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "bracket_take_profit_price": null,
+    "updated_at": "2026-04-10T20:16:11.945025Z",
     "state": "open",
     "product_id": 130173,
-    "stop_order_type": null,
     "id": 1268204794,
-    "reduce_only": false,
-    "order_type": "limit_order",
-    "limit_price": "4.44",
-    "commission": "0",
+    "average_fill_price": null,
+    "stop_price": null,
     "cancellation_reason": null,
+    "reduce_only": false,
+    "commission": "0",
+    "bracket_stop_loss_price": null,
+    "side": "sell",
+    "paid_commission": "0",
+    "bracket_trail_amount": null,
+    "bracket_order": null,
+    "margin_mode": "portfolio",
+    "trail_amount": null,
+    "limit_price": "4.44",
     "user_id": 21672861,
+    "mmp": "disabled",
+    "created_at": "2026-04-10T20:16:11.945025Z",
+    "product_symbol": "C-ETH-2300-110426",
+    "size": 1,
+    "client_order_id": null,
+    "unfilled_size": 1,
+    "quote_size": null,
     "product": {
       "contract_type": "call_options",
       "contract_unit_currency": "ETH",
@@ -49,20 +57,12 @@
         "symbol": "ETH"
       }
     },
-    "stop_price": null,
-    "bracket_take_profit_limit_price": null,
-    "bracket_order": null,
-    "unfilled_size": 1,
-    "bracket_trail_amount": null,
-    "side": "sell",
-    "product_symbol": "C-ETH-2300-110426",
-    "client_order_id": null,
-    "size": 1,
-    "quote_size": null,
-    "trail_amount": null,
-    "paid_commission": "0",
     "stop_trigger_method": null,
-    "average_fill_price": null,
-    "time_in_force": "gtc"
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "bracket_take_profit_price": null
   }
 ]
