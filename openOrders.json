@@ -74,7 +74,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-10T03:36:17.318Z"
+      "user_updated_at": "2026-04-10T04:08:14.981Z"
     },
     "state": "open",
     "product_symbol": "P-ETH-2160-100426",
@@ -83,7 +83,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "margin_mode": "portfolio",
-    "limit_price": 9.69,
+    "limit_price": "9.69",
     "commission": "0",
     "bracket_order": null,
     "product_id": 129966,
@@ -96,7 +96,7 @@
     "bracket_trail_amount": null,
     "trail_amount": null,
     "cancellation_reason": null,
-    "updated_at": "2026-04-10T03:36:17.318893Z",
+    "updated_at": "2026-04-10T04:08:14.982413Z",
     "user_id": 21672861,
     "client_order_id": null,
     "size": 4000,
