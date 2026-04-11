@@ -7,10 +7,14 @@
     "bracket_take_profit_limit_price": null,
     "product_symbol": "C-ETH-2300-120426",
     "meta_data": {
-      "avg_exit_price": "16.06084239130434782608695652",
-      "cashflow": "-118.2078",
+      "avg_exit_price": "15.651925566343042071197411",
+      "cashflow": "-193.4578",
       "entry_price": "19.94984300895590446085265151",
       "exit_price_with_size": [
+        {
+          "price": "15.05000000",
+          "size": "-500"
+        },
         {
           "price": "15.95000000",
           "size": "-25"
@@ -58,6 +62,10 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "-99.74921504477952230426325755",
+          "pnl": "24.49921504"
+        },
+        {
           "margin": "-4.987460752238976115213162878",
           "pnl": "0.99996075"
         },
@@ -104,10 +112,10 @@
       ],
       "ip": "2409:40e4:1352:70a7:8000::",
       "otc": false,
-      "pnl": "28.988234",
-      "roe": "-19.69362434895734294339016879",
+      "pnl": "53.48744904",
+      "roe": "-21.65963882223871830827286349",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-11T21:38:42.547Z"
+      "user_updated_at": "2026-04-11T21:39:01.817Z"
     },
     "bracket_stop_loss_limit_price": null,
     "state": "open",
@@ -117,10 +125,10 @@
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "quote_size": null,
-    "unfilled_size": 681,
-    "limit_price": 15.55,
+    "unfilled_size": 181,
+    "limit_price": 16.1,
     "stop_trigger_method": null,
-    "paid_commission": "1.99613234",
+    "paid_commission": "3.35235354",
     "side": "buy",
     "commission": "0",
     "bracket_stop_loss_price": null,
@@ -158,10 +166,10 @@
     },
     "reduce_only": true,
     "mmp": "disabled",
-    "average_fill_price": "16.060842391304347826",
+    "average_fill_price": "15.651925566343042071",
     "stop_price": null,
     "size": 1417,
-    "updated_at": "2026-04-11T21:38:42.548422Z"
+    "updated_at": "2026-04-11T21:39:01.817993Z"
   },
   {
     "user_id": 21672861,
@@ -310,7 +318,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-11T21:38:40.300Z"
+      "user_updated_at": "2026-04-11T21:39:00.370Z"
     },
     "bracket_stop_loss_limit_price": null,
     "state": "open",
@@ -321,7 +329,7 @@
     "margin_mode": "portfolio",
     "quote_size": null,
     "unfilled_size": 2000,
-    "limit_price": "18.44",
+    "limit_price": "17.94",
     "stop_trigger_method": null,
     "paid_commission": "0",
     "side": "sell",
@@ -364,7 +372,7 @@
     "average_fill_price": null,
     "stop_price": null,
     "size": 2000,
-    "updated_at": "2026-04-11T21:38:40.300892Z"
+    "updated_at": "2026-04-11T21:39:00.371349Z"
   },
   {
     "user_id": 21672861,
