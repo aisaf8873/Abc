@@ -479,9 +479,11 @@
     "bracket_take_profit_limit_price": null,
     "product_symbol": "P-ETH-2220-120426",
     "meta_data": {
+      "cashflow": "-2.7864",
       "ip": "2409:40e4:1352:70a7:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-04-11T18:48:32.525Z"
     },
@@ -493,10 +495,10 @@
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
     "quote_size": null,
-    "unfilled_size": 610,
+    "unfilled_size": 394,
     "limit_price": "1.29",
     "stop_trigger_method": null,
-    "paid_commission": "0",
+    "paid_commission": "0.11507832",
     "side": "buy",
     "commission": "0",
     "bracket_stop_loss_price": null,
@@ -534,10 +536,10 @@
     },
     "reduce_only": false,
     "mmp": "disabled",
-    "average_fill_price": null,
+    "average_fill_price": "1.29",
     "stop_price": null,
     "size": 610,
-    "updated_at": "2026-04-11T18:48:32.526241Z"
+    "updated_at": "2026-04-11T18:48:48.067057Z"
   },
   {
     "user_id": 21672861,
