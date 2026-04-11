@@ -135,13 +135,14 @@
     "meta_data": {
       "ip": "2409:40e4:1352:70a7:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-04-11T19:42:29.296Z"
     },
     "mmp": "disabled",
     "created_at": "2026-04-11T19:38:26.236287Z",
     "margin_mode": "portfolio",
     "bracket_stop_loss_price": null,
-    "updated_at": "2026-04-11T19:38:26.236287Z",
+    "updated_at": "2026-04-11T19:42:29.297468Z",
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
     "state": "open",
@@ -150,7 +151,7 @@
     "id": 1269338359,
     "reduce_only": true,
     "order_type": "limit_order",
-    "limit_price": "6.91",
+    "limit_price": "6.11",
     "commission": "0",
     "cancellation_reason": null,
     "user_id": 21672861,
