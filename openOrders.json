@@ -229,7 +229,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "client_order_id": null,
-    "limit_price": 40.85,
+    "limit_price": "40.85",
     "margin_mode": "portfolio",
     "trail_amount": null,
     "user_id": 21672861,
@@ -238,7 +238,7 @@
     "product_id": 130276,
     "cancellation_reason": null,
     "side": "sell",
-    "updated_at": "2026-04-11T20:51:25.182976Z",
+    "updated_at": "2026-04-11T20:54:07.500963Z",
     "unfilled_size": 1000,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
@@ -281,7 +281,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-11T20:51:25.182Z"
+      "user_updated_at": "2026-04-11T20:54:07.500Z"
     },
     "bracket_take_profit_limit_price": null
   },
@@ -306,7 +306,7 @@
     "product_id": 130316,
     "cancellation_reason": null,
     "side": "sell",
-    "updated_at": "2026-04-11T20:53:54.316954Z",
+    "updated_at": "2026-04-11T20:54:04.348998Z",
     "unfilled_size": 2000,
     "mmp": "disabled",
     "bracket_stop_loss_price": null,
@@ -349,7 +349,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-11T20:53:54.316Z"
+      "user_updated_at": "2026-04-11T20:54:04.348Z"
     },
     "bracket_take_profit_limit_price": null
   },
@@ -435,7 +435,7 @@
     "reduce_only": false,
     "order_type": "limit_order",
     "client_order_id": null,
-    "limit_price": "9.7",
+    "limit_price": 10.29,
     "margin_mode": "portfolio",
     "trail_amount": null,
     "user_id": 21672861,
