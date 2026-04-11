@@ -72,7 +72,7 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-04-11T21:09:18.059826Z",
+    "updated_at": "2026-04-11T21:09:30.712694Z",
     "state": "open",
     "product_id": 130321,
     "id": 1269373718,
@@ -88,7 +88,7 @@
     "bracket_order": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "limit_price": 16.7,
+    "limit_price": "16.7",
     "user_id": 21672861,
     "mmp": "disabled",
     "created_at": "2026-04-11T20:33:18.800444Z",
@@ -178,7 +178,7 @@
       "pnl": "18.08786417",
       "roe": "-19.54737599814758842447565272",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-11T21:09:18.059Z"
+      "user_updated_at": "2026-04-11T21:09:30.712Z"
     },
     "bracket_take_profit_price": null
   },
@@ -255,7 +255,7 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-04-11T21:09:16.593718Z",
+    "updated_at": "2026-04-11T21:09:38.391561Z",
     "state": "open",
     "product_id": 130276,
     "id": 1269366716,
@@ -313,7 +313,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-11T21:09:16.593Z"
+      "user_updated_at": "2026-04-11T21:09:38.391Z"
     },
     "bracket_take_profit_price": null
   },
@@ -461,7 +461,7 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-04-11T21:08:38.158736Z",
+    "updated_at": "2026-04-11T21:09:22.076819Z",
     "state": "open",
     "product_id": 130481,
     "id": 1269340673,
@@ -477,7 +477,7 @@
     "bracket_order": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "limit_price": 17.95,
+    "limit_price": "17.95",
     "user_id": 21672861,
     "mmp": "disabled",
     "created_at": "2026-04-11T19:41:30.042384Z",
@@ -519,7 +519,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-11T21:08:38.158Z"
+      "user_updated_at": "2026-04-11T21:09:22.076Z"
     },
     "bracket_take_profit_price": null
   }
