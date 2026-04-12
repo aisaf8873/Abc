@@ -70,7 +70,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": 5.55,
+    "limit_price": 6.05,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -113,7 +113,7 @@
     "unfilled_size": 848,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-04-12T05:01:00.411896Z",
+    "updated_at": "2026-04-12T05:01:16.906622Z",
     "meta_data": {
       "avg_exit_price": "5.873231292517006802721088435",
       "cashflow": "-51.8019",
@@ -183,7 +183,7 @@
       "pnl": "71.5017",
       "roe": "-57.98833124093700427238134166",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-12T05:01:00.411Z"
+      "user_updated_at": "2026-04-12T05:01:16.906Z"
     },
     "mmp": "disabled",
     "margin_mode": "portfolio",
@@ -202,7 +202,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": "22.17",
+    "limit_price": 22.45,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -245,13 +245,13 @@
     "unfilled_size": 3000,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-04-12T04:57:16.346965Z",
+    "updated_at": "2026-04-12T05:01:17.416490Z",
     "meta_data": {
       "ip": "2409:40e4:114e:7393:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-12T04:57:16.346Z"
+      "user_updated_at": "2026-04-12T05:01:17.416Z"
     },
     "mmp": "disabled",
     "margin_mode": "portfolio",
@@ -270,7 +270,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": 14.64,
+    "limit_price": 18.15,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -313,7 +313,7 @@
     "unfilled_size": 3270,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-04-12T05:00:21.820418Z",
+    "updated_at": "2026-04-12T05:01:17.927203Z",
     "meta_data": {
       "cashflow": "241.854",
       "ip": "2409:40e4:114e:7393:8000::",
@@ -321,7 +321,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-12T05:00:21.819Z"
+      "user_updated_at": "2026-04-12T05:01:17.916Z"
     },
     "mmp": "disabled",
     "margin_mode": "portfolio",
