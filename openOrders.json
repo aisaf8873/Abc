@@ -1,1 +1,69 @@
-[]
+[
+  {
+    "average_fill_price": null,
+    "time_in_force": "gtc",
+    "product_symbol": "P-ETH-2140-120426",
+    "bracket_trail_amount": null,
+    "state": "open",
+    "bracket_stop_loss_limit_price": null,
+    "stop_order_type": null,
+    "id": 1269700251,
+    "reduce_only": false,
+    "order_type": "limit_order",
+    "client_order_id": null,
+    "limit_price": "8.9",
+    "margin_mode": "portfolio",
+    "trail_amount": null,
+    "user_id": 21672861,
+    "created_at": "2026-04-12T04:33:44.127305Z",
+    "stop_price": null,
+    "product_id": 130273,
+    "cancellation_reason": null,
+    "side": "sell",
+    "updated_at": "2026-04-12T04:33:44.127305Z",
+    "unfilled_size": 3000,
+    "mmp": "disabled",
+    "bracket_stop_loss_price": null,
+    "size": 3000,
+    "quote_size": null,
+    "stop_trigger_method": null,
+    "commission": "0",
+    "bracket_order": null,
+    "paid_commission": "0",
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "ETH",
+      "contract_value": "0.01",
+      "id": 130273,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "symbol": "P-ETH-2140-120426",
+      "tick_size": "0.01",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 18,
+        "symbol": "ETH"
+      }
+    },
+    "bracket_take_profit_price": null,
+    "meta_data": {
+      "ip": "2409:40e4:114e:7393:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "bracket_take_profit_limit_price": null
+  }
+]
