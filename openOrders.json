@@ -3,7 +3,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": "15.75",
+    "limit_price": 16.24,
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -46,7 +46,7 @@
     "unfilled_size": 2046,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-04-12T06:59:07.008475Z",
+    "updated_at": "2026-04-12T07:00:03.161094Z",
     "meta_data": {
       "cashflow": "162.6735",
       "ip": "2409:40e4:114e:7393:8000::",
@@ -54,7 +54,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-12T06:59:07.008Z"
+      "user_updated_at": "2026-04-12T07:00:03.160Z"
     },
     "mmp": "disabled",
     "margin_mode": "portfolio",
@@ -73,7 +73,7 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "commission": "0",
-    "limit_price": 9.48,
+    "limit_price": "9.48",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -116,7 +116,7 @@
     "unfilled_size": 3270,
     "bracket_take_profit_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-04-12T06:59:03.382481Z",
+    "updated_at": "2026-04-12T06:59:48.276631Z",
     "meta_data": {
       "cashflow": "241.854",
       "ip": "2409:40e4:114e:7393:8000::",
@@ -124,7 +124,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-12T06:59:03.381Z"
+      "user_updated_at": "2026-04-12T06:59:48.276Z"
     },
     "mmp": "disabled",
     "margin_mode": "portfolio",
