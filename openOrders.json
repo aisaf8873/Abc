@@ -272,8 +272,8 @@
     "client_order_id": null,
     "unfilled_size": 869,
     "cancellation_reason": null,
-    "limit_price": "18",
-    "updated_at": "2026-04-17T10:46:17.396089Z",
+    "limit_price": "14",
+    "updated_at": "2026-04-17T10:51:41.335078Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -335,7 +335,7 @@
       "pnl": "-14.412725",
       "roe": "-42.51324969452144396782169639",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-17T10:46:17.395Z"
+      "user_updated_at": "2026-04-17T10:51:41.334Z"
     },
     "product_symbol": "P-BTC-74800-170426",
     "reduce_only": true,
@@ -456,7 +456,7 @@
     "unfilled_size": 1500,
     "cancellation_reason": null,
     "limit_price": 20.95,
-    "updated_at": "2026-04-17T10:51:32.168512Z",
+    "updated_at": "2026-04-17T10:51:50.967984Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -470,7 +470,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-17T10:51:32.168Z"
+      "user_updated_at": "2026-04-17T10:51:50.967Z"
     },
     "product_symbol": "P-ETH-2350-170426",
     "reduce_only": false,
