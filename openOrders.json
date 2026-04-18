@@ -215,7 +215,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-18T21:19:43.545Z"
+      "user_updated_at": "2026-04-18T21:19:50.428Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -265,13 +265,13 @@
     "bracket_take_profit_price": null,
     "size": 4000,
     "stop_trigger_method": null,
-    "limit_price": "13.15",
+    "limit_price": 13.35,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "P-ETH-2320-190426",
     "side": "sell",
-    "updated_at": "2026-04-18T21:19:43.545956Z"
+    "updated_at": "2026-04-18T21:19:50.429487Z"
   },
   {
     "trail_amount": null,
