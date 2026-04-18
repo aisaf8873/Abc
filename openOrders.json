@@ -2,7 +2,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "23.1",
+    "limit_price": 19.1,
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -67,7 +67,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 76,
+    "limit_price": 68,
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -88,7 +88,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 131128,
-    "updated_at": "2026-04-18T09:45:48.286070Z",
+    "updated_at": "2026-04-18T09:46:04.305088Z",
     "time_in_force": "gtc",
     "size": 2000,
     "stop_order_type": null,
@@ -126,7 +126,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_web_android",
-      "user_updated_at": "2026-04-18T09:45:48.285Z"
+      "user_updated_at": "2026-04-18T09:46:04.304Z"
     },
     "created_at": "2026-04-18T09:32:29.002120Z",
     "product_symbol": "P-BTC-76400-180426",
