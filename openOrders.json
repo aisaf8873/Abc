@@ -1,6 +1,6 @@
 [
   {
-    "limit_price": "19.27",
+    "limit_price": 20.15,
     "user_id": 21672861,
     "stop_trigger_method": null,
     "average_fill_price": "17.942317666126418152",
@@ -16,14 +16,14 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-18T18:40:53.973Z"
+      "user_updated_at": "2026-04-18T18:41:24.845Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-18T18:40:53.973939Z",
+    "updated_at": "2026-04-18T18:41:24.845346Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 131182,
@@ -206,7 +206,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": 14.45,
+    "limit_price": "14.51",
     "user_id": 21672861,
     "stop_trigger_method": null,
     "average_fill_price": null,
@@ -220,14 +220,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-18T18:41:02.846Z"
+      "user_updated_at": "2026-04-18T18:41:23.497Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-18T18:41:02.846713Z",
+    "updated_at": "2026-04-18T18:41:23.498277Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 131183,
