@@ -269,19 +269,21 @@
     "bracket_order": null
   },
   {
-    "limit_price": "8.15",
+    "limit_price": 8.03,
     "user_id": 21672861,
     "stop_trigger_method": null,
-    "average_fill_price": null,
+    "average_fill_price": "8.15",
     "created_at": "2026-04-18T13:40:05.725189Z",
     "reduce_only": false,
     "state": "open",
     "id": 1280248753,
-    "unfilled_size": 4000,
+    "unfilled_size": 3810,
     "meta_data": {
+      "cashflow": "15.485",
       "ip": "2409:40e4:6a:17d2:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-04-19T06:21:06.570Z"
     },
@@ -290,7 +292,7 @@
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-04-19T06:21:06.571285Z",
+    "updated_at": "2026-04-19T06:21:19.943944Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 131183,
