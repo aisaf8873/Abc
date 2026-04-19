@@ -330,7 +330,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 239,
+    "limit_price": "239",
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -351,7 +351,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 131160,
-    "updated_at": "2026-04-19T09:23:44.438393Z",
+    "updated_at": "2026-04-19T09:23:52.990927Z",
     "time_in_force": "gtc",
     "size": 995,
     "stop_order_type": null,
@@ -391,7 +391,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-19T09:23:44.437Z"
+      "user_updated_at": "2026-04-19T09:23:52.990Z"
     },
     "created_at": "2026-04-19T07:30:33.627743Z",
     "product_symbol": "P-BTC-75000-190426",
@@ -400,7 +400,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "9.45",
+    "limit_price": 15.35,
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -536,7 +536,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 40.72,
+    "limit_price": 39.95,
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -557,7 +557,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 131182,
-    "updated_at": "2026-04-19T09:23:37.159655Z",
+    "updated_at": "2026-04-19T09:23:53.228528Z",
     "time_in_force": "gtc",
     "size": 2000,
     "stop_order_type": null,
@@ -597,7 +597,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-19T09:23:37.159Z"
+      "user_updated_at": "2026-04-19T09:23:53.228Z"
     },
     "created_at": "2026-04-19T06:51:42.621787Z",
     "product_symbol": "P-ETH-2340-190426",
@@ -606,7 +606,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": 17.65,
+    "limit_price": 17.45,
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -627,7 +627,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 131183,
-    "updated_at": "2026-04-19T09:23:45.759081Z",
+    "updated_at": "2026-04-19T09:24:01.542166Z",
     "time_in_force": "gtc",
     "size": 4000,
     "stop_order_type": null,
@@ -667,7 +667,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-19T09:23:45.758Z"
+      "user_updated_at": "2026-04-19T09:24:01.541Z"
     },
     "created_at": "2026-04-18T13:40:05.725189Z",
     "product_symbol": "P-ETH-2320-190426",
