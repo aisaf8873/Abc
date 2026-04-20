@@ -2,6 +2,73 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
+    "limit_price": "490",
+    "cancellation_reason": null,
+    "updated_at": "2026-04-20T07:43:42.314685Z",
+    "commission": "0",
+    "stop_trigger_method": null,
+    "reduce_only": false,
+    "client_order_id": null,
+    "state": "open",
+    "id": 1282752577,
+    "unfilled_size": 1000,
+    "user_id": 21672861,
+    "product_id": 131627,
+    "bracket_stop_loss_price": null,
+    "meta_data": {
+      "ip": "2409:40e5:b5:4f9e:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "mmp": "disabled",
+    "time_in_force": "gtc",
+    "bracket_order": null,
+    "bracket_stop_loss_limit_price": null,
+    "bracket_take_profit_limit_price": null,
+    "quote_size": null,
+    "bracket_trail_amount": null,
+    "created_at": "2026-04-20T07:43:42.314685Z",
+    "order_type": "limit_order",
+    "stop_price": null,
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
+      "id": 131627,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "P-BTC-74400-200426",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "average_fill_price": null,
+    "product_symbol": "P-BTC-74400-200426",
+    "size": 1000,
+    "paid_commission": "0",
+    "stop_order_type": null,
+    "side": "sell",
+    "bracket_take_profit_price": null
+  },
+  {
+    "trail_amount": null,
+    "margin_mode": "portfolio",
     "limit_price": "700",
     "cancellation_reason": null,
     "updated_at": "2026-04-20T07:43:25.637586Z",
