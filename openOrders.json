@@ -5,7 +5,7 @@
     "user_id": 21672861,
     "quote_size": null,
     "meta_data": {
-      "cashflow": "1.7201",
+      "cashflow": "1.775",
       "ip": "2409:40e4:c:cd77:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -25,7 +25,7 @@
     "average_fill_price": "0.01",
     "bracket_order": null,
     "paid_commission": "0",
-    "unfilled_size": 2799,
+    "unfilled_size": 2250,
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "call_options",
@@ -66,6 +66,6 @@
     "mmp": "disabled",
     "product_symbol": "C-ETH-2480-200426",
     "side": "sell",
-    "updated_at": "2026-04-20T11:46:53.515143Z"
+    "updated_at": "2026-04-20T11:47:12.900468Z"
   }
 ]
