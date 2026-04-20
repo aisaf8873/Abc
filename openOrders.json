@@ -186,7 +186,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-20T08:13:46.632Z"
+      "user_updated_at": "2026-04-20T08:14:52.672Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -201,11 +201,11 @@
     "product_symbol": "P-BTC-74400-200426",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-20T08:13:46.633717Z"
+    "updated_at": "2026-04-20T08:14:52.673268Z"
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "299",
+    "limit_price": "394",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -254,7 +254,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-20T08:14:29.597Z"
+      "user_updated_at": "2026-04-20T08:14:49.152Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -269,11 +269,11 @@
     "product_symbol": "P-BTC-74600-200426",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-20T08:14:29.597546Z"
+    "updated_at": "2026-04-20T08:14:49.152867Z"
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "299",
+    "limit_price": 299,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
