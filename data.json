@@ -10,7 +10,7 @@
 "RemoveTillMarkPrice":true,
 "useBestBidAndAskAsMarketPrice":false,
 "useBestBidAsMarketPrice":true,
-"SmallAskRemover":2,
+"SmallAskRemover":10,
 "PriceChangeDiffForFunc3":{"1282750783":1,"1282751242":1,"1282751634":1,"1282752214":1,"1282752577":1,"1282752837":1},
 "marketPriceCorrectionForFunc3":{"1282750783":125,"1282751242":125,"1282751634":125,"1282752214":125,"1282752577":125,"1282752837":125},
 "filterSizeForFunc3":{"1282750783":50,"1282751242":50,"1282751634":50,"1282752214":50,"1282752577":50,"1282752837":50},
