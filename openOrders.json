@@ -91,7 +91,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 131635,
-    "updated_at": "2026-04-20T08:05:11.944595Z",
+    "updated_at": "2026-04-20T08:53:56.878128Z",
     "time_in_force": "gtc",
     "size": 1000,
     "stop_order_type": null,
@@ -129,7 +129,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-20T08:05:11.944Z"
+      "user_updated_at": "2026-04-20T08:53:56.877Z"
     },
     "created_at": "2026-04-20T07:43:56.330372Z",
     "product_symbol": "P-BTC-74200-200426",
@@ -159,7 +159,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 131627,
-    "updated_at": "2026-04-20T08:53:32.661751Z",
+    "updated_at": "2026-04-20T08:54:09.240940Z",
     "time_in_force": "gtc",
     "size": 1000,
     "stop_order_type": null,
@@ -197,7 +197,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-20T08:53:32.661Z"
+      "user_updated_at": "2026-04-20T08:54:09.240Z"
     },
     "created_at": "2026-04-20T07:43:42.314685Z",
     "product_symbol": "P-BTC-74400-200426",
@@ -206,7 +206,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "353",
+    "limit_price": "399",
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -227,7 +227,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 131298,
-    "updated_at": "2026-04-20T08:53:53.038752Z",
+    "updated_at": "2026-04-20T08:54:09.061920Z",
     "time_in_force": "gtc",
     "size": 1000,
     "stop_order_type": null,
@@ -265,7 +265,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-20T08:53:53.038Z"
+      "user_updated_at": "2026-04-20T08:54:09.061Z"
     },
     "created_at": "2026-04-20T07:43:25.637586Z",
     "product_symbol": "P-BTC-74600-200426",
