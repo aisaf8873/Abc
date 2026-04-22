@@ -4,6 +4,73 @@
       "contract_type": "put_options",
       "contract_unit_currency": "BTC",
       "contract_value": "0.001",
+      "id": 131881,
+      "notional_type": "vanilla",
+      "quoting_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "settling_asset": {
+        "minimum_precision": 2,
+        "precision": 8,
+        "symbol": "USD"
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "symbol": "P-BTC-77400-220426",
+      "tick_size": "0.1",
+      "underlying_asset": {
+        "minimum_precision": 4,
+        "precision": 8,
+        "symbol": "BTC"
+      }
+    },
+    "client_order_id": null,
+    "margin_mode": "portfolio",
+    "trail_amount": null,
+    "updated_at": "2026-04-22T08:46:49.185340Z",
+    "bracket_stop_loss_limit_price": null,
+    "average_fill_price": null,
+    "unfilled_size": 250,
+    "state": "open",
+    "bracket_order": null,
+    "id": 1286101877,
+    "bracket_trail_amount": null,
+    "bracket_stop_loss_price": null,
+    "order_type": "limit_order",
+    "meta_data": {
+      "ip": "2409:40e4:1d:9a60:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "stop_price": null,
+    "user_id": 21672861,
+    "paid_commission": "0",
+    "time_in_force": "gtc",
+    "stop_trigger_method": null,
+    "bracket_take_profit_price": null,
+    "quote_size": null,
+    "stop_order_type": null,
+    "product_id": 131881,
+    "size": 250,
+    "side": "buy",
+    "reduce_only": false,
+    "created_at": "2026-04-22T08:46:49.185340Z",
+    "limit_price": "20.1",
+    "product_symbol": "P-BTC-77400-220426",
+    "cancellation_reason": null,
+    "mmp": "disabled",
+    "bracket_take_profit_limit_price": null,
+    "commission": "0"
+  },
+  {
+    "product": {
+      "contract_type": "put_options",
+      "contract_unit_currency": "BTC",
+      "contract_value": "0.001",
       "id": 131688,
       "notional_type": "vanilla",
       "quoting_asset": {
@@ -30,7 +97,7 @@
     "client_order_id": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "updated_at": "2026-04-22T08:46:17.427525Z",
+    "updated_at": "2026-04-22T08:47:02.262687Z",
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "80",
     "unfilled_size": 495,
@@ -47,7 +114,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-22T08:46:17.427Z"
+      "user_updated_at": "2026-04-22T08:47:02.262Z"
     },
     "stop_price": null,
     "user_id": 21672861,
@@ -62,7 +129,7 @@
     "side": "sell",
     "reduce_only": false,
     "created_at": "2026-04-22T08:45:59.417907Z",
-    "limit_price": "110",
+    "limit_price": "105",
     "product_symbol": "P-BTC-77600-220426",
     "cancellation_reason": null,
     "mmp": "disabled",
@@ -100,7 +167,7 @@
     "client_order_id": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "updated_at": "2026-04-22T08:35:18.821005Z",
+    "updated_at": "2026-04-22T08:46:55.270863Z",
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null,
     "unfilled_size": 1000,
@@ -115,7 +182,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-22T08:35:18.820Z"
+      "user_updated_at": "2026-04-22T08:46:55.270Z"
     },
     "stop_price": null,
     "user_id": 21672861,
@@ -130,7 +197,7 @@
     "side": "sell",
     "reduce_only": false,
     "created_at": "2026-04-22T07:46:13.268545Z",
-    "limit_price": "179",
+    "limit_price": "174",
     "product_symbol": "C-BTC-78400-220426",
     "cancellation_reason": null,
     "mmp": "disabled",
@@ -304,7 +371,7 @@
     "client_order_id": null,
     "margin_mode": "portfolio",
     "trail_amount": null,
-    "updated_at": "2026-04-22T08:46:27.963608Z",
+    "updated_at": "2026-04-22T08:46:58.499706Z",
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null,
     "unfilled_size": 1000,
@@ -319,7 +386,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-22T08:46:27.963Z"
+      "user_updated_at": "2026-04-22T08:46:58.499Z"
     },
     "stop_price": null,
     "user_id": 21672861,
@@ -334,7 +401,7 @@
     "side": "sell",
     "reduce_only": false,
     "created_at": "2026-04-22T07:45:22.697178Z",
-    "limit_price": 449,
+    "limit_price": "399",
     "product_symbol": "P-BTC-78000-220426",
     "cancellation_reason": null,
     "mmp": "disabled",
