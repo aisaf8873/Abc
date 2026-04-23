@@ -476,7 +476,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": 779,
+    "limit_price": "779",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -525,7 +525,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-23T07:07:04.339Z"
+      "user_updated_at": "2026-04-23T07:07:30.898Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -540,6 +540,6 @@
     "product_symbol": "P-BTC-78200-230426",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-23T07:07:04.339724Z"
+    "updated_at": "2026-04-23T07:07:30.899599Z"
   }
 ]
