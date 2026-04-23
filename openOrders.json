@@ -144,7 +144,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-23T09:02:45.631Z"
+      "user_updated_at": "2026-04-23T09:03:16.835Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -194,13 +194,13 @@
     "bracket_take_profit_price": null,
     "size": 1000,
     "stop_trigger_method": null,
-    "limit_price": 409.8,
+    "limit_price": "409.8",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "P-BTC-77800-230426",
     "side": "sell",
-    "updated_at": "2026-04-23T09:02:45.631883Z"
+    "updated_at": "2026-04-23T09:03:16.836014Z"
   },
   {
     "trail_amount": null,
@@ -484,7 +484,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-23T09:02:45.073Z"
+      "user_updated_at": "2026-04-23T09:03:18.208Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -534,12 +534,12 @@
     "bracket_take_profit_price": null,
     "size": 1000,
     "stop_trigger_method": null,
-    "limit_price": 1198,
+    "limit_price": "1198",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "P-BTC-78200-230426",
     "side": "sell",
-    "updated_at": "2026-04-23T09:02:45.073731Z"
+    "updated_at": "2026-04-23T09:03:18.211497Z"
   }
 ]
