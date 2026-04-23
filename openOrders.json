@@ -136,7 +136,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "799",
+    "limit_price": 999,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -204,7 +204,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "1132",
+    "limit_price": 1299,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -253,7 +253,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-23T09:08:25.196Z"
+      "user_updated_at": "2026-04-23T09:09:23.961Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -268,7 +268,7 @@
     "product_symbol": "P-BTC-78000-230426",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-23T09:08:25.196541Z"
+    "updated_at": "2026-04-23T09:09:23.961992Z"
   },
   {
     "margin_mode": "portfolio",
@@ -476,7 +476,7 @@
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": "1198",
+    "limit_price": 1279,
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -525,7 +525,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-23T09:03:18.208Z"
+      "user_updated_at": "2026-04-23T09:09:23.794Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -540,6 +540,6 @@
     "product_symbol": "P-BTC-78200-230426",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-23T09:03:18.211497Z"
+    "updated_at": "2026-04-23T09:09:23.795166Z"
   }
 ]
