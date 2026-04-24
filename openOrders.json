@@ -8,7 +8,7 @@
     "reduce_only": false,
     "state": "open",
     "id": 1289213099,
-    "unfilled_size": 2497,
+    "unfilled_size": 1656,
     "time_in_force": "gtc",
     "bracket_order": null,
     "user_id": 21672861,
@@ -44,9 +44,9 @@
         "symbol": "BTC"
       }
     },
-    "paid_commission": "0.00415478",
+    "paid_commission": "0.01110144",
     "meta_data": {
-      "cashflow": "0.1006",
+      "cashflow": "0.2688",
       "ip": "2409:40e4:111a:93d3:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -66,7 +66,7 @@
     "product_symbol": "C-BTC-78500-240426",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-04-24T11:48:31.866083Z"
+    "updated_at": "2026-04-24T11:49:26.214926Z"
   },
   {
     "margin_mode": "portfolio",
