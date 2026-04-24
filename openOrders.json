@@ -246,8 +246,8 @@
     "client_order_id": null,
     "unfilled_size": 1000,
     "cancellation_reason": null,
-    "limit_price": 357,
-    "updated_at": "2026-04-24T09:36:16.327896Z",
+    "limit_price": "357",
+    "updated_at": "2026-04-24T09:36:51.016857Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -261,7 +261,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-24T09:36:16.327Z"
+      "user_updated_at": "2026-04-24T09:36:51.016Z"
     },
     "product_symbol": "P-BTC-77500-240426",
     "reduce_only": false,
@@ -586,8 +586,8 @@
     "client_order_id": null,
     "unfilled_size": 1000,
     "cancellation_reason": null,
-    "limit_price": "579",
-    "updated_at": "2026-04-24T09:36:16.493208Z",
+    "limit_price": "624",
+    "updated_at": "2026-04-24T09:36:52.224899Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -601,7 +601,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-24T09:36:16.492Z"
+      "user_updated_at": "2026-04-24T09:36:52.224Z"
     },
     "product_symbol": "P-BTC-77800-240426",
     "reduce_only": false,
