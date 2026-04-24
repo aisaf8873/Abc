@@ -5,7 +5,7 @@
     "user_id": 21672861,
     "quote_size": null,
     "meta_data": {
-      "cashflow": "0.3088",
+      "cashflow": "0.3288",
       "ip": "2409:40e4:111a:93d3:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -24,8 +24,8 @@
     "order_type": "limit_order",
     "average_fill_price": "0.2",
     "bracket_order": null,
-    "paid_commission": "0.01275344",
-    "unfilled_size": 1456,
+    "paid_commission": "0.01357944",
+    "unfilled_size": 1356,
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "call_options",
@@ -66,7 +66,7 @@
     "mmp": "disabled",
     "product_symbol": "C-BTC-78500-240426",
     "side": "sell",
-    "updated_at": "2026-04-24T11:50:01.566112Z"
+    "updated_at": "2026-04-24T11:51:17.263297Z"
   },
   {
     "trail_amount": null,
