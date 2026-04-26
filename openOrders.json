@@ -391,7 +391,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-04-26T06:57:52.850Z"
+      "user_updated_at": "2026-04-26T06:58:11.736Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -441,13 +441,13 @@
     "bracket_take_profit_price": null,
     "size": 1000,
     "stop_trigger_method": null,
-    "limit_price": "83",
+    "limit_price": "79",
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "P-BTC-77400-260426",
     "side": "sell",
-    "updated_at": "2026-04-26T06:57:52.851212Z"
+    "updated_at": "2026-04-26T06:58:11.737212Z"
   },
   {
     "trail_amount": null,
@@ -509,7 +509,7 @@
     "bracket_take_profit_price": null,
     "size": 1000,
     "stop_trigger_method": null,
-    "limit_price": "299",
+    "limit_price": 198.5,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
