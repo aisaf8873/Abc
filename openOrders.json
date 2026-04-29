@@ -46,8 +46,8 @@
     "client_order_id": null,
     "unfilled_size": 3000,
     "cancellation_reason": null,
-    "limit_price": "17",
-    "updated_at": "2026-04-29T18:08:10.234417Z",
+    "limit_price": "14",
+    "updated_at": "2026-04-29T18:09:24.854189Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -60,7 +60,8 @@
       "ip": "2409:40e4:131e:3a17:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-04-29T18:09:24.853Z"
     },
     "product_symbol": "P-ETH-2200-300426",
     "reduce_only": false,
