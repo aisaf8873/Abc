@@ -50,7 +50,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-01T21:01:28.639Z"
+      "user_updated_at": "2026-05-01T21:01:36.649Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -65,11 +65,11 @@
     "product_symbol": "P-ETH-2260-020526",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-01T21:01:28.639628Z"
+    "updated_at": "2026-05-01T21:01:36.650180Z"
   },
   {
     "margin_mode": "portfolio",
-    "limit_price": 17.03,
+    "limit_price": "17.03",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -118,7 +118,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-01T21:01:12.024Z"
+      "user_updated_at": "2026-05-01T21:01:39.616Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -133,7 +133,7 @@
     "product_symbol": "P-ETH-2280-020526",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-01T21:01:12.025155Z"
+    "updated_at": "2026-05-01T21:01:39.616971Z"
   },
   {
     "margin_mode": "portfolio",
