@@ -2,7 +2,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "260",
+    "limit_price": "249",
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -23,7 +23,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 132844,
-    "updated_at": "2026-05-02T06:14:38.101721Z",
+    "updated_at": "2026-05-02T06:14:52.795923Z",
     "time_in_force": "gtc",
     "size": 1000,
     "stop_order_type": null,
@@ -61,7 +61,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-02T06:14:38.101Z"
+      "user_updated_at": "2026-05-02T06:14:52.795Z"
     },
     "created_at": "2026-05-02T05:32:23.595961Z",
     "product_symbol": "C-BTC-78200-020526",
@@ -70,7 +70,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "120",
+    "limit_price": 123,
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -91,7 +91,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 132835,
-    "updated_at": "2026-05-02T06:14:04.054466Z",
+    "updated_at": "2026-05-02T06:14:54.512970Z",
     "time_in_force": "gtc",
     "size": 1000,
     "stop_order_type": null,
@@ -131,7 +131,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-02T06:14:04.053Z"
+      "user_updated_at": "2026-05-02T06:14:54.512Z"
     },
     "created_at": "2026-05-02T05:26:04.418466Z",
     "product_symbol": "P-BTC-78000-020526",
@@ -208,7 +208,7 @@
   {
     "trail_amount": null,
     "margin_mode": "portfolio",
-    "limit_price": "70",
+    "limit_price": 74,
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
@@ -229,7 +229,7 @@
     "order_type": "limit_order",
     "stop_price": null,
     "product_id": 132836,
-    "updated_at": "2026-05-02T06:13:56.962860Z",
+    "updated_at": "2026-05-02T06:14:52.724507Z",
     "time_in_force": "gtc",
     "size": 1000,
     "stop_order_type": null,
@@ -267,7 +267,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-02T06:13:56.943Z"
+      "user_updated_at": "2026-05-02T06:14:52.724Z"
     },
     "created_at": "2026-05-02T05:23:15.828532Z",
     "product_symbol": "P-BTC-77800-020526",
