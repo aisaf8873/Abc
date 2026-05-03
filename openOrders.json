@@ -344,7 +344,7 @@
     "bracket_order": null
   },
   {
-    "limit_price": "285",
+    "limit_price": 269,
     "user_id": 21672861,
     "stop_trigger_method": null,
     "average_fill_price": "264.9",
@@ -375,14 +375,14 @@
       "pnl": "5.13224545",
       "roe": "82.00499680432287959560158624",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-03T05:46:09.868Z"
+      "user_updated_at": "2026-05-03T05:49:31.062Z"
     },
     "trail_amount": null,
     "cancellation_reason": null,
     "margin_mode": "portfolio",
     "mmp": "disabled",
     "quote_size": null,
-    "updated_at": "2026-05-03T05:46:09.869054Z",
+    "updated_at": "2026-05-03T05:49:31.062584Z",
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "product_id": 133037,
