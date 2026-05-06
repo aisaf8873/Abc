@@ -46,7 +46,7 @@
     "client_order_id": null,
     "unfilled_size": 1000,
     "cancellation_reason": null,
-    "limit_price": "56",
+    "limit_price": 56,
     "updated_at": "2026-05-06T10:54:12.288758Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
@@ -115,7 +115,7 @@
     "unfilled_size": 1000,
     "cancellation_reason": null,
     "limit_price": 296,
-    "updated_at": "2026-05-06T10:54:41.109949Z",
+    "updated_at": "2026-05-06T10:55:15.356492Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -129,7 +129,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-06T10:54:41.109Z"
+      "user_updated_at": "2026-05-06T10:55:15.342Z"
     },
     "product_symbol": "C-BTC-82200-060526",
     "reduce_only": false,
@@ -251,7 +251,7 @@
     "unfilled_size": 1000,
     "cancellation_reason": null,
     "limit_price": 149,
-    "updated_at": "2026-05-06T10:54:55.144805Z",
+    "updated_at": "2026-05-06T10:55:03.168112Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -265,7 +265,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-06T10:54:55.144Z"
+      "user_updated_at": "2026-05-06T10:55:03.167Z"
     },
     "product_symbol": "C-BTC-82400-060526",
     "reduce_only": false,
