@@ -1,7 +1,7 @@
 [
   {
     "margin_mode": "portfolio",
-    "limit_price": "190",
+    "limit_price": "170",
     "bracket_stop_loss_price": null,
     "stop_trigger_method": null,
     "cancellation_reason": null,
@@ -49,7 +49,8 @@
       "ip": "2409:40e4:105a:3551:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-05-06T09:34:21.253Z"
     },
     "client_order_id": null,
     "trail_amount": null,
@@ -64,6 +65,6 @@
     "product_symbol": "C-BTC-82200-060526",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-06T09:34:10.662543Z"
+    "updated_at": "2026-05-06T09:34:21.253834Z"
   }
 ]
