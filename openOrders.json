@@ -8,27 +8,53 @@
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
     "stop_order_type": null,
-    "updated_at": "2026-05-07T10:30:48.483538Z",
-    "average_fill_price": null,
+    "updated_at": "2026-05-07T10:31:16.806359Z",
+    "average_fill_price": "165",
     "state": "open",
     "user_id": 21672861,
     "id": 1306447836,
     "bracket_trail_amount": null,
-    "unfilled_size": 699,
+    "unfilled_size": 299,
     "meta_data": {
+      "avg_exit_price": "165",
+      "cashflow": "-66",
+      "entry_price": "297.8161580882352941176470588",
+      "exit_price_with_size": [
+        {
+          "price": "160.00000000",
+          "size": "-200"
+        },
+        {
+          "price": "170.00000000",
+          "size": "-200"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-59.56323161764705882352941176",
+          "pnl": "27.56323161"
+        },
+        {
+          "margin": "-59.56323161764705882352941176",
+          "pnl": "25.56323161"
+        }
+      ],
       "ip": "2409:40e5:1c:a401:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "pnl": "53.12646322",
+      "roe": "-44.59669310845450389196503297",
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-05-07T10:31:10.980Z"
     },
     "cancellation_reason": null,
     "order_type": "limit_order",
-    "limit_price": "150",
+    "limit_price": "160",
     "time_in_force": "gtc",
     "stop_price": null,
     "product_id": 133480,
     "commission": "0",
     "size": 699,
-    "paid_commission": "0",
+    "paid_commission": "2.7258",
     "reduce_only": true,
     "quote_size": null,
     "bracket_order": null,
@@ -418,7 +444,7 @@
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
     "stop_order_type": null,
-    "updated_at": "2026-05-07T10:29:16.334850Z",
+    "updated_at": "2026-05-07T10:31:18.945070Z",
     "average_fill_price": null,
     "state": "open",
     "user_id": 21672861,
@@ -430,7 +456,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-07T10:29:16.334Z"
+      "user_updated_at": "2026-05-07T10:31:18.944Z"
     },
     "cancellation_reason": null,
     "order_type": "limit_order",
