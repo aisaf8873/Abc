@@ -9,7 +9,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-09T22:09:21.776Z"
+      "user_updated_at": "2026-05-09T22:10:31.666Z"
     },
     "state": "open",
     "reduce_only": false,
@@ -59,13 +59,13 @@
     "bracket_take_profit_price": null,
     "size": 1000,
     "stop_trigger_method": null,
-    "limit_price": "191",
+    "limit_price": 183,
     "bracket_stop_loss_price": null,
     "stop_price": null,
     "mmp": "disabled",
     "product_symbol": "P-BTC-80200-100526",
     "side": "sell",
-    "updated_at": "2026-05-09T22:09:21.777072Z"
+    "updated_at": "2026-05-09T22:10:31.667105Z"
   },
   {
     "trail_amount": null,
