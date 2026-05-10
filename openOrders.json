@@ -8,7 +8,7 @@
     "reduce_only": false,
     "state": "open",
     "id": 1310461615,
-    "unfilled_size": 11395,
+    "unfilled_size": 10648,
     "time_in_force": "gtc",
     "bracket_order": null,
     "user_id": 21672861,
@@ -44,9 +44,9 @@
         "symbol": "ETH"
       }
     },
-    "paid_commission": "0.00379134",
+    "paid_commission": "0.00687645",
     "meta_data": {
-      "cashflow": "0.0918",
+      "cashflow": "0.1665",
       "ip": "2409:40e4:68:9178:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -66,7 +66,7 @@
     "product_symbol": "P-ETH-2260-100526",
     "bracket_stop_loss_limit_price": null,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-10T11:47:48.516200Z"
+    "updated_at": "2026-05-10T11:48:08.574983Z"
   },
   {
     "margin_mode": "portfolio",
