@@ -5,9 +5,11 @@
     "user_id": 21672861,
     "quote_size": null,
     "meta_data": {
+      "cashflow": "0.0905",
       "ip": "2409:40e4:68:9178:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android"
     },
     "state": "open",
@@ -20,10 +22,10 @@
     "client_order_id": null,
     "cancellation_reason": null,
     "order_type": "limit_order",
-    "average_fill_price": null,
+    "average_fill_price": "0.01",
     "bracket_order": null,
-    "paid_commission": "0",
-    "unfilled_size": 12313,
+    "paid_commission": "0.00373765",
+    "unfilled_size": 11408,
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -64,7 +66,7 @@
     "mmp": "disabled",
     "product_symbol": "P-ETH-2260-100526",
     "side": "sell",
-    "updated_at": "2026-05-10T11:46:21.351229Z"
+    "updated_at": "2026-05-10T11:47:24.368504Z"
   },
   {
     "trail_amount": null,
