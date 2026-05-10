@@ -182,8 +182,8 @@
     "client_order_id": null,
     "unfilled_size": 1000,
     "cancellation_reason": null,
-    "limit_price": 288,
-    "updated_at": "2026-05-10T02:44:54.553555Z",
+    "limit_price": "339",
+    "updated_at": "2026-05-10T02:45:12.659054Z",
     "bracket_stop_loss_limit_price": null,
     "time_in_force": "gtc",
     "quote_size": null,
@@ -197,7 +197,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-10T02:44:54.553Z"
+      "user_updated_at": "2026-05-10T02:45:12.658Z"
     },
     "product_symbol": "P-BTC-80600-100526",
     "reduce_only": false,
