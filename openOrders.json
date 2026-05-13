@@ -474,7 +474,7 @@
     "user_id": 21672861,
     "quote_size": null,
     "meta_data": {
-      "cashflow": "0.0213",
+      "cashflow": "0.0572",
       "ip": "2409:40e4:48:8c2b:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -493,8 +493,8 @@
     "order_type": "limit_order",
     "average_fill_price": "0.01",
     "bracket_order": null,
-    "paid_commission": "0.00087969",
-    "unfilled_size": 1388,
+    "paid_commission": "0.00236236",
+    "unfilled_size": 1029,
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "put_options",
@@ -535,7 +535,7 @@
     "mmp": "disabled",
     "product_symbol": "P-ETH-2220-130526",
     "side": "sell",
-    "updated_at": "2026-05-13T11:57:55.905849Z"
+    "updated_at": "2026-05-13T11:58:15.827690Z"
   },
   {
     "trail_amount": null,
@@ -610,7 +610,7 @@
     "user_id": 21672861,
     "quote_size": null,
     "meta_data": {
-      "cashflow": "0.1018",
+      "cashflow": "0.1377",
       "ip": "2409:40e4:48:8c2b:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -629,8 +629,8 @@
     "order_type": "limit_order",
     "average_fill_price": "0.01",
     "bracket_order": null,
-    "paid_commission": "0.00420434",
-    "unfilled_size": 12910,
+    "paid_commission": "0.00568701",
+    "unfilled_size": 12551,
     "bracket_stop_loss_limit_price": null,
     "product": {
       "contract_type": "call_options",
@@ -671,6 +671,6 @@
     "mmp": "disabled",
     "product_symbol": "C-ETH-2400-130526",
     "side": "sell",
-    "updated_at": "2026-05-13T11:57:56.054757Z"
+    "updated_at": "2026-05-13T11:58:16.054927Z"
   }
 ]
