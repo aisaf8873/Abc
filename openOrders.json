@@ -1,13 +1,19 @@
 [
   {
-    "limit_price": "13.4",
-    "user_id": 21672861,
-    "stop_trigger_method": null,
-    "average_fill_price": "13.4",
+    "side": "sell",
+    "client_order_id": null,
+    "margin_mode": "portfolio",
     "created_at": "2026-05-22T15:26:55.637239Z",
-    "reduce_only": false,
+    "bracket_take_profit_price": null,
+    "bracket_take_profit_limit_price": null,
+    "trail_amount": null,
+    "stop_order_type": null,
+    "updated_at": "2026-05-22T15:26:55.989154Z",
+    "average_fill_price": "13.4",
     "state": "open",
+    "user_id": 21672861,
     "id": 1327267282,
+    "bracket_trail_amount": null,
     "unfilled_size": 95,
     "meta_data": {
       "cashflow": "0.67",
@@ -17,28 +23,21 @@
       "pnl": "-0",
       "source": "mobile_app_android"
     },
-    "trail_amount": null,
     "cancellation_reason": null,
-    "margin_mode": "portfolio",
-    "mmp": "disabled",
-    "quote_size": null,
-    "updated_at": "2026-05-22T15:26:55.989154Z",
-    "time_in_force": "gtc",
-    "bracket_stop_loss_price": null,
-    "product_id": 135164,
     "order_type": "limit_order",
+    "limit_price": "13.4",
+    "time_in_force": "gtc",
     "stop_price": null,
-    "bracket_stop_loss_limit_price": null,
-    "size": 100,
-    "stop_order_type": null,
-    "bracket_take_profit_price": null,
+    "product_id": 135164,
     "commission": "0",
-    "side": "sell",
-    "product_symbol": "P-ETH-2120-230526",
-    "bracket_trail_amount": null,
-    "client_order_id": null,
+    "size": 100,
     "paid_commission": "0.0124955",
-    "bracket_take_profit_limit_price": null,
+    "reduce_only": false,
+    "quote_size": null,
+    "bracket_order": null,
+    "bracket_stop_loss_limit_price": null,
+    "product_symbol": "P-ETH-2120-230526",
+    "mmp": "disabled",
     "product": {
       "contract_type": "put_options",
       "contract_unit_currency": "ETH",
@@ -66,6 +65,7 @@
         "symbol": "ETH"
       }
     },
-    "bracket_order": null
+    "bracket_stop_loss_price": null,
+    "stop_trigger_method": null
   }
 ]
