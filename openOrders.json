@@ -143,17 +143,21 @@
     "product_symbol": "C-BTC-77400-250526",
     "mmp": "disabled",
     "client_order_id": null,
-    "unfilled_size": 1946,
+    "unfilled_size": 1936,
     "bracket_take_profit_price": null,
-    "paid_commission": "1.22951186",
+    "paid_commission": "1.32109544",
     "stop_trigger_method": null,
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "meta_data": {
-      "avg_exit_price": "224.4444444444444444444444444",
-      "cashflow": "30.3",
+      "avg_exit_price": "225.172413793103448275862069",
+      "cashflow": "32.65",
       "entry_price": "132.9384089721066073358949551",
       "exit_price_with_size": [
+        {
+          "price": "235.00000000",
+          "size": "10"
+        },
         {
           "price": "235.00000000",
           "size": "40"
@@ -165,6 +169,10 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "1.329384089721066073358949551",
+          "pnl": "1.02061591"
+        },
+        {
           "margin": "5.317536358884264293435798204",
           "pnl": "4.08246364"
         },
@@ -175,14 +183,14 @@
       ],
       "ip": "2409:40e5:11ae:c148:8000::",
       "otc": false,
-      "pnl": "12.35331478",
-      "roe": "68.83340647367562504767847141",
+      "pnl": "13.37393069",
+      "roe": "69.38100543837064120152153504",
       "source": "mobile_app_android",
       "user_updated_at": "2026-05-25T09:49:19.361Z"
     },
     "size": 2081,
     "stop_order_type": null,
-    "average_fill_price": "224.444444444444444444",
+    "average_fill_price": "225.172413793103448276",
     "margin_mode": "portfolio",
     "side": "sell",
     "trail_amount": null,
@@ -190,81 +198,13 @@
     "stop_price": null,
     "reduce_only": true,
     "created_at": "2026-05-25T09:47:44.310787Z",
-    "updated_at": "2026-05-25T09:49:30.247388Z",
+    "updated_at": "2026-05-25T09:49:55.483809Z",
     "id": 1330598802,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
     "product": {
       "id": 135319,
       "symbol": "C-BTC-77400-250526",
-      "contract_type": "call_options",
-      "tick_size": "0.1",
-      "quoting_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "underlying_asset": {
-        "symbol": "BTC",
-        "precision": 8,
-        "minimum_precision": 4
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "contract_value": "0.001",
-      "notional_type": "vanilla",
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "contract_unit_currency": "BTC"
-    },
-    "bracket_trail_amount": null,
-    "state": "open",
-    "commission": "0",
-    "user_id": 21672861,
-    "bracket_order": null,
-    "bracket_stop_loss_price": null,
-    "time_in_force": "gtc"
-  },
-  {
-    "product_id": 135318,
-    "limit_price": "121",
-    "product_symbol": "C-BTC-77600-250526",
-    "mmp": "disabled",
-    "client_order_id": null,
-    "unfilled_size": 500,
-    "bracket_take_profit_price": null,
-    "paid_commission": "0",
-    "stop_trigger_method": null,
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
-    "meta_data": {
-      "ip": "2409:40e5:11ae:c148:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android",
-      "user_updated_at": "2026-05-25T09:48:34.446Z"
-    },
-    "size": 500,
-    "stop_order_type": null,
-    "average_fill_price": null,
-    "margin_mode": "portfolio",
-    "side": "sell",
-    "trail_amount": null,
-    "cancellation_reason": null,
-    "stop_price": null,
-    "reduce_only": false,
-    "created_at": "2026-05-25T09:46:11.787682Z",
-    "updated_at": "2026-05-25T09:48:34.446616Z",
-    "id": 1330597352,
-    "order_type": "limit_order",
-    "bracket_stop_loss_limit_price": null,
-    "product": {
-      "id": 135318,
-      "symbol": "C-BTC-77600-250526",
       "contract_type": "call_options",
       "tick_size": "0.1",
       "quoting_asset": {
