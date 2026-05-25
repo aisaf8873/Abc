@@ -69,10 +69,14 @@
   {
     "bracket_trail_amount": null,
     "meta_data": {
-      "avg_exit_price": "224.9192100538599640933572711",
-      "cashflow": "125.28",
+      "avg_exit_price": "224.9840989399293286219081272",
+      "cashflow": "127.341",
       "entry_price": "162.00000000",
       "exit_price_with_size": [
+        {
+          "price": "229.00000000",
+          "size": "9"
+        },
         {
           "price": "210.00000000",
           "size": "65"
@@ -92,6 +96,10 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "1.45800000000000000000000000",
+          "pnl": "0.60300000"
+        },
+        {
           "margin": "10.53000000000000000000000000",
           "pnl": "3.12000000"
         },
@@ -110,21 +118,21 @@
       ],
       "ip": "2409:40e5:11ae:c148:8000::",
       "otc": false,
-      "pnl": "35.046",
-      "roe": "38.83901855176540993417115500",
+      "pnl": "35.649",
+      "roe": "38.87907341970946211228896741",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-25T09:41:49.808Z"
+      "user_updated_at": "2026-05-25T09:42:04.642Z"
     },
     "cancellation_reason": null,
-    "limit_price": "210",
-    "paid_commission": "4.96550445",
+    "limit_price": "229",
+    "paid_commission": "5.04789813",
     "side": "sell",
-    "unfilled_size": 440,
+    "unfilled_size": 431,
     "margin_mode": "portfolio",
     "stop_trigger_method": null,
-    "updated_at": "2026-05-25T09:41:58.266137Z",
+    "updated_at": "2026-05-25T09:42:18.316099Z",
     "mmp": "disabled",
-    "average_fill_price": "224.919210053859964093",
+    "average_fill_price": "224.984098939929328622",
     "quote_size": null,
     "bracket_order": null,
     "size": 997,
