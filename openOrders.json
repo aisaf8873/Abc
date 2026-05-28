@@ -1,7 +1,7 @@
 [
   {
     "product_id": 124234,
-    "limit_price": 6.97,
+    "limit_price": 6.95,
     "product_symbol": "C-ETH-2100-290526",
     "mmp": "disabled",
     "client_order_id": null,
@@ -16,7 +16,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-28T17:07:25.012Z"
+      "user_updated_at": "2026-05-28T17:12:32.636Z"
     },
     "size": 3000,
     "stop_order_type": null,
@@ -28,7 +28,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-05-28T16:32:23.144290Z",
-    "updated_at": "2026-05-28T17:07:25.012579Z",
+    "updated_at": "2026-05-28T17:12:32.637060Z",
     "id": 1335350175,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
