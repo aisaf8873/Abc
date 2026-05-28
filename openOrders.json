@@ -134,9 +134,9 @@
     "time_in_force": "gtc"
   },
   {
-    "paid_commission": "0.00020237",
+    "paid_commission": "0.00175938",
     "meta_data": {
-      "cashflow": "0.0049",
+      "cashflow": "0.0426",
       "ip": "2409:40e4:123f:f0a6:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -146,7 +146,7 @@
     "limit_price": "0.01",
     "product_symbol": "C-ETH-2040-280526",
     "bracket_trail_amount": null,
-    "unfilled_size": 951,
+    "unfilled_size": 574,
     "mmp": "disabled",
     "average_fill_price": "0.01",
     "stop_trigger_method": null,
@@ -198,7 +198,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "updated_at": "2026-05-28T11:56:04.785206Z",
+    "updated_at": "2026-05-28T11:56:26.006627Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   }
