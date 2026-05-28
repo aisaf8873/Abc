@@ -563,9 +563,9 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-28T14:33:15.642Z"
+      "user_updated_at": "2026-05-28T14:34:10.387Z"
     },
-    "limit_price": 6.44,
+    "limit_price": "6.44",
     "product_symbol": "P-ETH-1900-290526",
     "bracket_trail_amount": null,
     "unfilled_size": 4000,
@@ -620,7 +620,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "updated_at": "2026-05-28T14:33:15.642739Z",
+    "updated_at": "2026-05-28T14:34:10.387722Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   }
