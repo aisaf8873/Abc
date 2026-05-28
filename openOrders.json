@@ -470,17 +470,17 @@
       "contract_unit_currency": "ETH"
     },
     "product_symbol": "P-ETH-1900-290526",
-    "updated_at": "2026-05-28T13:32:03.923292Z",
+    "updated_at": "2026-05-28T13:32:15.941504Z",
     "side": "sell",
     "meta_data": {
       "ip": "2409:40e4:123f:f0a6:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-28T13:32:03.922Z"
+      "user_updated_at": "2026-05-28T13:32:15.940Z"
     },
     "mmp": "disabled",
-    "limit_price": 7.45,
+    "limit_price": "7.25",
     "id": 1334958895,
     "bracket_order": null,
     "state": "open",
@@ -538,16 +538,16 @@
       "contract_unit_currency": "ETH"
     },
     "product_symbol": "P-ETH-1900-290526",
-    "updated_at": "2026-05-28T13:32:04.617928Z",
+    "updated_at": "2026-05-28T13:32:16.699637Z",
     "side": "sell",
     "meta_data": {
       "ip": "13.203.159.91",
       "otc": false,
       "source": "api",
-      "user_updated_at": "2026-05-28T13:32:04.617Z"
+      "user_updated_at": "2026-05-28T13:32:16.699Z"
     },
     "mmp": "disabled",
-    "limit_price": 7.4,
+    "limit_price": "7.25",
     "id": 1334958030,
     "bracket_order": null,
     "state": "open",
