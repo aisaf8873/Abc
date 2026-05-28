@@ -147,7 +147,7 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": "14.95",
+    "limit_price": 9.95,
     "bracket_trail_amount": null,
     "updated_at": "2026-05-28T18:03:40.468235Z",
     "product": {
@@ -419,9 +419,9 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": 5.95,
+    "limit_price": "5.95",
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-28T17:55:05.354706Z",
+    "updated_at": "2026-05-28T18:03:47.733922Z",
     "product": {
       "id": 136074,
       "symbol": "P-ETH-1880-290526",
@@ -463,7 +463,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-28T17:55:05.354Z"
+      "user_updated_at": "2026-05-28T18:03:47.733Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
