@@ -5,16 +5,16 @@
     "product_symbol": "C-ETH-2080-290526",
     "user_id": 21672861,
     "commission": "0",
-    "unfilled_size": 430,
+    "unfilled_size": 32,
     "bracket_take_profit_limit_price": null,
     "time_in_force": "gtc",
     "stop_price": null,
     "quote_size": null,
-    "paid_commission": "0.0720685",
+    "paid_commission": "0.4008165",
     "stop_trigger_method": null,
-    "limit_price": "2",
+    "limit_price": "2.7",
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-28T17:33:41.331147Z",
+    "updated_at": "2026-05-28T17:34:21.152281Z",
     "product": {
       "id": 135833,
       "symbol": "C-ETH-2080-290526",
@@ -52,10 +52,18 @@
     "bracket_stop_loss_price": null,
     "id": 1335443926,
     "meta_data": {
-      "avg_exit_price": "2.492857142857142857142857143",
-      "cashflow": "1.745",
+      "avg_exit_price": "2.073717948717948717948717949",
+      "cashflow": "9.705",
       "entry_price": "1.373896434634974533106960951",
       "exit_price_with_size": [
+        {
+          "price": "2.00000000",
+          "size": "272"
+        },
+        {
+          "price": "2.00000000",
+          "size": "126"
+        },
         {
           "price": "2.00000000",
           "size": "1"
@@ -66,6 +74,14 @@
         }
       ],
       "fills_pnl_with_margin": [
+        {
+          "margin": "3.736998302207130730050933787",
+          "pnl": "1.70300169"
+        },
+        {
+          "margin": "1.731109507640067911714770798",
+          "pnl": "0.78889049"
+        },
         {
           "margin": "0.01373896434634974533106960951",
           "pnl": "0.00626103"
@@ -78,14 +94,14 @@
       "ip": "2409:40e4:123f:f0a6:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "0.78327249",
-      "roe": "81.44432664586487070962958385",
+      "pnl": "3.27516467",
+      "roe": "50.93699154039173811177889153",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-28T17:33:30.528Z"
+      "user_updated_at": "2026-05-28T17:34:21.151Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
-    "average_fill_price": "2.492857142857142857",
+    "average_fill_price": "2.073717948717948718",
     "bracket_stop_loss_limit_price": null,
     "mmp": "disabled",
     "state": "open",
