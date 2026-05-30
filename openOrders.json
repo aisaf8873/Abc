@@ -8,7 +8,7 @@
       "source": "mobile_app_android",
       "user_updated_at": "2026-05-30T06:12:13.469Z"
     },
-    "limit_price": "184",
+    "limit_price": 182,
     "product_symbol": "P-BTC-73400-300526",
     "bracket_trail_amount": null,
     "unfilled_size": 1000,
@@ -76,7 +76,7 @@
       "source": "mobile_app_android",
       "user_updated_at": "2026-05-30T06:12:30.475Z"
     },
-    "limit_price": "99",
+    "limit_price": 104,
     "product_symbol": "C-BTC-73800-300526",
     "bracket_trail_amount": null,
     "unfilled_size": 1000,
@@ -350,9 +350,9 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T06:11:27.540Z"
+      "user_updated_at": "2026-05-30T06:12:47.597Z"
     },
-    "limit_price": 59,
+    "limit_price": "59",
     "product_symbol": "P-BTC-73000-300526",
     "bracket_trail_amount": null,
     "unfilled_size": 1000,
@@ -407,7 +407,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "updated_at": "2026-05-30T06:11:27.541332Z",
+    "updated_at": "2026-05-30T06:12:47.597838Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   },
