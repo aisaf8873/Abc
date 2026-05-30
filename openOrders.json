@@ -12,7 +12,7 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": "184",
+    "limit_price": 164,
     "bracket_trail_amount": null,
     "updated_at": "2026-05-30T07:07:44.051041Z",
     "product": {
@@ -216,9 +216,9 @@
     "quote_size": null,
     "paid_commission": "0.121422",
     "stop_trigger_method": null,
-    "limit_price": 80,
+    "limit_price": 85,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-30T07:08:12.772065Z",
+    "updated_at": "2026-05-30T07:08:41.322786Z",
     "product": {
       "id": 135950,
       "symbol": "P-BTC-73200-300526",
@@ -262,7 +262,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T07:08:12.771Z"
+      "user_updated_at": "2026-05-30T07:08:41.322Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
