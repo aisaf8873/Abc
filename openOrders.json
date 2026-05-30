@@ -147,9 +147,9 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": 749,
+    "limit_price": "749",
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-30T23:29:56.549993Z",
+    "updated_at": "2026-05-30T23:30:08.070875Z",
     "product": {
       "id": 136097,
       "symbol": "C-BTC-73600-310526",
@@ -191,7 +191,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T23:29:56.549Z"
+      "user_updated_at": "2026-05-30T23:30:08.070Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
@@ -368,9 +368,9 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": "264",
+    "limit_price": 264,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-30T23:29:15.224895Z",
+    "updated_at": "2026-05-30T23:30:12.850896Z",
     "product": {
       "id": 136095,
       "symbol": "C-BTC-74000-310526",
@@ -412,7 +412,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T23:29:15.224Z"
+      "user_updated_at": "2026-05-30T23:30:12.850Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
@@ -436,9 +436,9 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": 198,
+    "limit_price": "226",
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-30T23:29:53.078663Z",
+    "updated_at": "2026-05-30T23:30:11.615550Z",
     "product": {
       "id": 136087,
       "symbol": "P-BTC-73600-310526",
@@ -480,7 +480,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T23:29:53.078Z"
+      "user_updated_at": "2026-05-30T23:30:11.615Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
@@ -506,7 +506,7 @@
     "stop_trigger_method": null,
     "limit_price": 250,
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-30T23:29:53.567383Z",
+    "updated_at": "2026-05-30T23:30:14.880323Z",
     "product": {
       "id": 136096,
       "symbol": "C-BTC-73800-310526",
@@ -550,7 +550,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T23:29:53.566Z"
+      "user_updated_at": "2026-05-30T23:30:14.879Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
