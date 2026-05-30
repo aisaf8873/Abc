@@ -345,7 +345,7 @@
   },
   {
     "product_id": 136030,
-    "limit_price": "64.3",
+    "limit_price": 64,
     "product_symbol": "P-BTC-73000-300526",
     "mmp": "disabled",
     "client_order_id": null,
@@ -360,7 +360,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T06:08:30.770Z"
+      "user_updated_at": "2026-05-30T06:08:49.069Z"
     },
     "size": 1000,
     "stop_order_type": null,
@@ -372,7 +372,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-05-30T04:38:55.791315Z",
-    "updated_at": "2026-05-30T06:08:30.772747Z",
+    "updated_at": "2026-05-30T06:08:49.069754Z",
     "id": 1337299639,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
@@ -413,7 +413,7 @@
   },
   {
     "product_id": 135959,
-    "limit_price": "69",
+    "limit_price": "52",
     "product_symbol": "P-BTC-72800-300526",
     "mmp": "disabled",
     "client_order_id": null,
@@ -428,7 +428,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T06:08:14.420Z"
+      "user_updated_at": "2026-05-30T06:08:46.265Z"
     },
     "size": 1000,
     "stop_order_type": null,
@@ -440,7 +440,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-05-30T04:38:36.509599Z",
-    "updated_at": "2026-05-30T06:08:14.421332Z",
+    "updated_at": "2026-05-30T06:08:46.266047Z",
     "id": 1337299208,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
