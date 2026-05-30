@@ -425,7 +425,7 @@
   },
   {
     "product_id": 136087,
-    "limit_price": "197",
+    "limit_price": "197.3",
     "product_symbol": "P-BTC-73600-310526",
     "mmp": "disabled",
     "client_order_id": null,
@@ -440,7 +440,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T17:57:39.731Z"
+      "user_updated_at": "2026-05-30T17:58:48.678Z"
     },
     "size": 1000,
     "stop_order_type": null,
@@ -452,7 +452,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-05-30T11:41:02.485501Z",
-    "updated_at": "2026-05-30T17:57:39.731962Z",
+    "updated_at": "2026-05-30T17:58:48.679163Z",
     "id": 1337641084,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
