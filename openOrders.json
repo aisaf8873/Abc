@@ -496,12 +496,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 52,
+    "limit_price": "52",
     "margin_mode": "portfolio",
     "unfilled_size": 1000,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-05-30T14:10:54.113920Z",
+    "updated_at": "2026-05-30T14:11:30.685223Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 136090,
@@ -549,7 +549,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T14:10:54.113Z"
+      "user_updated_at": "2026-05-30T14:11:30.684Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1337639128,
