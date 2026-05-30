@@ -78,9 +78,9 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": "164",
+    "limit_price": "148",
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-30T04:54:02.152170Z",
+    "updated_at": "2026-05-30T04:54:50.508170Z",
     "product": {
       "id": 135938,
       "symbol": "C-BTC-73600-300526",
@@ -122,7 +122,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T04:54:02.151Z"
+      "user_updated_at": "2026-05-30T04:54:50.507Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
@@ -146,7 +146,7 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": "177.8",
+    "limit_price": 184,
     "bracket_trail_amount": null,
     "updated_at": "2026-05-30T04:54:33.335092Z",
     "product": {
@@ -214,7 +214,7 @@
     "quote_size": null,
     "paid_commission": "3.32465",
     "stop_trigger_method": null,
-    "limit_price": "299.4",
+    "limit_price": 294,
     "bracket_trail_amount": null,
     "updated_at": "2026-05-30T04:54:33.070663Z",
     "product": {
@@ -352,9 +352,9 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": "67",
+    "limit_price": "98",
     "bracket_trail_amount": null,
-    "updated_at": "2026-05-30T04:53:37.704811Z",
+    "updated_at": "2026-05-30T04:54:52.081769Z",
     "product": {
       "id": 135959,
       "symbol": "P-BTC-72800-300526",
@@ -396,7 +396,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-30T04:53:37.702Z"
+      "user_updated_at": "2026-05-30T04:54:52.081Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
