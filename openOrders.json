@@ -323,17 +323,17 @@
       "contract_unit_currency": "BTC"
     },
     "product_symbol": "P-BTC-74000-310526",
-    "updated_at": "2026-05-31T08:53:05.337590Z",
+    "updated_at": "2026-05-31T08:53:44.252681Z",
     "side": "sell",
     "meta_data": {
       "ip": "2409:40e5:9e:789d:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-31T08:53:05.337Z"
+      "user_updated_at": "2026-05-31T08:53:44.252Z"
     },
     "mmp": "disabled",
-    "limit_price": "319",
+    "limit_price": "298",
     "id": 1338185622,
     "bracket_order": null,
     "state": "open",
@@ -391,7 +391,7 @@
       "contract_unit_currency": "BTC"
     },
     "product_symbol": "P-BTC-73800-310526",
-    "updated_at": "2026-05-31T08:53:27.620059Z",
+    "updated_at": "2026-05-31T08:53:40.916243Z",
     "side": "sell",
     "meta_data": {
       "avg_exit_price": "98",
@@ -415,10 +415,10 @@
       "pnl": "-17.444",
       "roe": "-67.93893129770992366412213740",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-31T08:53:27.619Z"
+      "user_updated_at": "2026-05-31T08:53:40.915Z"
     },
     "mmp": "disabled",
-    "limit_price": 147,
+    "limit_price": "147",
     "id": 1338185489,
     "bracket_order": null,
     "state": "open",
@@ -476,7 +476,7 @@
       "contract_unit_currency": "BTC"
     },
     "product_symbol": "P-BTC-73600-310526",
-    "updated_at": "2026-05-31T08:53:04.390217Z",
+    "updated_at": "2026-05-31T08:53:42.731027Z",
     "side": "sell",
     "meta_data": {
       "cashflow": "7.98",
@@ -485,10 +485,10 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-31T08:53:04.389Z"
+      "user_updated_at": "2026-05-31T08:53:42.730Z"
     },
     "mmp": "disabled",
-    "limit_price": "67",
+    "limit_price": "64",
     "id": 1338185208,
     "bracket_order": null,
     "state": "open",
