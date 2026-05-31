@@ -275,7 +275,7 @@
   },
   {
     "commission": "0",
-    "limit_price": 287,
+    "limit_price": "287",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -288,7 +288,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-31T08:32:54.371Z"
+      "user_updated_at": "2026-05-31T08:35:11.514Z"
     },
     "product_symbol": "P-BTC-74000-310526",
     "product_id": 136085,
@@ -336,14 +336,14 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-05-31T08:32:54.372211Z",
+    "updated_at": "2026-05-31T08:35:11.514526Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
     "commission": "0",
-    "limit_price": 133,
+    "limit_price": "133",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -373,7 +373,7 @@
       "pnl": "-17.444",
       "roe": "-67.93893129770992366412213740",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-31T08:34:39.022Z"
+      "user_updated_at": "2026-05-31T08:35:04.507Z"
     },
     "product_symbol": "P-BTC-73800-310526",
     "product_id": 136086,
@@ -421,14 +421,14 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-05-31T08:34:39.023330Z",
+    "updated_at": "2026-05-31T08:35:04.508250Z",
     "average_fill_price": "98",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
     "commission": "0",
-    "limit_price": 67,
+    "limit_price": "64",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -443,7 +443,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-31T08:34:46.506Z"
+      "user_updated_at": "2026-05-31T08:35:20.960Z"
     },
     "product_symbol": "P-BTC-73600-310526",
     "product_id": 136087,
@@ -491,7 +491,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-05-31T08:34:46.507289Z",
+    "updated_at": "2026-05-31T08:35:20.961008Z",
     "average_fill_price": "84",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
