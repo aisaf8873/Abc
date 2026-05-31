@@ -5,20 +5,45 @@
     "product_symbol": "P-BTC-73800-310526",
     "mmp": "disabled",
     "client_order_id": null,
-    "unfilled_size": 550,
+    "unfilled_size": 340,
     "bracket_take_profit_price": null,
-    "paid_commission": "0",
+    "paid_commission": "0.4457922",
     "stop_trigger_method": null,
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "meta_data": {
+      "avg_exit_price": "51.4",
+      "cashflow": "-10.794",
+      "entry_price": "93.50000000",
+      "exit_price_with_size": [
+        {
+          "price": "51.40000000",
+          "size": "-27"
+        },
+        {
+          "price": "51.40000000",
+          "size": "-183"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-2.52450000000000000000000000",
+          "pnl": "1.13670000"
+        },
+        {
+          "margin": "-17.11050000000000000000000000",
+          "pnl": "7.70430000"
+        }
+      ],
       "ip": "2409:40e5:9e:789d:8000::",
       "otc": false,
+      "pnl": "8.841",
+      "roe": "-45.02673796791443850267379679",
       "source": "mobile_app_android"
     },
     "size": 550,
     "stop_order_type": null,
-    "average_fill_price": null,
+    "average_fill_price": "51.4",
     "margin_mode": "portfolio",
     "side": "buy",
     "trail_amount": null,
@@ -26,7 +51,7 @@
     "stop_price": null,
     "reduce_only": true,
     "created_at": "2026-05-31T10:14:02.730006Z",
-    "updated_at": "2026-05-31T10:14:02.730006Z",
+    "updated_at": "2026-05-31T10:15:10.641371Z",
     "id": 1338613099,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
@@ -341,7 +366,7 @@
   },
   {
     "product_id": 136085,
-    "limit_price": "298",
+    "limit_price": "309",
     "product_symbol": "P-BTC-74000-310526",
     "mmp": "disabled",
     "client_order_id": null,
@@ -356,7 +381,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-31T10:14:25.813Z"
+      "user_updated_at": "2026-05-31T10:15:03.653Z"
     },
     "size": 1000,
     "stop_order_type": null,
@@ -368,7 +393,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-05-31T01:21:21.230267Z",
-    "updated_at": "2026-05-31T10:14:25.813999Z",
+    "updated_at": "2026-05-31T10:15:03.653794Z",
     "id": 1338185622,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
