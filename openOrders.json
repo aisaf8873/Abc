@@ -1,137 +1,6 @@
 [
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": "51.4",
-    "margin_mode": "portfolio",
-    "unfilled_size": 119,
-    "mmp": "disabled",
-    "time_in_force": "gtc",
-    "updated_at": "2026-05-31T10:34:17.097394Z",
-    "bracket_trail_amount": null,
-    "stop_trigger_method": null,
-    "product_id": 136086,
-    "product_symbol": "P-BTC-73800-310526",
-    "quote_size": null,
-    "size": 550,
-    "cancellation_reason": null,
-    "stop_order_type": null,
-    "side": "buy",
-    "user_id": 21672861,
-    "stop_price": null,
-    "product": {
-      "id": 136086,
-      "symbol": "P-BTC-73800-310526",
-      "contract_type": "put_options",
-      "tick_size": "0.1",
-      "quoting_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "underlying_asset": {
-        "symbol": "BTC",
-        "precision": 8,
-        "minimum_precision": 4
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "contract_value": "0.001",
-      "notional_type": "vanilla",
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "contract_unit_currency": "BTC"
-    },
-    "reduce_only": true,
-    "created_at": "2026-05-31T10:14:02.730006Z",
-    "commission": "0",
-    "bracket_stop_loss_price": null,
-    "meta_data": {
-      "avg_exit_price": "51.4",
-      "cashflow": "-22.1534",
-      "entry_price": "93.50000000",
-      "exit_price_with_size": [
-        {
-          "price": "51.40000000",
-          "size": "-130"
-        },
-        {
-          "price": "51.40000000",
-          "size": "-26"
-        },
-        {
-          "price": "51.40000000",
-          "size": "-30"
-        },
-        {
-          "price": "51.40000000",
-          "size": "-20"
-        },
-        {
-          "price": "51.40000000",
-          "size": "-15"
-        },
-        {
-          "price": "51.40000000",
-          "size": "-27"
-        },
-        {
-          "price": "51.40000000",
-          "size": "-183"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-12.15500000000000000000000000",
-          "pnl": "5.47300000"
-        },
-        {
-          "margin": "-2.43100000000000000000000000",
-          "pnl": "1.09460000"
-        },
-        {
-          "margin": "-2.80500000000000000000000000",
-          "pnl": "1.26300000"
-        },
-        {
-          "margin": "-1.87000000000000000000000000",
-          "pnl": "0.84200000"
-        },
-        {
-          "margin": "-1.40250000000000000000000000",
-          "pnl": "0.63150000"
-        },
-        {
-          "margin": "-2.52450000000000000000000000",
-          "pnl": "1.13670000"
-        },
-        {
-          "margin": "-17.11050000000000000000000000",
-          "pnl": "7.70430000"
-        }
-      ],
-      "ip": "2409:40e5:9e:789d:8000::",
-      "otc": false,
-      "pnl": "18.1451",
-      "roe": "-45.02673796791443850267379679",
-      "source": "mobile_app_android"
-    },
-    "bracket_stop_loss_limit_price": null,
-    "id": 1338613099,
-    "order_type": "limit_order",
-    "client_order_id": null,
-    "state": "open",
-    "trail_amount": null,
-    "average_fill_price": "51.4",
-    "paid_commission": "0.91493542",
-    "bracket_take_profit_price": null,
-    "bracket_order": null
-  },
-  {
-    "bracket_take_profit_limit_price": null,
     "limit_price": "53",
     "margin_mode": "portfolio",
     "unfilled_size": 1000,
@@ -406,12 +275,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 332,
+    "limit_price": "332",
     "margin_mode": "portfolio",
     "unfilled_size": 1000,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-05-31T10:33:46.938762Z",
+    "updated_at": "2026-05-31T10:34:23.290801Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 136085,
@@ -459,7 +328,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-05-31T10:33:46.938Z"
+      "user_updated_at": "2026-05-31T10:34:23.290Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1338185622,
