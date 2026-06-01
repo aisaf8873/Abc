@@ -205,7 +205,7 @@
   },
   {
     "commission": "0",
-    "limit_price": 298,
+    "limit_price": 291,
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -218,7 +218,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-01T10:12:03.630Z"
+      "user_updated_at": "2026-06-01T10:13:48.332Z"
     },
     "product_symbol": "P-BTC-72800-010626",
     "product_id": 136192,
@@ -266,7 +266,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-01T10:12:03.630599Z",
+    "updated_at": "2026-06-01T10:13:48.332583Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
