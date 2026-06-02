@@ -3,10 +3,10 @@
     "bracket_take_profit_limit_price": null,
     "limit_price": "0.01",
     "margin_mode": "portfolio",
-    "unfilled_size": 4839,
+    "unfilled_size": 2849,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-02T11:55:09.303106Z",
+    "updated_at": "2026-06-02T11:55:29.589593Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 136513,
@@ -51,7 +51,7 @@
     "bracket_stop_loss_price": null,
     "meta_data": {
       "avg_exit_price": "0.01",
-      "cashflow": "0.4031",
+      "cashflow": "0.6021",
       "entry_price": "0.01000000",
       "exit_price_with_size": [
         {
@@ -79,7 +79,7 @@
     "state": "open",
     "trail_amount": null,
     "average_fill_price": "0.01",
-    "paid_commission": "0.01664803",
+    "paid_commission": "0.02486673",
     "bracket_take_profit_price": null,
     "bracket_order": null
   },
