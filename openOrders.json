@@ -12,9 +12,9 @@
     "quote_size": null,
     "paid_commission": "0.83663475",
     "stop_trigger_method": null,
-    "limit_price": 3.95,
+    "limit_price": "3.65",
     "bracket_trail_amount": null,
-    "updated_at": "2026-06-06T01:58:39.667242Z",
+    "updated_at": "2026-06-06T01:59:17.304608Z",
     "product": {
       "id": 137610,
       "symbol": "P-ETH-1520-060626",
@@ -58,7 +58,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-06T01:58:39.666Z"
+      "user_updated_at": "2026-06-06T01:59:17.304Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
@@ -82,7 +82,7 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": "6.95",
+    "limit_price": 6.35,
     "bracket_trail_amount": null,
     "updated_at": "2026-06-06T01:58:33.227413Z",
     "product": {
