@@ -71,7 +71,7 @@
   },
   {
     "commission": "0",
-    "limit_price": "52",
+    "limit_price": 60,
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -208,7 +208,7 @@
   },
   {
     "commission": "0",
-    "limit_price": "249",
+    "limit_price": 199,
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -223,7 +223,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T10:33:42.421Z"
+      "user_updated_at": "2026-06-07T10:34:03.497Z"
     },
     "product_symbol": "P-BTC-62400-070626",
     "product_id": 137371,
@@ -271,7 +271,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-07T10:33:42.421971Z",
+    "updated_at": "2026-06-07T10:34:03.498377Z",
     "average_fill_price": "177",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
@@ -482,7 +482,7 @@
   },
   {
     "commission": "0",
-    "limit_price": 17.65,
+    "limit_price": 20.45,
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -497,7 +497,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T10:33:43.941Z"
+      "user_updated_at": "2026-06-07T10:34:03.866Z"
     },
     "product_symbol": "C-ETH-1620-070626",
     "product_id": 137461,
@@ -545,7 +545,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-07T10:33:43.941712Z",
+    "updated_at": "2026-06-07T10:34:03.867425Z",
     "average_fill_price": "9.7",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
@@ -823,7 +823,7 @@
   },
   {
     "commission": "0",
-    "limit_price": 25.75,
+    "limit_price": 29.95,
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -836,7 +836,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T10:33:43.115Z"
+      "user_updated_at": "2026-06-07T10:34:02.787Z"
     },
     "product_symbol": "C-ETH-1620-070626",
     "product_id": 137461,
@@ -884,7 +884,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-07T10:33:43.116256Z",
+    "updated_at": "2026-06-07T10:34:02.788170Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
