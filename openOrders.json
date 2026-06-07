@@ -6,9 +6,9 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T08:07:01.650Z"
+      "user_updated_at": "2026-06-07T08:07:23.934Z"
     },
-    "limit_price": 52,
+    "limit_price": 58,
     "product_symbol": "C-BTC-62800-070626",
     "bracket_trail_amount": null,
     "unfilled_size": 1000,
@@ -63,7 +63,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "updated_at": "2026-06-07T08:07:01.650363Z",
+    "updated_at": "2026-06-07T08:07:23.934637Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   },
@@ -76,9 +76,9 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T08:07:01.228Z"
+      "user_updated_at": "2026-06-07T08:07:17.482Z"
     },
-    "limit_price": "228",
+    "limit_price": "189",
     "product_symbol": "P-BTC-62000-070626",
     "bracket_trail_amount": null,
     "unfilled_size": 597,
@@ -133,7 +133,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "updated_at": "2026-06-07T08:07:01.228957Z",
+    "updated_at": "2026-06-07T08:07:17.482907Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   },
