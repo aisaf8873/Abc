@@ -204,10 +204,10 @@
     "bracket_take_profit_limit_price": null,
     "limit_price": "140",
     "margin_mode": "portfolio",
-    "unfilled_size": 371,
+    "unfilled_size": 203,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-07T07:41:05.868529Z",
+    "updated_at": "2026-06-07T07:43:22.590348Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 137373,
@@ -251,7 +251,7 @@
     "commission": "0",
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "cashflow": "88.06",
+      "cashflow": "111.58",
       "ip": "2409:40e4:110a:be9a:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -266,7 +266,7 @@
     "state": "open",
     "trail_amount": null,
     "average_fill_price": "140",
-    "paid_commission": "3.636878",
+    "paid_commission": "4.608254",
     "bracket_take_profit_price": null,
     "bracket_order": null
   },
@@ -340,12 +340,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": "5.11",
+    "limit_price": "4.11",
     "margin_mode": "portfolio",
     "unfilled_size": 613,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-07T07:34:35.472782Z",
+    "updated_at": "2026-06-07T07:43:04.099159Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 137461,
@@ -409,7 +409,7 @@
       "pnl": "14.7735",
       "roe": "-48.35051546391752577319587629",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T07:34:35.472Z"
+      "user_updated_at": "2026-06-07T07:43:04.098Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1351507796,
@@ -424,12 +424,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 4.94,
+    "limit_price": "4.85",
     "margin_mode": "portfolio",
     "unfilled_size": 1000,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-07T07:42:24.228175Z",
+    "updated_at": "2026-06-07T07:43:14.608579Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 137454,
@@ -477,7 +477,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T07:42:24.227Z"
+      "user_updated_at": "2026-06-07T07:43:14.608Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1351037872,
