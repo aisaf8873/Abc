@@ -216,9 +216,9 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T10:51:01.494Z"
+      "user_updated_at": "2026-06-07T10:51:33.958Z"
     },
-    "limit_price": 249,
+    "limit_price": "249",
     "product_symbol": "P-BTC-62400-070626",
     "bracket_trail_amount": null,
     "unfilled_size": 910,
@@ -273,7 +273,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "updated_at": "2026-06-07T10:51:01.494498Z",
+    "updated_at": "2026-06-07T10:51:33.959159Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   },
@@ -490,9 +490,9 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T10:51:21.825Z"
+      "user_updated_at": "2026-06-07T10:51:42.764Z"
     },
-    "limit_price": 11.55,
+    "limit_price": 11.15,
     "product_symbol": "C-ETH-1620-070626",
     "bracket_trail_amount": null,
     "unfilled_size": 1572,
@@ -547,7 +547,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "updated_at": "2026-06-07T10:51:21.825612Z",
+    "updated_at": "2026-06-07T10:51:42.765102Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   },
@@ -829,9 +829,9 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T10:51:23.688Z"
+      "user_updated_at": "2026-06-07T10:51:25.545Z"
     },
-    "limit_price": 17.15,
+    "limit_price": "17.15",
     "product_symbol": "C-ETH-1620-070626",
     "bracket_trail_amount": null,
     "unfilled_size": 3000,
@@ -886,7 +886,7 @@
     "client_order_id": null,
     "bracket_stop_loss_price": null,
     "commission": "0",
-    "updated_at": "2026-06-07T10:51:23.688885Z",
+    "updated_at": "2026-06-07T10:51:25.545925Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   }
