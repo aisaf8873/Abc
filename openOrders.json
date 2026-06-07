@@ -698,7 +698,7 @@
   },
   {
     "product_id": 137461,
-    "limit_price": 23.55,
+    "limit_price": 24.95,
     "product_symbol": "C-ETH-1620-070626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -715,7 +715,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T09:42:00.891Z"
+      "user_updated_at": "2026-06-07T09:42:21.862Z"
     },
     "size": 2500,
     "stop_order_type": null,
@@ -727,7 +727,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-07T01:52:11.613400Z",
-    "updated_at": "2026-06-07T09:42:00.892004Z",
+    "updated_at": "2026-06-07T09:42:21.863126Z",
     "id": 1351037161,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
@@ -971,7 +971,7 @@
   },
   {
     "product_id": 137454,
-    "limit_price": 7.05,
+    "limit_price": 7.25,
     "product_symbol": "C-ETH-1640-070626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -986,7 +986,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T09:41:58.890Z"
+      "user_updated_at": "2026-06-07T09:42:19.665Z"
     },
     "size": 3000,
     "stop_order_type": null,
@@ -998,7 +998,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-07T01:33:53.807808Z",
-    "updated_at": "2026-06-07T09:41:58.891078Z",
+    "updated_at": "2026-06-07T09:42:19.665823Z",
     "id": 1351017644,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
@@ -1039,7 +1039,7 @@
   },
   {
     "product_id": 137461,
-    "limit_price": 34.25,
+    "limit_price": "39.95",
     "product_symbol": "C-ETH-1620-070626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -1054,7 +1054,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-07T09:42:02.053Z"
+      "user_updated_at": "2026-06-07T09:42:22.728Z"
     },
     "size": 3000,
     "stop_order_type": null,
@@ -1066,7 +1066,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-07T01:33:32.559543Z",
-    "updated_at": "2026-06-07T09:42:02.053887Z",
+    "updated_at": "2026-06-07T09:42:22.728999Z",
     "id": 1351017334,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
