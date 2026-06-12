@@ -184,17 +184,17 @@
       "contract_unit_currency": "BTC"
     },
     "product_symbol": "P-BTC-63600-120626",
-    "updated_at": "2026-06-12T10:29:28.912430Z",
+    "updated_at": "2026-06-12T10:30:30.784511Z",
     "side": "sell",
     "meta_data": {
       "ip": "2409:40e4:114b:da85:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-12T10:29:28.911Z"
+      "user_updated_at": "2026-06-12T10:30:30.784Z"
     },
     "mmp": "disabled",
-    "limit_price": 146,
+    "limit_price": 199,
     "id": 1361099365,
     "bracket_order": null,
     "state": "open",
@@ -252,17 +252,17 @@
       "contract_unit_currency": "BTC"
     },
     "product_symbol": "P-BTC-63800-120626",
-    "updated_at": "2026-06-12T10:26:56.949806Z",
+    "updated_at": "2026-06-12T10:30:14.636935Z",
     "side": "sell",
     "meta_data": {
       "ip": "2409:40e4:114b:da85:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-12T10:26:56.949Z"
+      "user_updated_at": "2026-06-12T10:30:14.636Z"
     },
     "mmp": "disabled",
-    "limit_price": 408,
+    "limit_price": 409,
     "id": 1361039928,
     "bracket_order": null,
     "state": "open",
@@ -320,17 +320,17 @@
       "contract_unit_currency": "BTC"
     },
     "product_symbol": "C-BTC-64000-120626",
-    "updated_at": "2026-06-12T10:25:22.296927Z",
+    "updated_at": "2026-06-12T10:30:13.997089Z",
     "side": "sell",
     "meta_data": {
       "ip": "2409:40e4:114b:da85:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-12T10:25:22.296Z"
+      "user_updated_at": "2026-06-12T10:30:13.996Z"
     },
     "mmp": "disabled",
-    "limit_price": 69.5,
+    "limit_price": "69.5",
     "id": 1361029718,
     "bracket_order": null,
     "state": "open",
@@ -388,14 +388,14 @@
       "contract_unit_currency": "BTC"
     },
     "product_symbol": "P-BTC-63800-120626",
-    "updated_at": "2026-06-12T10:26:57.741942Z",
+    "updated_at": "2026-06-12T10:30:17.186415Z",
     "side": "sell",
     "meta_data": {
       "ip": "2409:40e4:114b:da85:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-12T10:26:57.741Z"
+      "user_updated_at": "2026-06-12T10:30:17.186Z"
     },
     "mmp": "disabled",
     "limit_price": 409,
@@ -466,7 +466,7 @@
       "user_updated_at": "2026-06-12T10:29:33.539Z"
     },
     "mmp": "disabled",
-    "limit_price": "243",
+    "limit_price": 239.4,
     "id": 1360931268,
     "bracket_order": null,
     "state": "open",
