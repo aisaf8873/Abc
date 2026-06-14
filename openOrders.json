@@ -2,7 +2,7 @@
   {
     "product_id": 138315,
     "meta_data": {
-      "cashflow": "0.0025",
+      "cashflow": "0.005",
       "ip": "2409:40e4:1006:5a0c:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -14,10 +14,10 @@
     "limit_price": "0.01",
     "average_fill_price": "0.01",
     "product_symbol": "P-ETH-1620-140626",
-    "paid_commission": "0.00010325",
-    "updated_at": "2026-06-14T11:52:32.640325Z",
+    "paid_commission": "0.0002065",
+    "updated_at": "2026-06-14T11:52:57.007507Z",
     "bracket_take_profit_limit_price": null,
-    "unfilled_size": 9718,
+    "unfilled_size": 9693,
     "cancellation_reason": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
