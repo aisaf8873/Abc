@@ -49,15 +49,16 @@
       "contract_unit_currency": "ETH"
     },
     "product_symbol": "C-ETH-1560-160626",
-    "updated_at": "2026-06-15T15:05:53.581417Z",
+    "updated_at": "2026-06-15T15:06:18.780636Z",
     "side": "sell",
     "meta_data": {
       "ip": "2409:40e4:53:3eec:8000::",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-06-15T15:06:18.775Z"
     },
     "mmp": "disabled",
-    "limit_price": "292.18",
+    "limit_price": "290.18",
     "id": 1366342270,
     "bracket_order": null,
     "state": "open",
