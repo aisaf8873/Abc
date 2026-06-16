@@ -136,7 +136,7 @@
   {
     "bracket_trail_amount": null,
     "quote_size": null,
-    "paid_commission": "0.00507164",
+    "paid_commission": "0.00585634",
     "reduce_only": false,
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
@@ -153,7 +153,7 @@
     "stop_trigger_method": null,
     "created_at": "2026-06-16T11:53:48.482665Z",
     "order_type": "limit_order",
-    "unfilled_size": 3772,
+    "unfilled_size": 3582,
     "product_id": 138543,
     "product": {
       "id": 138543,
@@ -183,10 +183,10 @@
       "contract_unit_currency": "ETH"
     },
     "product_symbol": "P-ETH-1580-160626",
-    "updated_at": "2026-06-16T11:54:50.648482Z",
+    "updated_at": "2026-06-16T11:55:06.001317Z",
     "side": "sell",
     "meta_data": {
-      "cashflow": "0.1228",
+      "cashflow": "0.1418",
       "ip": "2409:40e4:53:3eec:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -272,7 +272,7 @@
   {
     "bracket_trail_amount": null,
     "quote_size": null,
-    "paid_commission": "0.00266798",
+    "paid_commission": "0.00339486",
     "reduce_only": false,
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
@@ -289,7 +289,7 @@
     "stop_trigger_method": null,
     "created_at": "2026-06-16T11:53:08.654750Z",
     "order_type": "limit_order",
-    "unfilled_size": 1297,
+    "unfilled_size": 1121,
     "product_id": 138535,
     "product": {
       "id": 138535,
@@ -319,10 +319,10 @@
       "contract_unit_currency": "ETH"
     },
     "product_symbol": "P-ETH-1740-160626",
-    "updated_at": "2026-06-16T11:54:50.483773Z",
+    "updated_at": "2026-06-16T11:55:05.618342Z",
     "side": "sell",
     "meta_data": {
-      "cashflow": "0.0646",
+      "cashflow": "0.0822",
       "ip": "2409:40e4:53:3eec:8000::",
       "order_source": "place_order",
       "otc": false,
