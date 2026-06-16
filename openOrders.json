@@ -69,7 +69,7 @@
   },
   {
     "commission": "0",
-    "limit_price": 13.15,
+    "limit_price": "13.05",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -82,7 +82,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-16T02:29:30.438Z"
+      "user_updated_at": "2026-06-16T02:29:48.880Z"
     },
     "product_symbol": "P-ETH-1760-160626",
     "product_id": 138534,
@@ -130,7 +130,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-16T02:29:30.438799Z",
+    "updated_at": "2026-06-16T02:29:48.881655Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
