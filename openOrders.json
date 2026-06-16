@@ -136,7 +136,7 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": "137",
+    "limit_price": 99,
     "margin_mode": "portfolio",
     "unfilled_size": 1000,
     "mmp": "disabled",
@@ -204,12 +204,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 134,
+    "limit_price": 165,
     "margin_mode": "portfolio",
     "unfilled_size": 948,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-16T10:15:15.430785Z",
+    "updated_at": "2026-06-16T10:15:51.736295Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 138719,
@@ -274,7 +274,7 @@
       "pnl": "10.51999999",
       "roe": "14.32347144996716269682359160",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-16T10:15:15.430Z"
+      "user_updated_at": "2026-06-16T10:15:51.735Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1367536392,
@@ -289,12 +289,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 64,
+    "limit_price": 79,
     "margin_mode": "portfolio",
-    "unfilled_size": 1329,
+    "unfilled_size": 1086,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-16T10:15:13.803325Z",
+    "updated_at": "2026-06-16T10:15:46.385217Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 138667,
@@ -338,13 +338,13 @@
     "commission": "0",
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "cashflow": "11.97",
+      "cashflow": "27.522",
       "ip": "2409:40e4:53:3eec:8000::",
       "order_source": "place_order",
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-16T10:15:13.802Z"
+      "user_updated_at": "2026-06-16T10:15:46.383Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1367528976,
@@ -352,8 +352,8 @@
     "client_order_id": null,
     "state": "open",
     "trail_amount": null,
-    "average_fill_price": "70",
-    "paid_commission": "0.494361",
+    "average_fill_price": "66.478260869565217391",
+    "paid_commission": "1.1366586",
     "bracket_take_profit_price": null,
     "bracket_order": null
   },
