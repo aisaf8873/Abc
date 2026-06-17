@@ -5,23 +5,31 @@
     "product_symbol": "P-BTC-65800-170626",
     "mmp": "disabled",
     "client_order_id": null,
-    "unfilled_size": 94,
+    "unfilled_size": 69,
     "bracket_take_profit_price": null,
-    "paid_commission": "1.361248",
+    "paid_commission": "1.526448",
     "stop_trigger_method": null,
     "bracket_take_profit_limit_price": null,
     "quote_size": null,
     "meta_data": {
       "avg_exit_price": "160",
-      "cashflow": "-32.96",
+      "cashflow": "-36.96",
       "entry_price": "211.6320571464967717082242297",
       "exit_price_with_size": [
+        {
+          "price": "160.00000000",
+          "size": "-25"
+        },
         {
           "price": "160.00000000",
           "size": "-206"
         }
       ],
       "fills_pnl_with_margin": [
+        {
+          "margin": "-5.290801428662419292705605743",
+          "pnl": "1.29080142"
+        },
         {
           "margin": "-43.59620377217833497189419132",
           "pnl": "10.63620377"
@@ -30,8 +38,8 @@
       "ip": "2409:40e4:130a:3742:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "10.63620377",
-      "roe": "-24.39708701606646729691980041",
+      "pnl": "11.92700519",
+      "roe": "-24.39708699888795898387068071",
       "source": "mobile_app_android"
     },
     "size": 300,
@@ -44,7 +52,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-17T05:36:00.247275Z",
-    "updated_at": "2026-06-17T05:37:12.275285Z",
+    "updated_at": "2026-06-17T05:37:31.252767Z",
     "id": 1369075882,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
@@ -223,7 +231,7 @@
   },
   {
     "product_id": 138636,
-    "limit_price": "209",
+    "limit_price": 209,
     "product_symbol": "C-BTC-66000-170626",
     "mmp": "disabled",
     "client_order_id": null,
