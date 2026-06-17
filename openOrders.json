@@ -12,9 +12,9 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": "130",
+    "limit_price": "160",
     "bracket_trail_amount": null,
-    "updated_at": "2026-06-17T08:03:42.061026Z",
+    "updated_at": "2026-06-17T08:03:58.664935Z",
     "product": {
       "id": 138600,
       "symbol": "C-BTC-65600-170626",
@@ -55,7 +55,8 @@
       "ip": "2409:40e4:130a:3742:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-06-17T08:03:58.664Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
