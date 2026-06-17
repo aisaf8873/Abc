@@ -117,17 +117,17 @@
       "contract_unit_currency": "BTC"
     },
     "product_symbol": "P-BTC-65800-170626",
-    "updated_at": "2026-06-17T03:08:17.479324Z",
+    "updated_at": "2026-06-17T03:08:56.527354Z",
     "side": "sell",
     "meta_data": {
       "ip": "2409:40e4:130a:3742:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-17T03:08:17.478Z"
+      "user_updated_at": "2026-06-17T03:08:56.525Z"
     },
     "mmp": "disabled",
-    "limit_price": "277",
+    "limit_price": "271",
     "id": 1368897994,
     "bracket_order": null,
     "state": "open",
@@ -195,7 +195,7 @@
       "user_updated_at": "2026-06-17T03:08:17.667Z"
     },
     "mmp": "disabled",
-    "limit_price": "189",
+    "limit_price": 199,
     "id": 1368893960,
     "bracket_order": null,
     "state": "open",
