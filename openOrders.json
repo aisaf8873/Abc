@@ -1,23 +1,31 @@
 [
   {
-    "bracket_take_profit_limit_price": null,
+    "paid_commission": "0",
+    "meta_data": {
+      "ip": "2409:40e4:130a:3742:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
     "limit_price": "1",
-    "margin_mode": "portfolio",
+    "product_symbol": "P-ETH-1700-190626",
+    "bracket_trail_amount": null,
     "unfilled_size": 100,
     "mmp": "disabled",
-    "time_in_force": "gtc",
-    "updated_at": "2026-06-17T16:21:48.483390Z",
-    "bracket_trail_amount": null,
+    "average_fill_price": null,
     "stop_trigger_method": null,
-    "product_id": 136849,
-    "product_symbol": "P-ETH-1700-190626",
     "quote_size": null,
-    "size": 100,
     "cancellation_reason": null,
+    "size": 100,
+    "bracket_stop_loss_limit_price": null,
     "stop_order_type": null,
     "side": "buy",
+    "trail_amount": null,
+    "product_id": 136849,
+    "bracket_order": null,
     "user_id": 21672861,
     "stop_price": null,
+    "reduce_only": true,
+    "created_at": "2026-06-17T16:21:48.483390Z",
     "product": {
       "id": 136849,
       "symbol": "P-ETH-1700-190626",
@@ -45,24 +53,16 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "reduce_only": true,
-    "created_at": "2026-06-17T16:21:48.483390Z",
-    "commission": "0",
-    "bracket_stop_loss_price": null,
-    "meta_data": {
-      "ip": "2409:40e4:130a:3742:8000::",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "bracket_stop_loss_limit_price": null,
+    "bracket_take_profit_limit_price": null,
     "id": 1370149327,
     "order_type": "limit_order",
-    "client_order_id": null,
+    "margin_mode": "portfolio",
     "state": "open",
-    "trail_amount": null,
-    "average_fill_price": null,
-    "paid_commission": "0",
+    "client_order_id": null,
+    "bracket_stop_loss_price": null,
+    "commission": "0",
+    "updated_at": "2026-06-17T16:21:48.483390Z",
     "bracket_take_profit_price": null,
-    "bracket_order": null
+    "time_in_force": "gtc"
   }
 ]
