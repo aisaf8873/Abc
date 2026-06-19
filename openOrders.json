@@ -14,7 +14,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-19T03:36:06.858Z"
+      "user_updated_at": "2026-06-19T03:45:19.011Z"
     },
     "product_symbol": "C-ETH-1720-190626",
     "product_id": 138925,
@@ -62,14 +62,14 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-19T03:36:06.858374Z",
+    "updated_at": "2026-06-19T03:45:19.011923Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
     "commission": "0",
-    "limit_price": 7.55,
+    "limit_price": 7.65,
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -82,7 +82,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-19T03:44:59.418Z"
+      "user_updated_at": "2026-06-19T03:45:16.865Z"
     },
     "product_symbol": "P-ETH-1680-190626",
     "product_id": 138940,
@@ -130,14 +130,14 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-19T03:44:59.418664Z",
+    "updated_at": "2026-06-19T03:45:16.865885Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
     "commission": "0",
-    "limit_price": 4.95,
+    "limit_price": "8.95",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -150,7 +150,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-19T03:44:56.202Z"
+      "user_updated_at": "2026-06-19T03:45:19.246Z"
     },
     "product_symbol": "P-ETH-1670-190626",
     "product_id": 139191,
@@ -198,7 +198,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-19T03:44:56.203398Z",
+    "updated_at": "2026-06-19T03:45:19.246510Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
