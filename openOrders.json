@@ -7,6 +7,73 @@
       "otc": false,
       "source": "mobile_app_android"
     },
+    "limit_price": "190",
+    "product_symbol": "C-BTC-63800-200626",
+    "bracket_trail_amount": null,
+    "unfilled_size": 1000,
+    "mmp": "disabled",
+    "average_fill_price": null,
+    "stop_trigger_method": null,
+    "quote_size": null,
+    "cancellation_reason": null,
+    "size": 1000,
+    "bracket_stop_loss_limit_price": null,
+    "stop_order_type": null,
+    "side": "sell",
+    "trail_amount": null,
+    "product_id": 138986,
+    "bracket_order": null,
+    "user_id": 21672861,
+    "stop_price": null,
+    "reduce_only": false,
+    "created_at": "2026-06-20T02:50:56.284078Z",
+    "product": {
+      "id": 138986,
+      "symbol": "C-BTC-63800-200626",
+      "contract_type": "call_options",
+      "tick_size": "0.1",
+      "quoting_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "underlying_asset": {
+        "symbol": "BTC",
+        "precision": 8,
+        "minimum_precision": 4
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "contract_value": "0.001",
+      "notional_type": "vanilla",
+      "settling_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "contract_unit_currency": "BTC"
+    },
+    "bracket_take_profit_limit_price": null,
+    "id": 1374197274,
+    "order_type": "limit_order",
+    "margin_mode": "portfolio",
+    "state": "open",
+    "client_order_id": null,
+    "bracket_stop_loss_price": null,
+    "commission": "0",
+    "updated_at": "2026-06-20T02:50:56.284078Z",
+    "bracket_take_profit_price": null,
+    "time_in_force": "gtc"
+  },
+  {
+    "paid_commission": "0",
+    "meta_data": {
+      "ip": "2409:40e4:22:fef:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
     "limit_price": "200",
     "product_symbol": "C-BTC-63600-200626",
     "bracket_trail_amount": null,
