@@ -1,19 +1,173 @@
 [
   {
-    "commission": "0",
-    "limit_price": "0.01",
-    "time_in_force": "gtc",
-    "bracket_order": null,
-    "cancellation_reason": null,
-    "unfilled_size": 15190,
     "bracket_trail_amount": null,
-    "created_at": "2026-06-20T11:47:57.157696Z",
+    "quote_size": null,
+    "paid_commission": "0.01906408",
+    "reduce_only": false,
+    "stop_order_type": null,
+    "bracket_take_profit_limit_price": null,
+    "cancellation_reason": null,
+    "trail_amount": null,
+    "margin_mode": "portfolio",
+    "bracket_take_profit_price": null,
+    "bracket_stop_loss_limit_price": null,
+    "time_in_force": "gtc",
+    "client_order_id": null,
+    "stop_price": null,
+    "commission": "0",
+    "size": 19275,
     "stop_trigger_method": null,
+    "created_at": "2026-06-20T11:47:57.157696Z",
+    "order_type": "limit_order",
+    "unfilled_size": 14659,
+    "product_id": 139263,
+    "product": {
+      "id": 139263,
+      "symbol": "P-ETH-1710-200626",
+      "contract_type": "put_options",
+      "tick_size": "0.01",
+      "quoting_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "underlying_asset": {
+        "symbol": "ETH",
+        "precision": 18,
+        "minimum_precision": 4
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "contract_value": "0.01",
+      "notional_type": "vanilla",
+      "settling_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "contract_unit_currency": "ETH"
+    },
+    "product_symbol": "P-ETH-1710-200626",
+    "updated_at": "2026-06-20T11:49:49.592459Z",
+    "side": "sell",
     "meta_data": {
       "avg_exit_price": "0.01",
-      "cashflow": "0.4085",
+      "cashflow": "0.4616",
       "entry_price": "0.05000000",
       "exit_price_with_size": [
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "65"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "22"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "22"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "30"
+        },
+        {
+          "price": "0.01000000",
+          "size": "28"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "22"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "22"
+        },
+        {
+          "price": "0.01000000",
+          "size": "23"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "22"
+        },
+        {
+          "price": "0.01000000",
+          "size": "23"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "4"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "25"
+        },
         {
           "price": "0.01000000",
           "size": "15"
@@ -268,6 +422,118 @@
         }
       ],
       "fills_pnl_with_margin": [
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.03250000000000000000000000",
+          "pnl": "-0.02600000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.01100000000000000000000000",
+          "pnl": "-0.00880000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.01100000000000000000000000",
+          "pnl": "-0.00880000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.01500000000000000000000000",
+          "pnl": "-0.01200000"
+        },
+        {
+          "margin": "0.01400000000000000000000000",
+          "pnl": "-0.01120000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.01100000000000000000000000",
+          "pnl": "-0.00880000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.01100000000000000000000000",
+          "pnl": "-0.00880000"
+        },
+        {
+          "margin": "0.01150000000000000000000000",
+          "pnl": "-0.00920000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.01100000000000000000000000",
+          "pnl": "-0.00880000"
+        },
+        {
+          "margin": "0.01150000000000000000000000",
+          "pnl": "-0.00920000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.00200000000000000000000000",
+          "pnl": "-0.00160000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.01250000000000000000000000",
+          "pnl": "-0.01000000"
+        },
         {
           "margin": "0.00750000000000000000000000",
           "pnl": "-0.00600000"
@@ -524,59 +790,17 @@
       "ip": "2409:40e5:1011:b4b2:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "-1.634",
+      "pnl": "-1.8464",
       "roe": "-80.0",
       "source": "mobile_app_android"
     },
-    "product_symbol": "P-ETH-1710-200626",
-    "product_id": 139263,
-    "paid_commission": "0.01687105",
-    "quote_size": null,
-    "trail_amount": null,
-    "side": "sell",
-    "size": 19275,
-    "margin_mode": "portfolio",
-    "stop_order_type": null,
-    "client_order_id": null,
-    "product": {
-      "id": 139263,
-      "symbol": "P-ETH-1710-200626",
-      "contract_type": "put_options",
-      "tick_size": "0.01",
-      "quoting_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "underlying_asset": {
-        "symbol": "ETH",
-        "precision": 18,
-        "minimum_precision": 4
-      },
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "contract_value": "0.01",
-      "notional_type": "vanilla",
-      "contract_unit_currency": "ETH"
-    },
-    "bracket_take_profit_price": null,
-    "user_id": 21672861,
-    "stop_price": null,
-    "reduce_only": false,
-    "id": 1374757992,
-    "order_type": "limit_order",
     "mmp": "disabled",
-    "bracket_take_profit_limit_price": null,
+    "limit_price": "0.01",
+    "id": 1374757992,
+    "bracket_order": null,
     "state": "open",
-    "updated_at": "2026-06-20T11:49:29.147017Z",
     "average_fill_price": "0.01",
     "bracket_stop_loss_price": null,
-    "bracket_stop_loss_limit_price": null
+    "user_id": 21672861
   }
 ]
