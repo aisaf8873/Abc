@@ -6,7 +6,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-20T09:39:01.743Z"
+      "user_updated_at": "2026-06-20T09:39:27.842Z"
     },
     "cancellation_reason": null,
     "limit_price": "399",
@@ -15,7 +15,7 @@
     "unfilled_size": 1000,
     "margin_mode": "portfolio",
     "stop_trigger_method": null,
-    "updated_at": "2026-06-20T09:39:01.744102Z",
+    "updated_at": "2026-06-20T09:39:27.842923Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "quote_size": null,
@@ -99,16 +99,16 @@
       "pnl": "4.40188074",
       "roe": "85.17374557546844049139137589",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-20T09:34:20.528Z"
+      "user_updated_at": "2026-06-20T09:39:12.114Z"
     },
     "cancellation_reason": null,
-    "limit_price": 196,
+    "limit_price": "196",
     "paid_commission": "0.395241",
     "side": "sell",
     "unfilled_size": 942,
     "margin_mode": "portfolio",
     "stop_trigger_method": null,
-    "updated_at": "2026-06-20T09:34:20.528829Z",
+    "updated_at": "2026-06-20T09:39:12.114422Z",
     "mmp": "disabled",
     "average_fill_price": "165",
     "quote_size": null,
@@ -170,7 +170,7 @@
       "user_updated_at": "2026-06-20T09:37:57.180Z"
     },
     "cancellation_reason": null,
-    "limit_price": "324",
+    "limit_price": 299,
     "paid_commission": "0",
     "side": "sell",
     "unfilled_size": 1000,
