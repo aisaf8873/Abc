@@ -79,7 +79,7 @@
       "user_updated_at": "2026-06-20T11:13:01.523Z"
     },
     "cancellation_reason": null,
-    "limit_price": "251.9",
+    "limit_price": 270.87,
     "paid_commission": "7.122943",
     "side": "sell",
     "unfilled_size": 552,
@@ -144,16 +144,16 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-20T11:12:32.714Z"
+      "user_updated_at": "2026-06-20T11:13:19.568Z"
     },
     "cancellation_reason": null,
-    "limit_price": "456",
+    "limit_price": 379,
     "paid_commission": "0",
     "side": "sell",
     "unfilled_size": 1000,
     "margin_mode": "portfolio",
     "stop_trigger_method": null,
-    "updated_at": "2026-06-20T11:12:32.714975Z",
+    "updated_at": "2026-06-20T11:13:19.568545Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "quote_size": null,
