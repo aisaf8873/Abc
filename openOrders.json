@@ -135,10 +135,14 @@
   {
     "product_id": 138986,
     "meta_data": {
-      "avg_exit_price": "85",
-      "cashflow": "-6.12",
+      "avg_exit_price": "83.92307692307692307692307692",
+      "cashflow": "-8.728",
       "entry_price": "159.00000000",
       "exit_price_with_size": [
+        {
+          "price": "81.50000000",
+          "size": "-32"
+        },
         {
           "price": "85.00000000",
           "size": "-72"
@@ -146,26 +150,30 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "-5.08800000000000000000000000",
+          "pnl": "2.48000000"
+        },
+        {
           "margin": "-11.44800000000000000000000000",
           "pnl": "5.32800000"
         }
       ],
       "ip": "2409:40e4:22:fef:8000::",
       "otc": false,
-      "pnl": "5.328",
-      "roe": "-46.54088050314465408805031447",
+      "pnl": "7.808",
+      "roe": "-47.21819061441702951136913401",
       "source": "mobile_app_android",
       "user_updated_at": "2026-06-20T07:33:16.700Z"
     },
     "margin_mode": "portfolio",
     "bracket_stop_loss_limit_price": null,
     "limit_price": "81.5",
-    "average_fill_price": "85",
+    "average_fill_price": "83.923076923076923077",
     "product_symbol": "C-BTC-63800-200626",
-    "paid_commission": "0.252756",
-    "updated_at": "2026-06-20T07:33:16.700875Z",
+    "paid_commission": "0.3604664",
+    "updated_at": "2026-06-20T07:34:08.197939Z",
     "bracket_take_profit_limit_price": null,
-    "unfilled_size": 393,
+    "unfilled_size": 361,
     "cancellation_reason": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
@@ -295,15 +303,15 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-20T07:33:48.174Z"
+      "user_updated_at": "2026-06-20T07:34:03.583Z"
     },
     "margin_mode": "portfolio",
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "53",
+    "limit_price": "54.6",
     "average_fill_price": "63.601196581196581197",
     "product_symbol": "C-BTC-64000-200626",
     "paid_commission": "1.53663671",
-    "updated_at": "2026-06-20T07:33:48.174750Z",
+    "updated_at": "2026-06-20T07:34:03.583841Z",
     "bracket_take_profit_limit_price": null,
     "unfilled_size": 415,
     "cancellation_reason": null,
@@ -367,7 +375,7 @@
     },
     "margin_mode": "portfolio",
     "bracket_stop_loss_limit_price": null,
-    "limit_price": "327",
+    "limit_price": 599,
     "average_fill_price": null,
     "product_symbol": "P-BTC-63800-200626",
     "paid_commission": "0",
