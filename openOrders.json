@@ -2,7 +2,7 @@
   {
     "product_id": 139017,
     "meta_data": {
-      "cashflow": "0.1303",
+      "cashflow": "0.1478",
       "ip": "2409:40e5:1011:b4b2:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -14,10 +14,10 @@
     "limit_price": "0.1",
     "average_fill_price": "0.1",
     "product_symbol": "C-BTC-66400-200626",
-    "paid_commission": "0.00538139",
-    "updated_at": "2026-06-20T11:56:29.274680Z",
+    "paid_commission": "0.00610414",
+    "updated_at": "2026-06-20T11:56:49.593067Z",
     "bracket_take_profit_limit_price": null,
-    "unfilled_size": 463,
+    "unfilled_size": 288,
     "cancellation_reason": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
@@ -72,9 +72,17 @@
     "product_id": 139263,
     "meta_data": {
       "avg_exit_price": "0.01",
-      "cashflow": "1.429",
+      "cashflow": "1.4885",
       "entry_price": "0.05000000",
       "exit_price_with_size": [
+        {
+          "price": "0.01000000",
+          "size": "2"
+        },
+        {
+          "price": "0.01000000",
+          "size": "19"
+        },
         {
           "price": "0.01000000",
           "size": "31"
@@ -2237,6 +2245,14 @@
         }
       ],
       "fills_pnl_with_margin": [
+        {
+          "margin": "0.01400000000000000000000000",
+          "pnl": "-0.00080000"
+        },
+        {
+          "margin": "0.00950000000000000000000000",
+          "pnl": "-0.00760000"
+        },
         {
           "margin": "0.01550000000000000000000000",
           "pnl": "-0.01240000"
@@ -4401,8 +4417,8 @@
       "ip": "2409:40e5:1011:b4b2:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "-5.716",
-      "roe": "-80.0",
+      "pnl": "-5.7244",
+      "roe": "-79.85492083420520332008090953",
       "source": "mobile_app_android"
     },
     "margin_mode": "portfolio",
@@ -4410,10 +4426,10 @@
     "limit_price": "0.01",
     "average_fill_price": "0.01",
     "product_symbol": "P-ETH-1710-200626",
-    "paid_commission": "0.0590177",
-    "updated_at": "2026-06-20T11:56:29.113760Z",
+    "paid_commission": "0.06147505",
+    "updated_at": "2026-06-20T11:56:49.388129Z",
     "bracket_take_profit_limit_price": null,
-    "unfilled_size": 4985,
+    "unfilled_size": 4390,
     "cancellation_reason": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
