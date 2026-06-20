@@ -1,36 +1,32 @@
 [
   {
-    "product_id": 139017,
-    "limit_price": "0.1",
-    "product_symbol": "C-BTC-66400-200626",
-    "mmp": "disabled",
-    "client_order_id": null,
-    "unfilled_size": 1766,
-    "bracket_take_profit_price": null,
     "paid_commission": "0",
-    "stop_trigger_method": null,
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
     "meta_data": {
       "ip": "2409:40e5:1011:b4b2:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android"
     },
-    "size": 1766,
-    "stop_order_type": null,
+    "limit_price": "0.1",
+    "product_symbol": "C-BTC-66400-200626",
+    "bracket_trail_amount": null,
+    "unfilled_size": 1766,
+    "mmp": "disabled",
     "average_fill_price": null,
-    "margin_mode": "portfolio",
+    "stop_trigger_method": null,
+    "quote_size": null,
+    "cancellation_reason": null,
+    "size": 1766,
+    "bracket_stop_loss_limit_price": null,
+    "stop_order_type": null,
     "side": "sell",
     "trail_amount": null,
-    "cancellation_reason": null,
+    "product_id": 139017,
+    "bracket_order": null,
+    "user_id": 21672861,
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-20T11:53:51.939115Z",
-    "updated_at": "2026-06-20T11:53:51.939115Z",
-    "id": 1374766148,
-    "order_type": "limit_order",
-    "bracket_stop_loss_limit_price": null,
     "product": {
       "id": 139017,
       "symbol": "C-BTC-66400-200626",
@@ -58,31 +54,105 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "bracket_trail_amount": null,
+    "bracket_take_profit_limit_price": null,
+    "id": 1374766148,
+    "order_type": "limit_order",
+    "margin_mode": "portfolio",
     "state": "open",
-    "commission": "0",
-    "user_id": 21672861,
-    "bracket_order": null,
+    "client_order_id": null,
     "bracket_stop_loss_price": null,
+    "commission": "0",
+    "updated_at": "2026-06-20T11:53:51.939115Z",
+    "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   },
   {
-    "product_id": 139263,
-    "limit_price": "0.01",
-    "product_symbol": "P-ETH-1710-200626",
-    "mmp": "disabled",
-    "client_order_id": null,
-    "unfilled_size": 7735,
-    "bracket_take_profit_price": null,
-    "paid_commission": "0.0476602",
-    "stop_trigger_method": null,
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
+    "paid_commission": "0.04924199",
     "meta_data": {
       "avg_exit_price": "0.01",
-      "cashflow": "1.154",
+      "cashflow": "1.1923",
       "entry_price": "0.05000000",
       "exit_price_with_size": [
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "28"
+        },
+        {
+          "price": "0.01000000",
+          "size": "26"
+        },
+        {
+          "price": "0.01000000",
+          "size": "29"
+        },
+        {
+          "price": "0.01000000",
+          "size": "26"
+        },
+        {
+          "price": "0.01000000",
+          "size": "26"
+        },
+        {
+          "price": "0.01000000",
+          "size": "2"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "28"
+        },
+        {
+          "price": "0.01000000",
+          "size": "2"
+        },
+        {
+          "price": "0.01000000",
+          "size": "22"
+        },
+        {
+          "price": "0.01000000",
+          "size": "26"
+        },
+        {
+          "price": "0.01000000",
+          "size": "27"
+        },
+        {
+          "price": "0.01000000",
+          "size": "27"
+        },
+        {
+          "price": "0.01000000",
+          "size": "27"
+        },
+        {
+          "price": "0.01000000",
+          "size": "27"
+        },
+        {
+          "price": "0.01000000",
+          "size": "3"
+        },
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "4"
+        },
+        {
+          "price": "0.01000000",
+          "size": "4"
+        },
         {
           "price": "0.01000000",
           "size": "27"
@@ -1761,6 +1831,86 @@
         }
       ],
       "fills_pnl_with_margin": [
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.01400000000000000000000000",
+          "pnl": "-0.01120000"
+        },
+        {
+          "margin": "0.01300000000000000000000000",
+          "pnl": "-0.01040000"
+        },
+        {
+          "margin": "0.01450000000000000000000000",
+          "pnl": "-0.01160000"
+        },
+        {
+          "margin": "0.01300000000000000000000000",
+          "pnl": "-0.01040000"
+        },
+        {
+          "margin": "0.01300000000000000000000000",
+          "pnl": "-0.01040000"
+        },
+        {
+          "margin": "0.00100000000000000000000000",
+          "pnl": "-0.00080000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.01400000000000000000000000",
+          "pnl": "-0.01120000"
+        },
+        {
+          "margin": "0.00100000000000000000000000",
+          "pnl": "-0.00080000"
+        },
+        {
+          "margin": "0.01100000000000000000000000",
+          "pnl": "-0.00880000"
+        },
+        {
+          "margin": "0.01300000000000000000000000",
+          "pnl": "-0.01040000"
+        },
+        {
+          "margin": "0.01350000000000000000000000",
+          "pnl": "-0.01080000"
+        },
+        {
+          "margin": "0.01350000000000000000000000",
+          "pnl": "-0.01080000"
+        },
+        {
+          "margin": "0.01350000000000000000000000",
+          "pnl": "-0.01080000"
+        },
+        {
+          "margin": "0.01350000000000000000000000",
+          "pnl": "-0.01080000"
+        },
+        {
+          "margin": "0.00150000000000000000000000",
+          "pnl": "-0.00120000"
+        },
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.00200000000000000000000000",
+          "pnl": "-0.00160000"
+        },
+        {
+          "margin": "0.00200000000000000000000000",
+          "pnl": "-0.00160000"
+        },
         {
           "margin": "0.01350000000000000000000000",
           "pnl": "-0.01080000"
@@ -3441,24 +3591,30 @@
       "ip": "2409:40e5:1011:b4b2:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "-4.616",
+      "pnl": "-4.7692",
       "roe": "-80.0",
       "source": "mobile_app_android"
     },
-    "size": 19275,
-    "stop_order_type": null,
+    "limit_price": "0.01",
+    "product_symbol": "P-ETH-1710-200626",
+    "bracket_trail_amount": null,
+    "unfilled_size": 7352,
+    "mmp": "disabled",
     "average_fill_price": "0.01",
-    "margin_mode": "portfolio",
+    "stop_trigger_method": null,
+    "quote_size": null,
+    "cancellation_reason": null,
+    "size": 19275,
+    "bracket_stop_loss_limit_price": null,
+    "stop_order_type": null,
     "side": "sell",
     "trail_amount": null,
-    "cancellation_reason": null,
+    "product_id": 139263,
+    "bracket_order": null,
+    "user_id": 21672861,
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-20T11:47:57.157696Z",
-    "updated_at": "2026-06-20T11:54:28.682198Z",
-    "id": 1374757992,
-    "order_type": "limit_order",
-    "bracket_stop_loss_limit_price": null,
     "product": {
       "id": 139263,
       "symbol": "P-ETH-1710-200626",
@@ -3486,12 +3642,16 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "bracket_trail_amount": null,
+    "bracket_take_profit_limit_price": null,
+    "id": 1374757992,
+    "order_type": "limit_order",
+    "margin_mode": "portfolio",
     "state": "open",
-    "commission": "0",
-    "user_id": 21672861,
-    "bracket_order": null,
+    "client_order_id": null,
     "bracket_stop_loss_price": null,
+    "commission": "0",
+    "updated_at": "2026-06-20T11:54:48.629784Z",
+    "bracket_take_profit_price": null,
     "time_in_force": "gtc"
   }
 ]
