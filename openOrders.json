@@ -1,61 +1,111 @@
 [
   {
-    "bracket_trail_amount": null,
-    "quote_size": null,
-    "paid_commission": "0.01906408",
-    "reduce_only": false,
-    "stop_order_type": null,
-    "bracket_take_profit_limit_price": null,
-    "cancellation_reason": null,
-    "trail_amount": null,
-    "margin_mode": "portfolio",
-    "bracket_take_profit_price": null,
-    "bracket_stop_loss_limit_price": null,
-    "time_in_force": "gtc",
-    "client_order_id": null,
-    "stop_price": null,
-    "commission": "0",
-    "size": 19275,
-    "stop_trigger_method": null,
-    "created_at": "2026-06-20T11:47:57.157696Z",
-    "order_type": "limit_order",
-    "unfilled_size": 14659,
-    "product_id": 139263,
-    "product": {
-      "id": 139263,
-      "symbol": "P-ETH-1710-200626",
-      "contract_type": "put_options",
-      "tick_size": "0.01",
-      "quoting_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "underlying_asset": {
-        "symbol": "ETH",
-        "precision": 18,
-        "minimum_precision": 4
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "contract_value": "0.01",
-      "notional_type": "vanilla",
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "contract_unit_currency": "ETH"
-    },
-    "product_symbol": "P-ETH-1710-200626",
-    "updated_at": "2026-06-20T11:49:49.592459Z",
-    "side": "sell",
+    "paid_commission": "0.02278934",
     "meta_data": {
       "avg_exit_price": "0.01",
-      "cashflow": "0.4616",
+      "cashflow": "0.5518",
       "entry_price": "0.05000000",
       "exit_price_with_size": [
+        {
+          "price": "0.01000000",
+          "size": "24"
+        },
+        {
+          "price": "0.01000000",
+          "size": "14"
+        },
+        {
+          "price": "0.01000000",
+          "size": "75"
+        },
+        {
+          "price": "0.01000000",
+          "size": "23"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "23"
+        },
+        {
+          "price": "0.01000000",
+          "size": "18"
+        },
+        {
+          "price": "0.01000000",
+          "size": "57"
+        },
+        {
+          "price": "0.01000000",
+          "size": "21"
+        },
+        {
+          "price": "0.01000000",
+          "size": "34"
+        },
+        {
+          "price": "0.01000000",
+          "size": "200"
+        },
+        {
+          "price": "0.01000000",
+          "size": "100"
+        },
+        {
+          "price": "0.01000000",
+          "size": "23"
+        },
+        {
+          "price": "0.01000000",
+          "size": "23"
+        },
+        {
+          "price": "0.01000000",
+          "size": "26"
+        },
+        {
+          "price": "0.01000000",
+          "size": "22"
+        },
+        {
+          "price": "0.01000000",
+          "size": "22"
+        },
+        {
+          "price": "0.01000000",
+          "size": "23"
+        },
+        {
+          "price": "0.01000000",
+          "size": "41"
+        },
+        {
+          "price": "0.01000000",
+          "size": "1"
+        },
+        {
+          "price": "0.01000000",
+          "size": "35"
+        },
+        {
+          "price": "0.01000000",
+          "size": "42"
+        },
+        {
+          "price": "0.01000000",
+          "size": "37"
+        },
+        {
+          "price": "0.01000000",
+          "size": "16"
+        },
         {
           "price": "0.01000000",
           "size": "1"
@@ -422,6 +472,106 @@
         }
       ],
       "fills_pnl_with_margin": [
+        {
+          "margin": "0.01200000000000000000000000",
+          "pnl": "-0.00960000"
+        },
+        {
+          "margin": "0.00700000000000000000000000",
+          "pnl": "-0.00560000"
+        },
+        {
+          "margin": "0.03750000000000000000000000",
+          "pnl": "-0.03000000"
+        },
+        {
+          "margin": "0.01150000000000000000000000",
+          "pnl": "-0.00920000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.01150000000000000000000000",
+          "pnl": "-0.00920000"
+        },
+        {
+          "margin": "0.00900000000000000000000000",
+          "pnl": "-0.00720000"
+        },
+        {
+          "margin": "0.02850000000000000000000000",
+          "pnl": "-0.02280000"
+        },
+        {
+          "margin": "0.01050000000000000000000000",
+          "pnl": "-0.00840000"
+        },
+        {
+          "margin": "0.01700000000000000000000000",
+          "pnl": "-0.01360000"
+        },
+        {
+          "margin": "0.10000000000000000000000000",
+          "pnl": "-0.08000000"
+        },
+        {
+          "margin": "0.05000000000000000000000000",
+          "pnl": "-0.04000000"
+        },
+        {
+          "margin": "0.01150000000000000000000000",
+          "pnl": "-0.00920000"
+        },
+        {
+          "margin": "0.01150000000000000000000000",
+          "pnl": "-0.00920000"
+        },
+        {
+          "margin": "0.01300000000000000000000000",
+          "pnl": "-0.01040000"
+        },
+        {
+          "margin": "0.01100000000000000000000000",
+          "pnl": "-0.00880000"
+        },
+        {
+          "margin": "0.01100000000000000000000000",
+          "pnl": "-0.00880000"
+        },
+        {
+          "margin": "0.01150000000000000000000000",
+          "pnl": "-0.00920000"
+        },
+        {
+          "margin": "0.02050000000000000000000000",
+          "pnl": "-0.01640000"
+        },
+        {
+          "margin": "0.00050000000000000000000000",
+          "pnl": "-0.00040000"
+        },
+        {
+          "margin": "0.01750000000000000000000000",
+          "pnl": "-0.01400000"
+        },
+        {
+          "margin": "0.02100000000000000000000000",
+          "pnl": "-0.01680000"
+        },
+        {
+          "margin": "0.01850000000000000000000000",
+          "pnl": "-0.01480000"
+        },
+        {
+          "margin": "0.00800000000000000000000000",
+          "pnl": "-0.00640000"
+        },
         {
           "margin": "0.00050000000000000000000000",
           "pnl": "-0.00040000"
@@ -790,17 +940,67 @@
       "ip": "2409:40e5:1011:b4b2:8000::",
       "order_source": "place_order",
       "otc": false,
-      "pnl": "-1.8464",
+      "pnl": "-2.2072",
       "roe": "-80.0",
       "source": "mobile_app_android"
     },
-    "mmp": "disabled",
     "limit_price": "0.01",
-    "id": 1374757992,
-    "bracket_order": null,
-    "state": "open",
+    "product_symbol": "P-ETH-1710-200626",
+    "bracket_trail_amount": null,
+    "unfilled_size": 13757,
+    "mmp": "disabled",
     "average_fill_price": "0.01",
+    "stop_trigger_method": null,
+    "quote_size": null,
+    "cancellation_reason": null,
+    "size": 19275,
+    "bracket_stop_loss_limit_price": null,
+    "stop_order_type": null,
+    "side": "sell",
+    "trail_amount": null,
+    "product_id": 139263,
+    "bracket_order": null,
+    "user_id": 21672861,
+    "stop_price": null,
+    "reduce_only": false,
+    "created_at": "2026-06-20T11:47:57.157696Z",
+    "product": {
+      "id": 139263,
+      "symbol": "P-ETH-1710-200626",
+      "contract_type": "put_options",
+      "tick_size": "0.01",
+      "quoting_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "underlying_asset": {
+        "symbol": "ETH",
+        "precision": 18,
+        "minimum_precision": 4
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "contract_value": "0.01",
+      "notional_type": "vanilla",
+      "settling_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "contract_unit_currency": "ETH"
+    },
+    "bracket_take_profit_limit_price": null,
+    "id": 1374757992,
+    "order_type": "limit_order",
+    "margin_mode": "portfolio",
+    "state": "open",
+    "client_order_id": null,
     "bracket_stop_loss_price": null,
-    "user_id": 21672861
+    "commission": "0",
+    "updated_at": "2026-06-20T11:50:09.399358Z",
+    "bracket_take_profit_price": null,
+    "time_in_force": "gtc"
   }
 ]
