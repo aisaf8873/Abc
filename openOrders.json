@@ -1,6 +1,14 @@
 [
   {
-    "paid_commission": "0",
+    "commission": "0",
+    "limit_price": "4.95",
+    "time_in_force": "gtc",
+    "bracket_order": null,
+    "cancellation_reason": null,
+    "unfilled_size": 5000,
+    "bracket_trail_amount": null,
+    "created_at": "2026-06-20T18:57:49.784313Z",
+    "stop_trigger_method": null,
     "meta_data": {
       "ip": "2409:40e4:1230:91f:8000::",
       "order_source": "place_order",
@@ -8,26 +16,16 @@
       "source": "mobile_app_android",
       "user_updated_at": "2026-06-20T19:11:03.004Z"
     },
-    "limit_price": "4.95",
     "product_symbol": "C-ETH-1760-210626",
-    "bracket_trail_amount": null,
-    "unfilled_size": 5000,
-    "mmp": "disabled",
-    "average_fill_price": null,
-    "stop_trigger_method": null,
-    "quote_size": null,
-    "cancellation_reason": null,
-    "size": 5000,
-    "bracket_stop_loss_limit_price": null,
-    "stop_order_type": null,
-    "side": "sell",
-    "trail_amount": null,
     "product_id": 139127,
-    "bracket_order": null,
-    "user_id": 21672861,
-    "stop_price": null,
-    "reduce_only": false,
-    "created_at": "2026-06-20T18:57:49.784313Z",
+    "paid_commission": "0",
+    "quote_size": null,
+    "trail_amount": null,
+    "side": "sell",
+    "size": 5000,
+    "margin_mode": "portfolio",
+    "stop_order_type": null,
+    "client_order_id": null,
     "product": {
       "id": 139127,
       "symbol": "C-ETH-1760-210626",
@@ -43,28 +41,30 @@
         "precision": 18,
         "minimum_precision": 4
       },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "contract_value": "0.01",
-      "notional_type": "vanilla",
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
         "minimum_precision": 2
       },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "contract_value": "0.01",
+      "notional_type": "vanilla",
       "contract_unit_currency": "ETH"
     },
-    "bracket_take_profit_limit_price": null,
+    "bracket_take_profit_price": null,
+    "user_id": 21672861,
+    "stop_price": null,
+    "reduce_only": false,
     "id": 1375310950,
     "order_type": "limit_order",
-    "margin_mode": "portfolio",
+    "mmp": "disabled",
+    "bracket_take_profit_limit_price": null,
     "state": "open",
-    "client_order_id": null,
-    "bracket_stop_loss_price": null,
-    "commission": "0",
     "updated_at": "2026-06-20T19:11:03.005288Z",
-    "bracket_take_profit_price": null,
-    "time_in_force": "gtc"
+    "average_fill_price": null,
+    "bracket_stop_loss_price": null,
+    "bracket_stop_loss_limit_price": null
   }
 ]
