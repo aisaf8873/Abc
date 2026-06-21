@@ -6,16 +6,16 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T08:05:18.775Z"
+      "user_updated_at": "2026-06-21T08:05:44.762Z"
     },
     "cancellation_reason": null,
-    "limit_price": "176",
+    "limit_price": 206,
     "paid_commission": "0",
     "side": "sell",
     "unfilled_size": 500,
     "margin_mode": "portfolio",
     "stop_trigger_method": null,
-    "updated_at": "2026-06-21T08:05:18.775578Z",
+    "updated_at": "2026-06-21T08:05:44.762998Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "quote_size": null,
@@ -70,21 +70,38 @@
   {
     "bracket_trail_amount": null,
     "meta_data": {
+      "avg_exit_price": "110.1",
+      "cashflow": "-40.9572",
+      "entry_price": "159.00000000",
+      "exit_price_with_size": [
+        {
+          "price": "110.10000000",
+          "size": "-372"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-59.14800000000000000000000000",
+          "pnl": "18.19080000"
+        }
+      ],
       "ip": "2409:40e4:1230:91f:8000::",
       "otc": false,
+      "pnl": "18.1908",
+      "roe": "-30.75471698113207547169811321",
       "source": "mobile_app_android",
       "user_updated_at": "2026-06-21T08:01:43.804Z"
     },
     "cancellation_reason": null,
     "limit_price": "110.1",
-    "paid_commission": "0",
+    "paid_commission": "1.69153236",
     "side": "buy",
-    "unfilled_size": 500,
+    "unfilled_size": 128,
     "margin_mode": "portfolio",
     "stop_trigger_method": null,
-    "updated_at": "2026-06-21T08:01:43.804517Z",
+    "updated_at": "2026-06-21T08:05:43.699113Z",
     "mmp": "disabled",
-    "average_fill_price": null,
+    "average_fill_price": "110.1",
     "quote_size": null,
     "bracket_order": null,
     "size": 500,
@@ -276,16 +293,16 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T08:05:19.139Z"
+      "user_updated_at": "2026-06-21T08:05:47.182Z"
     },
     "cancellation_reason": null,
-    "limit_price": "119",
+    "limit_price": "140",
     "paid_commission": "0",
     "side": "sell",
     "unfilled_size": 1000,
     "margin_mode": "portfolio",
     "stop_trigger_method": null,
-    "updated_at": "2026-06-21T08:05:19.139975Z",
+    "updated_at": "2026-06-21T08:05:47.182669Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "quote_size": null,
@@ -347,7 +364,7 @@
       "user_updated_at": "2026-06-21T08:05:20.033Z"
     },
     "cancellation_reason": null,
-    "limit_price": "84",
+    "limit_price": 88.9,
     "paid_commission": "0",
     "side": "sell",
     "unfilled_size": 500,
@@ -550,7 +567,7 @@
       "user_updated_at": "2026-06-21T08:05:19.560Z"
     },
     "cancellation_reason": null,
-    "limit_price": "287",
+    "limit_price": 299,
     "paid_commission": "0",
     "side": "sell",
     "unfilled_size": 1000,
@@ -618,7 +635,7 @@
       "user_updated_at": "2026-06-21T08:05:19.435Z"
     },
     "cancellation_reason": null,
-    "limit_price": "284",
+    "limit_price": 248,
     "paid_commission": "0",
     "side": "sell",
     "unfilled_size": 1000,
@@ -686,7 +703,7 @@
       "user_updated_at": "2026-06-21T08:05:20.216Z"
     },
     "cancellation_reason": null,
-    "limit_price": "197.5",
+    "limit_price": 189,
     "paid_commission": "0",
     "side": "sell",
     "unfilled_size": 500,
