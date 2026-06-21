@@ -1,12 +1,12 @@
 [
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": "419",
+    "limit_price": 419,
     "margin_mode": "portfolio",
     "unfilled_size": 500,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-21T11:09:42.327750Z",
+    "updated_at": "2026-06-21T11:11:49.000145Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 139106,
@@ -54,7 +54,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T11:09:42.327Z"
+      "user_updated_at": "2026-06-21T11:11:48.999Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1375896601,
@@ -547,12 +547,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 209,
+    "limit_price": 199,
     "margin_mode": "portfolio",
     "unfilled_size": 1000,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-21T11:11:18.158320Z",
+    "updated_at": "2026-06-21T11:11:48.208976Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 139105,
@@ -600,7 +600,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T11:11:18.157Z"
+      "user_updated_at": "2026-06-21T11:11:48.208Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1375764811,
@@ -755,12 +755,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 599,
+    "limit_price": "732",
     "margin_mode": "portfolio",
     "unfilled_size": 918,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-21T11:09:15.947142Z",
+    "updated_at": "2026-06-21T11:11:47.234046Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 139106,
@@ -810,7 +810,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T11:09:15.946Z"
+      "user_updated_at": "2026-06-21T11:11:47.233Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1375763399,
