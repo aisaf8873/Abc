@@ -3,17 +3,86 @@
     "bracket_trail_amount": null,
     "meta_data": {
       "ip": "2409:40e4:1230:91f:8000::",
+      "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-06-21T07:58:02.839Z"
     },
     "cancellation_reason": null,
-    "limit_price": "122",
+    "limit_price": "189",
+    "paid_commission": "0",
+    "side": "sell",
+    "unfilled_size": 500,
+    "margin_mode": "portfolio",
+    "stop_trigger_method": null,
+    "updated_at": "2026-06-21T07:58:02.840431Z",
+    "mmp": "disabled",
+    "average_fill_price": null,
+    "quote_size": null,
+    "bracket_order": null,
+    "size": 500,
+    "bracket_take_profit_limit_price": null,
+    "stop_order_type": null,
+    "bracket_take_profit_price": null,
+    "time_in_force": "gtc",
+    "trail_amount": null,
+    "stop_price": null,
+    "reduce_only": false,
+    "product_id": 139096,
+    "product_symbol": "P-BTC-64200-210626",
+    "product": {
+      "id": 139096,
+      "symbol": "P-BTC-64200-210626",
+      "contract_type": "put_options",
+      "tick_size": "0.1",
+      "quoting_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "underlying_asset": {
+        "symbol": "BTC",
+        "precision": 8,
+        "minimum_precision": 4
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "contract_value": "0.001",
+      "notional_type": "vanilla",
+      "settling_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "contract_unit_currency": "BTC"
+    },
+    "id": 1375766962,
+    "created_at": "2026-06-21T07:57:56.525284Z",
+    "order_type": "limit_order",
+    "client_order_id": null,
+    "bracket_stop_loss_price": null,
+    "state": "open",
+    "user_id": 21672861,
+    "commission": "0",
+    "bracket_stop_loss_limit_price": null
+  },
+  {
+    "bracket_trail_amount": null,
+    "meta_data": {
+      "ip": "2409:40e4:1230:91f:8000::",
+      "otc": false,
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-06-21T07:58:11.423Z"
+    },
+    "cancellation_reason": null,
+    "limit_price": "123.1",
     "paid_commission": "0",
     "side": "buy",
     "unfilled_size": 500,
     "margin_mode": "portfolio",
     "stop_trigger_method": null,
-    "updated_at": "2026-06-21T07:57:03.035247Z",
+    "updated_at": "2026-06-21T07:58:11.424148Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "quote_size": null,
