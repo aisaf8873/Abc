@@ -337,7 +337,7 @@
   },
   {
     "commission": "0",
-    "limit_price": 279,
+    "limit_price": "279",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -350,7 +350,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T09:43:18.592Z"
+      "user_updated_at": "2026-06-21T09:43:43.132Z"
     },
     "product_symbol": "C-BTC-64000-210626",
     "product_id": 139107,
@@ -398,7 +398,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-21T09:43:18.593271Z",
+    "updated_at": "2026-06-21T09:43:43.132479Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
@@ -473,7 +473,7 @@
   },
   {
     "commission": "0",
-    "limit_price": 264,
+    "limit_price": 199,
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -488,7 +488,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T09:43:33.212Z"
+      "user_updated_at": "2026-06-21T09:43:53.235Z"
     },
     "product_symbol": "P-BTC-64200-210626",
     "product_id": 139096,
@@ -536,7 +536,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-21T09:43:33.212646Z",
+    "updated_at": "2026-06-21T09:43:53.235915Z",
     "average_fill_price": "260.25884016973125884",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
@@ -746,7 +746,7 @@
   },
   {
     "commission": "0",
-    "limit_price": 319,
+    "limit_price": "319",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -761,7 +761,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T09:43:25.687Z"
+      "user_updated_at": "2026-06-21T09:43:49.734Z"
     },
     "product_symbol": "P-BTC-64200-210626",
     "product_id": 139096,
@@ -809,14 +809,14 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-21T09:43:25.688048Z",
+    "updated_at": "2026-06-21T09:43:49.734670Z",
     "average_fill_price": "399",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
     "commission": "0",
-    "limit_price": 133,
+    "limit_price": 133.13,
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -831,7 +831,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-21T09:43:23.084Z"
+      "user_updated_at": "2026-06-21T09:43:37.077Z"
     },
     "product_symbol": "C-BTC-64200-210626",
     "product_id": 139106,
@@ -879,7 +879,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-21T09:43:23.084821Z",
+    "updated_at": "2026-06-21T09:43:37.078384Z",
     "average_fill_price": "106",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
