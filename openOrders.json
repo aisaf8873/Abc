@@ -488,9 +488,9 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_trigger_method": null,
-    "limit_price": 1699,
+    "limit_price": "1699",
     "bracket_trail_amount": null,
-    "updated_at": "2026-06-23T06:24:39.778766Z",
+    "updated_at": "2026-06-23T08:34:53.443076Z",
     "product": {
       "id": 139366,
       "symbol": "P-BTC-63200-230626",
@@ -532,7 +532,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-23T06:24:39.778Z"
+      "user_updated_at": "2026-06-23T08:34:53.442Z"
     },
     "bracket_take_profit_price": null,
     "order_type": "limit_order",
