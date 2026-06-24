@@ -1,89 +1,5 @@
 [
   {
-    "product_id": 139541,
-    "limit_price": "99",
-    "product_symbol": "P-BTC-62600-240626",
-    "mmp": "disabled",
-    "client_order_id": null,
-    "unfilled_size": 4,
-    "bracket_take_profit_price": null,
-    "paid_commission": "0.3966039",
-    "stop_trigger_method": null,
-    "bracket_take_profit_limit_price": null,
-    "quote_size": null,
-    "meta_data": {
-      "avg_exit_price": "99",
-      "cashflow": "-9.603",
-      "entry_price": "130.7287070854638422205989774",
-      "exit_price_with_size": [
-        {
-          "price": "99.00000000",
-          "size": "-97"
-        }
-      ],
-      "fills_pnl_with_margin": [
-        {
-          "margin": "-12.68068458728999269539810081",
-          "pnl": "3.07768458"
-        }
-      ],
-      "ip": "2409:40e4:1119:d2fa:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "pnl": "3.07768458",
-      "roe": "-24.27065004901077181671747852",
-      "source": "mobile_app_android"
-    },
-    "size": 101,
-    "stop_order_type": null,
-    "average_fill_price": "99",
-    "margin_mode": "portfolio",
-    "side": "buy",
-    "trail_amount": null,
-    "cancellation_reason": null,
-    "stop_price": null,
-    "reduce_only": false,
-    "created_at": "2026-06-24T10:35:51.493936Z",
-    "updated_at": "2026-06-24T10:37:53.949128Z",
-    "id": 1380559059,
-    "order_type": "limit_order",
-    "bracket_stop_loss_limit_price": null,
-    "product": {
-      "id": 139541,
-      "symbol": "P-BTC-62600-240626",
-      "contract_type": "put_options",
-      "tick_size": "0.1",
-      "quoting_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "underlying_asset": {
-        "symbol": "BTC",
-        "precision": 8,
-        "minimum_precision": 4
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "contract_value": "0.001",
-      "notional_type": "vanilla",
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "contract_unit_currency": "BTC"
-    },
-    "bracket_trail_amount": null,
-    "state": "open",
-    "commission": "0",
-    "user_id": 21672861,
-    "bracket_order": null,
-    "bracket_stop_loss_price": null,
-    "time_in_force": "gtc"
-  },
-  {
     "product_id": 139536,
     "limit_price": "51",
     "product_symbol": "C-BTC-63000-240626",
@@ -153,7 +69,7 @@
   },
   {
     "product_id": 139518,
-    "limit_price": 63.8,
+    "limit_price": 65.3,
     "product_symbol": "P-BTC-62400-240626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -170,7 +86,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-24T10:37:52.563Z"
+      "user_updated_at": "2026-06-24T10:38:14.611Z"
     },
     "size": 1800,
     "stop_order_type": null,
@@ -182,7 +98,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-24T09:23:55.389078Z",
-    "updated_at": "2026-06-24T10:37:52.563765Z",
+    "updated_at": "2026-06-24T10:38:14.611640Z",
     "id": 1380477750,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
@@ -291,7 +207,7 @@
   },
   {
     "product_id": 139542,
-    "limit_price": 159,
+    "limit_price": "159",
     "product_symbol": "C-BTC-62600-240626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -306,7 +222,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-24T10:37:45.526Z"
+      "user_updated_at": "2026-06-24T10:38:06.582Z"
     },
     "size": 1000,
     "stop_order_type": null,
@@ -318,7 +234,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-24T07:01:42.351649Z",
-    "updated_at": "2026-06-24T10:37:45.526375Z",
+    "updated_at": "2026-06-24T10:38:06.583153Z",
     "id": 1380336514,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
@@ -359,7 +275,7 @@
   },
   {
     "product_id": 139535,
-    "limit_price": 614,
+    "limit_price": "614",
     "product_symbol": "P-BTC-63000-240626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -374,7 +290,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-24T10:37:46.873Z"
+      "user_updated_at": "2026-06-24T10:38:06.132Z"
     },
     "size": 500,
     "stop_order_type": null,
@@ -386,7 +302,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-24T07:01:18.130706Z",
-    "updated_at": "2026-06-24T10:37:46.873482Z",
+    "updated_at": "2026-06-24T10:38:06.133153Z",
     "id": 1380336118,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
@@ -427,7 +343,7 @@
   },
   {
     "product_id": 139535,
-    "limit_price": "1899",
+    "limit_price": 1899,
     "product_symbol": "P-BTC-63000-240626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -495,7 +411,7 @@
   },
   {
     "product_id": 139541,
-    "limit_price": 196,
+    "limit_price": "196",
     "product_symbol": "P-BTC-62600-240626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -510,7 +426,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-24T10:37:40.459Z"
+      "user_updated_at": "2026-06-24T10:38:05.176Z"
     },
     "size": 1000,
     "stop_order_type": null,
@@ -522,7 +438,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-24T07:00:34.595150Z",
-    "updated_at": "2026-06-24T10:37:40.459616Z",
+    "updated_at": "2026-06-24T10:38:05.177259Z",
     "id": 1380335402,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
