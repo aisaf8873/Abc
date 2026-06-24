@@ -1,12 +1,12 @@
 [
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 14.95,
+    "limit_price": "14.95",
     "margin_mode": "portfolio",
     "unfilled_size": 3000,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-24T15:04:23.159040Z",
+    "updated_at": "2026-06-24T15:04:41.631238Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 139712,
@@ -54,7 +54,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-24T15:04:23.158Z"
+      "user_updated_at": "2026-06-24T15:04:41.630Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1381145641,
