@@ -1,7 +1,7 @@
 [
   {
     "commission": "0",
-    "limit_price": 8.75,
+    "limit_price": "9.65",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -14,7 +14,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-25T07:00:44.694Z"
+      "user_updated_at": "2026-06-25T07:01:15.231Z"
     },
     "product_symbol": "C-ETH-1660-250626",
     "product_id": 139665,
@@ -62,14 +62,14 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-25T07:00:44.694671Z",
+    "updated_at": "2026-06-25T07:01:15.232423Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
   },
   {
     "commission": "0",
-    "limit_price": "12.95",
+    "limit_price": "14.95",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -84,7 +84,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-25T06:58:41.441Z"
+      "user_updated_at": "2026-06-25T07:01:16.012Z"
     },
     "product_symbol": "C-ETH-1660-250626",
     "product_id": 139665,
@@ -132,7 +132,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-25T06:58:41.441635Z",
+    "updated_at": "2026-06-25T07:01:16.012947Z",
     "average_fill_price": "9.88",
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
