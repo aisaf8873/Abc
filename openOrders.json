@@ -69,7 +69,7 @@
   },
   {
     "product_id": 128719,
-    "limit_price": 6.75,
+    "limit_price": "6.75",
     "product_symbol": "P-ETH-1500-260626",
     "mmp": "disabled",
     "client_order_id": null,
@@ -84,7 +84,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-25T18:11:19.759Z"
+      "user_updated_at": "2026-06-25T18:11:36.555Z"
     },
     "size": 3000,
     "stop_order_type": null,
@@ -96,7 +96,7 @@
     "stop_price": null,
     "reduce_only": false,
     "created_at": "2026-06-25T15:32:49.803195Z",
-    "updated_at": "2026-06-25T18:11:19.760165Z",
+    "updated_at": "2026-06-25T18:11:36.555894Z",
     "id": 1383357196,
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
