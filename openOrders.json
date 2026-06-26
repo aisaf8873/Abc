@@ -73,7 +73,7 @@
     "unfilled_size": 3000,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-26T02:56:33.899989Z",
+    "updated_at": "2026-06-26T02:56:54.472083Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 140163,
@@ -121,7 +121,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-26T02:56:33.899Z"
+      "user_updated_at": "2026-06-26T02:56:54.471Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1383973245,
@@ -206,12 +206,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 29.85,
+    "limit_price": 29.95,
     "margin_mode": "portfolio",
     "unfilled_size": 2861,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-26T02:46:58.934332Z",
+    "updated_at": "2026-06-26T02:56:51.021827Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 139993,
@@ -261,7 +261,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-26T02:46:58.933Z"
+      "user_updated_at": "2026-06-26T02:56:51.021Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1383836584,
@@ -344,12 +344,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": 14.95,
+    "limit_price": 9.85,
     "margin_mode": "portfolio",
     "unfilled_size": 2951,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-26T02:56:30.495501Z",
+    "updated_at": "2026-06-26T02:56:49.007558Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 140017,
@@ -399,7 +399,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-26T02:56:30.495Z"
+      "user_updated_at": "2026-06-26T02:56:49.007Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1383803327,
@@ -482,7 +482,7 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": "12.95",
+    "limit_price": 11.95,
     "margin_mode": "portfolio",
     "unfilled_size": 2281,
     "mmp": "disabled",
