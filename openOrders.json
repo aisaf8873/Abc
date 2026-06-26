@@ -1,12 +1,12 @@
 [
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": "4.45",
+    "limit_price": 5.45,
     "margin_mode": "portfolio",
     "unfilled_size": 3000,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-26T02:08:08.811670Z",
+    "updated_at": "2026-06-26T02:09:29.028343Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 139993,
@@ -54,7 +54,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-26T02:08:08.811Z"
+      "user_updated_at": "2026-06-26T02:09:29.027Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1383836584,
@@ -204,7 +204,7 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": "2.95",
+    "limit_price": 3.75,
     "margin_mode": "portfolio",
     "unfilled_size": 2951,
     "mmp": "disabled",
@@ -342,12 +342,12 @@
   },
   {
     "bracket_take_profit_limit_price": null,
-    "limit_price": "2.35",
+    "limit_price": 3.95,
     "margin_mode": "portfolio",
     "unfilled_size": 2281,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-06-26T02:08:08.419758Z",
+    "updated_at": "2026-06-26T02:09:25.076779Z",
     "bracket_trail_amount": null,
     "stop_trigger_method": null,
     "product_id": 128719,
@@ -397,7 +397,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-06-26T02:08:08.419Z"
+      "user_updated_at": "2026-06-26T02:09:25.076Z"
     },
     "bracket_stop_loss_limit_price": null,
     "id": 1383357196,
