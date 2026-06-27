@@ -1685,7 +1685,7 @@
   },
   {
     "commission": "0",
-    "limit_price": "20",
+    "limit_price": "27.05",
     "time_in_force": "gtc",
     "bracket_order": null,
     "cancellation_reason": null,
@@ -1697,7 +1697,8 @@
       "ip": "2401:4900:8927:6750:ccbf:cdbd:f1ef:565b",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-06-27T01:14:56.587Z"
     },
     "product_symbol": "C-ETH-1800-250926",
     "product_id": 140243,
@@ -1745,7 +1746,7 @@
     "mmp": "disabled",
     "bracket_take_profit_limit_price": null,
     "state": "open",
-    "updated_at": "2026-06-26T13:43:17.758068Z",
+    "updated_at": "2026-06-27T01:14:56.587883Z",
     "average_fill_price": null,
     "bracket_stop_loss_price": null,
     "bracket_stop_loss_limit_price": null
