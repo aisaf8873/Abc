@@ -1,32 +1,25 @@
 [
   {
     "limit_price": "83.1",
-    "product_symbol": "P-ETH-1700-040726",
-    "paid_commission": "0",
-    "product_id": 140914,
-    "bracket_stop_loss_limit_price": null,
-    "bracket_trail_amount": null,
-    "cancellation_reason": null,
-    "reduce_only": false,
-    "bracket_order": null,
-    "stop_price": null,
     "quote_size": null,
-    "trail_amount": null,
-    "size": 5,
-    "side": "buy",
-    "bracket_take_profit_price": null,
+    "client_order_id": null,
+    "product_id": 140914,
+    "user_id": 21672861,
+    "commission": "0",
+    "created_at": "2026-07-01T20:49:39.928405Z",
+    "stop_price": null,
     "product": {
       "id": 140914,
       "symbol": "P-ETH-1700-040726",
       "contract_type": "put_options",
       "notional_type": "vanilla",
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
         "minimum_precision": 2
+      },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
       },
       "contract_value": "0.01",
       "underlying_asset": {
@@ -42,27 +35,34 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "order_type": "limit_order",
+    "stop_order_type": null,
+    "reduce_only": false,
+    "bracket_take_profit_limit_price": null,
+    "mmp": "disabled",
+    "margin_mode": "portfolio",
+    "cancellation_reason": null,
+    "bracket_order": null,
     "meta_data": {
       "ip": "13.203.159.91",
       "otc": false,
       "source": "api"
     },
+    "size": 5,
+    "side": "buy",
+    "bracket_stop_loss_limit_price": null,
+    "trail_amount": null,
+    "paid_commission": "0",
     "stop_trigger_method": null,
-    "bracket_take_profit_limit_price": null,
-    "client_order_id": null,
-    "user_id": 21672861,
-    "commission": "0",
-    "updated_at": "2026-07-01T20:49:39.928405Z",
-    "created_at": "2026-07-01T20:49:39.928405Z",
-    "stop_order_type": null,
+    "average_fill_price": null,
+    "bracket_trail_amount": null,
+    "product_symbol": "P-ETH-1700-040726",
     "id": 1393816307,
-    "margin_mode": "portfolio",
+    "bracket_take_profit_price": null,
     "time_in_force": "gtc",
-    "mmp": "disabled",
+    "order_type": "limit_order",
     "state": "open",
     "unfilled_size": 5,
-    "average_fill_price": null,
+    "updated_at": "2026-07-01T20:49:39.928405Z",
     "bracket_stop_loss_price": null
   }
 ]
