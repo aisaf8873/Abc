@@ -68,7 +68,7 @@
     "time_in_force": "gtc"
   },
   {
-    "limit_price": "249",
+    "limit_price": 249.61,
     "bracket_order": null,
     "meta_data": {
       "ip": "2409:40e4:1012:3396:8000::",
@@ -136,7 +136,7 @@
     "time_in_force": "gtc"
   },
   {
-    "limit_price": "91",
+    "limit_price": "92",
     "bracket_order": null,
     "meta_data": {
       "cashflow": "7.05",
@@ -145,7 +145,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T03:12:05.233Z"
+      "user_updated_at": "2026-07-05T03:12:30.042Z"
     },
     "margin_mode": "portfolio",
     "user_id": 21672861,
@@ -197,7 +197,7 @@
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-07-05T03:12:05.234141Z",
+    "updated_at": "2026-07-05T03:12:30.043058Z",
     "quote_size": null,
     "id": 1399197303,
     "side": "sell",
@@ -274,14 +274,14 @@
     "time_in_force": "gtc"
   },
   {
-    "limit_price": "174",
+    "limit_price": "168",
     "bracket_order": null,
     "meta_data": {
       "ip": "2409:40e4:1012:3396:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T03:11:39.501Z"
+      "user_updated_at": "2026-07-05T03:12:33.119Z"
     },
     "margin_mode": "portfolio",
     "user_id": 21672861,
@@ -333,7 +333,7 @@
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-07-05T03:11:39.511364Z",
+    "updated_at": "2026-07-05T03:12:33.120215Z",
     "quote_size": null,
     "id": 1399186651,
     "side": "sell",
@@ -342,14 +342,14 @@
     "time_in_force": "gtc"
   },
   {
-    "limit_price": 349,
+    "limit_price": "349",
     "bracket_order": null,
     "meta_data": {
       "ip": "2409:40e4:1012:3396:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T03:08:23.264Z"
+      "user_updated_at": "2026-07-05T03:12:26.753Z"
     },
     "margin_mode": "portfolio",
     "user_id": 21672861,
@@ -401,7 +401,7 @@
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-07-05T03:08:23.264681Z",
+    "updated_at": "2026-07-05T03:12:26.753732Z",
     "quote_size": null,
     "id": 1399186463,
     "side": "sell",
