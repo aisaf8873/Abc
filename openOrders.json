@@ -1,13 +1,13 @@
 [
   {
-    "limit_price": "179",
+    "limit_price": "199",
     "bracket_order": null,
     "meta_data": {
       "ip": "2409:40e4:1012:3396:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:52:45.244Z"
+      "user_updated_at": "2026-07-05T05:53:25.059Z"
     },
     "margin_mode": "portfolio",
     "user_id": 21672861,
@@ -59,7 +59,7 @@
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-07-05T05:52:45.244584Z",
+    "updated_at": "2026-07-05T05:53:25.059677Z",
     "quote_size": null,
     "id": 1399200475,
     "side": "sell",
@@ -68,14 +68,14 @@
     "time_in_force": "gtc"
   },
   {
-    "limit_price": 248.9,
+    "limit_price": "248.9",
     "bracket_order": null,
     "meta_data": {
       "ip": "2409:40e4:1012:3396:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:52:33.995Z"
+      "user_updated_at": "2026-07-05T05:52:46.713Z"
     },
     "margin_mode": "portfolio",
     "user_id": 21672861,
@@ -127,7 +127,7 @@
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-07-05T05:52:33.995951Z",
+    "updated_at": "2026-07-05T05:52:46.714243Z",
     "quote_size": null,
     "id": 1399200370,
     "side": "sell",
