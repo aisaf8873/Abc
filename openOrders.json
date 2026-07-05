@@ -6,8 +6,8 @@
     "product_id": 141024,
     "bracket_take_profit_price": null,
     "user_id": 21672861,
-    "updated_at": "2026-07-05T11:44:05.628884Z",
-    "unfilled_size": 11063,
+    "updated_at": "2026-07-05T11:44:25.723318Z",
+    "unfilled_size": 10695,
     "product": {
       "id": 141024,
       "symbol": "P-ETH-1580-050726",
@@ -42,14 +42,14 @@
     "product_symbol": "P-ETH-1580-050726",
     "size": 19024,
     "meta_data": {
-      "cashflow": "0.7961",
+      "cashflow": "0.8329",
       "ip": "2409:40e4:66:7de:8000::",
       "order_source": "place_order",
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android"
     },
-    "paid_commission": "0.03287893",
+    "paid_commission": "0.03439877",
     "bracket_stop_loss_price": null,
     "bracket_trail_amount": null,
     "mmp": "disabled",
