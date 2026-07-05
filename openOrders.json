@@ -74,7 +74,7 @@
     "product_id": 141051,
     "bracket_take_profit_price": null,
     "user_id": 21672861,
-    "updated_at": "2026-07-05T09:52:13.781010Z",
+    "updated_at": "2026-07-05T09:53:27.666830Z",
     "unfilled_size": 557,
     "product": {
       "id": 141051,
@@ -116,7 +116,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T09:52:13.780Z"
+      "user_updated_at": "2026-07-05T09:53:27.666Z"
     },
     "paid_commission": "2.3601711",
     "bracket_stop_loss_price": null,
@@ -129,7 +129,7 @@
     "stop_price": null,
     "created_at": "2026-07-05T02:24:47.287653Z",
     "id": 1399186651,
-    "limit_price": 169,
+    "limit_price": "198",
     "side": "sell",
     "trail_amount": null,
     "state": "open",
@@ -144,7 +144,7 @@
     "product_id": 141052,
     "bracket_take_profit_price": null,
     "user_id": 21672861,
-    "updated_at": "2026-07-05T09:52:57.640794Z",
+    "updated_at": "2026-07-05T09:53:39.714865Z",
     "unfilled_size": 1000,
     "product": {
       "id": 141052,
@@ -184,7 +184,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T09:52:57.640Z"
+      "user_updated_at": "2026-07-05T09:53:39.714Z"
     },
     "paid_commission": "0",
     "bracket_stop_loss_price": null,
@@ -197,7 +197,7 @@
     "stop_price": null,
     "created_at": "2026-07-05T02:24:29.287271Z",
     "id": 1399186370,
-    "limit_price": 198,
+    "limit_price": "176",
     "side": "sell",
     "trail_amount": null,
     "state": "open",
