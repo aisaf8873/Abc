@@ -51,7 +51,7 @@
     },
     "id": 1399200475,
     "user_id": 21672861,
-    "limit_price": "174",
+    "limit_price": 199,
     "stop_price": null,
     "bracket_take_profit_limit_price": null,
     "state": "open",
@@ -255,7 +255,7 @@
     },
     "id": 1399186651,
     "user_id": 21672861,
-    "limit_price": "139",
+    "limit_price": 139,
     "stop_price": null,
     "bracket_take_profit_limit_price": null,
     "state": "open",
@@ -391,7 +391,7 @@
     },
     "id": 1399186370,
     "user_id": 21672861,
-    "limit_price": "424",
+    "limit_price": 444,
     "stop_price": null,
     "bracket_take_profit_limit_price": null,
     "state": "open",
@@ -459,20 +459,20 @@
     },
     "id": 1399186096,
     "user_id": 21672861,
-    "limit_price": 289,
+    "limit_price": 299,
     "stop_price": null,
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "mmp": "disabled",
     "unfilled_size": 1008,
-    "updated_at": "2026-07-05T05:59:24.808261Z",
+    "updated_at": "2026-07-05T05:59:40.337933Z",
     "product_symbol": "P-BTC-62800-050726",
     "meta_data": {
       "ip": "2409:40e4:1012:3396:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:59:24.807Z"
+      "user_updated_at": "2026-07-05T05:59:40.337Z"
     }
   },
   {
@@ -527,20 +527,20 @@
     },
     "id": 1399185983,
     "user_id": 21672861,
-    "limit_price": "217",
+    "limit_price": 217,
     "stop_price": null,
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "mmp": "disabled",
     "unfilled_size": 500,
-    "updated_at": "2026-07-05T05:57:56.636317Z",
+    "updated_at": "2026-07-05T05:59:44.859538Z",
     "product_symbol": "P-BTC-62800-050726",
     "meta_data": {
       "ip": "2409:40e4:1012:3396:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:57:56.635Z"
+      "user_updated_at": "2026-07-05T05:59:44.859Z"
     }
   }
 ]
