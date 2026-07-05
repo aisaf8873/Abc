@@ -156,7 +156,7 @@
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "order_type": "limit_order",
-    "limit_price": "499",
+    "limit_price": 399,
     "product": {
       "id": 141006,
       "symbol": "C-BTC-62800-050726",
@@ -219,7 +219,7 @@
     "quote_size": null,
     "size": 1000,
     "reduce_only": false,
-    "updated_at": "2026-07-05T07:59:03.480249Z",
+    "updated_at": "2026-07-05T07:59:13.374571Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "user_id": 21672861,
@@ -267,7 +267,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T07:59:03.479Z"
+      "user_updated_at": "2026-07-05T07:59:13.374Z"
     },
     "bracket_take_profit_price": null,
     "bracket_order": null
@@ -355,14 +355,14 @@
     "quote_size": null,
     "size": 500,
     "reduce_only": false,
-    "updated_at": "2026-07-05T07:59:04.185177Z",
+    "updated_at": "2026-07-05T07:59:10.206824Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "user_id": 21672861,
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "order_type": "limit_order",
-    "limit_price": 999,
+    "limit_price": "999",
     "product": {
       "id": 141052,
       "symbol": "C-BTC-62600-050726",
@@ -403,7 +403,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T07:59:04.184Z"
+      "user_updated_at": "2026-07-05T07:59:10.206Z"
     },
     "bracket_take_profit_price": null,
     "bracket_order": null
@@ -423,14 +423,14 @@
     "quote_size": null,
     "size": 1000,
     "reduce_only": false,
-    "updated_at": "2026-07-05T07:59:05.029836Z",
+    "updated_at": "2026-07-05T07:59:10.965137Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "user_id": 21672861,
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "order_type": "limit_order",
-    "limit_price": 1099,
+    "limit_price": "1099",
     "product": {
       "id": 141052,
       "symbol": "C-BTC-62600-050726",
@@ -471,7 +471,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T07:59:05.029Z"
+      "user_updated_at": "2026-07-05T07:59:10.964Z"
     },
     "bracket_take_profit_price": null,
     "bracket_order": null
@@ -491,14 +491,14 @@
     "quote_size": null,
     "size": 1008,
     "reduce_only": false,
-    "updated_at": "2026-07-05T07:58:45.654732Z",
+    "updated_at": "2026-07-05T07:59:11.881382Z",
     "mmp": "disabled",
     "average_fill_price": null,
     "user_id": 21672861,
     "stop_order_type": null,
     "bracket_take_profit_limit_price": null,
     "order_type": "limit_order",
-    "limit_price": 88,
+    "limit_price": "88",
     "product": {
       "id": 140987,
       "symbol": "P-BTC-62800-050726",
@@ -539,7 +539,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T07:58:45.654Z"
+      "user_updated_at": "2026-07-05T07:59:11.881Z"
     },
     "bracket_take_profit_price": null,
     "bracket_order": null
