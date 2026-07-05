@@ -7,7 +7,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T09:18:18.298Z"
+      "user_updated_at": "2026-07-05T09:19:14.625Z"
     },
     "bracket_take_profit_price": null,
     "bracket_stop_loss_price": null,
@@ -15,7 +15,7 @@
     "bracket_take_profit_limit_price": null,
     "cancellation_reason": null,
     "quote_size": null,
-    "updated_at": "2026-07-05T09:18:18.301375Z",
+    "updated_at": "2026-07-05T09:19:14.625516Z",
     "created_at": "2026-07-05T07:08:59.165658Z",
     "client_order_id": null,
     "side": "sell",
@@ -26,7 +26,7 @@
     "time_in_force": "gtc",
     "product_id": 141213,
     "average_fill_price": null,
-    "limit_price": 109,
+    "limit_price": "109",
     "stop_trigger_method": null,
     "margin_mode": "portfolio",
     "reduce_only": false,
@@ -417,7 +417,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T09:18:33.338Z"
+      "user_updated_at": "2026-07-05T09:19:14.153Z"
     },
     "bracket_take_profit_price": null,
     "bracket_stop_loss_price": null,
@@ -425,7 +425,7 @@
     "bracket_take_profit_limit_price": null,
     "cancellation_reason": null,
     "quote_size": null,
-    "updated_at": "2026-07-05T09:18:33.338352Z",
+    "updated_at": "2026-07-05T09:19:14.154049Z",
     "created_at": "2026-07-05T02:24:13.829740Z",
     "client_order_id": null,
     "side": "sell",
