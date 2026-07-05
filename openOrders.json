@@ -110,7 +110,7 @@
     "cancellation_reason": null,
     "bracket_order": null,
     "meta_data": {
-      "cashflow": "0.571",
+      "cashflow": "0.6233",
       "ip": "2409:40e4:66:7de:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -121,7 +121,7 @@
     "side": "sell",
     "bracket_stop_loss_limit_price": null,
     "trail_amount": null,
-    "paid_commission": "0.0235823",
+    "paid_commission": "0.02574229",
     "stop_trigger_method": null,
     "average_fill_price": "0.01",
     "bracket_trail_amount": null,
@@ -131,8 +131,8 @@
     "time_in_force": "gtc",
     "order_type": "limit_order",
     "state": "open",
-    "unfilled_size": 1240,
-    "updated_at": "2026-07-05T11:57:45.874502Z",
+    "unfilled_size": 717,
+    "updated_at": "2026-07-05T11:58:06.021787Z",
     "bracket_stop_loss_price": null
   },
   {
@@ -179,7 +179,7 @@
     "cancellation_reason": null,
     "bracket_order": null,
     "meta_data": {
-      "cashflow": "1.6379",
+      "cashflow": "1.6861",
       "ip": "2409:40e4:66:7de:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -190,7 +190,7 @@
     "side": "sell",
     "bracket_stop_loss_limit_price": null,
     "trail_amount": null,
-    "paid_commission": "0.06764527",
+    "paid_commission": "0.06963593",
     "stop_trigger_method": null,
     "average_fill_price": "0.01",
     "bracket_trail_amount": null,
@@ -200,8 +200,8 @@
     "time_in_force": "gtc",
     "order_type": "limit_order",
     "state": "open",
-    "unfilled_size": 2645,
-    "updated_at": "2026-07-05T11:57:46.180059Z",
+    "unfilled_size": 2163,
+    "updated_at": "2026-07-05T11:58:05.034381Z",
     "bracket_stop_loss_price": null
   }
 ]
