@@ -1,6 +1,6 @@
 [
   {
-    "limit_price": 165,
+    "limit_price": "165",
     "quote_size": null,
     "client_order_id": null,
     "product_id": 141006,
@@ -47,7 +47,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:06:15.026Z"
+      "user_updated_at": "2026-07-05T05:06:50.412Z"
     },
     "size": 500,
     "side": "sell",
@@ -64,11 +64,11 @@
     "order_type": "limit_order",
     "state": "open",
     "unfilled_size": 500,
-    "updated_at": "2026-07-05T05:06:15.027030Z",
+    "updated_at": "2026-07-05T05:06:50.413093Z",
     "bracket_stop_loss_price": null
   },
   {
-    "limit_price": 221,
+    "limit_price": "221",
     "quote_size": null,
     "client_order_id": null,
     "product_id": 141006,
@@ -115,7 +115,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:06:15.808Z"
+      "user_updated_at": "2026-07-05T05:06:51.291Z"
     },
     "size": 1000,
     "side": "sell",
@@ -132,7 +132,7 @@
     "order_type": "limit_order",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-05T05:06:15.808793Z",
+    "updated_at": "2026-07-05T05:06:51.291903Z",
     "bracket_stop_loss_price": null
   },
   {
@@ -204,7 +204,7 @@
     "bracket_stop_loss_price": null
   },
   {
-    "limit_price": 159,
+    "limit_price": "159",
     "quote_size": null,
     "client_order_id": null,
     "product_id": 141051,
@@ -251,7 +251,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:06:34.410Z"
+      "user_updated_at": "2026-07-05T05:07:15.502Z"
     },
     "size": 1000,
     "side": "sell",
@@ -268,11 +268,11 @@
     "order_type": "limit_order",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-05T05:06:34.411065Z",
+    "updated_at": "2026-07-05T05:07:15.502678Z",
     "bracket_stop_loss_price": null
   },
   {
-    "limit_price": 299,
+    "limit_price": "349",
     "quote_size": null,
     "client_order_id": null,
     "product_id": 141052,
@@ -319,7 +319,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:06:07.014Z"
+      "user_updated_at": "2026-07-05T05:07:25.402Z"
     },
     "size": 500,
     "side": "sell",
@@ -336,11 +336,11 @@
     "order_type": "limit_order",
     "state": "open",
     "unfilled_size": 500,
-    "updated_at": "2026-07-05T05:06:07.015310Z",
+    "updated_at": "2026-07-05T05:07:25.402468Z",
     "bracket_stop_loss_price": null
   },
   {
-    "limit_price": 404,
+    "limit_price": "424",
     "quote_size": null,
     "client_order_id": null,
     "product_id": 141052,
@@ -387,7 +387,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:06:34.784Z"
+      "user_updated_at": "2026-07-05T05:07:24.201Z"
     },
     "size": 1000,
     "side": "sell",
@@ -404,11 +404,11 @@
     "order_type": "limit_order",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-05T05:06:34.784445Z",
+    "updated_at": "2026-07-05T05:07:24.202429Z",
     "bracket_stop_loss_price": null
   },
   {
-    "limit_price": 339,
+    "limit_price": 332,
     "quote_size": null,
     "client_order_id": null,
     "product_id": 140987,
@@ -455,7 +455,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:06:07.716Z"
+      "user_updated_at": "2026-07-05T05:07:09.494Z"
     },
     "size": 1008,
     "side": "sell",
@@ -472,11 +472,11 @@
     "order_type": "limit_order",
     "state": "open",
     "unfilled_size": 1008,
-    "updated_at": "2026-07-05T05:06:07.716351Z",
+    "updated_at": "2026-07-05T05:07:09.495123Z",
     "bracket_stop_loss_price": null
   },
   {
-    "limit_price": 254,
+    "limit_price": 249,
     "quote_size": null,
     "client_order_id": null,
     "product_id": 140987,
@@ -523,7 +523,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-05T05:06:33.909Z"
+      "user_updated_at": "2026-07-05T05:07:16.253Z"
     },
     "size": 500,
     "side": "sell",
@@ -540,7 +540,7 @@
     "order_type": "limit_order",
     "state": "open",
     "unfilled_size": 500,
-    "updated_at": "2026-07-05T05:06:33.910296Z",
+    "updated_at": "2026-07-05T05:07:16.253666Z",
     "bracket_stop_loss_price": null
   }
 ]
