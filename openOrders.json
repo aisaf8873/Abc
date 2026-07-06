@@ -1,9 +1,9 @@
 [
   {
     "bracket_trail_amount": null,
-    "paid_commission": "0.00335769",
+    "paid_commission": "0.00616609",
     "bracket_stop_loss_price": null,
-    "unfilled_size": 3837,
+    "unfilled_size": 3157,
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "product_id": 141187,
@@ -14,7 +14,7 @@
     "quote_size": null,
     "size": 4650,
     "reduce_only": false,
-    "updated_at": "2026-07-06T11:54:34.778444Z",
+    "updated_at": "2026-07-06T11:55:15.206282Z",
     "mmp": "disabled",
     "average_fill_price": "0.01",
     "user_id": 21672861,
@@ -58,7 +58,7 @@
     "trail_amount": null,
     "time_in_force": "gtc",
     "meta_data": {
-      "cashflow": "0.0813",
+      "cashflow": "0.1493",
       "ip": "2409:40e4:1012:6b2:8000::",
       "order_source": "place_order",
       "otc": false,
