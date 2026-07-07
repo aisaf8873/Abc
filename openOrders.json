@@ -1,9 +1,9 @@
 [
   {
-    "paid_commission": "0.00617848",
+    "paid_commission": "0.00854084",
     "trail_amount": null,
     "meta_data": {
-      "cashflow": "0.1496",
+      "cashflow": "0.2068",
       "ip": "2409:40e4:18:137b:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -16,7 +16,7 @@
     "bracket_take_profit_limit_price": null,
     "cancellation_reason": null,
     "quote_size": null,
-    "updated_at": "2026-07-07T11:56:53.268945Z",
+    "updated_at": "2026-07-07T11:57:13.467908Z",
     "created_at": "2026-07-07T11:54:58.569748Z",
     "client_order_id": null,
     "side": "sell",
@@ -63,16 +63,16 @@
       "contract_unit_currency": "ETH"
     },
     "product_symbol": "P-ETH-1750-070726",
-    "unfilled_size": 16919,
+    "unfilled_size": 16347,
     "state": "open",
     "mmp": "disabled",
     "stop_order_type": null
   },
   {
-    "paid_commission": "0.06778156",
+    "paid_commission": "0.07016044",
     "trail_amount": null,
     "meta_data": {
-      "cashflow": "1.6412",
+      "cashflow": "1.6988",
       "ip": "2409:40e4:18:137b:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -85,7 +85,7 @@
     "bracket_take_profit_limit_price": null,
     "cancellation_reason": null,
     "quote_size": null,
-    "updated_at": "2026-07-07T11:56:53.413839Z",
+    "updated_at": "2026-07-07T11:57:12.994249Z",
     "created_at": "2026-07-07T11:48:52.414922Z",
     "client_order_id": null,
     "side": "sell",
@@ -132,7 +132,7 @@
       "contract_unit_currency": "ETH"
     },
     "product_symbol": "C-ETH-1830-070726",
-    "unfilled_size": 1835,
+    "unfilled_size": 1259,
     "state": "open",
     "mmp": "disabled",
     "stop_order_type": null
