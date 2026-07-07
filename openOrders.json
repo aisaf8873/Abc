@@ -1,25 +1,40 @@
 [
   {
-    "margin_mode": "portfolio",
+    "limit_price": "99.6",
     "bracket_order": null,
-    "bracket_stop_loss_limit_price": null,
-    "product_id": 141435,
-    "bracket_take_profit_price": null,
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "margin_mode": "portfolio",
     "user_id": 21672861,
-    "updated_at": "2026-07-07T10:03:02.361376Z",
+    "bracket_take_profit_limit_price": null,
     "unfilled_size": 5,
+    "stop_trigger_method": null,
+    "commission": "0",
+    "bracket_stop_loss_price": null,
+    "product_id": 141435,
+    "product_symbol": "C-ETH-1680-080726",
+    "trail_amount": null,
+    "client_order_id": null,
+    "bracket_trail_amount": null,
+    "stop_order_type": null,
+    "size": 5,
+    "reduce_only": false,
+    "mmp": "disabled",
     "product": {
       "id": 141435,
       "symbol": "C-ETH-1680-080726",
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
       "contract_type": "call_options",
       "notional_type": "vanilla",
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
         "minimum_precision": 2
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
       },
       "contract_value": "0.01",
       "underlying_asset": {
@@ -35,34 +50,19 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "cancellation_reason": null,
-    "client_order_id": null,
-    "reduce_only": false,
-    "order_type": "limit_order",
-    "product_symbol": "C-ETH-1680-080726",
-    "size": 5,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "paid_commission": "0",
-    "bracket_stop_loss_price": null,
-    "bracket_trail_amount": null,
-    "mmp": "disabled",
-    "bracket_take_profit_limit_price": null,
-    "commission": "0",
-    "stop_order_type": null,
-    "average_fill_price": null,
-    "stop_price": null,
     "created_at": "2026-07-07T10:03:02.361376Z",
+    "average_fill_price": null,
+    "cancellation_reason": null,
+    "stop_price": null,
+    "order_type": "limit_order",
+    "bracket_stop_loss_limit_price": null,
+    "bracket_take_profit_price": null,
+    "updated_at": "2026-07-07T10:03:02.361376Z",
+    "quote_size": null,
     "id": 1402959755,
-    "limit_price": "99.6",
     "side": "buy",
-    "trail_amount": null,
+    "paid_commission": "0",
     "state": "open",
-    "time_in_force": "gtc",
-    "stop_trigger_method": null,
-    "quote_size": null
+    "time_in_force": "gtc"
   }
 ]
