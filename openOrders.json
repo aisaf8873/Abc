@@ -141,7 +141,7 @@
     "commission": "0",
     "bracket_stop_loss_price": null,
     "meta_data": {
-      "cashflow": "0.5871",
+      "cashflow": "0.6257",
       "ip": "2409:40e4:1105:8a56:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -189,14 +189,14 @@
     "product_id": 141689,
     "limit_price": "0.01",
     "average_fill_price": "0.01",
-    "paid_commission": "0.02424723",
+    "paid_commission": "0.02584141",
     "id": 1405245057,
     "user_id": 21672861,
     "product_symbol": "C-ETH-1810-080726",
     "time_in_force": "gtc",
     "state": "open",
-    "unfilled_size": 12955,
-    "updated_at": "2026-07-08T11:52:05.754865Z",
+    "unfilled_size": 12569,
+    "updated_at": "2026-07-08T11:52:26.253268Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   }
