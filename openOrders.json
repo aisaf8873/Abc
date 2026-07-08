@@ -1,73 +1,6 @@
 [
   {
     "quote_size": null,
-    "product_id": 141381,
-    "stop_price": null,
-    "reduce_only": false,
-    "meta_data": {
-      "ip": "2409:40e4:1103:2249:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "cancellation_reason": null,
-    "paid_commission": "0",
-    "user_id": 21672861,
-    "limit_price": "55",
-    "size": 1000,
-    "side": "sell",
-    "stop_trigger_method": null,
-    "product": {
-      "id": 141381,
-      "symbol": "P-BTC-62200-080726",
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "contract_value": "0.001",
-      "contract_type": "put_options",
-      "notional_type": "vanilla",
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "underlying_asset": {
-        "symbol": "BTC",
-        "precision": 8,
-        "minimum_precision": 4
-      },
-      "tick_size": "0.1",
-      "quoting_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "contract_unit_currency": "BTC"
-    },
-    "bracket_order": null,
-    "bracket_stop_loss_limit_price": null,
-    "order_type": "limit_order",
-    "updated_at": "2026-07-08T07:25:43.315085Z",
-    "bracket_stop_loss_price": null,
-    "created_at": "2026-07-08T07:25:43.315085Z",
-    "client_order_id": null,
-    "commission": "0",
-    "bracket_trail_amount": null,
-    "product_symbol": "P-BTC-62200-080726",
-    "id": 1404786506,
-    "stop_order_type": null,
-    "bracket_take_profit_limit_price": null,
-    "time_in_force": "gtc",
-    "bracket_take_profit_price": null,
-    "mmp": "disabled",
-    "state": "open",
-    "average_fill_price": null,
-    "unfilled_size": 1000,
-    "trail_amount": null,
-    "margin_mode": "portfolio"
-  },
-  {
-    "quote_size": null,
     "product_id": 141394,
     "stop_price": null,
     "reduce_only": false,
@@ -144,7 +77,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-08T07:26:38.246Z"
+      "user_updated_at": "2026-07-08T07:26:54.636Z"
     },
     "cancellation_reason": null,
     "paid_commission": "0",
@@ -183,7 +116,7 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "order_type": "limit_order",
-    "updated_at": "2026-07-08T07:26:38.246945Z",
+    "updated_at": "2026-07-08T07:26:54.637170Z",
     "bracket_stop_loss_price": null,
     "created_at": "2026-07-08T07:10:02.352607Z",
     "client_order_id": null,
@@ -212,12 +145,12 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-08T07:26:08.221Z"
+      "user_updated_at": "2026-07-08T07:26:46.888Z"
     },
     "cancellation_reason": null,
     "paid_commission": "0",
     "user_id": 21672861,
-    "limit_price": 159,
+    "limit_price": 151,
     "size": 500,
     "side": "sell",
     "stop_trigger_method": null,
@@ -251,7 +184,7 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "order_type": "limit_order",
-    "updated_at": "2026-07-08T07:26:08.225180Z",
+    "updated_at": "2026-07-08T07:26:46.888716Z",
     "bracket_stop_loss_price": null,
     "created_at": "2026-07-08T07:09:52.667766Z",
     "client_order_id": null,
@@ -280,7 +213,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-08T07:26:38.997Z"
+      "user_updated_at": "2026-07-08T07:26:54.759Z"
     },
     "cancellation_reason": null,
     "paid_commission": "0",
@@ -319,7 +252,7 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "order_type": "limit_order",
-    "updated_at": "2026-07-08T07:26:38.997822Z",
+    "updated_at": "2026-07-08T07:26:54.759710Z",
     "bracket_stop_loss_price": null,
     "created_at": "2026-07-08T07:09:34.830944Z",
     "client_order_id": null,
@@ -348,12 +281,12 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-08T07:26:36.770Z"
+      "user_updated_at": "2026-07-08T07:26:55.805Z"
     },
     "cancellation_reason": null,
     "paid_commission": "0",
     "user_id": 21672861,
-    "limit_price": 165,
+    "limit_price": 169,
     "size": 500,
     "side": "sell",
     "stop_trigger_method": null,
@@ -387,7 +320,7 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "order_type": "limit_order",
-    "updated_at": "2026-07-08T07:26:36.771207Z",
+    "updated_at": "2026-07-08T07:26:55.805416Z",
     "bracket_stop_loss_price": null,
     "created_at": "2026-07-08T07:09:27.268146Z",
     "client_order_id": null,
@@ -489,7 +422,7 @@
     "cancellation_reason": null,
     "paid_commission": "0",
     "user_id": 21672861,
-    "limit_price": "599",
+    "limit_price": 665,
     "size": 500,
     "side": "sell",
     "stop_trigger_method": null,
