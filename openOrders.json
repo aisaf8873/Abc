@@ -69,10 +69,10 @@
   {
     "order_type": "limit_order",
     "bracket_take_profit_price": null,
-    "unfilled_size": 10027,
+    "unfilled_size": 9918,
     "trail_amount": null,
     "meta_data": {
-      "cashflow": "0.8799",
+      "cashflow": "0.8908",
       "ip": "2409:40e4:1105:8a56:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -81,8 +81,8 @@
     },
     "product_symbol": "C-ETH-1810-080726",
     "bracket_order": null,
-    "paid_commission": "0.03633987",
-    "updated_at": "2026-07-08T11:56:03.851463Z",
+    "paid_commission": "0.03679004",
+    "updated_at": "2026-07-08T11:56:22.803620Z",
     "mmp": "disabled",
     "margin_mode": "portfolio",
     "created_at": "2026-07-08T11:40:31.733704Z",
