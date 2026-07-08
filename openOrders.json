@@ -11,14 +11,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-08T08:34:03.447Z"
+      "user_updated_at": "2026-07-08T08:34:15.429Z"
     },
     "product_id": 141381,
     "quote_size": null,
     "commission": "0",
     "paid_commission": "0",
     "size": 1000,
-    "limit_price": "749",
+    "limit_price": 496,
     "side": "sell",
     "product": {
       "id": 141381,
@@ -53,7 +53,7 @@
     "trail_amount": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
-    "updated_at": "2026-07-08T08:34:03.447502Z",
+    "updated_at": "2026-07-08T08:34:15.429926Z",
     "bracket_trail_amount": null,
     "bracket_take_profit_price": null,
     "stop_order_type": null,
