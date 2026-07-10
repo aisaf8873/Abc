@@ -1,46 +1,26 @@
 [
   {
-    "order_type": "limit_order",
-    "bracket_take_profit_price": null,
-    "unfilled_size": 1,
-    "trail_amount": null,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
+    "bracket_take_profit_limit_price": null,
+    "product_id": 141986,
+    "paid_commission": "0",
+    "bracket_stop_loss_price": null,
+    "reduce_only": false,
     "product_symbol": "P-BTC-65600-130726",
     "bracket_order": null,
-    "paid_commission": "0",
-    "updated_at": "2026-07-10T14:32:50.623816Z",
-    "mmp": "disabled",
     "margin_mode": "portfolio",
-    "created_at": "2026-07-10T14:32:50.623816Z",
-    "bracket_take_profit_limit_price": null,
-    "bracket_stop_loss_price": null,
-    "stop_order_type": null,
-    "stop_price": null,
-    "size": 1,
-    "bracket_trail_amount": null,
-    "side": "buy",
-    "quote_size": null,
-    "bracket_stop_loss_limit_price": null,
-    "user_id": 21672861,
-    "product_id": 141986,
-    "time_in_force": "gtc",
-    "limit_price": "1460",
+    "cancellation_reason": null,
     "product": {
       "id": 141986,
       "symbol": "P-BTC-65600-130726",
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
       "contract_type": "put_options",
       "notional_type": "vanilla",
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
         "minimum_precision": 2
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
       },
       "contract_value": "0.001",
       "underlying_asset": {
@@ -56,13 +36,33 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "cancellation_reason": null,
-    "id": 1409092094,
     "commission": "0",
-    "reduce_only": false,
-    "state": "open",
-    "stop_trigger_method": null,
+    "bracket_stop_loss_limit_price": null,
+    "size": 1,
+    "side": "buy",
+    "stop_order_type": null,
+    "stop_price": null,
+    "order_type": "limit_order",
+    "quote_size": null,
     "average_fill_price": null,
-    "client_order_id": null
+    "stop_trigger_method": null,
+    "bracket_trail_amount": null,
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "updated_at": "2026-07-10T14:32:50.623816Z",
+    "limit_price": "1460",
+    "created_at": "2026-07-10T14:32:50.623816Z",
+    "bracket_take_profit_price": null,
+    "id": 1409092094,
+    "time_in_force": "gtc",
+    "trail_amount": null,
+    "user_id": 21672861,
+    "mmp": "disabled",
+    "state": "open",
+    "client_order_id": null,
+    "unfilled_size": 1
   }
 ]
