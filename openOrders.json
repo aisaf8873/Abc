@@ -1,39 +1,40 @@
 [
   {
-    "stop_order_type": null,
-    "paid_commission": "0",
-    "bracket_trail_amount": null,
-    "time_in_force": "gtc",
-    "stop_trigger_method": null,
-    "trail_amount": null,
-    "created_at": "2026-07-10T14:32:50.623816Z",
-    "stop_price": null,
-    "product_symbol": "P-BTC-65600-130726",
-    "client_order_id": null,
-    "commission": "0",
-    "bracket_take_profit_price": null,
-    "bracket_take_profit_limit_price": null,
-    "size": 1,
-    "unfilled_size": 1,
-    "reduce_only": false,
-    "updated_at": "2026-07-10T14:32:50.623816Z",
-    "bracket_order": null,
-    "bracket_stop_loss_price": null,
     "order_type": "limit_order",
-    "average_fill_price": null,
+    "bracket_take_profit_price": null,
+    "unfilled_size": 1,
+    "trail_amount": null,
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "product_symbol": "P-BTC-65600-130726",
+    "bracket_order": null,
+    "paid_commission": "0",
+    "updated_at": "2026-07-10T14:32:50.623816Z",
+    "mmp": "disabled",
     "margin_mode": "portfolio",
+    "created_at": "2026-07-10T14:32:50.623816Z",
+    "bracket_take_profit_limit_price": null,
+    "bracket_stop_loss_price": null,
+    "stop_order_type": null,
+    "stop_price": null,
+    "size": 1,
+    "bracket_trail_amount": null,
     "side": "buy",
     "quote_size": null,
-    "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
-    "id": 1409092094,
+    "user_id": 21672861,
+    "product_id": 141986,
+    "time_in_force": "gtc",
+    "limit_price": "1460",
     "product": {
       "id": 141986,
       "symbol": "P-BTC-65600-130726",
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
-      "contract_value": "0.001",
       "contract_type": "put_options",
       "notional_type": "vanilla",
       "settling_asset": {
@@ -41,6 +42,7 @@
         "precision": 8,
         "minimum_precision": 2
       },
+      "contract_value": "0.001",
       "underlying_asset": {
         "symbol": "BTC",
         "precision": 8,
@@ -54,15 +56,13 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "limit_price": "1460",
-    "product_id": 141986,
-    "state": "open",
-    "mmp": "disabled",
     "cancellation_reason": null,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    }
+    "id": 1409092094,
+    "commission": "0",
+    "reduce_only": false,
+    "state": "open",
+    "stop_trigger_method": null,
+    "average_fill_price": null,
+    "client_order_id": null
   }
 ]
