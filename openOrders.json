@@ -149,7 +149,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T09:14:37.112Z"
+      "user_updated_at": "2026-07-11T09:14:59.705Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -190,7 +190,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:46:30.702039Z",
     "product_id": 141766,
-    "limit_price": 499,
+    "limit_price": "499",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409703352,
@@ -199,7 +199,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T09:14:37.112774Z",
+    "updated_at": "2026-07-11T09:14:59.706200Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -394,7 +394,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:38:20.705007Z",
     "product_id": 141767,
-    "limit_price": "69",
+    "limit_price": 69,
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409695825,
@@ -421,7 +421,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T09:14:45.443Z"
+      "user_updated_at": "2026-07-11T09:14:48.443Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -462,7 +462,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:37:56.929353Z",
     "product_id": 141906,
-    "limit_price": 148,
+    "limit_price": 149,
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409695578,
@@ -471,7 +471,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T09:14:45.444163Z",
+    "updated_at": "2026-07-11T09:14:48.443866Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -489,7 +489,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T09:14:35.288Z"
+      "user_updated_at": "2026-07-11T09:15:04.843Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -530,7 +530,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:35:50.524921Z",
     "product_id": 141908,
-    "limit_price": 169,
+    "limit_price": "192.8",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409694234,
@@ -539,7 +539,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T09:14:35.289317Z",
+    "updated_at": "2026-07-11T09:15:04.843887Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   }
