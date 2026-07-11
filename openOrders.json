@@ -152,7 +152,7 @@
     "size": 1000,
     "unfilled_size": 1000,
     "reduce_only": false,
-    "updated_at": "2026-07-11T04:38:50.338185Z",
+    "updated_at": "2026-07-11T04:39:46.463227Z",
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "order_type": "limit_order",
@@ -190,7 +190,7 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "limit_price": 499,
+    "limit_price": "499",
     "product_id": 141766,
     "state": "open",
     "mmp": "disabled",
@@ -200,7 +200,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T04:38:50.337Z"
+      "user_updated_at": "2026-07-11T04:39:46.462Z"
     }
   },
   {
@@ -326,7 +326,7 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "limit_price": "149",
+    "limit_price": 126,
     "product_id": 141799,
     "state": "open",
     "mmp": "disabled",
@@ -560,7 +560,7 @@
     "size": 1000,
     "unfilled_size": 1000,
     "reduce_only": false,
-    "updated_at": "2026-07-11T04:39:34.695295Z",
+    "updated_at": "2026-07-11T04:39:52.652583Z",
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "order_type": "limit_order",
@@ -598,7 +598,7 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "limit_price": "341",
+    "limit_price": "266",
     "product_id": 141908,
     "state": "open",
     "mmp": "disabled",
@@ -608,7 +608,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T04:39:34.694Z"
+      "user_updated_at": "2026-07-11T04:39:52.652Z"
     }
   }
 ]
