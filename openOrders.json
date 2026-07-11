@@ -79,14 +79,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T10:29:55.670Z"
+      "user_updated_at": "2026-07-11T10:30:20.716Z"
     },
     "product_id": 141766,
     "quote_size": null,
     "commission": "0",
     "paid_commission": "0",
     "size": 1000,
-    "limit_price": 364,
+    "limit_price": 359,
     "side": "sell",
     "product": {
       "id": 141766,
@@ -121,7 +121,7 @@
     "trail_amount": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
-    "updated_at": "2026-07-11T10:29:55.671142Z",
+    "updated_at": "2026-07-11T10:30:20.716507Z",
     "bracket_trail_amount": null,
     "bracket_take_profit_price": null,
     "stop_order_type": null,
@@ -351,14 +351,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T10:29:57.656Z"
+      "user_updated_at": "2026-07-11T10:30:07.386Z"
     },
     "product_id": 141906,
     "quote_size": null,
     "commission": "0",
     "paid_commission": "0",
     "size": 1000,
-    "limit_price": 148,
+    "limit_price": "148",
     "side": "sell",
     "product": {
       "id": 141906,
@@ -393,7 +393,7 @@
     "trail_amount": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
-    "updated_at": "2026-07-11T10:29:57.656953Z",
+    "updated_at": "2026-07-11T10:30:07.387206Z",
     "bracket_trail_amount": null,
     "bracket_take_profit_price": null,
     "stop_order_type": null,
@@ -419,14 +419,14 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T10:29:56.447Z"
+      "user_updated_at": "2026-07-11T10:30:08.963Z"
     },
     "product_id": 141908,
     "quote_size": null,
     "commission": "0",
     "paid_commission": "0",
     "size": 1000,
-    "limit_price": 118,
+    "limit_price": "118",
     "side": "sell",
     "product": {
       "id": 141908,
@@ -461,7 +461,7 @@
     "trail_amount": null,
     "margin_mode": "portfolio",
     "time_in_force": "gtc",
-    "updated_at": "2026-07-11T10:29:56.447635Z",
+    "updated_at": "2026-07-11T10:30:08.964021Z",
     "bracket_trail_amount": null,
     "bracket_take_profit_price": null,
     "stop_order_type": null,
