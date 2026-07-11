@@ -80,7 +80,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T07:57:51.571Z"
+      "user_updated_at": "2026-07-11T07:58:16.331Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -121,7 +121,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T05:21:53.712557Z",
     "product_id": 141908,
-    "limit_price": 129.7,
+    "limit_price": "129.7",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409873749,
@@ -130,7 +130,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 500,
-    "updated_at": "2026-07-11T07:57:51.571676Z",
+    "updated_at": "2026-07-11T07:58:16.332389Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -352,7 +352,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T07:55:56.047Z"
+      "user_updated_at": "2026-07-11T07:58:11.075Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -393,7 +393,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:46:10.530542Z",
     "product_id": 141799,
-    "limit_price": 74,
+    "limit_price": "74",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409703052,
@@ -402,7 +402,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T07:55:56.047864Z",
+    "updated_at": "2026-07-11T07:58:11.075992Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -461,7 +461,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:38:20.705007Z",
     "product_id": 141767,
-    "limit_price": "65",
+    "limit_price": 65.1,
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409695825,
@@ -488,7 +488,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T07:58:02.841Z"
+      "user_updated_at": "2026-07-11T07:58:07.621Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -529,7 +529,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:37:56.929353Z",
     "product_id": 141906,
-    "limit_price": 248,
+    "limit_price": 249,
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409695578,
@@ -538,7 +538,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T07:58:02.842008Z",
+    "updated_at": "2026-07-11T07:58:07.621835Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -556,7 +556,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T07:58:05.383Z"
+      "user_updated_at": "2026-07-11T07:58:11.357Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -597,7 +597,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:37:49.461476Z",
     "product_id": 141906,
-    "limit_price": 199,
+    "limit_price": "199",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409695517,
@@ -606,7 +606,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 500,
-    "updated_at": "2026-07-11T07:58:05.383896Z",
+    "updated_at": "2026-07-11T07:58:11.358337Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -624,7 +624,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T07:58:05.859Z"
+      "user_updated_at": "2026-07-11T07:58:25.866Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -665,7 +665,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:35:50.524921Z",
     "product_id": 141908,
-    "limit_price": 169,
+    "limit_price": "173",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409694234,
@@ -674,7 +674,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T07:58:05.860071Z",
+    "updated_at": "2026-07-11T07:58:25.867163Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   }
