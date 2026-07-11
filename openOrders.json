@@ -5,6 +5,72 @@
     "stop_order_type": null,
     "meta_data": {
       "ip": "2409:40e4:1150:66d6:8000::",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "limit_price": "140",
+    "bracket_take_profit_limit_price": null,
+    "cancellation_reason": null,
+    "stop_trigger_method": null,
+    "reduce_only": true,
+    "product": {
+      "id": 141908,
+      "symbol": "C-BTC-64200-110726",
+      "contract_type": "call_options",
+      "notional_type": "vanilla",
+      "settling_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "contract_value": "0.001",
+      "underlying_asset": {
+        "symbol": "BTC",
+        "precision": 8,
+        "minimum_precision": 4
+      },
+      "tick_size": "0.1",
+      "quoting_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "contract_unit_currency": "BTC"
+    },
+    "bracket_stop_loss_price": null,
+    "created_at": "2026-07-11T01:36:13.785109Z",
+    "paid_commission": "0",
+    "size": 211,
+    "side": "buy",
+    "bracket_order": null,
+    "order_type": "limit_order",
+    "bracket_take_profit_price": null,
+    "margin_mode": "portfolio",
+    "user_id": 21672861,
+    "bracket_trail_amount": null,
+    "client_order_id": null,
+    "product_symbol": "C-BTC-64200-110726",
+    "stop_price": null,
+    "commission": "0",
+    "id": 1409694541,
+    "updated_at": "2026-07-11T01:36:13.785109Z",
+    "time_in_force": "gtc",
+    "mmp": "disabled",
+    "trail_amount": null,
+    "state": "open",
+    "quote_size": null,
+    "unfilled_size": 211,
+    "bracket_stop_loss_limit_price": null
+  },
+  {
+    "average_fill_price": null,
+    "product_id": 141908,
+    "stop_order_type": null,
+    "meta_data": {
+      "ip": "2409:40e4:1150:66d6:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android"
@@ -71,7 +137,7 @@
     "product_id": 141908,
     "stop_order_type": null,
     "meta_data": {
-      "cashflow": "36.925",
+      "cashflow": "43.4",
       "ip": "2409:40e4:1150:66d6:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -112,7 +178,7 @@
     },
     "bracket_stop_loss_price": null,
     "created_at": "2026-07-11T01:35:44.158887Z",
-    "paid_commission": "1.5250025",
+    "paid_commission": "1.79242",
     "size": 500,
     "side": "sell",
     "bracket_order": null,
@@ -126,13 +192,13 @@
     "stop_price": null,
     "commission": "0",
     "id": 1409694149,
-    "updated_at": "2026-07-11T01:35:59.427377Z",
+    "updated_at": "2026-07-11T01:36:21.552949Z",
     "time_in_force": "gtc",
     "mmp": "disabled",
     "trail_amount": null,
     "state": "open",
     "quote_size": null,
-    "unfilled_size": 289,
+    "unfilled_size": 252,
     "bracket_stop_loss_limit_price": null
   }
 ]
