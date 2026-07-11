@@ -81,7 +81,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T02:44:14.014Z"
+      "user_updated_at": "2026-07-11T02:47:09.859Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -122,7 +122,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:46:48.640590Z",
     "product_id": 141827,
-    "limit_price": 89.42,
+    "limit_price": "97",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409703580,
@@ -131,7 +131,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T02:44:14.014735Z",
+    "updated_at": "2026-07-11T02:47:09.859720Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -149,7 +149,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T02:46:11.570Z"
+      "user_updated_at": "2026-07-11T02:47:17.686Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -190,7 +190,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:46:30.702039Z",
     "product_id": 141766,
-    "limit_price": "499",
+    "limit_price": "449",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409703352,
@@ -199,7 +199,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T02:46:11.571061Z",
+    "updated_at": "2026-07-11T02:47:17.686896Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -217,7 +217,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T02:46:12.382Z"
+      "user_updated_at": "2026-07-11T02:47:04.473Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -258,7 +258,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:46:23.133780Z",
     "product_id": 141766,
-    "limit_price": 327,
+    "limit_price": "327",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409703251,
@@ -267,7 +267,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 500,
-    "updated_at": "2026-07-11T02:46:12.383149Z",
+    "updated_at": "2026-07-11T02:47:04.474030Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -285,7 +285,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T02:45:17.229Z"
+      "user_updated_at": "2026-07-11T02:47:18.764Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -326,7 +326,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:46:10.530542Z",
     "product_id": 141799,
-    "limit_price": "179",
+    "limit_price": "188",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409703052,
@@ -335,7 +335,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T02:45:17.230049Z",
+    "updated_at": "2026-07-11T02:47:18.764494Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
@@ -353,7 +353,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T02:45:53.866Z"
+      "user_updated_at": "2026-07-11T02:47:20.599Z"
     },
     "bracket_order": null,
     "client_order_id": null,
@@ -394,7 +394,7 @@
     "mmp": "disabled",
     "created_at": "2026-07-11T01:38:20.705007Z",
     "product_id": 141767,
-    "limit_price": "138",
+    "limit_price": "122",
     "average_fill_price": null,
     "paid_commission": "0",
     "id": 1409695825,
@@ -403,7 +403,7 @@
     "time_in_force": "gtc",
     "state": "open",
     "unfilled_size": 1000,
-    "updated_at": "2026-07-11T02:45:53.866945Z",
+    "updated_at": "2026-07-11T02:47:20.599790Z",
     "bracket_take_profit_price": null,
     "stop_trigger_method": null
   },
