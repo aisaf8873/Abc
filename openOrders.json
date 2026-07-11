@@ -620,9 +620,9 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-11T06:41:24.476Z"
+      "user_updated_at": "2026-07-11T06:43:33.316Z"
     },
-    "limit_price": 266,
+    "limit_price": "266",
     "bracket_take_profit_limit_price": null,
     "cancellation_reason": null,
     "stop_trigger_method": null,
@@ -670,7 +670,7 @@
     "stop_price": null,
     "commission": "0",
     "id": 1409694234,
-    "updated_at": "2026-07-11T06:41:24.477121Z",
+    "updated_at": "2026-07-11T06:43:33.316951Z",
     "time_in_force": "gtc",
     "mmp": "disabled",
     "trail_amount": null,
