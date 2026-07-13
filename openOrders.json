@@ -1,17 +1,28 @@
 [
   {
-    "bracket_take_profit_limit_price": null,
+    "quote_size": null,
     "product_id": 142101,
-    "paid_commission": "0",
-    "bracket_stop_loss_price": null,
+    "stop_price": null,
     "reduce_only": false,
-    "product_symbol": "P-ETH-1860-140726",
-    "bracket_order": null,
-    "margin_mode": "portfolio",
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
     "cancellation_reason": null,
+    "paid_commission": "0",
+    "user_id": 21672861,
+    "limit_price": "83.5",
+    "size": 5,
+    "side": "sell",
+    "stop_trigger_method": null,
     "product": {
       "id": 142101,
       "symbol": "P-ETH-1860-140726",
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
+      "contract_value": "0.01",
       "contract_type": "put_options",
       "notional_type": "vanilla",
       "settling_asset": {
@@ -19,10 +30,6 @@
         "precision": 8,
         "minimum_precision": 2
       },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "contract_value": "0.01",
       "underlying_asset": {
         "symbol": "ETH",
         "precision": 18,
@@ -36,99 +43,26 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "commission": "0",
-    "bracket_stop_loss_limit_price": null,
-    "size": 5,
-    "side": "sell",
-    "stop_order_type": null,
-    "stop_price": null,
-    "order_type": "limit_order",
-    "quote_size": null,
-    "average_fill_price": null,
-    "stop_trigger_method": null,
-    "bracket_trail_amount": null,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "updated_at": "2026-07-13T12:21:54.740505Z",
-    "limit_price": "83.5",
-    "created_at": "2026-07-13T12:21:54.740505Z",
-    "bracket_take_profit_price": null,
-    "id": 1413928433,
-    "time_in_force": "gtc",
-    "trail_amount": null,
-    "user_id": 21672861,
-    "mmp": "disabled",
-    "state": "open",
-    "client_order_id": null,
-    "unfilled_size": 5
-  },
-  {
-    "bracket_take_profit_limit_price": null,
-    "product_id": 142185,
-    "paid_commission": "0",
-    "bracket_stop_loss_price": null,
-    "reduce_only": false,
-    "product_symbol": "P-ETH-1860-150726",
     "bracket_order": null,
-    "margin_mode": "portfolio",
-    "cancellation_reason": null,
-    "product": {
-      "id": 142185,
-      "symbol": "P-ETH-1860-150726",
-      "contract_type": "put_options",
-      "notional_type": "vanilla",
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
-      "contract_value": "0.01",
-      "underlying_asset": {
-        "symbol": "ETH",
-        "precision": 18,
-        "minimum_precision": 4
-      },
-      "tick_size": "0.01",
-      "quoting_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "contract_unit_currency": "ETH"
-    },
-    "commission": "0",
     "bracket_stop_loss_limit_price": null,
-    "size": 5,
-    "side": "buy",
-    "stop_order_type": null,
-    "stop_price": null,
     "order_type": "limit_order",
-    "quote_size": null,
-    "average_fill_price": null,
-    "stop_trigger_method": null,
+    "updated_at": "2026-07-13T12:21:54.740505Z",
+    "bracket_stop_loss_price": null,
+    "created_at": "2026-07-13T12:21:54.740505Z",
+    "client_order_id": null,
+    "commission": "0",
     "bracket_trail_amount": null,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "updated_at": "2026-07-13T12:21:54.472358Z",
-    "limit_price": "83.4",
-    "created_at": "2026-07-13T12:21:54.472358Z",
-    "bracket_take_profit_price": null,
-    "id": 1413928384,
+    "product_symbol": "P-ETH-1860-140726",
+    "id": 1413928433,
+    "stop_order_type": null,
+    "bracket_take_profit_limit_price": null,
     "time_in_force": "gtc",
-    "trail_amount": null,
-    "user_id": 21672861,
+    "bracket_take_profit_price": null,
     "mmp": "disabled",
     "state": "open",
-    "client_order_id": null,
-    "unfilled_size": 5
+    "average_fill_price": null,
+    "unfilled_size": 5,
+    "trail_amount": null,
+    "margin_mode": "portfolio"
   }
 ]
