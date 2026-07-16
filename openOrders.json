@@ -72,7 +72,7 @@
     "stop_price": null,
     "reduce_only": false,
     "meta_data": {
-      "cashflow": "0.4491",
+      "cashflow": "0.4681",
       "ip": "2401:4900:8926:e174:6ca9:48ff:c187:c433",
       "order_source": "place_order",
       "otc": false,
@@ -80,7 +80,7 @@
       "source": "mobile_app_android"
     },
     "cancellation_reason": null,
-    "paid_commission": "0.01854783",
+    "paid_commission": "0.01933253",
     "user_id": 21672861,
     "limit_price": "0.01",
     "size": 6001,
@@ -116,7 +116,7 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "order_type": "limit_order",
-    "updated_at": "2026-07-16T11:51:17.397250Z",
+    "updated_at": "2026-07-16T11:51:37.169454Z",
     "bracket_stop_loss_price": null,
     "created_at": "2026-07-16T11:48:10.208666Z",
     "client_order_id": null,
@@ -131,7 +131,7 @@
     "mmp": "disabled",
     "state": "open",
     "average_fill_price": "0.01",
-    "unfilled_size": 1510,
+    "unfilled_size": 1320,
     "trail_amount": null,
     "margin_mode": "portfolio"
   }
