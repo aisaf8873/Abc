@@ -1,8 +1,9 @@
 [
   {
-    "average_fill_price": "0.01",
-    "product_id": 142395,
-    "stop_order_type": null,
+    "order_type": "limit_order",
+    "bracket_take_profit_price": null,
+    "unfilled_size": 15878,
+    "trail_amount": null,
     "meta_data": {
       "cashflow": "0.0001",
       "ip": "2409:40e5:93:d2eb:8000::",
@@ -11,23 +12,38 @@
       "pnl": "-0",
       "source": "mobile_app_android"
     },
-    "limit_price": "0.01",
+    "product_symbol": "P-ETH-1720-170726",
+    "bracket_order": null,
+    "paid_commission": "0.00000413",
+    "updated_at": "2026-07-17T11:45:53.202956Z",
+    "mmp": "disabled",
+    "margin_mode": "portfolio",
+    "created_at": "2026-07-17T11:45:53.085653Z",
     "bracket_take_profit_limit_price": null,
-    "cancellation_reason": null,
-    "stop_trigger_method": null,
-    "reduce_only": false,
+    "bracket_stop_loss_price": null,
+    "stop_order_type": null,
+    "stop_price": null,
+    "size": 15879,
+    "bracket_trail_amount": null,
+    "side": "sell",
+    "quote_size": null,
+    "bracket_stop_loss_limit_price": null,
+    "user_id": 21672861,
+    "product_id": 142395,
+    "time_in_force": "gtc",
+    "limit_price": "0.01",
     "product": {
       "id": 142395,
       "symbol": "P-ETH-1720-170726",
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
       "contract_type": "put_options",
       "notional_type": "vanilla",
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
         "minimum_precision": 2
-      },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
       },
       "contract_value": "0.01",
       "underlying_asset": {
@@ -43,29 +59,13 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "bracket_stop_loss_price": null,
-    "created_at": "2026-07-17T11:45:53.085653Z",
-    "paid_commission": "0.00000413",
-    "size": 15879,
-    "side": "sell",
-    "bracket_order": null,
-    "order_type": "limit_order",
-    "bracket_take_profit_price": null,
-    "margin_mode": "portfolio",
-    "user_id": 21672861,
-    "bracket_trail_amount": null,
-    "client_order_id": null,
-    "product_symbol": "P-ETH-1720-170726",
-    "stop_price": null,
-    "commission": "0",
+    "cancellation_reason": null,
     "id": 1421874039,
-    "updated_at": "2026-07-17T11:45:53.202956Z",
-    "time_in_force": "gtc",
-    "mmp": "disabled",
-    "trail_amount": null,
+    "commission": "0",
+    "reduce_only": false,
     "state": "open",
-    "quote_size": null,
-    "unfilled_size": 15878,
-    "bracket_stop_loss_limit_price": null
+    "stop_trigger_method": null,
+    "average_fill_price": "0.01",
+    "client_order_id": null
   }
 ]
