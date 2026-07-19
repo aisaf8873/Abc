@@ -79,11 +79,11 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-19T10:49:42.553Z"
+      "user_updated_at": "2026-07-19T10:50:26.654Z"
     },
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-07-19T10:49:42.553525Z",
+    "updated_at": "2026-07-19T10:50:26.655201Z",
     "bracket_order": null,
     "average_fill_price": null,
     "size": 1000,
@@ -133,7 +133,7 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "limit_price": 105
+    "limit_price": 119
   },
   {
     "quote_size": null,
@@ -147,11 +147,11 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-19T10:50:09.783Z"
+      "user_updated_at": "2026-07-19T10:50:21.783Z"
     },
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-07-19T10:50:09.784277Z",
+    "updated_at": "2026-07-19T10:50:21.784163Z",
     "bracket_order": null,
     "average_fill_price": null,
     "size": 1000,
@@ -201,6 +201,6 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "limit_price": 379
+    "limit_price": "379"
   }
 ]
