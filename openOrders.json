@@ -499,10 +499,10 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-21T08:26:11.129Z"
+      "user_updated_at": "2026-07-21T08:27:09.756Z"
     },
     "bracket_take_profit_limit_price": null,
-    "updated_at": "2026-07-21T08:26:11.129959Z",
+    "updated_at": "2026-07-21T08:27:09.756952Z",
     "bracket_take_profit_price": null,
     "stop_price": null,
     "product": {
@@ -541,7 +541,7 @@
     "unfilled_size": 1000,
     "commission": "0",
     "average_fill_price": null,
-    "limit_price": 1117
+    "limit_price": "998"
   },
   {
     "quote_size": null,
@@ -635,10 +635,10 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-21T08:26:43.027Z"
+      "user_updated_at": "2026-07-21T08:27:05.038Z"
     },
     "bracket_take_profit_limit_price": null,
-    "updated_at": "2026-07-21T08:26:43.027509Z",
+    "updated_at": "2026-07-21T08:27:05.039383Z",
     "bracket_take_profit_price": null,
     "stop_price": null,
     "product": {
@@ -677,6 +677,6 @@
     "unfilled_size": 1000,
     "commission": "0",
     "average_fill_price": null,
-    "limit_price": 67
+    "limit_price": 74
   }
 ]
