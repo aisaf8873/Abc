@@ -217,7 +217,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-21T07:57:46.880Z"
+      "user_updated_at": "2026-07-21T07:58:06.910Z"
     },
     "user_id": 21672861,
     "client_order_id": null,
@@ -228,7 +228,7 @@
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
     "cancellation_reason": null,
-    "updated_at": "2026-07-21T07:57:46.881016Z",
+    "updated_at": "2026-07-21T07:58:06.910521Z",
     "trail_amount": null,
     "bracket_trail_amount": null,
     "commission": "0",
@@ -269,7 +269,7 @@
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": null,
-    "limit_price": 559
+    "limit_price": 499
   },
   {
     "paid_commission": "0",
@@ -609,7 +609,7 @@
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": null,
-    "limit_price": "64"
+    "limit_price": 69
   },
   {
     "paid_commission": "0",
@@ -625,7 +625,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-07-21T07:57:47.142Z"
+      "user_updated_at": "2026-07-21T07:58:05.129Z"
     },
     "user_id": 21672861,
     "client_order_id": null,
@@ -636,7 +636,7 @@
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
     "cancellation_reason": null,
-    "updated_at": "2026-07-21T07:57:47.143270Z",
+    "updated_at": "2026-07-21T07:58:05.130090Z",
     "trail_amount": null,
     "bracket_trail_amount": null,
     "commission": "0",
@@ -677,6 +677,6 @@
     },
     "bracket_take_profit_limit_price": null,
     "average_fill_price": null,
-    "limit_price": "79"
+    "limit_price": "83"
   }
 ]
