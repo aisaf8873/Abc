@@ -1,15 +1,15 @@
 [
   {
-    "paid_commission": "0.00583569",
+    "paid_commission": "0.00839216",
     "time_in_force": "gtc",
     "mmp": "disabled",
     "quote_size": null,
     "order_type": "limit_order",
-    "unfilled_size": 9587,
+    "unfilled_size": 8968,
     "created_at": "2026-07-23T11:44:11.513774Z",
     "size": 11000,
     "meta_data": {
-      "cashflow": "0.1413",
+      "cashflow": "0.2032",
       "ip": "2409:40e4:1057:c322:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -25,7 +25,7 @@
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
     "cancellation_reason": null,
-    "updated_at": "2026-07-23T11:46:29.311527Z",
+    "updated_at": "2026-07-23T11:46:49.360470Z",
     "trail_amount": null,
     "bracket_trail_amount": null,
     "commission": "0",
