@@ -19,7 +19,7 @@
     "client_order_id": null,
     "margin_mode": "portfolio",
     "meta_data": {
-      "cashflow": "0.0388",
+      "cashflow": "0.0844",
       "ip": "2409:40e4:1057:c322:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -27,7 +27,7 @@
       "source": "mobile_app_android"
     },
     "bracket_take_profit_limit_price": null,
-    "updated_at": "2026-07-23T11:45:49.462451Z",
+    "updated_at": "2026-07-23T11:46:09.291477Z",
     "bracket_take_profit_price": null,
     "stop_price": null,
     "product": {
@@ -58,12 +58,12 @@
       "contract_unit_currency": "ETH"
     },
     "id": 1431899447,
-    "paid_commission": "0.00160244",
+    "paid_commission": "0.00348572",
     "bracket_order": null,
     "time_in_force": "gtc",
     "mmp": "disabled",
     "state": "open",
-    "unfilled_size": 10612,
+    "unfilled_size": 10156,
     "commission": "0",
     "average_fill_price": "0.01",
     "limit_price": "0.01"
