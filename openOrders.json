@@ -375,11 +375,11 @@
     "unfilled_size": 1000,
     "side": "sell",
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-08-02T06:24:35.976320Z",
+    "updated_at": "2026-08-02T06:25:01.502749Z",
     "stop_trigger_method": null,
     "quote_size": null,
     "paid_commission": "0",
-    "limit_price": "212",
+    "limit_price": 212,
     "margin_mode": "portfolio",
     "size": 1000,
     "bracket_stop_loss_price": null,
@@ -402,7 +402,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-02T06:24:35.974Z"
+      "user_updated_at": "2026-08-02T06:25:01.502Z"
     },
     "bracket_take_profit_price": null,
     "client_order_id": null,
