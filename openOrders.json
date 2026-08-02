@@ -73,7 +73,7 @@
     "average_fill_price": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-02T07:57:21.799113Z",
+    "updated_at": "2026-08-02T07:57:47.263474Z",
     "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
@@ -94,7 +94,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-02T07:57:21.793Z"
+      "user_updated_at": "2026-08-02T07:57:47.263Z"
     },
     "id": 1448224197,
     "product": {
@@ -132,7 +132,7 @@
     "product_id": 144580,
     "quote_size": null,
     "user_id": 21672861,
-    "limit_price": "269.2",
+    "limit_price": "269",
     "bracket_stop_loss_limit_price": null
   },
   {
@@ -347,7 +347,7 @@
     "average_fill_price": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-02T07:57:25.864919Z",
+    "updated_at": "2026-08-02T07:57:42.894239Z",
     "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
@@ -368,7 +368,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-02T07:57:25.864Z"
+      "user_updated_at": "2026-08-02T07:57:42.893Z"
     },
     "id": 1448010806,
     "product": {
@@ -406,7 +406,7 @@
     "product_id": 144579,
     "quote_size": null,
     "user_id": 21672861,
-    "limit_price": 132.9,
+    "limit_price": "132.9",
     "bracket_stop_loss_limit_price": null
   }
 ]
