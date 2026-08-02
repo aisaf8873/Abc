@@ -75,7 +75,7 @@
     "average_fill_price": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-02T10:19:46.595699Z",
+    "updated_at": "2026-08-02T10:19:52.271968Z",
     "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
@@ -96,7 +96,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-02T10:19:46.595Z"
+      "user_updated_at": "2026-08-02T10:19:52.271Z"
     },
     "id": 1448010806,
     "product": {
@@ -134,7 +134,7 @@
     "product_id": 144579,
     "quote_size": null,
     "user_id": 21672861,
-    "limit_price": 339,
+    "limit_price": "339",
     "bracket_stop_loss_limit_price": null
   }
 ]
