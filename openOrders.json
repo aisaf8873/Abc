@@ -9,7 +9,7 @@
     "product_symbol": "C-ETH-1890-030826",
     "product_id": 145045,
     "commission": "0",
-    "updated_at": "2026-08-03T11:56:32.060986Z",
+    "updated_at": "2026-08-03T11:56:52.060694Z",
     "side": "sell",
     "reduce_only": false,
     "margin_mode": "portfolio",
@@ -46,7 +46,7 @@
       "contract_unit_currency": "ETH"
     },
     "meta_data": {
-      "cashflow": "0.461",
+      "cashflow": "0.4848",
       "ip": "2409:40e5:19:5614:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -60,8 +60,8 @@
     "id": 1450123295,
     "cancellation_reason": null,
     "state": "open",
-    "unfilled_size": 15234,
-    "paid_commission": "0.0190393",
+    "unfilled_size": 14996,
+    "paid_commission": "0.02002224",
     "mmp": "disabled",
     "order_type": "limit_order",
     "limit_price": "0.01",
