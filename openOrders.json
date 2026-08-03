@@ -45,9 +45,9 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "0.01",
-    "updated_at": "2026-08-03T11:55:32.660144Z",
+    "updated_at": "2026-08-03T11:55:51.814506Z",
     "meta_data": {
-      "cashflow": "0.3958",
+      "cashflow": "0.4164",
       "ip": "2409:40e5:19:5614:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -61,11 +61,11 @@
     "state": "open",
     "quote_size": null,
     "client_order_id": null,
-    "paid_commission": "0.01634654",
+    "paid_commission": "0.01719732",
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "reduce_only": false,
-    "unfilled_size": 15886,
+    "unfilled_size": 15680,
     "stop_order_type": null
   }
 ]
