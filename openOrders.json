@@ -1,35 +1,33 @@
 [
   {
+    "bracket_stop_loss_price": null,
     "average_fill_price": null,
-    "created_at": "2026-08-04T02:34:08.207619Z",
-    "time_in_force": "gtc",
-    "bracket_stop_loss_limit_price": null,
-    "bracket_take_profit_limit_price": null,
-    "bracket_order": null,
-    "product_symbol": "P-BTC-65200-040826",
-    "product_id": 144903,
-    "commission": "0",
-    "updated_at": "2026-08-04T02:34:08.207619Z",
-    "side": "sell",
-    "reduce_only": false,
     "margin_mode": "portfolio",
-    "quote_size": null,
-    "client_order_id": null,
-    "user_id": 21672861,
-    "size": 1,
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "bracket_take_profit_price": null,
+    "created_at": "2026-08-04T02:34:08.207619Z",
     "stop_trigger_method": null,
+    "bracket_take_profit_limit_price": null,
+    "reduce_only": false,
+    "bracket_stop_loss_limit_price": null,
+    "stop_price": null,
+    "product_symbol": "P-BTC-65200-040826",
     "product": {
       "id": 144903,
       "symbol": "P-BTC-65200-040826",
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
       "contract_type": "put_options",
       "notional_type": "vanilla",
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
         "minimum_precision": 2
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
       },
       "contract_value": "0.001",
       "underlying_asset": {
@@ -45,24 +43,26 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "stop_price": null,
-    "bracket_take_profit_price": null,
-    "bracket_trail_amount": null,
-    "trail_amount": null,
-    "id": 1451247520,
-    "cancellation_reason": null,
-    "state": "open",
-    "unfilled_size": 1,
-    "paid_commission": "0",
     "mmp": "disabled",
+    "commission": "0",
+    "size": 1,
+    "updated_at": "2026-08-04T02:34:08.207619Z",
+    "cancellation_reason": null,
+    "side": "sell",
+    "trail_amount": null,
     "order_type": "limit_order",
+    "paid_commission": "0",
+    "time_in_force": "gtc",
+    "client_order_id": null,
     "limit_price": "1452",
-    "bracket_stop_loss_price": null,
-    "stop_order_type": null
+    "bracket_order": null,
+    "quote_size": null,
+    "id": 1451247520,
+    "product_id": 144903,
+    "state": "open",
+    "user_id": 21672861,
+    "stop_order_type": null,
+    "bracket_trail_amount": null,
+    "unfilled_size": 1
   }
 ]
