@@ -44,13 +44,17 @@
     "limit_price": "120.2",
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
-    "average_fill_price": "124.396226415094339623",
-    "updated_at": "2026-08-04T05:23:14.276736Z",
+    "average_fill_price": "124.386352941176470588",
+    "updated_at": "2026-08-04T05:23:33.065558Z",
     "meta_data": {
-      "avg_exit_price": "124.3962264150943396226415094",
-      "cashflow": "-52.744",
+      "avg_exit_price": "124.3863529411764705882352941",
+      "cashflow": "-52.8642",
       "entry_price": "153.4364820846905537459283388",
       "exit_price_with_size": [
+        {
+          "price": "120.20000000",
+          "size": "-1"
+        },
         {
           "price": "122.00000000",
           "size": "-30"
@@ -78,6 +82,10 @@
       ],
       "fills_pnl_with_margin": [
         {
+          "margin": "-0.1534364820846905537459283388",
+          "pnl": "0.03323648"
+        },
+        {
           "margin": "-4.603094462540716612377850164",
           "pnl": "0.94309446"
         },
@@ -104,8 +112,8 @@
       ],
       "ip": "2409:40e5:19:5614:8000::",
       "otc": false,
-      "pnl": "12.31306838",
-      "roe": "-18.92656506369752039302000949",
+      "pnl": "12.34630486",
+      "roe": "-18.93299995389524029546007979",
       "source": "mobile_app_android",
       "user_updated_at": "2026-08-04T05:23:14.276Z"
     },
@@ -116,11 +124,11 @@
     "state": "open",
     "quote_size": null,
     "client_order_id": null,
-    "paid_commission": "2.1783272",
+    "paid_commission": "2.18329146",
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "reduce_only": true,
-    "unfilled_size": 1498,
+    "unfilled_size": 1497,
     "stop_order_type": null
   },
   {
@@ -603,17 +611,17 @@
     },
     "trail_amount": null,
     "side": "sell",
-    "limit_price": "249",
+    "limit_price": 286,
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null,
-    "updated_at": "2026-08-04T05:22:55.879706Z",
+    "updated_at": "2026-08-04T05:23:45.988211Z",
     "meta_data": {
       "ip": "2409:40e5:19:5614:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-04T05:22:55.878Z"
+      "user_updated_at": "2026-08-04T05:23:45.987Z"
     },
     "id": 1451427971,
     "stop_trigger_method": null,
@@ -671,11 +679,11 @@
     },
     "trail_amount": null,
     "side": "sell",
-    "limit_price": "195",
+    "limit_price": "159",
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "156",
-    "updated_at": "2026-08-04T05:22:10.101803Z",
+    "updated_at": "2026-08-04T05:23:50.322925Z",
     "meta_data": {
       "cashflow": "12.792",
       "ip": "2409:40e5:19:5614:8000::",
@@ -683,7 +691,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-04T05:22:10.101Z"
+      "user_updated_at": "2026-08-04T05:23:50.322Z"
     },
     "id": 1451427655,
     "stop_trigger_method": null,
@@ -809,7 +817,7 @@
     },
     "trail_amount": null,
     "side": "sell",
-    "limit_price": "320",
+    "limit_price": 349,
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": null,
