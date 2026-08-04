@@ -5,7 +5,7 @@
     "average_fill_price": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-04T09:45:03.300619Z",
+    "updated_at": "2026-08-04T09:45:22.623746Z",
     "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
@@ -26,7 +26,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-04T09:45:03.300Z"
+      "user_updated_at": "2026-08-04T09:45:22.623Z"
     },
     "id": 1451442679,
     "product": {
@@ -64,7 +64,7 @@
     "product_id": 144892,
     "quote_size": null,
     "user_id": 21672861,
-    "limit_price": 389,
+    "limit_price": "389",
     "bracket_stop_loss_limit_price": null
   },
   {
@@ -73,7 +73,7 @@
     "average_fill_price": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-04T09:42:38.405383Z",
+    "updated_at": "2026-08-04T09:45:30.730223Z",
     "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
@@ -94,7 +94,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-04T09:42:38.405Z"
+      "user_updated_at": "2026-08-04T09:45:30.729Z"
     },
     "id": 1451429655,
     "product": {
@@ -336,7 +336,7 @@
     "product_id": 144908,
     "quote_size": null,
     "user_id": 21672861,
-    "limit_price": "64",
+    "limit_price": 51,
     "bracket_stop_loss_limit_price": null
   },
   {
@@ -345,7 +345,7 @@
     "average_fill_price": null,
     "stop_order_type": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-04T09:41:21.335222Z",
+    "updated_at": "2026-08-04T09:45:23.444929Z",
     "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
     "time_in_force": "gtc",
@@ -366,7 +366,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-04T09:41:21.334Z"
+      "user_updated_at": "2026-08-04T09:45:23.444Z"
     },
     "id": 1451427971,
     "product": {
@@ -404,7 +404,7 @@
     "product_id": 144892,
     "quote_size": null,
     "user_id": 21672861,
-    "limit_price": 585,
+    "limit_price": 499,
     "bracket_stop_loss_limit_price": null
   },
   {
