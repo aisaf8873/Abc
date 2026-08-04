@@ -135,7 +135,7 @@
   },
   {
     "created_at": "2026-08-04T11:48:06.131309Z",
-    "unfilled_size": 17718,
+    "unfilled_size": 10718,
     "bracket_take_profit_price": null,
     "reduce_only": false,
     "time_in_force": "gtc",
@@ -144,14 +144,15 @@
     "order_type": "limit_order",
     "stop_trigger_method": null,
     "paid_commission": "0",
-    "size": 17718,
+    "size": 10718,
     "bracket_trail_amount": null,
     "quote_size": null,
     "meta_data": {
       "ip": "2409:40e4:1048:bab4:8000::",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-08-04T11:54:45.310Z"
     },
     "product_symbol": "P-ETH-1780-040826",
     "margin_mode": "portfolio",
@@ -197,7 +198,7 @@
     "stop_price": null,
     "product_id": 144942,
     "stop_order_type": null,
-    "updated_at": "2026-08-04T11:48:06.131309Z",
+    "updated_at": "2026-08-04T11:54:45.310867Z",
     "limit_price": "0.01"
   },
   {
