@@ -136,7 +136,7 @@
   {
     "bracket_stop_loss_limit_price": null,
     "stop_order_type": null,
-    "unfilled_size": 3253,
+    "unfilled_size": 3008,
     "stop_trigger_method": null,
     "trail_amount": null,
     "stop_price": null,
@@ -153,7 +153,7 @@
     "bracket_trail_amount": null,
     "mmp": "disabled",
     "commission": "0",
-    "paid_commission": "0.02716301",
+    "paid_commission": "0.02817486",
     "size": 9830,
     "bracket_take_profit_limit_price": null,
     "margin_mode": "portfolio",
@@ -192,14 +192,14 @@
     "id": 1459696577,
     "created_at": "2026-08-08T11:37:38.648224Z",
     "meta_data": {
-      "cashflow": "0.6577",
+      "cashflow": "0.6822",
       "ip": "2409:40e4:200a:ad43:8000::",
       "order_source": "place_order",
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android"
     },
-    "updated_at": "2026-08-08T11:38:48.289248Z",
+    "updated_at": "2026-08-08T11:39:25.913597Z",
     "state": "open"
   },
   {
