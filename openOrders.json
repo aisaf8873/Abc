@@ -138,7 +138,7 @@
     "average_fill_price": "0.01",
     "margin_mode": "portfolio",
     "meta_data": {
-      "cashflow": "0.7664",
+      "cashflow": "0.8248",
       "ip": "2409:40e4:11f2:491e:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -183,12 +183,12 @@
     "mmp": "disabled",
     "commission": "0",
     "size": 11593,
-    "updated_at": "2026-08-09T11:55:07.209146Z",
+    "updated_at": "2026-08-09T11:55:19.570968Z",
     "cancellation_reason": null,
     "side": "sell",
     "trail_amount": null,
     "order_type": "limit_order",
-    "paid_commission": "0.03165232",
+    "paid_commission": "0.03406424",
     "time_in_force": "gtc",
     "client_order_id": null,
     "limit_price": "0.01",
@@ -200,7 +200,7 @@
     "user_id": 21672861,
     "stop_order_type": null,
     "bracket_trail_amount": null,
-    "unfilled_size": 3929
+    "unfilled_size": 3345
   },
   {
     "bracket_stop_loss_price": null,
@@ -408,7 +408,7 @@
     "average_fill_price": "0.01",
     "margin_mode": "portfolio",
     "meta_data": {
-      "cashflow": "0.79",
+      "cashflow": "0.8483",
       "ip": "2409:40e4:11f2:491e:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -453,12 +453,12 @@
     "mmp": "disabled",
     "commission": "0",
     "size": 11500,
-    "updated_at": "2026-08-09T11:55:07.031507Z",
+    "updated_at": "2026-08-09T11:55:19.480969Z",
     "cancellation_reason": null,
     "side": "sell",
     "trail_amount": null,
     "order_type": "limit_order",
-    "paid_commission": "0.032627",
+    "paid_commission": "0.03503479",
     "time_in_force": "gtc",
     "client_order_id": null,
     "limit_price": "0.01",
@@ -470,6 +470,6 @@
     "user_id": 21672861,
     "stop_order_type": null,
     "bracket_trail_amount": null,
-    "unfilled_size": 3600
+    "unfilled_size": 3017
   }
 ]
