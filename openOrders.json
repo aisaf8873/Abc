@@ -1,34 +1,29 @@
 [
   {
-    "bracket_stop_loss_price": null,
-    "average_fill_price": null,
+    "mmp": "disabled",
     "margin_mode": "portfolio",
-    "meta_data": {
-      "ip": "2409:40e4:11f2:491e:8000::",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
     "bracket_take_profit_price": null,
     "created_at": "2026-08-09T07:04:45.532514Z",
-    "stop_trigger_method": null,
     "bracket_take_profit_limit_price": null,
-    "reduce_only": false,
-    "bracket_stop_loss_limit_price": null,
+    "cancellation_reason": null,
+    "bracket_trail_amount": null,
+    "commission": "0",
+    "product_id": 145623,
+    "user_id": 21672861,
     "stop_price": null,
-    "product_symbol": "P-BTC-62400-090826",
+    "size": 3000,
     "product": {
       "id": 145623,
       "symbol": "P-BTC-62400-090826",
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
       "contract_type": "put_options",
       "notional_type": "vanilla",
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
         "minimum_precision": 2
+      },
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
       },
       "contract_value": "0.001",
       "underlying_asset": {
@@ -44,26 +39,31 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "mmp": "disabled",
-    "commission": "0",
-    "size": 3000,
-    "updated_at": "2026-08-09T07:04:45.532514Z",
-    "cancellation_reason": null,
-    "side": "sell",
     "trail_amount": null,
-    "order_type": "limit_order",
-    "paid_commission": "0",
-    "time_in_force": "gtc",
-    "client_order_id": null,
+    "side": "sell",
     "limit_price": "0.8",
     "bracket_order": null,
-    "quote_size": null,
+    "bracket_stop_loss_limit_price": null,
+    "average_fill_price": null,
+    "updated_at": "2026-08-09T07:04:45.532514Z",
+    "meta_data": {
+      "ip": "2409:40e4:11f2:491e:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
     "id": 1460815223,
-    "product_id": 145623,
+    "stop_trigger_method": null,
+    "product_symbol": "P-BTC-62400-090826",
+    "bracket_stop_loss_price": null,
     "state": "open",
-    "user_id": 21672861,
-    "stop_order_type": null,
-    "bracket_trail_amount": null,
-    "unfilled_size": 3000
+    "quote_size": null,
+    "client_order_id": null,
+    "paid_commission": "0",
+    "order_type": "limit_order",
+    "time_in_force": "gtc",
+    "reduce_only": false,
+    "unfilled_size": 3000,
+    "stop_order_type": null
   }
 ]
