@@ -45,9 +45,9 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "0.01",
-    "updated_at": "2026-08-12T11:55:00.322571Z",
+    "updated_at": "2026-08-12T11:55:20.439672Z",
     "meta_data": {
-      "cashflow": "1.2408",
+      "cashflow": "1.2523",
       "ip": "2409:40e5:b:76a1:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -61,11 +61,11 @@
     "state": "open",
     "quote_size": null,
     "client_order_id": null,
-    "paid_commission": "0.05124504",
+    "paid_commission": "0.05171999",
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "reduce_only": false,
-    "unfilled_size": 2978,
+    "unfilled_size": 2863,
     "stop_order_type": null
   },
   {
@@ -114,9 +114,9 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "0.01",
-    "updated_at": "2026-08-12T11:55:00.104641Z",
+    "updated_at": "2026-08-12T11:55:18.525281Z",
     "meta_data": {
-      "cashflow": "0.6422",
+      "cashflow": "0.6715",
       "ip": "2409:40e5:b:76a1:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -130,11 +130,11 @@
     "state": "open",
     "quote_size": null,
     "client_order_id": null,
-    "paid_commission": "0.02652286",
+    "paid_commission": "0.02773295",
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "reduce_only": false,
-    "unfilled_size": 1145,
+    "unfilled_size": 852,
     "stop_order_type": null
   },
   {
@@ -183,9 +183,9 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "0.01",
-    "updated_at": "2026-08-12T11:54:59.956297Z",
+    "updated_at": "2026-08-12T11:55:20.546279Z",
     "meta_data": {
-      "cashflow": "1.1732",
+      "cashflow": "1.1847",
       "ip": "2409:40e5:b:76a1:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -199,11 +199,11 @@
     "state": "open",
     "quote_size": null,
     "client_order_id": null,
-    "paid_commission": "0.04845316",
+    "paid_commission": "0.04892811",
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "reduce_only": false,
-    "unfilled_size": 4843,
+    "unfilled_size": 4728,
     "stop_order_type": null
   },
   {
@@ -252,9 +252,9 @@
     "bracket_order": null,
     "bracket_stop_loss_limit_price": null,
     "average_fill_price": "0.01",
-    "updated_at": "2026-08-12T11:55:00.060078Z",
+    "updated_at": "2026-08-12T11:55:17.985891Z",
     "meta_data": {
-      "cashflow": "1.4822",
+      "cashflow": "1.4933",
       "ip": "2409:40e5:b:76a1:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -268,11 +268,11 @@
     "state": "open",
     "quote_size": null,
     "client_order_id": null,
-    "paid_commission": "0.06121486",
+    "paid_commission": "0.06167329",
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "reduce_only": false,
-    "unfilled_size": 223,
+    "unfilled_size": 112,
     "stop_order_type": null
   }
 ]
