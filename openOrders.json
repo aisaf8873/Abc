@@ -7,7 +7,7 @@
     "product_id": 146014,
     "limit_price": "0.01",
     "meta_data": {
-      "cashflow": "1.2179",
+      "cashflow": "1.2306",
       "ip": "2409:40e5:b:76a1:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -15,7 +15,7 @@
       "source": "mobile_app_android"
     },
     "created_at": "2026-08-12T11:42:55.748877Z",
-    "updated_at": "2026-08-12T11:53:51.756994Z",
+    "updated_at": "2026-08-12T11:54:33.099993Z",
     "quote_size": null,
     "mmp": "disabled",
     "client_order_id": null,
@@ -30,7 +30,7 @@
     "commission": "0",
     "average_fill_price": "0.01",
     "bracket_trail_amount": null,
-    "unfilled_size": 3207,
+    "unfilled_size": 3080,
     "bracket_order": null,
     "margin_mode": "portfolio",
     "reduce_only": false,
@@ -66,7 +66,7 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "paid_commission": "0.05029927"
+    "paid_commission": "0.05082378"
   },
   {
     "stop_price": null,
@@ -76,7 +76,7 @@
     "product_id": 146008,
     "limit_price": "0.01",
     "meta_data": {
-      "cashflow": "0.6191",
+      "cashflow": "0.6317",
       "ip": "2409:40e5:b:76a1:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -84,7 +84,7 @@
       "source": "mobile_app_android"
     },
     "created_at": "2026-08-12T11:42:39.723580Z",
-    "updated_at": "2026-08-12T11:53:52.277207Z",
+    "updated_at": "2026-08-12T11:54:33.428157Z",
     "quote_size": null,
     "mmp": "disabled",
     "client_order_id": null,
@@ -99,7 +99,7 @@
     "commission": "0",
     "average_fill_price": "0.01",
     "bracket_trail_amount": null,
-    "unfilled_size": 1376,
+    "unfilled_size": 1250,
     "bracket_order": null,
     "margin_mode": "portfolio",
     "reduce_only": false,
@@ -135,7 +135,7 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "paid_commission": "0.02556883"
+    "paid_commission": "0.02608921"
   },
   {
     "stop_price": null,
@@ -145,7 +145,7 @@
     "product_id": 146287,
     "limit_price": "0.01",
     "meta_data": {
-      "cashflow": "1.1507",
+      "cashflow": "1.163",
       "ip": "2409:40e5:b:76a1:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -153,7 +153,7 @@
       "source": "mobile_app_android"
     },
     "created_at": "2026-08-12T11:42:31.087592Z",
-    "updated_at": "2026-08-12T11:53:50.657608Z",
+    "updated_at": "2026-08-12T11:54:33.145820Z",
     "quote_size": null,
     "mmp": "disabled",
     "client_order_id": null,
@@ -168,7 +168,7 @@
     "commission": "0",
     "average_fill_price": "0.01",
     "bracket_trail_amount": null,
-    "unfilled_size": 5068,
+    "unfilled_size": 4945,
     "bracket_order": null,
     "margin_mode": "portfolio",
     "reduce_only": false,
@@ -204,7 +204,7 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "paid_commission": "0.04752391"
+    "paid_commission": "0.0480319"
   },
   {
     "stop_price": null,
@@ -214,7 +214,7 @@
     "product_id": 146376,
     "limit_price": "0.01",
     "meta_data": {
-      "cashflow": "1.4592",
+      "cashflow": "1.4719",
       "ip": "2409:40e5:b:76a1:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -222,7 +222,7 @@
       "source": "mobile_app_android"
     },
     "created_at": "2026-08-12T11:42:09.810057Z",
-    "updated_at": "2026-08-12T11:53:51.095069Z",
+    "updated_at": "2026-08-12T11:54:33.510732Z",
     "quote_size": null,
     "mmp": "disabled",
     "client_order_id": null,
@@ -237,7 +237,7 @@
     "commission": "0",
     "average_fill_price": "0.01",
     "bracket_trail_amount": null,
-    "unfilled_size": 453,
+    "unfilled_size": 326,
     "bracket_order": null,
     "margin_mode": "portfolio",
     "reduce_only": false,
@@ -273,6 +273,6 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "paid_commission": "0.06026496"
+    "paid_commission": "0.06078947"
   }
 ]
