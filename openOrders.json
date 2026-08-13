@@ -2,6 +2,75 @@
   {
     "bracket_take_profit_price": null,
     "margin_mode": "portfolio",
+    "average_fill_price": "0.1",
+    "bracket_stop_loss_limit_price": null,
+    "paid_commission": "0.00856562",
+    "stop_price": null,
+    "reduce_only": false,
+    "product": {
+      "id": 146101,
+      "symbol": "C-BTC-65200-130826",
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
+      "contract_type": "call_options",
+      "notional_type": "vanilla",
+      "settling_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "contract_value": "0.001",
+      "underlying_asset": {
+        "symbol": "BTC",
+        "precision": 8,
+        "minimum_precision": 4
+      },
+      "tick_size": "0.1",
+      "quoting_asset": {
+        "symbol": "USD",
+        "precision": 8,
+        "minimum_precision": 2
+      },
+      "contract_unit_currency": "BTC"
+    },
+    "created_at": "2026-08-13T11:54:35.846548Z",
+    "trail_amount": null,
+    "limit_price": "0.1",
+    "mmp": "disabled",
+    "size": 2762,
+    "meta_data": {
+      "cashflow": "0.2074",
+      "ip": "2409:40e4:101e:8746:8000::",
+      "order_source": "place_order",
+      "otc": false,
+      "pnl": "-0",
+      "source": "mobile_app_android"
+    },
+    "stop_order_type": null,
+    "side": "sell",
+    "order_type": "limit_order",
+    "bracket_stop_loss_price": null,
+    "time_in_force": "gtc",
+    "client_order_id": null,
+    "user_id": 21672861,
+    "cancellation_reason": null,
+    "bracket_take_profit_limit_price": null,
+    "stop_trigger_method": null,
+    "id": 1469550491,
+    "product_id": 146101,
+    "commission": "0",
+    "state": "open",
+    "product_symbol": "C-BTC-65200-130826",
+    "updated_at": "2026-08-13T11:54:37.794274Z",
+    "bracket_trail_amount": null,
+    "bracket_order": null,
+    "unfilled_size": 688,
+    "quote_size": null
+  },
+  {
+    "bracket_take_profit_price": null,
+    "margin_mode": "portfolio",
     "average_fill_price": null,
     "bracket_stop_loss_limit_price": null,
     "paid_commission": "0",
