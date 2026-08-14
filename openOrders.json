@@ -5,14 +5,14 @@
     "stop_trigger_method": null,
     "commission": "0",
     "meta_data": {
-      "cashflow": "0.2819",
+      "cashflow": "0.3673",
       "ip": "2409:40e4:101e:8746:8000::",
       "order_source": "place_order",
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android"
     },
-    "updated_at": "2026-08-14T11:57:44.662647Z",
+    "updated_at": "2026-08-14T11:58:04.561832Z",
     "time_in_force": "gtc",
     "side": "sell",
     "product": {
@@ -42,7 +42,7 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "unfilled_size": 1858,
+    "unfilled_size": 1004,
     "product_symbol": "C-ETH-1960-140826",
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
@@ -53,7 +53,7 @@
     "stop_price": null,
     "cancellation_reason": null,
     "created_at": "2026-08-14T11:43:52.112175Z",
-    "paid_commission": "0.01164247",
+    "paid_commission": "0.01516949",
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
     "stop_order_type": null,
@@ -74,14 +74,14 @@
     "stop_trigger_method": null,
     "commission": "0",
     "meta_data": {
-      "cashflow": "0.3874",
+      "cashflow": "0.4728",
       "ip": "2409:40e4:101e:8746:8000::",
       "order_source": "place_order",
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android"
     },
-    "updated_at": "2026-08-14T11:57:44.402607Z",
+    "updated_at": "2026-08-14T11:58:04.415963Z",
     "time_in_force": "gtc",
     "side": "sell",
     "product": {
@@ -111,7 +111,7 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "unfilled_size": 1029,
+    "unfilled_size": 175,
     "product_symbol": "C-ETH-1950-140826",
     "bracket_take_profit_limit_price": null,
     "bracket_order": null,
@@ -122,7 +122,7 @@
     "stop_price": null,
     "cancellation_reason": null,
     "created_at": "2026-08-14T11:43:30.823446Z",
-    "paid_commission": "0.01599962",
+    "paid_commission": "0.01952664",
     "bracket_stop_loss_limit_price": null,
     "user_id": 21672861,
     "stop_order_type": null,
