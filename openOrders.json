@@ -104,7 +104,7 @@
     "product_symbol": "C-ETH-1950-140826",
     "stop_order_type": null,
     "meta_data": {
-      "cashflow": "0.2045",
+      "cashflow": "0.3045",
       "ip": "2409:40e4:101e:8746:8000::",
       "order_source": "place_order",
       "otc": false,
@@ -118,10 +118,10 @@
     "bracket_take_profit_limit_price": null,
     "size": 4903,
     "average_fill_price": "0.01",
-    "paid_commission": "0.00844585",
+    "paid_commission": "0.01257585",
     "bracket_take_profit_price": null,
     "side": "sell",
-    "updated_at": "2026-08-14T11:53:26.346013Z",
+    "updated_at": "2026-08-14T11:55:00.328754Z",
     "commission": "0",
     "trail_amount": null,
     "stop_trigger_method": null,
@@ -134,7 +134,7 @@
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "reduce_only": false,
-    "unfilled_size": 2858,
+    "unfilled_size": 1858,
     "limit_price": "0.01"
   }
 ]
