@@ -1,36 +1,18 @@
 [
   {
-    "mmp": "disabled",
-    "margin_mode": "portfolio",
-    "user_id": 21672861,
-    "product_symbol": "P-BTC-64400-170826",
     "bracket_take_profit_price": null,
+    "margin_mode": "portfolio",
     "average_fill_price": null,
-    "bracket_take_profit_limit_price": null,
-    "client_order_id": null,
-    "product_id": 146639,
-    "meta_data": {
-      "ip": "13.203.159.91",
-      "otc": false,
-      "source": "api"
-    },
-    "stop_price": null,
-    "bracket_order": null,
-    "size": 1,
-    "paid_commission": "0",
-    "commission": "0",
-    "cancellation_reason": null,
-    "stop_order_type": null,
-    "bracket_trail_amount": null,
-    "side": "buy",
     "bracket_stop_loss_limit_price": null,
+    "paid_commission": "0",
+    "stop_price": null,
+    "reduce_only": false,
     "product": {
       "id": 146639,
       "symbol": "P-BTC-64400-170826",
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
-      "contract_value": "0.001",
       "contract_type": "put_options",
       "notional_type": "vanilla",
       "settling_asset": {
@@ -38,6 +20,7 @@
         "precision": 8,
         "minimum_precision": 2
       },
+      "contract_value": "0.001",
       "underlying_asset": {
         "symbol": "BTC",
         "precision": 8,
@@ -51,18 +34,35 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "bracket_stop_loss_price": null,
-    "trail_amount": null,
     "created_at": "2026-08-15T08:34:08.363661Z",
+    "trail_amount": null,
+    "limit_price": "1359",
+    "mmp": "disabled",
+    "size": 1,
+    "meta_data": {
+      "ip": "13.203.159.91",
+      "otc": false,
+      "source": "api"
+    },
+    "stop_order_type": null,
+    "side": "buy",
+    "order_type": "limit_order",
+    "bracket_stop_loss_price": null,
+    "time_in_force": "gtc",
+    "client_order_id": null,
+    "user_id": 21672861,
+    "cancellation_reason": null,
+    "bracket_take_profit_limit_price": null,
     "stop_trigger_method": null,
     "id": 1473501620,
-    "quote_size": null,
+    "product_id": 146639,
+    "commission": "0",
     "state": "open",
-    "order_type": "limit_order",
+    "product_symbol": "P-BTC-64400-170826",
     "updated_at": "2026-08-15T08:34:08.363661Z",
-    "time_in_force": "gtc",
-    "reduce_only": false,
+    "bracket_trail_amount": null,
+    "bracket_order": null,
     "unfilled_size": 1,
-    "limit_price": "1359"
+    "quote_size": null
   }
 ]
