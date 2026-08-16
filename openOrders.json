@@ -1,23 +1,36 @@
 [
   {
+    "mmp": "disabled",
+    "margin_mode": "portfolio",
+    "user_id": 21672861,
+    "product_symbol": "P-BTC-63800-180826",
+    "bracket_take_profit_price": null,
     "average_fill_price": null,
-    "bracket_trail_amount": null,
-    "stop_trigger_method": null,
-    "commission": "0",
+    "bracket_take_profit_limit_price": null,
+    "client_order_id": null,
+    "product_id": 146751,
     "meta_data": {
       "ip": "13.203.159.91",
       "otc": false,
       "source": "api"
     },
-    "updated_at": "2026-08-16T21:40:15.909548Z",
-    "time_in_force": "gtc",
+    "stop_price": null,
+    "bracket_order": null,
+    "size": 1,
+    "paid_commission": "0",
+    "commission": "0",
+    "cancellation_reason": null,
+    "stop_order_type": null,
+    "bracket_trail_amount": null,
     "side": "sell",
+    "bracket_stop_loss_limit_price": null,
     "product": {
       "id": 146751,
       "symbol": "P-BTC-63800-180826",
       "spot_index": {
         "symbol": ".DEXBTUSD"
       },
+      "contract_value": "0.001",
       "contract_type": "put_options",
       "notional_type": "vanilla",
       "settling_asset": {
@@ -25,7 +38,6 @@
         "precision": 8,
         "minimum_precision": 2
       },
-      "contract_value": "0.001",
       "underlying_asset": {
         "symbol": "BTC",
         "precision": 8,
@@ -39,30 +51,18 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "unfilled_size": 1,
-    "product_symbol": "P-BTC-63800-180826",
-    "bracket_take_profit_limit_price": null,
-    "bracket_order": null,
-    "mmp": "disabled",
-    "trail_amount": null,
-    "size": 1,
-    "bracket_take_profit_price": null,
-    "stop_price": null,
-    "cancellation_reason": null,
-    "created_at": "2026-08-16T21:40:15.909548Z",
-    "paid_commission": "0",
-    "bracket_stop_loss_limit_price": null,
-    "user_id": 21672861,
-    "stop_order_type": null,
-    "quote_size": null,
-    "limit_price": "1112.6",
-    "id": 1475563526,
-    "state": "open",
-    "client_order_id": null,
     "bracket_stop_loss_price": null,
-    "product_id": 146751,
+    "trail_amount": null,
+    "created_at": "2026-08-16T21:40:15.909548Z",
+    "stop_trigger_method": null,
+    "id": 1475563526,
+    "quote_size": null,
+    "state": "open",
     "order_type": "limit_order",
+    "updated_at": "2026-08-16T21:40:15.909548Z",
+    "time_in_force": "gtc",
     "reduce_only": false,
-    "margin_mode": "portfolio"
+    "unfilled_size": 1,
+    "limit_price": "1112.6"
   }
 ]
