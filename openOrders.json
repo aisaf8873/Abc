@@ -278,13 +278,13 @@
     "stop_price": null,
     "bracket_order": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-23T11:07:03.010014Z",
+    "updated_at": "2026-08-23T11:07:25.870654Z",
     "meta_data": {
       "ip": "103.124.140.142",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T11:07:03.009Z"
+      "user_updated_at": "2026-08-23T11:07:25.870Z"
     },
     "product": {
       "id": 148113,
@@ -329,7 +329,7 @@
     "stop_trigger_method": null,
     "quote_size": null,
     "average_fill_price": null,
-    "limit_price": 141,
+    "limit_price": 154,
     "margin_mode": "portfolio",
     "id": 1490451812,
     "created_at": "2026-08-23T05:30:42.370551Z",
@@ -399,7 +399,7 @@
     "stop_trigger_method": null,
     "quote_size": null,
     "average_fill_price": "197",
-    "limit_price": "319",
+    "limit_price": 349,
     "margin_mode": "portfolio",
     "id": 1490451108,
     "created_at": "2026-08-23T05:30:24.804668Z",
