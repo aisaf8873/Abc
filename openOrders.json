@@ -70,12 +70,12 @@
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
-    "limit_price": 229,
+    "limit_price": "229",
     "time_in_force": "gtc",
     "side": "sell",
     "unfilled_size": 500,
     "stop_trigger_method": null,
-    "updated_at": "2026-08-23T06:45:00.978542Z",
+    "updated_at": "2026-08-23T06:45:27.039260Z",
     "product": {
       "id": 148082,
       "symbol": "P-BTC-76000-230826",
@@ -131,7 +131,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T06:45:00.978Z"
+      "user_updated_at": "2026-08-23T06:45:27.038Z"
     }
   },
   {
@@ -342,12 +342,12 @@
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
-    "limit_price": 136,
+    "limit_price": "136",
     "time_in_force": "gtc",
     "side": "sell",
     "unfilled_size": 500,
     "stop_trigger_method": null,
-    "updated_at": "2026-08-23T06:44:55.104724Z",
+    "updated_at": "2026-08-23T06:45:14.113988Z",
     "product": {
       "id": 148215,
       "symbol": "C-BTC-76600-230826",
@@ -403,19 +403,19 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T06:44:55.104Z"
+      "user_updated_at": "2026-08-23T06:45:14.113Z"
     }
   },
   {
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
-    "limit_price": 196,
+    "limit_price": "187.5",
     "time_in_force": "gtc",
     "side": "sell",
     "unfilled_size": 500,
     "stop_trigger_method": null,
-    "updated_at": "2026-08-23T06:44:24.559948Z",
+    "updated_at": "2026-08-23T06:45:46.356010Z",
     "product": {
       "id": 148112,
       "symbol": "C-BTC-76400-230826",
@@ -471,19 +471,19 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T06:44:24.559Z"
+      "user_updated_at": "2026-08-23T06:45:46.355Z"
     }
   },
   {
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
-    "limit_price": 294,
+    "limit_price": "294",
     "time_in_force": "gtc",
     "side": "sell",
     "unfilled_size": 500,
     "stop_trigger_method": null,
-    "updated_at": "2026-08-23T06:44:04.903911Z",
+    "updated_at": "2026-08-23T06:45:27.309227Z",
     "product": {
       "id": 148185,
       "symbol": "P-BTC-76200-230826",
@@ -539,7 +539,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T06:44:04.903Z"
+      "user_updated_at": "2026-08-23T06:45:27.308Z"
     }
   },
   {
@@ -616,12 +616,12 @@
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
-    "limit_price": 159,
+    "limit_price": "159",
     "time_in_force": "gtc",
     "side": "sell",
     "unfilled_size": 700,
     "stop_trigger_method": null,
-    "updated_at": "2026-08-23T06:44:43.734714Z",
+    "updated_at": "2026-08-23T06:45:26.805148Z",
     "product": {
       "id": 148159,
       "symbol": "P-BTC-75800-230826",
@@ -679,7 +679,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T06:44:43.734Z"
+      "user_updated_at": "2026-08-23T06:45:26.804Z"
     }
   },
   {
