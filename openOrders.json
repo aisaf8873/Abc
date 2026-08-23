@@ -7,7 +7,7 @@
     "trail_amount": null,
     "average_fill_price": null,
     "product_id": 148112,
-    "updated_at": "2026-08-23T08:37:02.246688Z",
+    "updated_at": "2026-08-23T08:37:27.778261Z",
     "order_type": "limit_order",
     "margin_mode": "portfolio",
     "size": 500,
@@ -18,7 +18,7 @@
     "created_at": "2026-08-23T07:50:48.747130Z",
     "bracket_trail_amount": null,
     "stop_order_type": null,
-    "limit_price": "196",
+    "limit_price": 268.8,
     "stop_price": null,
     "mmp": "disabled",
     "product": {
@@ -63,7 +63,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T08:37:02.246Z"
+      "user_updated_at": "2026-08-23T08:37:27.777Z"
     },
     "time_in_force": "gtc"
   },
@@ -86,7 +86,7 @@
     "created_at": "2026-08-23T07:26:15.516969Z",
     "bracket_trail_amount": null,
     "stop_order_type": null,
-    "limit_price": "212.2",
+    "limit_price": 199,
     "stop_price": null,
     "mmp": "disabled",
     "product": {
@@ -154,7 +154,7 @@
     "created_at": "2026-08-23T07:24:10.648316Z",
     "bracket_trail_amount": null,
     "stop_order_type": null,
-    "limit_price": "199",
+    "limit_price": 133,
     "stop_price": null,
     "mmp": "disabled",
     "product": {
@@ -290,7 +290,7 @@
     "created_at": "2026-08-23T05:34:51.903067Z",
     "bracket_trail_amount": null,
     "stop_order_type": null,
-    "limit_price": "447",
+    "limit_price": 259,
     "stop_price": null,
     "mmp": "disabled",
     "product": {
@@ -358,7 +358,7 @@
     "created_at": "2026-08-23T05:30:42.370551Z",
     "bracket_trail_amount": null,
     "stop_order_type": null,
-    "limit_price": "194",
+    "limit_price": 279,
     "stop_price": null,
     "mmp": "disabled",
     "product": {
@@ -426,7 +426,7 @@
     "created_at": "2026-08-23T05:30:24.804668Z",
     "bracket_trail_amount": null,
     "stop_order_type": null,
-    "limit_price": "249",
+    "limit_price": 298,
     "stop_price": null,
     "mmp": "disabled",
     "product": {
@@ -494,7 +494,7 @@
     "created_at": "2026-08-23T05:30:01.239706Z",
     "bracket_trail_amount": null,
     "stop_order_type": null,
-    "limit_price": "389",
+    "limit_price": 239,
     "stop_price": null,
     "mmp": "disabled",
     "product": {
