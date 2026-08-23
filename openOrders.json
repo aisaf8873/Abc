@@ -3,12 +3,12 @@
     "margin_mode": "portfolio",
     "cancellation_reason": null,
     "bracket_stop_loss_price": null,
-    "limit_price": 842,
+    "limit_price": "842",
     "time_in_force": "gtc",
     "side": "sell",
     "unfilled_size": 500,
     "stop_trigger_method": null,
-    "updated_at": "2026-08-23T10:37:40.165604Z",
+    "updated_at": "2026-08-23T10:38:06.706126Z",
     "product": {
       "id": 148112,
       "symbol": "C-BTC-76400-230826",
@@ -64,7 +64,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T10:37:40.165Z"
+      "user_updated_at": "2026-08-23T10:38:06.705Z"
     }
   },
   {
