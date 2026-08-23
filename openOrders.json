@@ -278,13 +278,13 @@
     "stop_price": null,
     "bracket_order": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-23T10:44:35.055318Z",
+    "updated_at": "2026-08-23T10:45:04.109354Z",
     "meta_data": {
       "ip": "103.124.140.142",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T10:44:35.054Z"
+      "user_updated_at": "2026-08-23T10:45:04.109Z"
     },
     "product": {
       "id": 148113,
@@ -329,7 +329,7 @@
     "stop_trigger_method": null,
     "quote_size": null,
     "average_fill_price": null,
-    "limit_price": 201,
+    "limit_price": "299",
     "margin_mode": "portfolio",
     "id": 1490451812,
     "created_at": "2026-08-23T05:30:42.370551Z",
@@ -346,7 +346,7 @@
     "stop_price": null,
     "bracket_order": null,
     "order_type": "limit_order",
-    "updated_at": "2026-08-23T10:44:07.118331Z",
+    "updated_at": "2026-08-23T10:45:03.125886Z",
     "meta_data": {
       "cashflow": "16.942",
       "ip": "103.124.140.142",
@@ -354,7 +354,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-08-23T10:44:07.117Z"
+      "user_updated_at": "2026-08-23T10:45:03.083Z"
     },
     "product": {
       "id": 148215,
@@ -399,7 +399,7 @@
     "stop_trigger_method": null,
     "quote_size": null,
     "average_fill_price": "197",
-    "limit_price": 590,
+    "limit_price": "590",
     "margin_mode": "portfolio",
     "id": 1490451108,
     "created_at": "2026-08-23T05:30:24.804668Z",
