@@ -4,7 +4,7 @@
     "margin_mode": "portfolio",
     "average_fill_price": "0.01",
     "bracket_stop_loss_limit_price": null,
-    "paid_commission": "0.00029323",
+    "paid_commission": "0.00048321",
     "stop_price": null,
     "reduce_only": false,
     "product": {
@@ -40,7 +40,7 @@
     "mmp": "disabled",
     "size": 800,
     "meta_data": {
-      "cashflow": "0.0071",
+      "cashflow": "0.0117",
       "ip": "103.124.140.142",
       "order_source": "place_order",
       "otc": false,
@@ -62,10 +62,10 @@
     "commission": "0",
     "state": "open",
     "product_symbol": "C-ETH-2480-290826",
-    "updated_at": "2026-08-29T11:53:52.937535Z",
+    "updated_at": "2026-08-29T11:54:11.081982Z",
     "bracket_trail_amount": null,
     "bracket_order": null,
-    "unfilled_size": 729,
+    "unfilled_size": 683,
     "quote_size": null
   }
 ]
