@@ -42,7 +42,7 @@
     "mmp": "disabled",
     "margin_mode": "portfolio",
     "quote_size": null,
-    "updated_at": "2026-09-09T11:53:11.276248Z",
+    "updated_at": "2026-09-09T11:53:31.387834Z",
     "limit_price": "0.01",
     "commission": "0",
     "cancellation_reason": null,
@@ -51,21 +51,21 @@
     "bracket_stop_loss_limit_price": null,
     "id": 1526181062,
     "meta_data": {
-      "cashflow": "0.0143",
+      "cashflow": "0.0194",
       "ip": "103.124.140.142",
       "order_source": "place_order",
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android"
     },
-    "paid_commission": "0.00059059",
+    "paid_commission": "0.00080122",
     "trail_amount": null,
     "stop_trigger_method": null,
     "client_order_id": null,
     "order_type": "limit_order",
     "state": "open",
     "product_symbol": "C-ETH-2540-090926",
-    "unfilled_size": 2157,
+    "unfilled_size": 2106,
     "user_id": 21672861
   }
 ]
