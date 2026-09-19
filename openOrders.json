@@ -20,7 +20,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-19T09:04:26.960Z"
+      "user_updated_at": "2026-09-19T09:05:10.556Z"
     },
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
@@ -30,11 +30,11 @@
     "time_in_force": "gtc",
     "id": 1548369783,
     "bracket_take_profit_limit_price": null,
-    "limit_price": "19.95",
+    "limit_price": 24.65,
     "product_symbol": "C-ETH-2640-190926",
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-19T09:04:26.964884Z",
+    "updated_at": "2026-09-19T09:05:10.556850Z",
     "state": "open",
     "product": {
       "id": 153651,
@@ -87,7 +87,7 @@
       "ip": "2409:40c2:12af:9e43:8000::",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-19T09:03:57.302Z"
+      "user_updated_at": "2026-09-19T09:04:39.508Z"
     },
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
@@ -97,11 +97,11 @@
     "time_in_force": "gtc",
     "id": 1548368664,
     "bracket_take_profit_limit_price": null,
-    "limit_price": "5.9",
+    "limit_price": "5.1",
     "product_symbol": "C-ETH-2650-190926",
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-19T09:03:57.303360Z",
+    "updated_at": "2026-09-19T09:04:39.508794Z",
     "state": "open",
     "product": {
       "id": 153788,
@@ -157,7 +157,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-19T09:03:42.105Z"
+      "user_updated_at": "2026-09-19T09:04:58.764Z"
     },
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
@@ -167,11 +167,11 @@
     "time_in_force": "gtc",
     "id": 1548327625,
     "bracket_take_profit_limit_price": null,
-    "limit_price": "9.85",
+    "limit_price": "9.9",
     "product_symbol": "C-ETH-2650-190926",
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-19T09:03:42.105453Z",
+    "updated_at": "2026-09-19T09:04:58.765137Z",
     "state": "open",
     "product": {
       "id": 153788,
@@ -227,7 +227,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-19T09:04:27.943Z"
+      "user_updated_at": "2026-09-19T09:05:04.545Z"
     },
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
@@ -237,11 +237,11 @@
     "time_in_force": "gtc",
     "id": 1548311119,
     "bracket_take_profit_limit_price": null,
-    "limit_price": 5.55,
+    "limit_price": 7.9,
     "product_symbol": "C-ETH-2660-190926",
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-19T09:04:27.944321Z",
+    "updated_at": "2026-09-19T09:05:04.545546Z",
     "state": "open",
     "product": {
       "id": 153796,
