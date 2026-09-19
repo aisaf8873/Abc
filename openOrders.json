@@ -84,10 +84,10 @@
     "time_in_force": "gtc",
     "product_symbol": "C-ETH-2640-190926",
     "commission": "0",
-    "updated_at": "2026-09-19T09:45:49.574951Z",
+    "updated_at": "2026-09-19T09:46:10.559791Z",
     "trail_amount": null,
     "client_order_id": null,
-    "limit_price": "5.65",
+    "limit_price": 7.15,
     "stop_trigger_method": null,
     "paid_commission": "5.2372632",
     "bracket_take_profit_price": null,
@@ -101,7 +101,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-19T09:45:49.574Z"
+      "user_updated_at": "2026-09-19T09:46:10.559Z"
     },
     "order_type": "limit_order",
     "stop_order_type": null,
