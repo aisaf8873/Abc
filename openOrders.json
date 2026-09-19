@@ -1,7 +1,7 @@
 [
   {
     "mmp": "disabled",
-    "paid_commission": "0",
+    "paid_commission": "0.96986383",
     "margin_mode": "portfolio",
     "bracket_trail_amount": null,
     "side": "sell",
@@ -14,11 +14,13 @@
     "quote_size": null,
     "size": 3000,
     "trail_amount": null,
-    "unfilled_size": 3000,
+    "unfilled_size": 2690,
     "meta_data": {
+      "cashflow": "37.045",
       "ip": "2409:40c2:12af:9e43:8000::",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "-0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-09-19T08:45:52.890Z"
     },
@@ -30,11 +32,11 @@
     "time_in_force": "gtc",
     "id": 1548327625,
     "bracket_take_profit_limit_price": null,
-    "limit_price": "11.95",
+    "limit_price": 10.95,
     "product_symbol": "C-ETH-2650-190926",
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-19T08:45:52.891031Z",
+    "updated_at": "2026-09-19T08:46:22.435442Z",
     "state": "open",
     "product": {
       "id": 153788,
@@ -63,7 +65,7 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "average_fill_price": null,
+    "average_fill_price": "11.95",
     "stop_order_type": null,
     "order_type": "limit_order"
   },
