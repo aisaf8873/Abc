@@ -42,8 +42,8 @@
     "mmp": "disabled",
     "margin_mode": "portfolio",
     "quote_size": null,
-    "updated_at": "2026-09-24T16:28:48.394215Z",
-    "limit_price": "32",
+    "updated_at": "2026-09-24T16:30:16.130992Z",
+    "limit_price": "30",
     "commission": "0",
     "cancellation_reason": null,
     "stop_order_type": null,
@@ -53,7 +53,8 @@
     "meta_data": {
       "ip": "103.124.140.142",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-09-24T16:30:16.130Z"
     },
     "paid_commission": "0",
     "trail_amount": null,
