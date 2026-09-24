@@ -71,7 +71,7 @@
     "created_at": "2026-09-24T16:31:59.645110Z",
     "average_fill_price": null,
     "time_in_force": "gtc",
-    "limit_price": 102,
+    "limit_price": "103",
     "bracket_stop_loss_limit_price": null,
     "side": "sell",
     "stop_trigger_method": null,
@@ -83,7 +83,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-24T20:22:39.052Z"
+      "user_updated_at": "2026-09-24T20:23:05.519Z"
     },
     "size": 1000,
     "quote_size": null,
@@ -92,7 +92,7 @@
     "unfilled_size": 1000,
     "order_type": "limit_order",
     "bracket_trail_amount": null,
-    "updated_at": "2026-09-24T20:22:39.052924Z",
+    "updated_at": "2026-09-24T20:23:05.520357Z",
     "commission": "0",
     "paid_commission": "0",
     "id": 1561401640,
