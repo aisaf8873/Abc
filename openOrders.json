@@ -19,7 +19,7 @@
       "ip": "103.124.140.142",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-24T17:11:46.939Z"
+      "user_updated_at": "2026-09-24T17:12:09.987Z"
     },
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
@@ -29,11 +29,11 @@
     "time_in_force": "gtc",
     "id": 1561405829,
     "bracket_take_profit_limit_price": null,
-    "limit_price": "99.1",
+    "limit_price": 99,
     "product_symbol": "P-BTC-81500-250926",
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-24T17:11:46.939595Z",
+    "updated_at": "2026-09-24T17:12:09.987958Z",
     "state": "open",
     "product": {
       "id": 151175,
@@ -87,7 +87,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-24T17:11:49.920Z"
+      "user_updated_at": "2026-09-24T17:12:10.471Z"
     },
     "bracket_stop_loss_limit_price": null,
     "stop_price": null,
@@ -97,11 +97,11 @@
     "time_in_force": "gtc",
     "id": 1561401640,
     "bracket_take_profit_limit_price": null,
-    "limit_price": 99,
+    "limit_price": 112,
     "product_symbol": "P-BTC-82000-250926",
     "bracket_stop_loss_price": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-24T17:11:49.920895Z",
+    "updated_at": "2026-09-24T17:12:10.472445Z",
     "state": "open",
     "product": {
       "id": 148076,
