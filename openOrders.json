@@ -610,7 +610,7 @@
     "trail_amount": null,
     "created_at": "2026-09-26T13:35:53.821182Z",
     "product_id": 155026,
-    "limit_price": "9500",
+    "limit_price": "9200",
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
@@ -619,7 +619,8 @@
       "ip": "103.124.140.142",
       "order_source": "place_order",
       "otc": false,
-      "source": "mobile_app_android"
+      "source": "mobile_app_android",
+      "user_updated_at": "2026-09-26T13:42:13.525Z"
     },
     "stop_trigger_method": null,
     "order_type": "limit_order",
@@ -655,7 +656,7 @@
     "reduce_only": false,
     "user_id": 21672861,
     "paid_commission": "0",
-    "updated_at": "2026-09-26T13:35:53.821182Z",
+    "updated_at": "2026-09-26T13:42:13.526397Z",
     "unfilled_size": 200,
     "id": 1565297508,
     "product_symbol": "C-BTC-83000-251226",
