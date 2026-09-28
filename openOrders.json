@@ -3,11 +3,11 @@
     "mmp": "disabled",
     "bracket_order": null,
     "trail_amount": null,
-    "average_fill_price": null,
+    "average_fill_price": "2",
     "user_id": 21672861,
     "bracket_stop_loss_limit_price": null,
     "reduce_only": true,
-    "paid_commission": "0",
+    "paid_commission": "0.35518",
     "bracket_trail_amount": null,
     "commission": "0",
     "product": {
@@ -45,13 +45,38 @@
     "product_id": 155150,
     "stop_trigger_method": null,
     "bracket_stop_loss_price": null,
-    "unfilled_size": 2673,
+    "unfilled_size": 2243,
     "side": "buy",
     "limit_price": "2",
     "bracket_take_profit_limit_price": null,
     "meta_data": {
+      "avg_exit_price": "2",
+      "cashflow": "-8.6",
+      "entry_price": "4.20000000",
+      "exit_price_with_size": [
+        {
+          "price": "2.00000000",
+          "size": "-350"
+        },
+        {
+          "price": "2.00000000",
+          "size": "-80"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-14.70000000000000000000000000",
+          "pnl": "7.70000000"
+        },
+        {
+          "margin": "-3.36000000000000000000000000",
+          "pnl": "1.76000000"
+        }
+      ],
       "ip": "103.124.140.142",
       "otc": false,
+      "pnl": "9.46",
+      "roe": "-52.38095238095238095238095238",
       "source": "mobile_app_android",
       "user_updated_at": "2026-09-28T10:24:29.598Z"
     },
@@ -59,7 +84,7 @@
     "created_at": "2026-09-28T10:24:22.178511Z",
     "cancellation_reason": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-28T10:24:29.599495Z",
+    "updated_at": "2026-09-28T10:24:50.320856Z",
     "state": "open",
     "margin_mode": "portfolio",
     "stop_order_type": null,
@@ -114,20 +139,20 @@
     "bracket_stop_loss_price": null,
     "unfilled_size": 3000,
     "side": "sell",
-    "limit_price": "14.85",
+    "limit_price": 13.75,
     "bracket_take_profit_limit_price": null,
     "meta_data": {
       "ip": "103.124.140.142",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-28T10:24:39.850Z"
+      "user_updated_at": "2026-09-28T10:24:55.877Z"
     },
     "id": 1568163055,
     "created_at": "2026-09-28T09:00:10.648411Z",
     "cancellation_reason": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-28T10:24:39.851290Z",
+    "updated_at": "2026-09-28T10:24:55.877834Z",
     "state": "open",
     "margin_mode": "portfolio",
     "stop_order_type": null,
@@ -182,7 +207,7 @@
     "bracket_stop_loss_price": null,
     "unfilled_size": 2935,
     "side": "sell",
-    "limit_price": 11.94,
+    "limit_price": "11.94",
     "bracket_take_profit_limit_price": null,
     "meta_data": {
       "cashflow": "2.7625",
@@ -191,13 +216,13 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-28T10:24:25.061Z"
+      "user_updated_at": "2026-09-28T10:24:48.890Z"
     },
     "id": 1568100689,
     "created_at": "2026-09-28T08:26:12.480077Z",
     "cancellation_reason": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-28T10:24:25.062493Z",
+    "updated_at": "2026-09-28T10:24:48.891554Z",
     "state": "open",
     "margin_mode": "portfolio",
     "stop_order_type": null,
@@ -252,20 +277,20 @@
     "bracket_stop_loss_price": null,
     "unfilled_size": 3000,
     "side": "sell",
-    "limit_price": "13.85",
+    "limit_price": "18.95",
     "bracket_take_profit_limit_price": null,
     "meta_data": {
       "ip": "2409:40c2:2043:7bc3:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-28T10:24:25.914Z"
+      "user_updated_at": "2026-09-28T10:25:06.509Z"
     },
     "id": 1568099530,
     "created_at": "2026-09-28T08:25:38.788358Z",
     "cancellation_reason": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-28T10:24:25.914845Z",
+    "updated_at": "2026-09-28T10:25:06.509685Z",
     "state": "open",
     "margin_mode": "portfolio",
     "stop_order_type": null,
