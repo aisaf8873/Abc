@@ -8,10 +8,10 @@
     "quote_size": null,
     "order_type": "limit_order",
     "trail_amount": null,
-    "paid_commission": "0",
+    "paid_commission": "0.0069384",
     "created_at": "2026-09-28T17:27:14.575280Z",
     "bracket_order": null,
-    "average_fill_price": null,
+    "average_fill_price": "14",
     "size": 250,
     "product": {
       "id": 155400,
@@ -54,17 +54,19 @@
     "bracket_take_profit_limit_price": null,
     "state": "open",
     "meta_data": {
+      "cashflow": "0.168",
       "ip": "103.124.140.142",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "0",
       "source": "mobile_app_android"
     },
-    "unfilled_size": 250,
+    "unfilled_size": 238,
     "user_id": 21672861,
     "bracket_trail_amount": null,
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
-    "updated_at": "2026-09-28T17:27:14.575280Z"
+    "updated_at": "2026-09-28T17:29:16.292272Z"
   },
   {
     "bracket_stop_loss_price": null,
