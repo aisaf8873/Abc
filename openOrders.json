@@ -74,7 +74,7 @@
     "trail_amount": null,
     "created_at": "2026-09-28T08:26:12.480077Z",
     "product_id": 155162,
-    "limit_price": 4.85,
+    "limit_price": 4.75,
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
@@ -86,7 +86,7 @@
       "otc": false,
       "pnl": "-0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-28T10:56:44.823Z"
+      "user_updated_at": "2026-09-28T10:56:49.825Z"
     },
     "stop_trigger_method": null,
     "order_type": "limit_order",
@@ -122,7 +122,7 @@
     "reduce_only": false,
     "user_id": 21672861,
     "paid_commission": "0.11409125",
-    "updated_at": "2026-09-28T10:56:44.824315Z",
+    "updated_at": "2026-09-28T10:56:49.825933Z",
     "unfilled_size": 2935,
     "id": 1568100689,
     "product_symbol": "C-ETH-2660-280926",
@@ -144,7 +144,7 @@
     "trail_amount": null,
     "created_at": "2026-09-28T08:25:38.788358Z",
     "product_id": 155497,
-    "limit_price": 13.95,
+    "limit_price": "13.95",
     "bracket_order": null,
     "bracket_stop_loss_price": null,
     "bracket_take_profit_limit_price": null,
@@ -154,7 +154,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-28T10:56:43.486Z"
+      "user_updated_at": "2026-09-28T10:56:57.907Z"
     },
     "stop_trigger_method": null,
     "order_type": "limit_order",
@@ -190,7 +190,7 @@
     "reduce_only": false,
     "user_id": 21672861,
     "paid_commission": "0",
-    "updated_at": "2026-09-28T10:56:43.487133Z",
+    "updated_at": "2026-09-28T10:56:57.907713Z",
     "unfilled_size": 3000,
     "id": 1568099530,
     "product_symbol": "C-ETH-2650-280926",
