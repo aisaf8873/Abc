@@ -115,7 +115,7 @@
     "bracket_stop_loss_price": null,
     "unfilled_size": 2673,
     "side": "sell",
-    "limit_price": "10.85",
+    "limit_price": 10.35,
     "bracket_take_profit_limit_price": null,
     "meta_data": {
       "cashflow": "18.4755",
@@ -255,20 +255,20 @@
     "bracket_stop_loss_price": null,
     "unfilled_size": 3000,
     "side": "sell",
-    "limit_price": "6.85",
+    "limit_price": "5.85",
     "bracket_take_profit_limit_price": null,
     "meta_data": {
       "ip": "2409:40c2:2043:7bc3:8000::",
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-09-28T09:42:17.207Z"
+      "user_updated_at": "2026-09-28T09:42:40.255Z"
     },
     "id": 1568099530,
     "created_at": "2026-09-28T08:25:38.788358Z",
     "cancellation_reason": null,
     "bracket_take_profit_price": null,
-    "updated_at": "2026-09-28T09:42:17.207935Z",
+    "updated_at": "2026-09-28T09:42:40.255645Z",
     "state": "open",
     "margin_mode": "portfolio",
     "stop_order_type": null,
