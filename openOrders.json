@@ -1,43 +1,16 @@
 [
   {
-    "mmp": "disabled",
-    "paid_commission": "0",
-    "margin_mode": "portfolio",
-    "bracket_trail_amount": null,
-    "side": "sell",
-    "reduce_only": false,
-    "product_id": 157325,
-    "user_id": 21672861,
-    "created_at": "2026-10-10T14:20:06.052440Z",
-    "commission": "0",
-    "bracket_order": null,
-    "quote_size": null,
-    "size": 1,
-    "trail_amount": null,
-    "unfilled_size": 1,
-    "meta_data": {
-      "ip": "34.93.217.99",
-      "otc": false,
-      "source": "api"
-    },
-    "bracket_stop_loss_limit_price": null,
-    "stop_price": null,
-    "client_order_id": null,
-    "stop_trigger_method": null,
     "cancellation_reason": null,
-    "time_in_force": "gtc",
-    "id": 1596383616,
-    "bracket_take_profit_limit_price": null,
-    "limit_price": "10.12",
-    "product_symbol": "P-ETH-2480-111026",
-    "bracket_stop_loss_price": null,
-    "bracket_take_profit_price": null,
+    "order_type": "limit_order",
+    "client_order_id": null,
     "updated_at": "2026-10-10T14:20:06.052440Z",
+    "margin_mode": "portfolio",
     "state": "open",
+    "mmp": "disabled",
+    "commission": "0",
     "product": {
       "id": 157325,
       "symbol": "P-ETH-2480-111026",
-      "contract_type": "put_options",
       "tick_size": "0.01",
       "quoting_asset": {
         "symbol": "USD",
@@ -49,9 +22,7 @@
         "precision": 18,
         "minimum_precision": 4
       },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
+      "contract_type": "put_options",
       "contract_value": "0.01",
       "notional_type": "vanilla",
       "settling_asset": {
@@ -59,10 +30,40 @@
         "precision": 8,
         "minimum_precision": 2
       },
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
       "contract_unit_currency": "ETH"
     },
+    "product_symbol": "P-ETH-2480-111026",
+    "paid_commission": "0",
+    "quote_size": null,
+    "credits_used": "0",
+    "bracket_order": null,
+    "meta_data": {
+      "ip": "34.93.217.99",
+      "otc": false,
+      "source": "api"
+    },
     "average_fill_price": null,
+    "bracket_trail_amount": null,
+    "user_id": 21672861,
+    "limit_price": "10.12",
+    "created_at": "2026-10-10T14:20:06.052440Z",
+    "bracket_stop_loss_limit_price": null,
+    "time_in_force": "gtc",
+    "size": 1,
+    "unfilled_size": 1,
+    "reduce_only": false,
+    "bracket_take_profit_price": null,
     "stop_order_type": null,
-    "order_type": "limit_order"
+    "id": 1596383616,
+    "stop_trigger_method": null,
+    "product_id": 157325,
+    "bracket_stop_loss_price": null,
+    "bracket_take_profit_limit_price": null,
+    "stop_price": null,
+    "side": "sell",
+    "trail_amount": null
   }
 ]
