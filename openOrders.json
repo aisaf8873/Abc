@@ -1,26 +1,19 @@
 [
   {
-    "paid_commission": "0",
-    "bracket_trail_amount": null,
-    "stop_order_type": null,
-    "bracket_stop_loss_price": null,
-    "product_symbol": "P-ETH-2580-161026",
-    "updated_at": "2026-10-14T10:04:42.806201Z",
-    "user_id": 21672861,
-    "state": "open",
-    "side": "buy",
-    "meta_data": {
-      "ip": "34.93.217.99",
-      "otc": false,
-      "source": "api"
-    },
-    "quote_size": null,
-    "stop_trigger_method": null,
+    "client_order_id": null,
     "stop_price": null,
+    "bracket_take_profit_limit_price": null,
+    "cancellation_reason": null,
+    "state": "open",
+    "bracket_trail_amount": null,
+    "mmp": "disabled",
+    "quote_size": null,
+    "created_at": "2026-10-14T10:04:42.806201Z",
+    "commission": "0",
+    "product_id": 158147,
     "product": {
       "id": 158147,
       "symbol": "P-ETH-2580-161026",
-      "contract_type": "put_options",
       "tick_size": "0.01",
       "quoting_asset": {
         "symbol": "USD",
@@ -32,6 +25,7 @@
         "precision": 18,
         "minimum_precision": 4
       },
+      "contract_type": "put_options",
       "contract_value": "0.01",
       "notional_type": "vanilla",
       "settling_asset": {
@@ -44,26 +38,32 @@
       },
       "contract_unit_currency": "ETH"
     },
+    "trail_amount": null,
+    "reduce_only": false,
+    "updated_at": "2026-10-14T10:04:42.806201Z",
+    "product_symbol": "P-ETH-2580-161026",
     "time_in_force": "gtc",
     "margin_mode": "portfolio",
-    "client_order_id": null,
-    "cancellation_reason": null,
-    "average_fill_price": null,
-    "order_type": "limit_order",
     "bracket_order": null,
-    "reduce_only": false,
-    "commission": "0",
-    "bracket_stop_loss_limit_price": null,
+    "average_fill_price": null,
     "credits_used": "0",
-    "bracket_take_profit_limit_price": null,
-    "size": 5,
-    "trail_amount": null,
-    "mmp": "disabled",
-    "id": 1604090636,
-    "bracket_take_profit_price": null,
-    "limit_price": "98.1",
+    "bracket_stop_loss_limit_price": null,
+    "user_id": 21672861,
+    "paid_commission": "0",
+    "order_type": "limit_order",
     "unfilled_size": 5,
-    "created_at": "2026-10-14T10:04:42.806201Z",
-    "product_id": 158147
+    "size": 5,
+    "meta_data": {
+      "ip": "34.93.217.99",
+      "otc": false,
+      "source": "api"
+    },
+    "side": "buy",
+    "bracket_stop_loss_price": null,
+    "id": 1604090636,
+    "limit_price": "98.1",
+    "stop_trigger_method": null,
+    "stop_order_type": null,
+    "bracket_take_profit_price": null
   }
 ]
