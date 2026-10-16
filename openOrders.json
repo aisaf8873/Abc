@@ -1,21 +1,43 @@
 [
   {
-    "time_in_force": "gtc",
-    "bracket_trail_amount": null,
-    "commission": "0",
-    "state": "open",
-    "created_at": "2026-10-16T18:00:31.645349Z",
-    "client_order_id": null,
-    "bracket_order": null,
+    "mmp": "disabled",
     "paid_commission": "0",
+    "margin_mode": "portfolio",
+    "bracket_trail_amount": null,
     "side": "buy",
-    "limit_price": "7.1",
-    "updated_at": "2026-10-16T18:00:31.645349Z",
+    "reduce_only": true,
+    "product_id": 158572,
+    "user_id": 21672861,
+    "created_at": "2026-10-16T18:00:31.645349Z",
+    "commission": "0",
+    "bracket_order": null,
+    "quote_size": null,
+    "size": 102,
+    "trail_amount": null,
     "unfilled_size": 102,
-    "stop_order_type": null,
+    "meta_data": {
+      "ip": "103.124.140.143",
+      "otc": false,
+      "source": "mobile_app_android"
+    },
+    "bracket_stop_loss_limit_price": null,
+    "stop_price": null,
+    "client_order_id": null,
+    "stop_trigger_method": null,
+    "cancellation_reason": null,
+    "time_in_force": "gtc",
+    "id": 1610919017,
+    "bracket_take_profit_limit_price": null,
+    "limit_price": "7.1",
+    "product_symbol": "C-BTC-84000-181026",
+    "bracket_stop_loss_price": null,
+    "bracket_take_profit_price": null,
+    "updated_at": "2026-10-16T18:00:31.645349Z",
+    "state": "open",
     "product": {
       "id": 158572,
       "symbol": "C-BTC-84000-181026",
+      "contract_type": "call_options",
       "tick_size": "0.1",
       "quoting_asset": {
         "symbol": "USD",
@@ -27,7 +49,9 @@
         "precision": 8,
         "minimum_precision": 4
       },
-      "contract_type": "call_options",
+      "spot_index": {
+        "symbol": ".DEXBTUSD"
+      },
       "contract_value": "0.001",
       "notional_type": "vanilla",
       "settling_asset": {
@@ -35,35 +59,10 @@
         "precision": 8,
         "minimum_precision": 2
       },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
       "contract_unit_currency": "BTC"
     },
-    "reduce_only": true,
-    "bracket_stop_loss_price": null,
-    "bracket_stop_loss_limit_price": null,
-    "meta_data": {
-      "ip": "103.124.140.143",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "bracket_take_profit_limit_price": null,
-    "margin_mode": "portfolio",
-    "quote_size": null,
-    "product_symbol": "C-BTC-84000-181026",
-    "size": 102,
-    "stop_price": null,
-    "bracket_take_profit_price": null,
-    "id": 1610919017,
-    "credits_used": "0",
-    "mmp": "disabled",
-    "order_type": "limit_order",
     "average_fill_price": null,
-    "user_id": 21672861,
-    "product_id": 158572,
-    "trail_amount": null,
-    "stop_trigger_method": null,
-    "cancellation_reason": null
+    "stop_order_type": null,
+    "order_type": "limit_order"
   }
 ]
