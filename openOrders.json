@@ -1,21 +1,20 @@
 [
   {
-    "quote_size": null,
-    "cancellation_reason": null,
+    "mmp": "disabled",
+    "stop_price": null,
+    "product_id": 158995,
+    "limit_price": "55",
+    "bracket_trail_amount": null,
+    "commission": "0",
+    "margin_mode": "portfolio",
     "stop_order_type": null,
     "client_order_id": null,
-    "created_at": "2026-10-21T09:21:49.281796Z",
-    "product_symbol": "C-ETH-2380-211026",
-    "order_type": "limit_order",
-    "limit_price": "55",
-    "bracket_take_profit_price": null,
-    "bracket_order": null,
-    "unfilled_size": 1,
     "bracket_take_profit_limit_price": null,
-    "user_id": 21672861,
     "size": 10,
-    "updated_at": "2026-10-21T09:21:49.346166Z",
-    "paid_commission": "0.02616684",
+    "order_type": "limit_order",
+    "cancellation_reason": null,
+    "bracket_stop_loss_price": null,
+    "bracket_stop_loss_limit_price": null,
     "product": {
       "id": 158995,
       "symbol": "C-ETH-2380-211026",
@@ -31,30 +30,34 @@
         "precision": 18,
         "minimum_precision": 4
       },
-      "spot_index": {
-        "symbol": ".DEETHUSD"
-      },
       "contract_value": "0.01",
-      "notional_type": "vanilla",
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
         "minimum_precision": 2
       },
+      "notional_type": "vanilla",
+      "spot_index": {
+        "symbol": ".DEETHUSD"
+      },
       "contract_unit_currency": "ETH"
     },
-    "bracket_trail_amount": null,
-    "trail_amount": null,
-    "stop_price": null,
+    "updated_at": "2026-10-21T09:21:49.346166Z",
+    "user_id": 21672861,
     "credits_used": "0",
-    "id": 1619770491,
-    "product_id": 158995,
-    "margin_mode": "portfolio",
-    "commission": "0",
+    "product_symbol": "C-ETH-2380-211026",
     "average_fill_price": "55",
-    "bracket_stop_loss_price": null,
-    "mmp": "disabled",
+    "trail_amount": null,
+    "id": 1619770491,
+    "side": "buy",
+    "paid_commission": "0.02616684",
+    "bracket_order": null,
+    "reduce_only": false,
+    "created_at": "2026-10-21T09:21:49.281796Z",
     "state": "open",
+    "quote_size": null,
+    "bracket_take_profit_price": null,
+    "time_in_force": "gtc",
     "meta_data": {
       "cashflow": "-4.95",
       "ip": "34.93.217.99",
@@ -63,9 +66,6 @@
       "source": "api"
     },
     "stop_trigger_method": null,
-    "time_in_force": "gtc",
-    "bracket_stop_loss_limit_price": null,
-    "side": "buy",
-    "reduce_only": false
+    "unfilled_size": 1
   }
 ]
