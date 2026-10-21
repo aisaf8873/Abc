@@ -1,11 +1,20 @@
 [
   {
-    "bracket_trail_amount": null,
-    "bracket_stop_loss_price": null,
+    "stop_trigger_method": null,
+    "quote_size": null,
+    "stop_price": null,
+    "state": "open",
+    "average_fill_price": "55",
+    "stop_order_type": null,
+    "limit_price": "55",
+    "unfilled_size": 1,
+    "time_in_force": "gtc",
+    "bracket_take_profit_price": null,
+    "margin_mode": "portfolio",
+    "bracket_take_profit_limit_price": null,
     "product": {
       "id": 158995,
       "symbol": "C-ETH-2380-211026",
-      "contract_type": "call_options",
       "tick_size": "0.01",
       "quoting_asset": {
         "symbol": "USD",
@@ -17,6 +26,9 @@
         "precision": 18,
         "minimum_precision": 4
       },
+      "contract_type": "call_options",
+      "contract_value": "0.01",
+      "notional_type": "vanilla",
       "settling_asset": {
         "symbol": "USD",
         "precision": 8,
@@ -25,28 +37,17 @@
       "spot_index": {
         "symbol": ".DEETHUSD"
       },
-      "contract_value": "0.01",
-      "notional_type": "vanilla",
       "contract_unit_currency": "ETH"
     },
-    "bracket_take_profit_price": null,
-    "stop_trigger_method": null,
-    "reduce_only": false,
-    "mmp": "disabled",
-    "product_id": 158995,
-    "order_type": "limit_order",
-    "stop_price": null,
-    "credits_used": "0",
-    "size": 10,
-    "client_order_id": null,
-    "cancellation_reason": null,
-    "paid_commission": "0.02616684",
-    "quote_size": null,
-    "time_in_force": "gtc",
+    "bracket_trail_amount": null,
     "created_at": "2026-10-21T09:21:49.281796Z",
     "updated_at": "2026-10-21T09:21:49.346166Z",
-    "bracket_take_profit_limit_price": null,
-    "product_symbol": "C-ETH-2380-211026",
+    "bracket_stop_loss_limit_price": null,
+    "order_type": "limit_order",
+    "mmp": "disabled",
+    "bracket_order": null,
+    "credits_used": "0",
+    "paid_commission": "0.02616684",
     "meta_data": {
       "cashflow": "-4.95",
       "ip": "34.93.217.99",
@@ -54,18 +55,17 @@
       "pnl": "-0",
       "source": "api"
     },
-    "unfilled_size": 1,
-    "id": 1619770491,
     "commission": "0",
-    "margin_mode": "portfolio",
-    "average_fill_price": "55",
-    "user_id": 21672861,
-    "limit_price": "55",
-    "bracket_order": null,
+    "client_order_id": null,
+    "bracket_stop_loss_price": null,
+    "size": 10,
+    "product_id": 158995,
+    "product_symbol": "C-ETH-2380-211026",
+    "id": 1619770491,
+    "reduce_only": false,
     "trail_amount": null,
-    "state": "open",
+    "cancellation_reason": null,
     "side": "buy",
-    "bracket_stop_loss_limit_price": null,
-    "stop_order_type": null
+    "user_id": 21672861
   }
 ]
