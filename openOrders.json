@@ -42,15 +42,15 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "updated_at": "2026-10-22T14:26:06.510172Z",
+    "updated_at": "2026-10-22T14:29:07.397050Z",
     "user_id": 21672861,
     "credits_used": "0",
     "product_symbol": "C-BTC-86000-231026",
-    "average_fill_price": null,
+    "average_fill_price": "8",
     "trail_amount": null,
     "id": 1623207385,
     "side": "buy",
-    "paid_commission": "0",
+    "paid_commission": "0.6608",
     "bracket_order": null,
     "reduce_only": false,
     "created_at": "2026-10-22T14:24:31.010896Z",
@@ -59,13 +59,15 @@
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
     "meta_data": {
+      "cashflow": "-16",
       "ip": "103.124.140.143",
       "order_source": "place_order",
       "otc": false,
+      "pnl": "0",
       "source": "mobile_app_android",
       "user_updated_at": "2026-10-22T14:26:06.509Z"
     },
     "stop_trigger_method": null,
-    "unfilled_size": 5000
+    "unfilled_size": 3000
   }
 ]
