@@ -1,77 +1,19 @@
 [
   {
-    "product": {
-      "id": 156300,
-      "symbol": "C-BTC-85500-231026",
-      "contract_type": "call_options",
-      "tick_size": "0.1",
-      "quoting_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "underlying_asset": {
-        "symbol": "BTC",
-        "precision": 8,
-        "minimum_precision": 4
-      },
-      "contract_value": "0.001",
-      "notional_type": "vanilla",
-      "settling_asset": {
-        "symbol": "USD",
-        "precision": 8,
-        "minimum_precision": 2
-      },
-      "spot_index": {
-        "symbol": ".DEXBTUSD"
-      },
-      "contract_unit_currency": "BTC"
-    },
-    "reduce_only": false,
-    "cancellation_reason": null,
-    "bracket_stop_loss_price": null,
-    "unfilled_size": 2000,
-    "bracket_stop_loss_limit_price": null,
-    "bracket_order": null,
-    "bracket_take_profit_limit_price": null,
-    "credits_used": "0",
-    "quote_size": null,
-    "stop_order_type": null,
-    "average_fill_price": null,
+    "limit_price": "7",
     "trail_amount": null,
-    "size": 2000,
-    "time_in_force": "gtc",
-    "created_at": "2026-10-22T14:31:37.467503Z",
-    "meta_data": {
-      "ip": "103.124.140.143",
-      "order_source": "place_order",
-      "otc": false,
-      "source": "mobile_app_android"
-    },
-    "user_id": 21672861,
-    "paid_commission": "0",
-    "client_order_id": null,
-    "bracket_trail_amount": null,
-    "margin_mode": "portfolio",
-    "id": 1623223925,
-    "mmp": "disabled",
-    "updated_at": "2026-10-22T14:31:37.467503Z",
-    "product_symbol": "C-BTC-85500-231026",
-    "limit_price": "17",
-    "product_id": 156300,
+    "cancellation_reason": null,
     "state": "open",
-    "order_type": "limit_order",
-    "stop_trigger_method": null,
     "commission": "0",
-    "stop_price": null,
-    "side": "sell",
-    "bracket_take_profit_price": null
-  },
-  {
+    "bracket_stop_loss_limit_price": null,
+    "product_symbol": "C-BTC-86000-231026",
+    "updated_at": "2026-10-22T14:30:41.698977Z",
+    "stop_order_type": null,
+    "mmp": "disabled",
+    "user_id": 21672861,
     "product": {
       "id": 156299,
       "symbol": "C-BTC-86000-231026",
-      "contract_type": "call_options",
       "tick_size": "0.1",
       "quoting_asset": {
         "symbol": "USD",
@@ -83,6 +25,7 @@
         "precision": 8,
         "minimum_precision": 4
       },
+      "contract_type": "call_options",
       "contract_value": "0.001",
       "notional_type": "vanilla",
       "settling_asset": {
@@ -95,21 +38,22 @@
       },
       "contract_unit_currency": "BTC"
     },
-    "reduce_only": false,
-    "cancellation_reason": null,
-    "bracket_stop_loss_price": null,
-    "unfilled_size": 719,
-    "bracket_stop_loss_limit_price": null,
-    "bracket_order": null,
-    "bracket_take_profit_limit_price": null,
     "credits_used": "0",
-    "quote_size": null,
-    "stop_order_type": null,
-    "average_fill_price": "8",
-    "trail_amount": null,
-    "size": 5000,
-    "time_in_force": "gtc",
+    "stop_price": null,
     "created_at": "2026-10-22T14:24:31.010896Z",
+    "side": "buy",
+    "unfilled_size": 719,
+    "bracket_take_profit_limit_price": null,
+    "bracket_stop_loss_price": null,
+    "bracket_take_profit_price": null,
+    "reduce_only": false,
+    "quote_size": null,
+    "average_fill_price": "8",
+    "size": 5000,
+    "stop_trigger_method": null,
+    "bracket_trail_amount": null,
+    "product_id": 156299,
+    "id": 1623207385,
     "meta_data": {
       "cashflow": "-34.248",
       "ip": "103.124.140.143",
@@ -119,23 +63,11 @@
       "source": "mobile_app_android",
       "user_updated_at": "2026-10-22T14:30:41.698Z"
     },
-    "user_id": 21672861,
-    "paid_commission": "1.4144424",
-    "client_order_id": null,
-    "bracket_trail_amount": null,
-    "margin_mode": "portfolio",
-    "id": 1623207385,
-    "mmp": "disabled",
-    "updated_at": "2026-10-22T14:30:41.698977Z",
-    "product_symbol": "C-BTC-86000-231026",
-    "limit_price": "7",
-    "product_id": 156299,
-    "state": "open",
     "order_type": "limit_order",
-    "stop_trigger_method": null,
-    "commission": "0",
-    "stop_price": null,
-    "side": "buy",
-    "bracket_take_profit_price": null
+    "paid_commission": "1.4144424",
+    "bracket_order": null,
+    "margin_mode": "portfolio",
+    "time_in_force": "gtc",
+    "client_order_id": null
   }
 ]
