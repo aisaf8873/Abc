@@ -6,10 +6,10 @@
     "product_symbol": "C-ETH-2500-061126",
     "stop_trigger_method": null,
     "stop_order_type": null,
-    "limit_price": "13.45",
+    "limit_price": "12.95",
     "time_in_force": "gtc",
     "quote_size": null,
-    "updated_at": "2026-10-31T15:51:14.135961Z",
+    "updated_at": "2026-10-31T15:52:01.733895Z",
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
     "margin_mode": "portfolio",
@@ -65,7 +65,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-10-31T15:51:14.135Z"
+      "user_updated_at": "2026-10-31T15:52:01.733Z"
     }
   },
   {
@@ -75,10 +75,10 @@
     "product_symbol": "C-ETH-2550-061126",
     "stop_trigger_method": null,
     "stop_order_type": null,
-    "limit_price": 10.2,
+    "limit_price": "10.35",
     "time_in_force": "gtc",
     "quote_size": null,
-    "updated_at": "2026-10-31T15:51:23.159686Z",
+    "updated_at": "2026-10-31T15:51:57.231667Z",
     "bracket_take_profit_limit_price": null,
     "trail_amount": null,
     "margin_mode": "portfolio",
@@ -134,7 +134,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-10-31T15:51:23.159Z"
+      "user_updated_at": "2026-10-31T15:51:57.230Z"
     }
   }
 ]
