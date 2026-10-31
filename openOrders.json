@@ -33,7 +33,7 @@
     },
     "updated_at": "2026-10-31T17:09:59.303715Z",
     "side": "sell",
-    "limit_price": "15.95",
+    "limit_price": 14.95,
     "credits_used": "0",
     "cancellation_reason": null,
     "average_fill_price": null,
@@ -100,7 +100,7 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "updated_at": "2026-10-31T17:10:18.321287Z",
+    "updated_at": "2026-10-31T17:10:48.730279Z",
     "side": "sell",
     "limit_price": 13.35,
     "credits_used": "0",
@@ -127,7 +127,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-10-31T17:10:18.320Z"
+      "user_updated_at": "2026-10-31T17:10:48.729Z"
     },
     "time_in_force": "gtc",
     "bracket_stop_loss_limit_price": null,
