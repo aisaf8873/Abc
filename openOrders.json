@@ -7,12 +7,12 @@
     "quote_size": null,
     "paid_commission": "0",
     "stop_price": null,
-    "updated_at": "2026-10-31T17:25:26.988088Z",
+    "updated_at": "2026-10-31T17:25:37.011492Z",
     "bracket_take_profit_price": null,
     "time_in_force": "gtc",
     "user_id": 21672861,
     "side": "sell",
-    "limit_price": 14.45,
+    "limit_price": "14.45",
     "stop_order_type": null,
     "bracket_trail_amount": null,
     "client_order_id": null,
@@ -60,7 +60,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-10-31T17:25:26.987Z"
+      "user_updated_at": "2026-10-31T17:25:37.011Z"
     },
     "bracket_order": null,
     "bracket_stop_loss_price": null,
