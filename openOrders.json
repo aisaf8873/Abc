@@ -5,7 +5,7 @@
     "state": "open",
     "created_at": "2026-11-02T06:20:59.641512Z",
     "order_type": "limit_order",
-    "limit_price": "15.95",
+    "limit_price": 15.95,
     "bracket_take_profit_price": null,
     "side": "sell",
     "reduce_only": false,
@@ -15,7 +15,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-11-02T08:23:36.727Z"
+      "user_updated_at": "2026-11-02T08:24:05.914Z"
     },
     "time_in_force": "gtc",
     "product_symbol": "P-ETH-2000-061126",
@@ -66,7 +66,7 @@
     "product_id": 160045,
     "bracket_trail_amount": null,
     "mmp": "disabled",
-    "updated_at": "2026-11-02T08:23:36.727512Z"
+    "updated_at": "2026-11-02T08:24:05.914817Z"
   },
   {
     "margin_mode": "portfolio",
@@ -74,7 +74,7 @@
     "state": "open",
     "created_at": "2026-11-02T03:56:16.230707Z",
     "order_type": "limit_order",
-    "limit_price": "11.92",
+    "limit_price": 13.16,
     "bracket_take_profit_price": null,
     "side": "sell",
     "reduce_only": false,
@@ -86,7 +86,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-11-02T08:23:55.778Z"
+      "user_updated_at": "2026-11-02T08:24:21.213Z"
     },
     "time_in_force": "gtc",
     "product_symbol": "C-ETH-2500-061126",
@@ -137,7 +137,7 @@
     "product_id": 158710,
     "bracket_trail_amount": null,
     "mmp": "disabled",
-    "updated_at": "2026-11-02T08:23:55.779180Z"
+    "updated_at": "2026-11-02T08:24:21.214335Z"
   },
   {
     "margin_mode": "portfolio",
