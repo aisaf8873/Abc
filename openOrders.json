@@ -45,7 +45,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-11-02T09:47:21.571Z"
+      "user_updated_at": "2026-11-02T09:48:01.652Z"
     },
     "side": "sell",
     "stop_order_type": null,
@@ -60,13 +60,13 @@
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "size": 5000,
-    "updated_at": "2026-11-02T09:47:21.572185Z",
+    "updated_at": "2026-11-02T09:48:01.652674Z",
     "id": 1647613488,
     "average_fill_price": null,
     "commission": "0",
     "bracket_take_profit_price": null,
     "reduce_only": false,
-    "limit_price": "14.95"
+    "limit_price": "14.85"
   },
   {
     "created_at": "2026-11-02T03:56:16.230707Z",
@@ -116,7 +116,7 @@
       "otc": false,
       "pnl": "0",
       "source": "mobile_app_android",
-      "user_updated_at": "2026-11-02T09:46:12.465Z"
+      "user_updated_at": "2026-11-02T09:48:00.177Z"
     },
     "side": "sell",
     "stop_order_type": null,
@@ -131,13 +131,13 @@
     "time_in_force": "gtc",
     "bracket_stop_loss_price": null,
     "size": 3000,
-    "updated_at": "2026-11-02T09:46:12.465756Z",
+    "updated_at": "2026-11-02T09:48:00.177834Z",
     "id": 1647346312,
     "average_fill_price": "13.259704433497536946",
     "commission": "0",
     "bracket_take_profit_price": null,
     "reduce_only": false,
-    "limit_price": 11.86
+    "limit_price": "12.86"
   },
   {
     "created_at": "2026-11-02T03:31:17.019788Z",
