@@ -119,7 +119,7 @@
     "order_type": "limit_order",
     "time_in_force": "gtc",
     "user_id": 21672861,
-    "limit_price": "23.95",
+    "limit_price": "19.95",
     "bracket_stop_loss_price": null,
     "id": 1648356284,
     "stop_price": null,
@@ -130,9 +130,9 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-11-02T14:06:38.937Z"
+      "user_updated_at": "2026-11-02T14:07:23.037Z"
     },
-    "updated_at": "2026-11-02T14:06:38.938337Z",
+    "updated_at": "2026-11-02T14:07:23.038451Z",
     "cancellation_reason": null,
     "reduce_only": false,
     "trail_amount": null
