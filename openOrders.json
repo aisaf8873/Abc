@@ -219,7 +219,7 @@
     "commission": "0",
     "time_in_force": "gtc",
     "product_symbol": "C-ETH-2550-061126",
-    "updated_at": "2026-11-02T09:10:07.351074Z",
+    "updated_at": "2026-11-02T09:10:33.157533Z",
     "quote_size": null,
     "bracket_stop_loss_price": null,
     "meta_data": {
@@ -227,10 +227,10 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-11-02T09:10:07.350Z"
+      "user_updated_at": "2026-11-02T09:10:33.157Z"
     },
     "trail_amount": null,
-    "limit_price": 11.88,
+    "limit_price": "11.88",
     "order_type": "limit_order",
     "bracket_stop_loss_limit_price": null,
     "created_at": "2026-11-02T03:27:44.093840Z",
