@@ -5,8 +5,8 @@
     "state": "open",
     "product_symbol": "C-ETH-2450-061126",
     "client_order_id": null,
-    "limit_price": 10.45,
-    "updated_at": "2026-11-03T03:31:59.671334Z",
+    "limit_price": "10.45",
+    "updated_at": "2026-11-03T03:32:15.623275Z",
     "trail_amount": null,
     "unfilled_size": 3000,
     "user_id": 21672861,
@@ -37,7 +37,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-11-03T03:31:59.670Z"
+      "user_updated_at": "2026-11-03T03:32:15.622Z"
     },
     "stop_price": null,
     "product": {
