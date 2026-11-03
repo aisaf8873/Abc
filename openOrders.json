@@ -7,7 +7,7 @@
       "order_source": "place_order",
       "otc": false,
       "source": "mobile_app_android",
-      "user_updated_at": "2026-11-03T10:19:26.377Z"
+      "user_updated_at": "2026-11-03T10:20:03.939Z"
     },
     "product_symbol": "C-ETH-2450-061126",
     "bracket_stop_loss_limit_price": null,
@@ -49,7 +49,7 @@
       "contract_unit_currency": "ETH"
     },
     "time_in_force": "gtc",
-    "limit_price": 12.25,
+    "limit_price": "12.15",
     "order_type": "limit_order",
     "cancellation_reason": null,
     "margin_mode": "portfolio",
@@ -59,7 +59,7 @@
     "product_id": 158711,
     "size": 3000,
     "user_id": 21672861,
-    "updated_at": "2026-11-03T10:19:26.377559Z",
+    "updated_at": "2026-11-03T10:20:03.939709Z",
     "bracket_take_profit_limit_price": null,
     "id": 1649311104,
     "paid_commission": "0",
