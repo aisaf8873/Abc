@@ -32,7 +32,7 @@
       },
       "contract_unit_currency": "ETH"
     },
-    "average_fill_price": null,
+    "average_fill_price": "10",
     "commission": "0",
     "bracket_stop_loss_limit_price": null,
     "client_order_id": null,
@@ -40,18 +40,35 @@
     "stop_order_type": null,
     "mmp": "disabled",
     "time_in_force": "gtc",
-    "updated_at": "2026-11-04T15:04:53.355698Z",
+    "updated_at": "2026-11-04T15:05:01.354643Z",
     "bracket_order": null,
     "meta_data": {
+      "avg_exit_price": "10",
+      "cashflow": "-200",
+      "entry_price": "7.666807262260600022141038415",
+      "exit_price_with_size": [
+        {
+          "price": "10.00000000",
+          "size": "-2000"
+        }
+      ],
+      "fills_pnl_with_margin": [
+        {
+          "margin": "-153.3361452452120004428207683",
+          "pnl": "-46.66385476"
+        }
+      ],
       "ip": "103.124.140.143",
       "otc": false,
+      "pnl": "-46.66385476",
+      "roe": "30.43239067042941900910947440",
       "source": "mobile_app_android"
     },
     "side": "buy",
     "stop_price": null,
-    "paid_commission": "0",
+    "paid_commission": "5.7542228",
     "created_at": "2026-11-04T15:04:53.355698Z",
-    "unfilled_size": 4516,
+    "unfilled_size": 2516,
     "quote_size": null,
     "user_id": 21672861,
     "size": 4516,
